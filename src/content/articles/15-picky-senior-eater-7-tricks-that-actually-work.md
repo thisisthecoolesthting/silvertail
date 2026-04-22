@@ -108,3 +108,4 @@ Focus on progress rather than perfection — even small improvements in eating h
 ---
 
 *Remember*: If you notice dramatic changes in appetite, weight loss, or swallowing difficulties, seek professional medical advice to rule out underlying conditions.
+

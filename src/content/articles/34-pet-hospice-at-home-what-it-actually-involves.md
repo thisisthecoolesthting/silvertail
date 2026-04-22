@@ -182,3 +182,4 @@ While it requires commitment and learning on the part of owners, hospice can be 
 ---
 
 If you’re considering hospice care for your pet, reach out to your veterinarian to discuss how to create the best care plan tailored to your pet’s needs.
+

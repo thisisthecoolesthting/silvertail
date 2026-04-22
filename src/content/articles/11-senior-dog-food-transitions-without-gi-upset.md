@@ -124,3 +124,4 @@ Transitioning your senior dog to a new food requires patience and care to avoid 
 5. Choose senior formulas that support digestion and health.
 
 With mindful transitioning, your senior dog can thrive on their new diet, supporting their health and comfort into their later years.
+

@@ -85,3 +85,4 @@ Some dogs simply lose interest in jumping as they mature, especially if they've 
 An older dog stopping jumping on the couch can be either a harmless sign of aging or a red flag indicating health problems. Monitoring your dog’s overall mobility, comfort, and behavior changes is key to deciding when to seek veterinary care. With the right support—including pain management, environment modifications, and healthy lifestyle adjustments—many senior dogs maintain a good quality of life and continue to enjoy their favorite comforts.
 
 By understanding and responding thoughtfully to these changes, you can help your older dog remain happy, comfortable, and engaged for years to come.
+

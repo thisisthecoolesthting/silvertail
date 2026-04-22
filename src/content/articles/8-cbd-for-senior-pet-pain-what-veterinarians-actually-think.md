@@ -105,3 +105,4 @@ Veterinarians see CBD for senior pet pain as an emerging therapy with potential 
 For pet owners seeking compassionate pain relief for their aging companions, CBD can be part of the conversation—but only under the guidance of a knowledgeable veterinarian and with careful attention to product quality and pet safety.
 
 In the meantime, staying informed about new research and regulatory developments will help ensure senior pets receive the safest, most effective pain management available.
+

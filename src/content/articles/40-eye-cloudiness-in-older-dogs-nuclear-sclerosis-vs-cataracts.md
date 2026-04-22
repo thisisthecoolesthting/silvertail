@@ -124,3 +124,4 @@ Eye cloudiness in older dogs is common but typically caused by either nuclear sc
 Recognizing the difference between these conditions requires a thorough veterinary exam. Early diagnosis and proper management can help maintain your dog's quality of life and ensure any treatable causes are addressed promptly.
 
 If you notice any changes in your dog's eyes or vision, consulting your veterinarian is the best first step to understanding the cause and exploring suitable care options.
+

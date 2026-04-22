@@ -110,3 +110,4 @@ If a heated bed is not suitable, consider other supportive bedding options for s
 Providing warmth is a thoughtful and practical way to improve your senior pet’s comfort during their golden years. Opt for low-voltage, temperature-regulated, or self-warming beds that prioritize safety and reliability. Avoid products with high heat outputs, lacking safety features, or using human heating devices not designed for pets.
 
 Always consult your veterinarian if unsure, and watch your pet closely to ensure the heated bed enhances their well-being without introducing new risks. With careful selection and responsible use, a heated bed can be a valuable tool in managing your senior pet’s comfort and health.
+

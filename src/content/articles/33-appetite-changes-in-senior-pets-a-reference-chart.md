@@ -94,3 +94,4 @@ Early diagnosis and intervention can significantly improve quality of life and p
 ## Summary
 
 Appetite changes in senior pets are common but not always normal. They may signal underlying health issues or adjustments needed to accommodate aging. Using the appetite change reference chart along with careful observation of other clinical signs can empower caregivers to provide better support for their aging companions. Maintaining open communication with your veterinarian ensures these changes are appropriately addressed, helping your senior pet live comfortably and happily in their golden years.
+

@@ -101,3 +101,4 @@ As your dog ages, skin and coat problems may signal underlying health concerns:
 Bathing a senior dog who hates baths requires patience, empathy, and adjustments to the usual routine. Prioritize safety, comfort, and positive associations. Using gentle techniques, avoiding painful positions, and reducing noise and spashing will make bath time calmer. Alternatively, explore waterless options and professional grooming help when needed. With these practical tips, you can keep your senior dog clean and happy — without the usual struggle.
 
 Remember: every dog is different. Watch your senior pet’s reactions and adapt your approach for the best stress-free bath experience.
+

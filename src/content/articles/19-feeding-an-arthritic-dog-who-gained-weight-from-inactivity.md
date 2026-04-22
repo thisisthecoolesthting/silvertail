@@ -100,3 +100,4 @@ Veterinary input ensures a balanced approach that supports both weight managemen
 Feeding an arthritic dog who has gained weight from inactivity requires careful calorie management, nutrient balance, and joint-supportive interventions. Reducing calorie intake with nutrient-dense, well-portioned meals, incorporating supplements if appropriate, maintaining hydration, and controlling treats can all contribute to weight loss and improved mobility. Together with tailored exercise and veterinary guidance, these strategies help relieve pressure on painful joints and improve your dog's quality of life. 
 
 By taking a thoughtful, practical approach to diet and lifestyle, you can support your arthritic dog in staying comfortable, active, and healthy — even in their golden years.
+

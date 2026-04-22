@@ -113,3 +113,4 @@ Beyond physical barriers, it’s important to monitor your dog's overall mobilit
 Stair gates provide a simple, effective way to protect dogs who should no longer use stairs due to age, injury, or health conditions. Choosing the right gate for your space and pet, combined with proper installation and other safety measures, helps prevent painful injuries and supports your dog’s wellbeing at home.
 
 When considering a stair gate, prioritize safety, durability, and ease of use. Remember that ongoing attention to your dog’s changing needs, and consultation with your veterinarian, are key to keeping your furry friend safe and comfortable through every stage of life.
+

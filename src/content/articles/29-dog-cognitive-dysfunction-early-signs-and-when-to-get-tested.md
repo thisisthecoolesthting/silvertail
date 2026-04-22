@@ -112,3 +112,4 @@ If your aging dog shows signs of confusion, forgetfulness, or altered behavior, 
 ---
 
 By staying vigilant to these early signs and understanding when to get tested, you can provide your dog with the care and compassion they need as they age gracefully alongside you.
+

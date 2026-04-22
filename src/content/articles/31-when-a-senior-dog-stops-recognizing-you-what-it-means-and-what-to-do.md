@@ -133,3 +133,4 @@ When a senior dog seems to stop recognizing you, it’s a sign of deeper health 
 A thoughtful veterinary evaluation, adjustments to sensory changes, and compassionate, consistent interaction can help your dog navigate their golden years with dignity and peace.
 
 Remember: your dog’s world may change, but your role as their calm, loving companion remains essential.
+

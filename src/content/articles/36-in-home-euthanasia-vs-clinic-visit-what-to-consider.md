@@ -105,3 +105,4 @@ Both in-home euthanasia and clinic visit euthanasia are compassionate, dignified
 In-home euthanasia offers a calm, familiar environment that can ease anxiety for both pet and family, albeit sometimes at a higher cost and limited availability. Clinic visits provide a professional setting with comprehensive support and resources but may introduce additional stress through travel and an unfamiliar setting.
 
 Ultimately, the best choice respects your pet’s comfort, fulfills your family’s emotional needs, and aligns with practical considerations during this difficult time. Discuss your options with your veterinarian to find a solution tailored uniquely to you and your pet.
+

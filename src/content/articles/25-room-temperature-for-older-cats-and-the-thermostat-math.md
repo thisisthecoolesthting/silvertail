@@ -95,3 +95,4 @@ By paying attention to these practical thermostat adjustments and environmental 
 ---
 
 **In short:** Maintaining a slightly warmer room temperature, combined with targeted supplemental heat and careful observation, will keep your senior cat comfortable and may improve their quality of life during their golden years.
+

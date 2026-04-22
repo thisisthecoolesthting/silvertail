@@ -128,3 +128,4 @@ Many brands market “mini” or “small breed” kibble, ideally suited for sm
 Selecting the right dry food for your senior small breed dog is a long-term commitment that impacts their health and happiness. Our three-year testing across a variety of formulas has shown that no single food fits every dog, but those with a balanced mix of high-quality proteins, joint-support nutrients, omega fatty acids, and manageable calorie levels consistently perform best.
 
 When choosing a senior dry food for small breeds, prioritize transparency in ingredients, kibble size, and formulas that support joint, digestive, and immune health. With thoughtful selection, you can help your little companion stay lively and comfortable through their golden years.
+

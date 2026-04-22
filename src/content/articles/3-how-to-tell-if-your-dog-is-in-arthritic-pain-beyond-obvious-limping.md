@@ -100,3 +100,4 @@ Your vet may recommend:
 ## Summary
 
 Recognizing arthritic pain in your dog beyond obvious limping involves watching for subtle behavioral changes, stiffness, altered movement, and physical clues around the joints. Staying vigilant and proactive helps you support your dog’s health and happiness as they age, ensuring they remain comfortable and active for as long as possible.
+

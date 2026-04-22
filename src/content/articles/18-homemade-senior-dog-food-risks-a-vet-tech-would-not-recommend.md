@@ -121,3 +121,4 @@ The best approach to senior dog nutrition is to work closely with veterinary pro
 ---
 
 If you’re considering homemade food for your senior dog, start by talking to your vet tech or veterinarian today. Their hands-on experience and knowledge are your best resource for responsibly nourishing your loyal friend.
+

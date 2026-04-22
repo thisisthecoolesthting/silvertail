@@ -131,3 +131,4 @@ For older dogs navigating hardwood floors, non-slip rug solutions are essential 
 ---
 
 By selecting the appropriate non-slip products and customizing your approach to your dog’s needs, you’ll strike a good balance between protecting your floors and supporting your furry friend’s well-being.
+

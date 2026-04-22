@@ -124,3 +124,4 @@ If your senior cat shows any signs of dehydration — such as persistent letharg
 Dehydration in older cats is often overlooked because symptoms can be subtle or mistaken for normal aging. Knowing what signs to look for—such as dry gums, subtle skin elasticity changes, sunken eyes, and lethargy—can help you catch dehydration early. Supporting your cat’s hydration through wet food, easy access to water, and veterinary care is essential to keep your older cat healthy and comfortable.
 
 Being proactive about hydration can improve quality of life and prevent more serious complications down the road. Regular monitoring and close attention to your cat’s habits will go a long way toward keeping dehydration at bay.
+

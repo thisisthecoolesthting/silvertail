@@ -104,3 +104,4 @@ These tweaks can help your senior cat continue enjoying climbing without overexe
 A low entry cat tree balances height and accessibility, perfectly suited for senior cats who treasure their elevated views but need gentle encouragement to climb. With thoughtful design emphasizing low steps, stability, soft surfaces, and moderate height, these trees can greatly improve the quality of life for aging cats. Encouraging safe, manageable climbing keeps seniors active, engaged, and happy — a win-win for cats and their owners.
 
 When shopping or crafting a cat tree for your older feline companion, prioritize ease of use and comfort to ensure their golden years remain full of exploration, observation, and cozy rest.
+

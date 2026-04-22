@@ -119,3 +119,4 @@ Dental health is a fundamental part of senior pet wellness. Understanding the pr
 - Keep open communication with your veterinarian about your pet’s dental health.
 
 By staying proactive and informed, you can help your senior companion enjoy their golden years with a healthy mouth and a happy heart.
+

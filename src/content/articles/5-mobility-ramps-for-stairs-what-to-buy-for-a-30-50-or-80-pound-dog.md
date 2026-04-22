@@ -140,3 +140,4 @@ Ramps for large dogs (around 80 pounds) need to prioritize maximum strength and 
 ---
 
 Choosing the right mobility ramp for your dog supports their health and happiness. By matching the ramp’s weight capacity, length, and surface to your dog’s size and needs, you make stairs safer and more accessible for your furry friend — and your home more convenient. Careful measurement and consideration go a long way to ensuring your dog’s continued well-being with minimal strain or frustration.
+

@@ -118,3 +118,4 @@ Memorial wishes can change over time. Periodically revisiting and updating your 
 Memorial decisions made before urgency arise are not just about logistics—they're acts of kindness toward those who grieve and ways to celebrate the uniqueness of a life. Thinking “from the other side,” both as the person being memorialized and the family who remembers, transforms the planning process from a stressful afterthought into a thoughtful legacy.
 
 Starting these conversations and choices early might be challenging, but it’s one of the most practical and compassionate ways to prepare for the inevitable—and to ensure that when the time comes, memories are honored with intention and peace.
+

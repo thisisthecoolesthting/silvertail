@@ -85,3 +85,4 @@ Your vet will perform a thorough physical exam and likely recommend diagnostic t
 Weight loss in senior cats can be part of the normal aging process but often requires careful monitoring to differentiate between normal changes and health problems. By regularly assessing your cat’s weight, appetite, and behavior, and ensuring they receive appropriate nutrition and veterinary care, you can help maintain their quality of life through their golden years. Prompt veterinary attention for significant or rapid weight loss is essential to diagnose and manage potential health issues early. 
 
 Caring for a senior cat’s weight is about balance — supporting their unique needs with patience, awareness, and timely intervention.
+

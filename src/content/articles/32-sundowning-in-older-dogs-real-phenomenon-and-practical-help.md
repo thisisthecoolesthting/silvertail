@@ -134,3 +134,4 @@ Caring for a dog experiencing sundowning can be emotionally and physically deman
 Sundowning is a real, observable phenomenon in older dogs, often linked to cognitive dysfunction and aging. It manifests most noticeably in late afternoon and evening, causing restlessness, confusion, excessive vocalization, and anxiety.
 
 While it can be distressing, numerous practical strategies—consistent routines, lighting adjustments, physical and mental stimulation, and veterinary care—can help manage symptoms effectively. Recognizing the signs and working closely with your veterinarian will help ensure your senior dog remains comfortable, secure, and loved in their golden years.
+

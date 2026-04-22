@@ -90,3 +90,4 @@ Turmeric may hold promise as a natural supplement for supporting your dog’s he
 ---
 
 For those interested in trying turmeric for their dogs, remember: the goal is improving quality of life through a balanced approach that integrates safe, evidence-based supplementation with appropriate veterinary care.
+

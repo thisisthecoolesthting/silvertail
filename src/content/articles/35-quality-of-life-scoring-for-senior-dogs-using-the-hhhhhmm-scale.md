@@ -114,3 +114,4 @@ Owners and veterinarians rate each area based on daily observations. The scores 
 The HHHHHMM scale is a valuable, no-nonsense framework that helps owners and veterinarians assess the quality of life of senior dogs in a compassionate, consistent manner. By focusing on pain, hunger, hydration, hygiene, happiness, mobility, and overall enjoyment of life, this tool goes beyond just clinical measures to offer a holistic view of a dog’s well-being.
 
 For those navigating the difficult journey of canine aging, the scale provides clarity and reassurance, supporting decisions that prioritize the dignity, comfort, and happiness of beloved senior pets. Regular use can ultimately improve the management of aging dogs, ensuring their golden years are as joyful and peaceful as possible.
+
