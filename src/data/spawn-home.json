@@ -31,6 +31,18 @@
       "fontCssHref": "https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
     }
   },
+  "persona": {
+    "ymyl": true,
+    "tone": "warm_credentialed"
+  },
+  "newsletter": {
+    "title": "The SilverTail weekly",
+    "subtitle": "Practical picks and straight answers from SilverTail, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@silvertail.app",
+  "defaultAuthorSlug": "amelia-silvertail",
+  "defaultMetaDescription": "Joint supplements, mobility ramps, orthopedic beds, senior diets, and the small adjustments that actually extend quality of life. Every recommendation tied to a specific condition at a specific stage.",
   "homepage": {
     "eyebrow": "Senior pet care, evidence-based",
     "h1": "Your older dog and cat deserve better than Dr. Google.",
