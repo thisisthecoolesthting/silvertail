@@ -1,0 +1,49 @@
+{
+  "brand": {
+    "shortName": "SilverTail",
+    "fullName": "SilverTail",
+    "taglineShort": "The best years for your older pet.",
+    "identity": {
+      "palette": {
+        "primary": "#5B8C7F",
+        "accent": "#E8A17B",
+        "cream": "#FAF5ED",
+        "ink": "#2D2A27"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/silvertail-mark.svg",
+        "svgPublicPath": "/brand/silvertail-mark.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 500,
+        "tracking": "normal",
+        "case": "normal"
+      },
+      "headerVariant": "editorial",
+      "eyebrowText": "SENIOR PET CARE",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "homepage": {
+    "eyebrow": "Senior pet care, evidence-based",
+    "h1": "Your older dog and cat deserve better than Dr. Google.",
+    "subhead": "Joint supplements, mobility ramps, orthopedic beds, senior diets, and the small adjustments that actually extend quality of life. Every recommendation tied to a specific condition at a specific stage.",
+    "ctaPrimaryLabel": "Read our guides",
+    "ctaPrimaryHref": "/pillars",
+    "ctaSecondaryLabel": "See top supplements",
+    "ctaSecondaryHref": "/products",
+    "trustLine": "Not veterinary advice. Reviewed quarterly by a practicing veterinary technician. We buy what we review.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why SilverTail exists",
+    "body": "Our first senior dog was a 14-year-old terrier mix named Rosa. We made every mistake \u2014 the wrong joint supplement, the bed that was too soft, the food she refused because it hurt to chew. SilverTail is the site we needed then, built for the second half of a pet's life, when the stakes feel higher and the advice gets vaguer."
+  }
+}
