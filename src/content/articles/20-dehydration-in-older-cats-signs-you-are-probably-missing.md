@@ -5,6 +5,9 @@ topic: '20. Dehydration in older cats: signs you are probably missing'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Dehydration in Older Cats: Signs You Are Probably Missing"
+publishedAt: 2026-04-22
+excerpt: "Dehydration in Older Cats: Signs You Are Probably Missing"
 ---
 
 ## Dehydration in Older Cats: Signs You Are Probably Missing

@@ -5,6 +5,9 @@ topic: '15. Picky senior eater: 7 tricks that actually work'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "15. Picky Senior Eater: 7 Tricks That Actually Work"
+publishedAt: 2026-04-22
+excerpt: "15. Picky Senior Eater: 7 Tricks That Actually Work"
 ---
 
 ## 15. Picky Senior Eater: 7 Tricks That Actually Work

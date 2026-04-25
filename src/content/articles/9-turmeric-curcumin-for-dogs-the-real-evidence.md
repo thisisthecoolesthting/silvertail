@@ -5,6 +5,9 @@ topic: '9. Turmeric (curcumin) for dogs: the real evidence'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Turmeric (Curcumin) for Dogs: The Real Evidence"
+publishedAt: 2026-04-22
+excerpt: "Turmeric (Curcumin) for Dogs: The Real Evidence"
 ---
 
 ## Turmeric (Curcumin) for Dogs: The Real Evidence

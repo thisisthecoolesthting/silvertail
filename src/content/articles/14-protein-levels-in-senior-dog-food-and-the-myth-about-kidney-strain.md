@@ -5,6 +5,9 @@ topic: 14. Protein levels in senior dog food and the myth about kidney strain
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Protein Levels in Senior Dog Food and the Myth About Kidney Strain"
+publishedAt: 2026-04-22
+excerpt: "Protein Levels in Senior Dog Food and the Myth About Kidney Strain"
 ---
 
 ## Protein Levels in Senior Dog Food and the Myth About Kidney Strain

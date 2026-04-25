@@ -5,6 +5,9 @@ topic: 2. Glucosamine dosing for dogs by weight and when the label is wrong
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Understanding Glucosamine Dosing for Dogs by Weight"
+publishedAt: 2026-04-22
+excerpt: "Understanding Glucosamine Dosing for Dogs by Weight"
 ---
 
 ## Understanding Glucosamine Dosing for Dogs by Weight

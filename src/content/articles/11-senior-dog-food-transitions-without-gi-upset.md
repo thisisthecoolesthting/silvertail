@@ -5,6 +5,9 @@ topic: 11. Senior dog food transitions without GI upset
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Senior Dog Food Transitions Without GI Upset"
+publishedAt: 2026-04-22
+excerpt: "Senior Dog Food Transitions Without GI Upset"
 ---
 
 ## Senior Dog Food Transitions Without GI Upset

@@ -5,6 +5,9 @@ topic: 18. Homemade senior dog food risks a vet tech would not recommend
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Homemade Senior Dog Food Risks a Vet Tech Would Not Recommend"
+publishedAt: 2026-04-22
+excerpt: "Homemade Senior Dog Food Risks a Vet Tech Would Not Recommend"
 ---
 
 ## Homemade Senior Dog Food Risks a Vet Tech Would Not Recommend

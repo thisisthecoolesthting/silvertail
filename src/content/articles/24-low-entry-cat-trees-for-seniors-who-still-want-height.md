@@ -5,6 +5,9 @@ topic: 24. Low entry cat trees for seniors who still want height
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Low Entry Cat Trees for Seniors Who Still Want Height"
+publishedAt: 2026-04-22
+excerpt: "Low Entry Cat Trees for Seniors Who Still Want Height"
 ---
 
 ## Low Entry Cat Trees for Seniors Who Still Want Height

@@ -5,6 +5,9 @@ topic: '33. Appetite changes in senior pets: a reference chart'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Appetite Changes in Senior Pets: A Reference Chart"
+publishedAt: 2026-04-22
+excerpt: "Appetite Changes in Senior Pets: A Reference Chart"
 ---
 
 ## Appetite Changes in Senior Pets: A Reference Chart

@@ -5,6 +5,9 @@ topic: '36. In home euthanasia vs clinic visit: what to consider'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "In Home Euthanasia vs. Clinic Visit: What to Consider"
+publishedAt: 2026-04-22
+excerpt: "In Home Euthanasia vs. Clinic Visit: What to Consider"
 ---
 
 ## In-Home Euthanasia vs. Clinic Visit: What to Consider

@@ -5,6 +5,9 @@ topic: '40. Eye cloudiness in older dogs: nuclear sclerosis vs cataracts'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Eye Cloudiness in Older Dogs: Nuclear Sclerosis vs Cataracts"
+publishedAt: 2026-04-22
+excerpt: "Eye Cloudiness in Older Dogs: Nuclear Sclerosis vs Cataracts"
 ---
 
 ## Eye Cloudiness in Older Dogs: Nuclear Sclerosis vs Cataracts

@@ -5,6 +5,9 @@ topic: 23. Non-slip rug solutions for hardwood floors and older dogs
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Non Slip Rug Solutions for Hardwood Floors and Older Dogs"
+publishedAt: 2026-04-22
+excerpt: "Non Slip Rug Solutions for Hardwood Floors and Older Dogs"
 ---
 
 ## Non-Slip Rug Solutions for Hardwood Floors and Older Dogs

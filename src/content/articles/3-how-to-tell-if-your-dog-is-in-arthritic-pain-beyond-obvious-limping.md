@@ -5,6 +5,9 @@ topic: 3. How to tell if your dog is in arthritic pain beyond obvious limping
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "How to Tell If Your Dog Is in Arthritic Pain Beyond Obvious Limping"
+publishedAt: 2026-04-22
+excerpt: "How to Tell If Your Dog Is in Arthritic Pain Beyond Obvious Limping"
 ---
 
 ## How to Tell If Your Dog Is in Arthritic Pain Beyond Obvious Limping

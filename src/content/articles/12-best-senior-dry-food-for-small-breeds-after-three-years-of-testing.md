@@ -5,6 +5,9 @@ topic: 12. Best senior dry food for small breeds after three years of testing
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "12 Best Senior Dry Foods for Small Breeds After Three Years of Testing"
+publishedAt: 2026-04-22
+excerpt: "12 Best Senior Dry Foods for Small Breeds After Three Years of Testing"
 ---
 
 ## 12 Best Senior Dry Foods for Small Breeds After Three Years of Testing

@@ -5,6 +5,9 @@ topic: 35. Quality of life scoring for senior dogs using the HHHHHMM scale
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Quality of Life Scoring for Senior Dogs Using the HHHHHMM Scale"
+publishedAt: 2026-04-22
+excerpt: "Quality of Life Scoring for Senior Dogs Using the HHHHHMM Scale"
 ---
 
 ## Quality of Life Scoring for Senior Dogs Using the HHHHHMM Scale

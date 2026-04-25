@@ -5,6 +5,9 @@ topic: 22. Dog ramps vs pet stairs vs step sets by body type
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Dog Ramps vs Pet Stairs vs Step Sets by Body Type"
+publishedAt: 2026-04-22
+excerpt: "Dog Ramps vs Pet Stairs vs Step Sets by Body Type"
 ---
 
 ## Dog Ramps vs Pet Stairs vs Step Sets by Body Type

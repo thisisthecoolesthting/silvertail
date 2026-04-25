@@ -5,6 +5,9 @@ topic: '29. Dog cognitive dysfunction: early signs and when to get tested'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Dog Cognitive Dysfunction: Early Signs and When to Get Tested"
+publishedAt: 2026-04-22
+excerpt: "Dog Cognitive Dysfunction: Early Signs and When to Get Tested"
 ---
 
 ## Dog Cognitive Dysfunction: Early Signs and When to Get Tested

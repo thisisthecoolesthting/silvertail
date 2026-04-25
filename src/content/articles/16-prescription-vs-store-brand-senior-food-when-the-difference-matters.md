@@ -5,6 +5,9 @@ topic: '16. Prescription vs store brand senior food: when the difference matters
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Prescription vs Store Brand Senior Food: When the Difference Matters"
+publishedAt: 2026-04-22
+excerpt: "Prescription vs Store Brand Senior Food: When the Difference Matters"
 ---
 
 ## Prescription vs Store Brand Senior Food: When the Difference Matters

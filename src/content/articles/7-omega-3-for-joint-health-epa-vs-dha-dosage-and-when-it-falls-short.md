@@ -5,6 +5,9 @@ topic: '7. Omega-3 for joint health: EPA vs DHA, dosage, and when it falls short
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Omega 3 for Joint Health: EPA vs DHA, Dosage, and When It Falls Short"
+publishedAt: 2026-04-22
+excerpt: "Omega 3 for Joint Health: EPA vs DHA, Dosage, and When It Falls Short"
 ---
 
 ## Omega-3 for Joint Health: EPA vs DHA, Dosage, and When It Falls Short

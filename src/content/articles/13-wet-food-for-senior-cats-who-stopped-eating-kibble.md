@@ -5,6 +5,9 @@ topic: 13. Wet food for senior cats who stopped eating kibble
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Wet Food for Senior Cats Who Stopped Eating Kibble"
+publishedAt: 2026-04-22
+excerpt: "Wet Food for Senior Cats Who Stopped Eating Kibble"
 ---
 
 ## Wet Food for Senior Cats Who Stopped Eating Kibble

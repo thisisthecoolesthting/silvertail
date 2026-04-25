@@ -5,6 +5,9 @@ topic: 19. Feeding an arthritic dog who gained weight from inactivity
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Feeding an Arthritic Dog Who Gained Weight from Inactivity"
+publishedAt: 2026-04-22
+excerpt: "Feeding an Arthritic Dog Who Gained Weight from Inactivity"
 ---
 
 ## Feeding an Arthritic Dog Who Gained Weight from Inactivity

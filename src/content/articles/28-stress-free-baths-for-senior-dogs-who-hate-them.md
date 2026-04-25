@@ -5,6 +5,9 @@ topic: 28. Stress-free baths for senior dogs who hate them
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Stress Free Baths for Senior Dogs Who Hate Them"
+publishedAt: 2026-04-22
+excerpt: "Stress Free Baths for Senior Dogs Who Hate Them"
 ---
 
 ## Stress-Free Baths for Senior Dogs Who Hate Them

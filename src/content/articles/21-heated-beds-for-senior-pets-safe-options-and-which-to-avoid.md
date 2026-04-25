@@ -5,6 +5,9 @@ topic: '21. Heated beds for senior pets: safe options and which to avoid'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Heated Beds for Senior Pets: Safe Options and Which to Avoid"
+publishedAt: 2026-04-22
+excerpt: "Heated Beds for Senior Pets: Safe Options and Which to Avoid"
 ---
 
 ## Heated Beds for Senior Pets: Safe Options and Which to Avoid

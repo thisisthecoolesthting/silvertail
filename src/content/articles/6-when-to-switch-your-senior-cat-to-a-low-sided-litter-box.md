@@ -5,6 +5,9 @@ topic: 6. When to switch your senior cat to a low-sided litter box
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "When to Switch Your Senior Cat to a Low Sided Litter Box"
+publishedAt: 2026-04-22
+excerpt: "When to Switch Your Senior Cat to a Low Sided Litter Box"
 ---
 
 ## When to Switch Your Senior Cat to a Low-Sided Litter Box

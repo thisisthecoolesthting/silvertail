@@ -5,6 +5,9 @@ topic: 37. Memorial decisions before they become urgent, from the other side
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Memorial Decisions Before They Become Urgent, from the Other Side"
+publishedAt: 2026-04-22
+excerpt: "Memorial Decisions Before They Become Urgent, from the Other Side"
 ---
 
 ## Memorial Decisions Before They Become Urgent, from the Other Side

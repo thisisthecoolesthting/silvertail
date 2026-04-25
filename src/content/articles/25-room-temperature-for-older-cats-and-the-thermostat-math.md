@@ -5,6 +5,9 @@ topic: 25. Room temperature for older cats and the thermostat math
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Room Temperature for Older Cats and the Thermostat Math"
+publishedAt: 2026-04-22
+excerpt: "Room Temperature for Older Cats and the Thermostat Math"
 ---
 
 ## Room Temperature for Older Cats and the Thermostat Math

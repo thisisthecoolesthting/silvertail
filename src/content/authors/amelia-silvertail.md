@@ -3,7 +3,10 @@ name: Amelia Diaz
 slug: amelia-silvertail
 role: Senior Editor
 site: SilverTail
+photoUrl: "/authors/amelia-silvertail.svg"
+shortBio: "Amelia — SilverTail"
 ---
+
 # Amelia — SilverTail
 
 Medical-adjacent copy uses cautious language and defers to physicians for diagnosis and treatment.

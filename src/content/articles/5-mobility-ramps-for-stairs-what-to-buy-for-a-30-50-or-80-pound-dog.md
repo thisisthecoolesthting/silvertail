@@ -5,6 +5,9 @@ topic: '5. Mobility ramps for stairs: what to buy for a 30, 50, or 80 pound dog'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Mobility Ramps for Stairs: What to Buy for a 30, 50, or 80 Pound Dog"
+publishedAt: 2026-04-22
+excerpt: "Mobility Ramps for Stairs: What to Buy for a 30, 50, or 80 Pound Dog"
 ---
 
 ## Mobility Ramps for Stairs: What to Buy for a 30, 50, or 80 Pound Dog

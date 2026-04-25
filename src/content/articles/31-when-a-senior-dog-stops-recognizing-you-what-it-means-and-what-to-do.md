@@ -5,6 +5,9 @@ topic: '31. When a senior dog stops recognizing you: what it means and what to d
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "When a Senior Dog Stops Recognizing You: What It Means and What to Do"
+publishedAt: 2026-04-22
+excerpt: "When a Senior Dog Stops Recognizing You: What It Means and What to Do"
 ---
 
 ## When a Senior Dog Stops Recognizing You: What It Means and What to Do

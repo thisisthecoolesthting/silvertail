@@ -5,6 +5,9 @@ topic: '8. CBD for senior pet pain: what veterinarians actually think'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "CBD for Senior Pet Pain: What Veterinarians Actually Think"
+publishedAt: 2026-04-22
+excerpt: "CBD for Senior Pet Pain: What Veterinarians Actually Think"
 ---
 
 ## CBD for Senior Pet Pain: What Veterinarians Actually Think

@@ -5,6 +5,9 @@ topic: '17. Senior cat weight loss: when to worry and when it is normal'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Senior Cat Weight Loss: When to Worry and When It Is Normal"
+publishedAt: 2026-04-22
+excerpt: "Senior Cat Weight Loss: When to Worry and When It Is Normal"
 ---
 
 ## Senior Cat Weight Loss: When to Worry and When It Is Normal

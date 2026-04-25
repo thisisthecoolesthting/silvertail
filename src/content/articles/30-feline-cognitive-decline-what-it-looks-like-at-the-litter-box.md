@@ -5,6 +5,9 @@ topic: '30. Feline cognitive decline: what it looks like at the litter box'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Feline Cognitive Decline: What It Looks Like at the Litter Box"
+publishedAt: 2026-04-22
+excerpt: "Feline Cognitive Decline: What It Looks Like at the Litter Box"
 ---
 
 ## Feline Cognitive Decline: What It Looks Like at the Litter Box

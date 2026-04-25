@@ -5,6 +5,9 @@ topic: 26. Stair gates for dogs who should not be using stairs anymore
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Stair Gates for Dogs Who Should Not Be Using Stairs Anymore"
+publishedAt: 2026-04-22
+excerpt: "Stair Gates for Dogs Who Should Not Be Using Stairs Anymore"
 ---
 
 ## Stair Gates for Dogs Who Should Not Be Using Stairs Anymore

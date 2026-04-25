@@ -7,6 +7,9 @@ topic: '1. The best joint supplements for senior dogs: what the research actuall
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "The Best Joint Supplements for Senior Dogs: What the Research Actually Shows"
+publishedAt: 2026-04-22
+excerpt: "The Best Joint Supplements for Senior Dogs: What the Research Actually Shows"
 ---
 
 ## The Best Joint Supplements for Senior Dogs: What the Research Actually Shows

@@ -5,6 +5,9 @@ topic: '27. Elevated food bowls for big dogs: helpful or dangerous?'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Elevated Food Bowls for Big Dogs: Helpful or Dangerous?"
+publishedAt: 2026-04-22
+excerpt: "Elevated Food Bowls for Big Dogs: Helpful or Dangerous?"
 ---
 
 ## Elevated Food Bowls for Big Dogs: Helpful or Dangerous?

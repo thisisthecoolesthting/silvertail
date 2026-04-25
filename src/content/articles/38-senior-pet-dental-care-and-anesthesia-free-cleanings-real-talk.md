@@ -5,6 +5,9 @@ topic: '38. Senior pet dental care and anesthesia free cleanings: real talk'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Senior Pet Dental Care and Anesthesia Free Cleanings: Real Talk"
+publishedAt: 2026-04-22
+excerpt: "Senior Pet Dental Care and Anesthesia Free Cleanings: Real Talk"
 ---
 
 ## Senior Pet Dental Care and Anesthesia-Free Cleanings: Real Talk

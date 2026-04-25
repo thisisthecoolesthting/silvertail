@@ -5,6 +5,9 @@ topic: '34. Pet hospice at home: what it actually involves'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Pet Hospice at Home: What It Actually Involves"
+publishedAt: 2026-04-22
+excerpt: "Pet Hospice at Home: What It Actually Involves"
 ---
 
 ## Pet Hospice at Home: What It Actually Involves

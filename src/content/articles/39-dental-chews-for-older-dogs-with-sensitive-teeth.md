@@ -5,6 +5,9 @@ topic: 39. Dental chews for older dogs with sensitive teeth
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Dental Chews for Older Dogs with Sensitive Teeth"
+publishedAt: 2026-04-22
+excerpt: "Dental Chews for Older Dogs with Sensitive Teeth"
 ---
 
 ## Dental Chews for Older Dogs with Sensitive Teeth

@@ -5,6 +5,9 @@ topic: 10. Why your older dog stopped jumping on the couch and when to worry
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Why Your Older Dog Stopped Jumping on the Couch and When to Worry"
+publishedAt: 2026-04-22
+excerpt: "Why Your Older Dog Stopped Jumping on the Couch and When to Worry"
 ---
 
 ## Why Your Older Dog Stopped Jumping on the Couch and When to Worry

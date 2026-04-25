@@ -5,6 +5,9 @@ topic: 4. The best orthopedic dog beds under 200 dollars tested over 60 nights
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "4 of the Best Orthopedic Dog Beds Under $200 Tested Over 60 Nights"
+publishedAt: 2026-04-22
+excerpt: "4 of the Best Orthopedic Dog Beds Under $200 Tested Over 60 Nights"
 ---
 
 ## 4 of the Best Orthopedic Dog Beds Under $200 Tested Over 60 Nights

@@ -5,6 +5,9 @@ topic: '32. Sundowning in older dogs: real phenomenon and practical help'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Sundowning in Older Dogs: Real Phenomenon and Practical Help"
+publishedAt: 2026-04-22
+excerpt: "Sundowning in Older Dogs: Real Phenomenon and Practical Help"
 ---
 
 ## Sundowning in Older Dogs: Real Phenomenon and Practical Help
