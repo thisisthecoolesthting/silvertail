@@ -15,7 +15,7 @@ relatedProducts:
 - B00FLYWNYQ
 - B07TC2BK1X
 - B07P6Y7954
-status: draft
+status: published
 tags:
 - pet hospice
 - end-of-life care

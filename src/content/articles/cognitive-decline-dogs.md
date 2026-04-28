@@ -17,7 +17,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B085VZPR2Y
-status: draft
+status: published
 tags:
 - canine dementia
 - senior dog care

@@ -15,7 +15,7 @@ relatedProducts:
 - B0GF25F12C
 - B085VZPR2Y
 - B0CGW2TFSV
-status: draft
+status: published
 tags:
 - orthopedic dog bed
 - arthritis relief

@@ -15,7 +15,7 @@ relatedProducts:
 - B07TC2BK1X
 - B07YT4JWPK
 - B00FLYWNYQ
-status: draft
+status: published
 tags:
 - senior dog food
 - sensitive stomach

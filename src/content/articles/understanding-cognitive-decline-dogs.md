@@ -17,7 +17,7 @@ relatedProducts:
 - B07C11YW88
 - B083BFPGD8
 - B0CYJV9X52
-status: draft
+status: published
 tags:
 - canine cognitive dysfunction
 - senior dog supplements

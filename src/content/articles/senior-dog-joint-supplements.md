@@ -16,7 +16,7 @@ relatedProducts:
 - B0F54TYKF9
 - B00063RWT8
 - B0CGW2TFSV
-status: draft
+status: published
 tags:
 - joint health
 - senior dog care

@@ -10,7 +10,7 @@ excerpt: Nearly 68% of dogs over 15 show signs of cognitive decline. Discover ho
   targeted supplements to environmental adaptations—that help senior dogs maintain
   their best quality of life.
 pillarSlug: health-nutrition
-status: draft
+status: published
 tags:
 - canine cognitive dysfunction
 - senior dog care

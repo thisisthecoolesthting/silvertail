@@ -8,7 +8,7 @@ excerpt: Omega-3 fatty acids support joint health, cognitive function, and skin/
   quality in older pets. This guide compares 12 top-rated supplements, analyzes cost
   per dose, and explains how to choose the right formula for your senior dog or cat.
 pillarSlug: nutrition-supplements
-status: draft
+status: published
 tags:
 - senior dog supplements
 - omega-3 for pets

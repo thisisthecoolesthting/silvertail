@@ -18,7 +18,7 @@ relatedProducts:
 - B07P6Y7954
 - B0BTYCRJSS
 - B07YT4JWPK
-status: draft
+status: published
 tags:
 - dog mobility ramp
 - pet stairs for arthritis

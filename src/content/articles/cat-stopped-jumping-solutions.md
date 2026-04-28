@@ -8,7 +8,7 @@ excerpt: If your older cat hesitates to jump on beds or counters, they're tellin
   you something important. We tested ramps, steps, and orthopedic solutions over 18
   months with senior cats to show you which aids actually work—and why.
 pillarSlug: comfort-mobility
-status: draft
+status: published
 tags:
 - senior cat mobility
 - cat arthritis

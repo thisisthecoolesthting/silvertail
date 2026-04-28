@@ -18,7 +18,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0DD7ZXMM9
 - B00063RWT8
-status: draft
+status: published
 tags:
 - pet hospice
 - end-of-life care

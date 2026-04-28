@@ -17,7 +17,7 @@ relatedProducts:
 - B00063RWT8
 - B0CGW2TFSV
 - B085VZPR2Y
-status: draft
+status: published
 tags:
 - pet hospice
 - senior dog comfort

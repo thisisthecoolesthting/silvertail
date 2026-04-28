@@ -8,7 +8,7 @@ excerpt: We tested 15+ joint supplements with our senior dogs to compare glucosa
   chondroitin, MSM, and omega-3 formulations. Here's what actually worked for stiffness,
   stairs, and mobility in dogs 8+ years old.
 pillarSlug: nutrition-supplements
-status: draft
+status: published
 tags:
 - joint health
 - senior dog care

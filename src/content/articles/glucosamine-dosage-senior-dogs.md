@@ -15,7 +15,7 @@ relatedProducts:
 - B07GR5MSKD
 - B00FLYWNYQ
 - B07TC2BK1X
-status: draft
+status: published
 tags:
 - joint supplements
 - senior dog care

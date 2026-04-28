@@ -15,7 +15,7 @@ relatedProducts:
 - B093TCYF9T
 - B0CB75LML9
 - B0F54TYKF9
-status: draft
+status: published
 tags:
 - joint health
 - senior dogs

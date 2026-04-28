@@ -17,7 +17,7 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B085VZPR2Y
-status: draft
+status: published
 tags:
 - senior dog supplements
 - fish oil for pets

@@ -9,7 +9,7 @@ excerpt: When your older cat loses muscle or gains unhealthy weight, the right f
   needs, comparing protein quality, calorie density, and how cats actually ate them
   over six months.
 pillarSlug: health-nutrition
-status: draft
+status: published
 tags:
 - senior cat nutrition
 - weight management
