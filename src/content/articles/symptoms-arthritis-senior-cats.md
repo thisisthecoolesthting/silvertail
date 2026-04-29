@@ -16,7 +16,7 @@ relatedProducts:
 - B0CGW48C3G
 - B00063RWT8
 - B00063RWXO
-status: draft
+status: published
 tags:
 - cat arthritis
 - senior cat care

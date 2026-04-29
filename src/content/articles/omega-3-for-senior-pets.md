@@ -15,7 +15,7 @@ relatedProducts:
 - B0CB75LML9
 - B0GF25F12C
 - B0F54TYKF9
-status: draft
+status: published
 tags:
 - omega-3 for pets
 - senior dog supplements

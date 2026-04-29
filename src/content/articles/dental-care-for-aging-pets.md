@@ -16,7 +16,7 @@ relatedProducts:
 - B074ND5RDT
 - B0846GFNCQ
 - B08H6KGPX3
-status: draft
+status: published
 tags:
 - senior pet dental care
 - dog dental health

@@ -8,7 +8,7 @@ excerpt: As pets age, their grooming needs change. This guide compares gentle br
   no-rinse shampoos, and mobility-friendly tools that reduce stress for arthritic
   dogs and fragile senior cats.
 pillarSlug: comfort-care
-status: draft
+status: published
 tags:
 - senior dog grooming
 - arthritis care

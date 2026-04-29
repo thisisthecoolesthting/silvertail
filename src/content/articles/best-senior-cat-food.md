@@ -13,7 +13,7 @@ relatedProducts:
 - B0GF25F12C
 - B00063RWT8
 - B0DD7ZXMM9
-status: draft
+status: published
 tags:
 - senior cat food
 - weight management

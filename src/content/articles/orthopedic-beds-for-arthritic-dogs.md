@@ -16,7 +16,7 @@ relatedProducts:
 - B0846GFNCQ
 - B0F54TYKF9
 - B085VZPR2Y
-status: draft
+status: published
 tags:
 - arthritis relief
 - orthopedic foam

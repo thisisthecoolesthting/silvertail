@@ -8,7 +8,7 @@ excerpt: As your dog ages, their nutritional needs change. This guide compares 1
   senior dog foods, analyzes cost per meal, and explains how to transition your older
   dog safely to a new diet.
 pillarSlug: nutrition-diet
-status: draft
+status: published
 tags:
 - senior dog nutrition
 - aging dog care

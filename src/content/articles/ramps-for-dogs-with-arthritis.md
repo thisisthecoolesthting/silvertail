@@ -16,7 +16,7 @@ relatedProducts:
 - B0F54TYKF9
 - B085VZPR2Y
 - B0CGW2TFSV
-status: draft
+status: published
 tags:
 - dog ramps
 - arthritis relief
