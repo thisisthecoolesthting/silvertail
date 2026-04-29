@@ -134,44 +134,45 @@ Our final recommendation: invest in a quality supplement like [Dasuquin Advanced
 
 *This article is for informational purposes and is not veterinary medical advice. Consult your veterinarian before starting any new supplement, especially if your dog is on medications or has existing health conditions.*
 
-<!-- padded-no-api-v1 -->
+<!-- padded-no-api-v2 -->
 
-
-## Recent price snapshot
-
-Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
-
-| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
-|---|---:|---:|---:|---:|---:|
-| Listing (`B00FLYWNYQ`) | — | — | — | — | — |
-| Listing (`B07PXGQC1Q`) | — | — | — | — | — |
-| Listing (`B07TFB22H5`) | — | — | — | — | — |
-| Listing (`B07YT4JWPK`) | — | — | — | — | — |
-| Listing (`B07TC2BK1X`) | — | — | — | — | — |
-
-Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
 
 ## Frequently asked questions
 
 **Are joint supplements like glucosamine actually proven to work?**
 
-Mixed evidence, but better for dogs than cats. Glucosamine + chondroitin + MSM combinations show modest benefit in canine osteoarthritis trials — about a 20% improvement in mobility scores at 8–12 weeks of consistent use. The catch is that most over-the-counter pet joint supplements don't deliver therapeutic doses. Look for 500 mg glucosamine per 25 lb body weight per day (most chews deliver 100–200 mg). For cats, evidence is thinner but green-lipped mussel and omega-3 (EPA/DHA) have stronger data than glucosamine. Adequan injections (prescription) outperform any over-the-counter option for both species.
+Mixed evidence, but better for dogs than cats. Glucosamine + chondroitin + MSM combinations show modest benefit in canine osteoarthritis trials — about a 20% improvement in mobility scores at 8–12 weeks of consistent use. The catch is that most over-the-counter pet joint supplements don't deliver therapeutic doses.
+
+Look for 500 mg glucosamine per 25 lb body weight per day (most chews deliver 100–200 mg). For cats, evidence is thinner but green-lipped mussel and omega-3 (EPA/DHA) have stronger data than glucosamine. Adequan injections (prescription) outperform any over-the-counter option for both species.
+
 
 **When should I switch to senior pet food?**
 
-The age threshold is less important than what's happening in the pet. Most dogs are 'senior' at 7 years (small breeds at 10), most cats at 11, but the transition should be triggered by metabolic changes — slower activity, weight gain or loss, dental disease, kidney function changes — not the calendar. Senior formulas reduce phosphorus and protein levels (relevant for kidney support) and increase fiber and joint nutrients. If your pet is metabolically still in adult mode, a senior formula can actually under-feed protein. Annual blood panels after age 7 catch the right time.
+The age threshold is less important than what's happening in the pet. Most dogs are 'senior' at 7 years (small breeds at 10), most cats at 11, but the transition should be triggered by metabolic changes — slower activity, weight gain or loss, dental disease, kidney function changes — not the calendar.
+
+Senior formulas reduce phosphorus and protein levels (relevant for kidney support) and increase fiber and joint nutrients. If your pet is metabolically still in adult mode, a senior formula can actually under-feed protein. Annual blood panels after age 7 catch the right time.
+
 
 **How often should senior pets see the vet?**
 
-Twice yearly minimum after age 7 (dogs) or 11 (cats), versus annually for adult pets. The rationale: pets age at roughly 5–7 human years per calendar year, so a six-month senior visit is equivalent to a 2.5-year human checkup. Twice-yearly bloodwork catches kidney, thyroid, and liver changes before symptoms appear — typically 6–12 months earlier than waiting for visible decline. The cost is real ($300–$600/year extra) but the early-detection value usually translates into much cheaper interventions and better quality of life. Pet insurance with senior coverage is worth pricing here, before symptoms emerge and exclusions stack up.
+Twice yearly minimum after age 7 (dogs) or 11 (cats), versus annually for adult pets. The rationale: pets age at roughly 5–7 human years per calendar year, so a six-month senior visit is equivalent to a 2.5-year human checkup. Twice-yearly bloodwork catches kidney, thyroid, and liver changes before symptoms appear — typically 6–12 months earlier than waiting for visible decline.
+
+The cost is real ($300–$600/year extra) but the early-detection value usually translates into much cheaper interventions and better quality of life. Pet insurance with senior coverage is worth pricing here, before symptoms emerge and exclusions stack up.
+
 
 **How can I tell if my senior pet is in pain?**
 
-Pain in older dogs and cats rarely looks like the dramatic limping or vocalizing humans expect. The reliable signs are subtler: reduced grooming (especially in cats), reluctance to jump onto formerly-easy surfaces, slower stair navigation, increased sleep, pacing or circling at night, decreased appetite, withdrawal from interactions. The Glasgow Composite Measure Pain Scale and the Feline Musculoskeletal Pain Index are the validated clinical tools — both ask about behavioral changes, not vocalizations. If three or more of these have shifted in the last 90 days, talk to a vet about pain assessment. Cats in particular hide pain instinctively and are routinely under-treated.
+Pain in older dogs and cats rarely looks like the dramatic limping or vocalizing humans expect. The reliable signs are subtler: reduced grooming (especially in cats), reluctance to jump onto formerly-easy surfaces, slower stair navigation, increased sleep, pacing or circling at night, decreased appetite, withdrawal from interactions. The Glasgow Composite Measure Pain Scale and the Feline Musculoskeletal Pain Index are the validated clinical tools — both ask about behavioral changes, not vocalizations.
+
+If three or more of these have shifted in the last 90 days, talk to a vet about pain assessment. Cats in particular hide pain instinctively and are routinely under-treated.
+
 
 **What's the difference between a pet ramp and pet stairs?**
 
-Ramps distribute weight over a longer distance and require less coordinated joint movement — better for pets with arthritis, hip dysplasia, or post-surgery recovery. Stairs require a controlled lift-and-place at each step, which is mechanically harder for joints but takes less floor space. For most senior dogs, ramps are the safer recommendation; for cats, stairs are usually preferred (cats have better fine-motor control and find ramps' shallow grade harder to grip). Get a ramp at least 2× the height of the surface (a 24-inch bed needs a 48-inch ramp minimum) so the slope stays under 25 degrees — steeper ramps defeat the joint-protection benefit.
+Ramps distribute weight over a longer distance and require less coordinated joint movement — better for pets with arthritis, hip dysplasia, or post-surgery recovery. Stairs require a controlled lift-and-place at each step, which is mechanically harder for joints but takes less floor space. For most senior dogs, ramps are the safer recommendation; for cats, stairs are usually preferred (cats have better fine-motor control and find ramps' shallow grade harder to grip).
+
+Get a ramp at least 2× the height of the surface (a 24-inch bed needs a 48-inch ramp minimum) so the slope stays under 25 degrees — steeper ramps defeat the joint-protection benefit.
+
 
 
 ## What to watch for before you buy
@@ -187,4 +188,4 @@ Ramps distribute weight over a longer distance and require less coordinated join
 
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
