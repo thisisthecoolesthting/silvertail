@@ -34,7 +34,7 @@ cardPick: Dasuquin targets stiffness and mobility loss with clinically-proven in
 
 When your 12-year-old Labrador hesitates at the staircase he's climbed daily for years, that moment tells you something has changed. Stairs become harder as dogs age—stiff joints, less confidence, and the physical strain of climbing can keep a senior dog from reaching the bedroom, the couch, or the car. We tested 12 ramp models with older dogs to find options that genuinely make a difference.
 
-The [PetSafe Happy Ride Foldable Ramp (B0FT32PL8L)](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) stood out for its traction surface and portability—useful if you move the ramp between rooms or vehicles. The [Solvit Deluxe Telescoping Ramp (B07C11YW88)](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) impressed us with its weight capacity and adjustable length, making it adaptable as your dog's needs shift. And the [Pet Gear Free Standing Ramp (B08GX3K9YS)](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) proved reliable for everyday bedroom or couch access.
+The [PetSafe Happy Ride Foldable Ramp](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) stood out for its traction surface and portability—useful if you move the ramp between rooms or vehicles. The [Solvit Deluxe Telescoping Ramp](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) impressed us with its weight capacity and adjustable length, making it adaptable as your dog's needs shift. And the [Pet Gear Free Standing Ramp](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) proved reliable for everyday bedroom or couch access.
 
 # Why ramps matter for senior dogs
 
@@ -44,7 +44,7 @@ We tested each ramp for traction (does a wet paw slide?), deflection under weigh
 
 # Head-to-head comparison
 
-| Feature | PetSafe Happy Ride Foldable Ramp (B0FT32PL8L) | Pet Gear Free Standing Ramp (B08GX3K9YS) | Solvit Deluxe Telescoping Ramp (B07C11YW88) |
+| Feature | PetSafe Happy Ride Foldable Ramp | Pet Gear Free Standing Ramp | Solvit Deluxe Telescoping Ramp |
 |---------|----------------------------------------------|------------------------------------------|--------------------------------------------|
 | Weight Capacity | 400 lbs | 300 lbs | 500 lbs |
 | Folded Size | 40" × 16" × 4" | 39" × 24" × 6" | 37" × 14" × 5" |

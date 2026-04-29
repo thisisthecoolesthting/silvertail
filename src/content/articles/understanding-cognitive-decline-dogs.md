@@ -58,12 +58,12 @@ We tested six leading cognitive support products over 90 days with veterinary mo
 
 | Product | Active Ingredients | Dosage | Observed Benefits | Monthly Cost |
 |---------|-------------------|--------|------------------|---------------|
-| Senilife (B0FT32PL8L) | Phosphatidylserine, Ginkgo Biloba, Resveratrol | Twice daily | Reduced nighttime pacing; improved sleep patterns by week 4 | $38.99 |
-| Aktivait (B0BVYBVHK5) | Choline, Omega-3s, Vitamin E, L-Carnitine | Once daily | Improved engagement with familiar toys; best palatability | $29.50 |
-| Neutricks (B07C11YW88) | Apoaequorin (calcium-binding protein) | Twice daily | Faster response to name call by week 6 | $52.75 |
-| Cosequin Senior (B08GX3K9YS) | Glucosamine, Chondroitin, ASU | Once daily | Joint mobility improvement (secondary benefit) | $34.99 |
-| Purina Pro Plan Neuro Care (B083BFPGD8) | Proprietary cognitive support formula | Twice daily (dietary) | Most consistent long-term results; dietary transition required | $89.99 |
-| Hills Prescription Diet b/d (B0CYJV9X52) | Antioxidants, AAFCO formulated for cognitive aging | Daily (dietary) | Brain-supportive nutrition; required veterinary prescription | $2.87/day |
+| Senilife | Phosphatidylserine, Ginkgo Biloba, Resveratrol | Twice daily | Reduced nighttime pacing; improved sleep patterns by week 4 | $38.99 |
+| Aktivait | Choline, Omega-3s, Vitamin E, L-Carnitine | Once daily | Improved engagement with familiar toys; best palatability | $29.50 |
+| Neutricks | Apoaequorin (calcium-binding protein) | Twice daily | Faster response to name call by week 6 | $52.75 |
+| Cosequin Senior | Glucosamine, Chondroitin, ASU | Once daily | Joint mobility improvement (secondary benefit) | $34.99 |
+| Purina Pro Plan Neuro Care | Proprietary cognitive support formula | Twice daily (dietary) | Most consistent long-term results; dietary transition required | $89.99 |
+| Hills Prescription Diet b/d | Antioxidants, AAFCO formulated for cognitive aging | Daily (dietary) | Brain-supportive nutrition; required veterinary prescription | $2.87/day |
 
 **What We Actually Observed:**
 

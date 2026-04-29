@@ -50,7 +50,7 @@ The best models, like the [K&H Pet Products Thermo-Kitty Mat](https://www.amazon
 
 ## Head-to-Head Comparison
 
-| Feature               | K&H Thermo-Kitty Mat (B00WSAXBQ0) | PetFusion Microplush Pad (B0G63G9LRJ) | Arf Pets Self-Warming Pad (B0DHV8SCLS) |
+| Feature               | K&H Thermo-Kitty Mat | PetFusion Microplush Pad | Arf Pets Self-Warming Pad |
 |-----------------------|-----------------------------------|---------------------------------------|----------------------------------------|
 | Heat Source           | Plug-in (thermostatic)            | Self-warming reflective layer         | Self-warming mylar insulation          |
 | Max Temperature       | 102°F                             | 15°F above ambient                   | 12°F above ambient                    |

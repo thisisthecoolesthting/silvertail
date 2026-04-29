@@ -50,7 +50,7 @@ Unlike puppies and kittens, senior pets face four physiological challenges that 
 
 1. **Reduced Nutrient Absorption**: Aging intestines show 40% lower fat absorption due to decreased bile salt production and pancreatic lipase activity. Our testing found emulsified liquids like [Zesty Paws](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) increased plasma EPA levels 22% more than standard oils in dogs >10 years.
 
-2. **Hepatic Conversion Decline**: A 2024 Waltham Petcare Science Institute study demonstrated cats over 12 convert <5% of ALA to EPA vs. 15% in young adults. This makes marine sources like krill oil ([B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20)) critical for felines.
+2. **Hepatic Conversion Decline**: A 2024 Waltham Petcare Science Institute study demonstrated cats over 12 convert <5% of ALA to EPA vs. 15% in young adults. This makes marine sources like krill oil ([this option](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20)) critical for felines.
 
 3. **Dysphagia Challenges**: 38% of dogs >12 have dental disease making large pills problematic. We found <5% of test pets rejected VetriScience's 0.5" chews vs. 27% refusal rate for standard capsules.
 
@@ -159,7 +159,7 @@ Yes, but with precautions:
 - Divide human doses appropriately—a 1,000mg softgel may be 4+ days' supply for cats
 
 ### What about krill oil vs fish oil?
-Krill oil ([B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20)) has phospholipid-bound omega-3s with 28% higher bioavailability per mg. However, cost per active mg is 3x higher—best reserved for:
+Krill oil ([this option](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20)) has phospholipid-bound omega-3s with 28% higher bioavailability per mg. However, cost per active mg is 3x higher—best reserved for:
 - Pets under 20lbs
 - Those with fat malabsorption
 - Households wanting smaller, odorless capsules
