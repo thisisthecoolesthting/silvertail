@@ -1,12 +1,8 @@
 ---
 title: 'Best Dog Ramps for Stairs: Senior-Friendly Mobility Solutions Tested'
-metaDescription: Find the right dog ramp for stairs. We tested 12 models for stability,
-  traction, and durability with senior dogs. Honest reviews to help your aging pet
-  navigate safely.
+metaDescription: Find the right dog ramp for stairs. We tested 12 models for stability, traction, and durability with senior dogs. Honest reviews to help your aging pet navigate safely.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Choosing a dog ramp for stairs means balancing safety, durability, and your
-  dog's comfort. We tested leading models with senior dogs to identify which ramps
-  truly prevent slips and support arthritic joints on the way up.
+excerpt: Choosing a dog ramp for stairs means balancing safety, durability, and your dog's comfort. We tested leading models with senior dogs to identify which ramps truly prevent slips and support arthritic joints on the way up.
 pillarSlug: mobility-solutions
 relatedProducts:
 - B0FT32PL8L
@@ -24,11 +20,9 @@ tags:
 - home modifications
 - large breed support
 - non-slip surfaces
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/dog-ramps-for-stairs.jpg
 cardTitle: Aging Dogs Climbing Stairs? This Joint Support Changes Everything
-cardPick: Dasuquin targets stiffness and mobility loss with clinically-proven ingredients
-  senior dogs need most.
----
+cardPick: Dasuquin targets stiffness and mobility loss with clinically-proven ingredients senior dogs need most.---
 
 # Introduction
 

@@ -1,12 +1,8 @@
 ---
 title: 'Best Orthopedic Dog Beds for Arthritis: Real-World Testing & Comparisons'
-metaDescription: Tested orthopedic dog beds for senior dogs with arthritis. Compare
-  foam density, durability, and cost. Find the right bed for joint relief and comfortable
-  sleep.
+metaDescription: Tested orthopedic dog beds for senior dogs with arthritis. Compare foam density, durability, and cost. Find the right bed for joint relief and comfortable sleep.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: We tested six orthopedic dog beds with arthritic seniors over 18 months.
-  Here's what actually relieves joint pain, holds up to wear, and delivers real value—plus
-  cost breakdowns to find your best match.
+excerpt: We tested six orthopedic dog beds with arthritic seniors over 18 months. Here's what actually relieves joint pain, holds up to wear, and delivers real value—plus cost breakdowns to find your best match.
 pillarSlug: comfort-mobility
 relatedProducts:
 - B07PXGQC1Q
@@ -24,11 +20,9 @@ tags:
 - pet mobility
 - dog health
 - pet care
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/orthopedic-beds-arthritis-dogs.jpg
 cardTitle: Best Orthopedic Dog Beds for Senior Pets with Arthritis
-cardPick: ChomChom Pet Hair Remover tackles shedding without bending, perfect for
-  arthritic seniors who struggle with grooming.
----
+cardPick: ChomChom Pet Hair Remover tackles shedding without bending, perfect for arthritic seniors who struggle with grooming.---
 
 ## Introduction
 

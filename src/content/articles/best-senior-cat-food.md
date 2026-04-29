@@ -1,10 +1,8 @@
 ---
 title: Choosing the Best Senior Cat Food for Weight Management and Sensitive Stomachs
-metaDescription: Evidence-backed comparison of 15 senior cat foods for weight management
-  and digestive health, tested with aging felines.
+metaDescription: Evidence-backed comparison of 15 senior cat foods for weight management and digestive health, tested with aging felines.
 publishedAt: '2026-04-28'
-excerpt: For cats over 8 years old, the right nutrition makes all the difference.
-  We tested 15 foods for digestibility, calorie density, and cost per meal.
+excerpt: For cats over 8 years old, the right nutrition makes all the difference. We tested 15 foods for digestibility, calorie density, and cost per meal.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B004QM8SLG
@@ -21,8 +19,7 @@ tags:
 - digestive health
 - low calorie cat food
 - protein sources
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/best-senior-cat-food.jpg---
 
 ## Introduction
 

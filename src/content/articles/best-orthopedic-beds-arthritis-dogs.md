@@ -1,12 +1,8 @@
 ---
 title: The Best Orthopedic Dog Beds for Arthritis and Joint Pain
-metaDescription: We tested 14 orthopedic dog beds to find the best options for senior
-  dogs with arthritis. Compare materials, costs, and real-world durability for pain
-  relief.
+metaDescription: We tested 14 orthopedic dog beds to find the best options for senior dogs with arthritis. Compare materials, costs, and real-world durability for pain relief.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: After 18 months of testing with three arthritic dogs, we found orthopedic
-  beds with memory foam and bolstered edges provide the best joint support. Here's
-  how to avoid overpaying for features your dog won't use.
+excerpt: After 18 months of testing with three arthritic dogs, we found orthopedic beds with memory foam and bolstered edges provide the best joint support. Here's how to avoid overpaying for features your dog won't use.
 pillarSlug: joint-mobility
 relatedProducts:
 - B0DHV8SCLS
@@ -25,8 +21,7 @@ tags:
 - joint pain solutions
 - large dog support
 - orthopedic foam
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/best-orthopedic-beds-arthritis-dogs.jpg---
 
 ## Introduction
 

@@ -1,13 +1,8 @@
 ---
 title: 'Feeding Senior Cats with Sensitive Stomachs: A Comprehensive Guide'
-metaDescription: Struggling with your senior cat's digestive issues? We compare 8
-  specialized foods, analyze cost-per-meal, and reveal which formulas actually work
-  for delicate systems.
+metaDescription: Struggling with your senior cat's digestive issues? We compare 8 specialized foods, analyze cost-per-meal, and reveal which formulas actually work for delicate systems.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: When your 12-year-old cat starts vomiting after meals or refusing food, finding
-  the right nutrition becomes urgent. We tested 8 senior cat foods for sensitive stomachs,
-  analyzing ingredients, digestibility, and real-owner experiences to help you make
-  an informed choice.
+excerpt: When your 12-year-old cat starts vomiting after meals or refusing food, finding the right nutrition becomes urgent. We tested 8 senior cat foods for sensitive stomachs, analyzing ingredients, digestibility, and real-owner experiences to help you make an informed choice.
 pillarSlug: nutrition-comfort
 relatedProducts:
 - B0DHV8SCLS
@@ -28,8 +23,7 @@ tags:
 - hydration
 - palatability
 - hairball control
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/feeding-senior-cats-sensitive-stomachs.jpg---
 
 # Introduction
 

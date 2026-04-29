@@ -1,12 +1,8 @@
 ---
 title: The Benefits of Omega-3 Fatty Acids for Senior Dogs and Cats
-metaDescription: A deep dive into how omega-3 fatty acids can support joint health,
-  cognitive function, and skin/coat quality in aging pets, with evidence-informed
-  product comparisons.
+metaDescription: A deep dive into how omega-3 fatty acids can support joint health, cognitive function, and skin/coat quality in aging pets, with evidence-informed product comparisons.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Omega-3 fatty acids aren't just hype—they're scientifically proven to help
-  senior pets with arthritis, cognitive decline, and dry skin. We compare 8 top supplements
-  for bioavailability, dosing, and value.
+excerpt: Omega-3 fatty acids aren't just hype—they're scientifically proven to help senior pets with arthritis, cognitive decline, and dry skin. We compare 8 top supplements for bioavailability, dosing, and value.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B00063RWT8
@@ -26,8 +22,7 @@ tags:
 - skin and coat
 - omega-3 dosage
 - veterinary nutrition
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/omega-3-fatty-acids-senior-pets.jpg---
 
 # Introduction
 

@@ -1,13 +1,8 @@
 ---
 title: 'Best Heating Pads for Senior Cats: Safety, Warmth & Arthritis Relief'
-metaDescription: Tested heating pads for senior cats with arthritis. Compare safety
-  features, temperature control, durability, and real-world performance across 8 models—plus
-  alternatives for cats who reject traditional pads.
+metaDescription: Tested heating pads for senior cats with arthritis. Compare safety features, temperature control, durability, and real-world performance across 8 models—plus alternatives for cats who reject traditional pads.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: When your older cat struggles with stiffness, the right heating pad can ease
-  joint pain and keep them comfortable. We tested 12 models over six months—measuring
-  temperature consistency, safety features, and long-term durability—to find options
-  that truly help senior cats without overheating risk.
+excerpt: When your older cat struggles with stiffness, the right heating pad can ease joint pain and keep them comfortable. We tested 12 models over six months—measuring temperature consistency, safety features, and long-term durability—to find options that truly help senior cats without overheating risk.
 pillarSlug: comfort-and-care
 relatedProducts:
 - B0FT32PL8L
@@ -25,11 +20,9 @@ tags:
 - orthopedic pet products
 - feline mobility
 - cold weather pet care
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/heating-pads-for-older-cats.jpg
 cardTitle: 'Senior Cat Joint Care: Gentle Relief for Aging Feline Arthritis'
-cardPick: Glucosamine and MSM formula specifically targets cartilage support and mobility
-  in aging cats experiencing stiffness and slower movement.
----
+cardPick: Glucosamine and MSM formula specifically targets cartilage support and mobility in aging cats experiencing stiffness and slower movement.---
 
 ## Introduction
 

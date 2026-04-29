@@ -1,12 +1,8 @@
 ---
 title: 'Glucosamine and Chondroitin for Senior Dogs: Dosage and Benefits'
-metaDescription: A practical guide to choosing glucosamine and chondroitin supplements
-  for senior dogs, including dosage recommendations, product comparisons, and cost
-  analysis.
+metaDescription: A practical guide to choosing glucosamine and chondroitin supplements for senior dogs, including dosage recommendations, product comparisons, and cost analysis.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Learn how glucosamine and chondroitin can support joint health in aging dogs,
-  with evidence-based recommendations on dosage, product selection, and long-term
-  use.
+excerpt: Learn how glucosamine and chondroitin can support joint health in aging dogs, with evidence-based recommendations on dosage, product selection, and long-term use.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B00063RWT8
@@ -24,11 +20,9 @@ tags:
 - dog supplements
 - arthritis support
 - mobility aids
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/glucosamine-chondroitin-senior-dogs.jpg
 cardTitle: 'Keep Senior Dogs Mobile: Glucosamine, Chondroitin, Joint Care'
-cardPick: Greenies Dental Chews support overall wellness while addressing joint health
-  concerns common in aging dogs.
----
+cardPick: Greenies Dental Chews support overall wellness while addressing joint health concerns common in aging dogs.---
 
 ## Introduction
 

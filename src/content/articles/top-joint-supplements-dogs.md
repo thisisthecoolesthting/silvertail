@@ -1,12 +1,8 @@
 ---
 title: 'Top 5 Joint Supplements for Senior Dogs: Glucosamine, Chondroitin & More'
-metaDescription: Evidence-based comparison of joint supplements for senior dogs, including
-  ingredient breakdowns, cost analysis, and real-world performance from long-term
-  testing with older pets.
+metaDescription: Evidence-based comparison of joint supplements for senior dogs, including ingredient breakdowns, cost analysis, and real-world performance from long-term testing with older pets.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: We tested 15+ joint supplements with our senior dogs to compare glucosamine,
-  chondroitin, MSM, and omega-3 formulations. Here's what actually worked for stiffness,
-  stairs, and mobility in dogs 8+ years old.
+excerpt: We tested 15+ joint supplements with our senior dogs to compare glucosamine, chondroitin, MSM, and omega-3 formulations. Here's what actually worked for stiffness, stairs, and mobility in dogs 8+ years old.
 pillarSlug: nutrition-supplements
 status: published
 tags:
@@ -26,11 +22,9 @@ relatedProducts:
 - B0F54TYKF9
 - B085VZPR2Y
 - B0CGW2TFSV
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/top-joint-supplements-dogs.jpg
 cardTitle: 'Best Joint Supplements for Senior Dogs: Vet-Approved Relief'
-cardPick: Nutramax Cosequin delivers maximum-strength glucosamine and chondroitin,
-  proven to ease stiffness and restore mobility in aging dogs.
----
+cardPick: Nutramax Cosequin delivers maximum-strength glucosamine and chondroitin, proven to ease stiffness and restore mobility in aging dogs.---
 
 ## Introduction
 

@@ -1,12 +1,8 @@
 ---
 title: 'The Best Heating Pads for Older Cats: Keeping Them Warm and Comfortable'
-metaDescription: A detailed comparison of heating pads for senior cats, covering safety
-  features, heat retention, and real-world performance to help you choose the best
-  option for your aging feline.
+metaDescription: A detailed comparison of heating pads for senior cats, covering safety features, heat retention, and real-world performance to help you choose the best option for your aging feline.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Discover the best heating pads for older cats, focusing on safety, comfort,
-  and durability. Our in-depth review compares top products to help you make an informed
-  decision for your senior pet.
+excerpt: Discover the best heating pads for older cats, focusing on safety, comfort, and durability. Our in-depth review compares top products to help you make an informed decision for your senior pet.
 pillarSlug: nutrition-comfort
 relatedProducts:
 - B0DHV8SCLS
@@ -24,8 +20,7 @@ tags:
 - winter pet care
 - orthopedic pet products
 - cat health
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/heating-pads-older-cats-comfort.jpg---
 
 ## Introduction
 

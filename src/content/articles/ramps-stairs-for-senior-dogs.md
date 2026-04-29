@@ -1,12 +1,8 @@
 ---
 title: 'Ramps and Stairs: Helping Your Senior Dog Navigate Your Home'
-metaDescription: A detailed comparison of ramps and stairs for senior dogs, including
-  real-world performance, cost analysis, and alternatives to help your aging pet move
-  safely.
+metaDescription: A detailed comparison of ramps and stairs for senior dogs, including real-world performance, cost analysis, and alternatives to help your aging pet move safely.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Discover the best ramps and stairs for senior dogs to help them navigate
-  your home safely. Our in-depth review covers durability, cost, and practical tips
-  for pet owners.
+excerpt: Discover the best ramps and stairs for senior dogs to help them navigate your home safely. Our in-depth review covers durability, cost, and practical tips for pet owners.
 pillarSlug: mobility-aids
 relatedProducts:
 - B0DHV8SCLS
@@ -24,8 +20,7 @@ tags:
 - aging pets
 - orthopedic support
 - home pet solutions
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/ramps-stairs-for-senior-dogs.jpg---
 
 ## Introduction
 

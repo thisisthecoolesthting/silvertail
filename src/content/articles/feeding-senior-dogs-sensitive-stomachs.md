@@ -1,11 +1,8 @@
 ---
 title: 'Feeding Your Senior Dog with a Sensitive Stomach: A Guide'
-metaDescription: Discover the best food options and feeding strategies for senior
-  dogs with sensitive stomachs, backed by real-world testing and cost analysis.
+metaDescription: Discover the best food options and feeding strategies for senior dogs with sensitive stomachs, backed by real-world testing and cost analysis.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Choosing the right food for a senior dog with a sensitive stomach can be
-  challenging. This guide compares top products, analyzes cost efficiency, and offers
-  practical feeding tips.
+excerpt: Choosing the right food for a senior dog with a sensitive stomach can be challenging. This guide compares top products, analyzes cost efficiency, and offers practical feeding tips.
 pillarSlug: nutrition-diet
 relatedProducts:
 - B093TCYF9T
@@ -23,8 +20,7 @@ tags:
 - senior pet care
 - dog food comparison
 - cost analysis
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/feeding-senior-dogs-sensitive-stomachs.jpg---
 
 ## Introduction
 

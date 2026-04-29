@@ -1,11 +1,8 @@
 ---
 title: Essential Dental Care Tips for Senior Dogs and Cats
-metaDescription: Comprehensive guide to maintaining dental health in senior pets,
-  covering products, routines, and cost-effective solutions for aging dogs and cats.
+metaDescription: Comprehensive guide to maintaining dental health in senior pets, covering products, routines, and cost-effective solutions for aging dogs and cats.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Learn how to care for your senior pet's dental health with our in-depth guide
-  comparing the best products, routines, and cost-effective solutions for aging dogs
-  and cats.
+excerpt: Learn how to care for your senior pet's dental health with our in-depth guide comparing the best products, routines, and cost-effective solutions for aging dogs and cats.
 pillarSlug: health-wellness
 relatedProducts:
 - B00063RWT8
@@ -26,8 +23,7 @@ tags:
 - pet oral hygiene
 - dental chews for pets
 - water additives for pets
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/dental-care-for-aging-pets.jpg---
 
 ## Introduction
 

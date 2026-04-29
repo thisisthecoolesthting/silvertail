@@ -1,12 +1,8 @@
 ---
 title: Choosing the Right Mobility Ramps and Stairs for Your Older Dog
-metaDescription: A detailed comparison of mobility aids for senior dogs, including
-  ramps and stairs, with real-world testing insights and cost analysis to help you
-  make the best choice for your aging pet.
+metaDescription: A detailed comparison of mobility aids for senior dogs, including ramps and stairs, with real-world testing insights and cost analysis to help you make the best choice for your aging pet.
 publishedAt: '2026-04-29'
-excerpt: Discover the best mobility ramps and stairs for older dogs, with side-by-side
-  comparisons, durability tests, and cost breakdowns to ensure your pet's safety and
-  comfort during their golden years.
+excerpt: Discover the best mobility ramps and stairs for older dogs, with side-by-side comparisons, durability tests, and cost breakdowns to ensure your pet's safety and comfort during their golden years.
 pillarSlug: joint-mobility
 relatedProducts:
 - B0DHV8SCLS
@@ -26,8 +22,7 @@ tags:
 - aging pets
 - mobility solutions
 - dog care
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/mobility-ramps-stairs-older-dogs.jpg---
 
 ## Introduction
 

@@ -1,12 +1,8 @@
 ---
 title: The 5 Best Orthopedic Dog Beds for Arthritis and Joint Pain
-metaDescription: After testing 14 beds with senior dogs, we recommend orthopedic options
-  that actually relieve joint pain. Compare memory foam, cooling gel, and bolstered
-  designs with cost-per-use math.
+metaDescription: After testing 14 beds with senior dogs, we recommend orthopedic options that actually relieve joint pain. Compare memory foam, cooling gel, and bolstered designs with cost-per-use math.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Choosing the right orthopedic bed can reduce pain medication needs for arthritic
-  dogs. We tested 14 beds over 6 months to identify which designs provide lasting
-  support for hips and joints.
+excerpt: Choosing the right orthopedic bed can reduce pain medication needs for arthritic dogs. We tested 14 beds over 6 months to identify which designs provide lasting support for hips and joints.
 pillarSlug: mobility-comfort
 relatedProducts:
 - B0CB75LML9
@@ -24,11 +20,9 @@ tags:
 - senior dog comfort
 - mobility aids
 - pressure relief
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/best-orthopedic-dog-beds.jpg
 cardTitle: Best Orthopedic Beds for Aging Dogs with Arthritis
-cardPick: Nutramax Dasuquin combines glucosamine and MSM to reduce joint inflammation
-  and improve mobility in senior dogs.
----
+cardPick: Nutramax Dasuquin combines glucosamine and MSM to reduce joint inflammation and improve mobility in senior dogs.---
 
 ## Introduction
 

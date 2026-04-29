@@ -1,11 +1,8 @@
 ---
 title: Providing Compassionate At-Home Hospice Care for Your Senior Pet
-metaDescription: A practical guide to creating a comfortable hospice environment at
-  home for aging dogs and cats, including product recommendations and daily care strategies.
+metaDescription: A practical guide to creating a comfortable hospice environment at home for aging dogs and cats, including product recommendations and daily care strategies.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: When your senior pet enters their final stage of life, creating a peaceful
-  home hospice environment can make all the difference. This guide covers essential
-  supplies, pain management options, and quality-of-life considerations.
+excerpt: When your senior pet enters their final stage of life, creating a peaceful home hospice environment can make all the difference. This guide covers essential supplies, pain management options, and quality-of-life considerations.
 pillarSlug: cognitive-care
 relatedProducts:
 - B0DHV8SCLS
@@ -26,8 +23,7 @@ tags:
 - palliative care
 - pet mobility
 - incontinence solutions
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/at-home-hospice-care-senior-pets.jpg---
 
 ## Introduction
 

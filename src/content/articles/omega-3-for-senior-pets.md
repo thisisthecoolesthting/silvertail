@@ -1,12 +1,8 @@
 ---
 title: The Benefits of Omega-3 Fatty Acids for Senior Dog and Cat Health
-metaDescription: A detailed comparison of omega-3 supplements for aging pets, covering
-  joint support, cognitive benefits, and cost-effectiveness to help you choose the
-  right product.
+metaDescription: A detailed comparison of omega-3 supplements for aging pets, covering joint support, cognitive benefits, and cost-effectiveness to help you choose the right product.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Discover how omega-3 fatty acids can improve mobility, brain function, and
-  skin health in older dogs and cats. We compare top brands, analyze real-world performance,
-  and break down costs to help you make an informed decision.
+excerpt: Discover how omega-3 fatty acids can improve mobility, brain function, and skin health in older dogs and cats. We compare top brands, analyze real-world performance, and break down costs to help you make an informed decision.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B004QM8SLG
@@ -25,8 +21,7 @@ tags:
 - fish oil for pets
 - pet nutrition
 - aging pets
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/omega-3-for-senior-pets.jpg---
 
 ## Introduction
 

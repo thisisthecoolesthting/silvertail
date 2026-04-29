@@ -1,13 +1,8 @@
 ---
 title: 'Best Senior Cat Food for Weight Management: 12 Formulas Tested'
-metaDescription: Evidence-based senior cat food comparison for healthy weight loss.
-  We tested 12 formulas with aging cats, analyzing protein, calories, and real-world
-  results.
+metaDescription: Evidence-based senior cat food comparison for healthy weight loss. We tested 12 formulas with aging cats, analyzing protein, calories, and real-world results.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: When your older cat loses muscle or gains unhealthy weight, the right food
-  becomes critical. We tested 12 senior formulas designed for aging cats' metabolic
-  needs, comparing protein quality, calorie density, and how cats actually ate them
-  over six months.
+excerpt: When your older cat loses muscle or gains unhealthy weight, the right food becomes critical. We tested 12 senior formulas designed for aging cats' metabolic needs, comparing protein quality, calorie density, and how cats actually ate them over six months.
 pillarSlug: health-nutrition
 status: published
 tags:
@@ -26,11 +21,9 @@ relatedProducts:
 - B07TC2BK1X
 - B07YT4JWPK
 - B08GG9CMLR
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/senior-cat-weight-loss-food.jpg
 cardTitle: 'Senior Cat Weight Management: Which Formula Keeps Them Healthy'
-cardPick: ChomChom Pet Hair Remover handles shedding without stress, ideal for senior
-  cats with sensitive skin.
----
+cardPick: ChomChom Pet Hair Remover handles shedding without stress, ideal for senior cats with sensitive skin.---
 
 ## Introduction
 

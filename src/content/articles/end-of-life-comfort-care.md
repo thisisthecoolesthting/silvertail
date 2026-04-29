@@ -1,12 +1,8 @@
 ---
 title: Providing End-of-Life Comfort for Your Senior Pet at Home
-metaDescription: A compassionate guide to creating comfort for aging pets with orthopedic
-  beds, mobility aids, and hospice care essentials. Compare 12 tested products that
-  ease final days.
+metaDescription: A compassionate guide to creating comfort for aging pets with orthopedic beds, mobility aids, and hospice care essentials. Compare 12 tested products that ease final days.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your senior dog or cat shows signs of decline, these evidence-backed
-  comfort solutions help manage pain, maintain dignity, and create peaceful moments.
-  We tested 12 products in our own homes.
+excerpt: When your senior dog or cat shows signs of decline, these evidence-backed comfort solutions help manage pain, maintain dignity, and create peaceful moments. We tested 12 products in our own homes.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -26,8 +22,7 @@ tags:
 - end-of-life care
 - pain management
 - pet quality of life
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/end-of-life-comfort-care.jpg---
 
 ## Introduction
 

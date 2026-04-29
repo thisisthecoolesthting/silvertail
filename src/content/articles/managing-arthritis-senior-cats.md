@@ -1,10 +1,8 @@
 ---
 title: 'Managing Arthritis in Senior Cats: Symptoms and Solutions'
-metaDescription: A comprehensive guide to recognizing arthritis in older cats and
-  evidence-based solutions to improve their comfort, mobility, and quality of life.
+metaDescription: A comprehensive guide to recognizing arthritis in older cats and evidence-based solutions to improve their comfort, mobility, and quality of life.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Learn how to identify arthritis symptoms in aging cats and discover practical
-  solutions from joint supplements to orthopedic beds that can help manage their discomfort.
+excerpt: Learn how to identify arthritis symptoms in aging cats and discover practical solutions from joint supplements to orthopedic beds that can help manage their discomfort.
 pillarSlug: cognitive-care
 relatedProducts:
 - B0DHV8SCLS
@@ -22,8 +20,7 @@ tags:
 - orthopedic cat beds
 - pain management
 - aging cats
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/managing-arthritis-senior-cats.jpg---
 
 ## Introduction
 

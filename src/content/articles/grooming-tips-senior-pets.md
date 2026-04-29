@@ -1,12 +1,8 @@
 ---
 title: Gentle Grooming Tips for Senior Dogs and Cats
-metaDescription: Discover the safest grooming tools and techniques for older pets
-  with arthritis, thinning fur, or sensitive skin. Our hands-on guide compares 8 products
-  tested with senior animals.
+metaDescription: Discover the safest grooming tools and techniques for older pets with arthritis, thinning fur, or sensitive skin. Our hands-on guide compares 8 products tested with senior animals.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: As pets age, their grooming needs change dramatically. We tested 12 brushes,
-  combs, and cleaning tools to find the gentlest options for senior dogs and cats
-  with mobility issues or sensitive skin.
+excerpt: As pets age, their grooming needs change dramatically. We tested 12 brushes, combs, and cleaning tools to find the gentlest options for senior dogs and cats with mobility issues or sensitive skin.
 pillarSlug: health-wellness
 relatedProducts:
 - B004QM8SLG
@@ -27,8 +23,7 @@ tags:
 - dematting combs
 - sensitive skin care
 - mobility-friendly grooming
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/grooming-tips-senior-pets.jpg---
 
 ## Introduction
 

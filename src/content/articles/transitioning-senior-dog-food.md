@@ -1,13 +1,8 @@
 ---
 title: 'How to Transition Your Senior Dog to New Food: A Step-by-Step Guide'
-metaDescription: Safe, gradual food transitions for senior dogs—avoiding digestive
-  upset, comparing top formulas, and choosing the right senior diet for your aging
-  companion.
+metaDescription: Safe, gradual food transitions for senior dogs—avoiding digestive upset, comparing top formulas, and choosing the right senior diet for your aging companion.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Switching senior dogs to new food requires patience and planning. We tested
-  six formulas over 90 days to show you the safest transition method, which foods
-  perform best for aging digestion, and how to spot real quality versus marketing
-  hype.
+excerpt: Switching senior dogs to new food requires patience and planning. We tested six formulas over 90 days to show you the safest transition method, which foods perform best for aging digestion, and how to spot real quality versus marketing hype.
 pillarSlug: health-and-nutrition
 relatedProducts:
 - B0FT32PL8L
@@ -25,11 +20,9 @@ tags:
 - protein sources
 - joint support
 - weight management
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/transitioning-senior-dog-food.jpg
 cardTitle: 'Senior Dogs Need Different Food: Safe Transition Tips'
-cardPick: Nutramax Dasuquin supports aging joints while you switch foods, easing stiffness
-  and keeping your senior comfortable through dietary changes.
----
+cardPick: Nutramax Dasuquin supports aging joints while you switch foods, easing stiffness and keeping your senior comfortable through dietary changes.---
 
 # Introduction
 

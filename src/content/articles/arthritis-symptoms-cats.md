@@ -1,12 +1,8 @@
 ---
 title: 'Signs of Arthritis in Senior Cats: What to Look For'
-metaDescription: Learn how to spot early signs of arthritis in older cats, compare
-  joint support products, and discover practical ways to improve your feline's mobility
-  and comfort.
+metaDescription: Learn how to spot early signs of arthritis in older cats, compare joint support products, and discover practical ways to improve your feline's mobility and comfort.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Is your senior cat slowing down? Subtle changes in movement, grooming, or
-  behavior could signal arthritis. This guide helps you recognize symptoms and choose
-  effective support solutions.
+excerpt: Is your senior cat slowing down? Subtle changes in movement, grooming, or behavior could signal arthritis. This guide helps you recognize symptoms and choose effective support solutions.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -24,11 +20,9 @@ tags:
 - pain management
 - orthopedic cat beds
 - aging pets
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/arthritis-symptoms-cats.jpg
 cardTitle: 'Senior Cat Stiffness: Joint Supplements That Actually Help Aging Pets'
-cardPick: Cosequin's proven formula reduces inflammation and improves mobility in
-  senior cats struggling with arthritis pain and stiffness.
----
+cardPick: Cosequin's proven formula reduces inflammation and improves mobility in senior cats struggling with arthritis pain and stiffness.---
 
 ## Introduction
 

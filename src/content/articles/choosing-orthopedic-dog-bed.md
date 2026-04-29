@@ -1,14 +1,8 @@
 ---
-title: 'How to Choose an Orthopedic Dog Bed for Arthritis: Testing 17 Models Over
-  2 Years'
-metaDescription: Compare orthopedic dog beds for senior pets with arthritis. We tested
-  17 models over 2 years, analyzing foam density, durability, pressure relief, cost-per-night,
-  and real-world performance to help you find the right support.
+title: 'How to Choose an Orthopedic Dog Bed for Arthritis: Testing 17 Models Over 2 Years'
+metaDescription: Compare orthopedic dog beds for senior pets with arthritis. We tested 17 models over 2 years, analyzing foam density, durability, pressure relief, cost-per-night, and real-world performance to help you find the right support.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: The right orthopedic bed reduces morning stiffness within weeks and can cost
-  less per night than frequent replacements. We tested 17 models across 42 dogs, comparing
-  foam density, edge support, waterproofing, and durability—plus budget alternatives
-  that outperform beds costing 3x more.
+excerpt: The right orthopedic bed reduces morning stiffness within weeks and can cost less per night than frequent replacements. We tested 17 models across 42 dogs, comparing foam density, edge support, waterproofing, and durability—plus budget alternatives that outperform beds costing 3x more.
 pillarSlug: comfort-and-care
 relatedProducts:
 - B0FT32PL8L
@@ -27,11 +21,9 @@ tags:
 - mobility support
 - dog health
 - pet products
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/choosing-orthopedic-dog-bed.jpg
 cardTitle: Best Orthopedic Dog Beds for Senior Dogs With Arthritis
-cardPick: Nutramax Dasuquin with MSM supports joint health and mobility, helping aging
-  dogs move easier and sleep better.
----
+cardPick: Nutramax Dasuquin with MSM supports joint health and mobility, helping aging dogs move easier and sleep better.---
 
 ## Introduction
 

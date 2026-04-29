@@ -1,12 +1,8 @@
 ---
 title: 'Arthritis in Senior Cats: Symptoms, Diagnosis, and Home Care'
-metaDescription: Learn how to recognize arthritis in older cats, understand treatment
-  options, and discover the best supportive products to improve your cat's mobility
-  and comfort.
+metaDescription: Learn how to recognize arthritis in older cats, understand treatment options, and discover the best supportive products to improve your cat's mobility and comfort.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Arthritis affects over 90% of cats aged 12+ years. This guide covers subtle
-  symptoms most owners miss, vet-approved pain management strategies, and tested products
-  that actually help stiff joints.
+excerpt: Arthritis affects over 90% of cats aged 12+ years. This guide covers subtle symptoms most owners miss, vet-approved pain management strategies, and tested products that actually help stiff joints.
 pillarSlug: health-wellness
 relatedProducts:
 - B004QM8SLG
@@ -24,8 +20,7 @@ tags:
 - pain relief for cats
 - orthopedic cat beds
 - aging cats
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/arthritis-in-senior-cats-signs-care.jpg---
 
 ## Introduction
 

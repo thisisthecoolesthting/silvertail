@@ -1,11 +1,8 @@
 ---
 title: 'Helping Your Senior Cat with Mobility: Ramps, Stairs, and More'
-metaDescription: Practical solutions for senior cat mobility issues, including ramps,
-  stairs, and other aids to help your aging feline move comfortably around your home.
+metaDescription: Practical solutions for senior cat mobility issues, including ramps, stairs, and other aids to help your aging feline move comfortably around your home.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Discover the best mobility aids for senior cats, from ramps to stairs, and
-  learn how to choose the right solution to help your aging feline navigate your home
-  with ease and comfort.
+excerpt: Discover the best mobility aids for senior cats, from ramps to stairs, and learn how to choose the right solution to help your aging feline navigate your home with ease and comfort.
 pillarSlug: mobility-comfort
 relatedProducts:
 - B0CB75LML9
@@ -23,11 +20,9 @@ tags:
 - pet mobility aids
 - orthopedic cat beds
 - cat comfort
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/cat-mobility-solutions.jpg
 cardTitle: 'Senior Cat Mobility: Ramps, Stairs, Supplements for Aging Pets'
-cardPick: Cosequin's maximum strength formula targets joint stiffness and mobility
-  loss that senior cats experience, supporting easier movement through daily life.
----
+cardPick: Cosequin's maximum strength formula targets joint stiffness and mobility loss that senior cats experience, supporting easier movement through daily life.---
 
 ## Introduction
 

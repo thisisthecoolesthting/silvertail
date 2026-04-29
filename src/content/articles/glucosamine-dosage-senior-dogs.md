@@ -1,12 +1,8 @@
 ---
 title: 'Glucosamine Dosage for Senior Dogs: Complete Testing Guide & Dosage Charts'
-metaDescription: Evidence-based glucosamine dosing for senior dogs with dosage charts,
-  3-supplement comparison, cost analysis, and 18 months of real-world testing data.
+metaDescription: Evidence-based glucosamine dosing for senior dogs with dosage charts, 3-supplement comparison, cost analysis, and 18 months of real-world testing data.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: What's the right glucosamine dose for your 10+ year old dog? We tested 14
-  supplements over 18 months with three senior dogs, documenting exact dosages, absorption
-  differences, and cost-per-month breakdowns to help you choose the best joint supplement
-  for your aging dog's needs.
+excerpt: What's the right glucosamine dose for your 10+ year old dog? We tested 14 supplements over 18 months with three senior dogs, documenting exact dosages, absorption differences, and cost-per-month breakdowns to help you choose the best joint supplement for your aging dog's needs.
 pillarSlug: health-nutrition
 relatedProducts:
 - B07PXGQC1Q
@@ -24,11 +20,9 @@ tags:
 - canine mobility
 - dog health
 - aging pets
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/glucosamine-dosage-senior-dogs.jpg
 cardTitle: 'Senior Dog Joint Care: Glucosamine Dosing Guide for Aging Pets'
-cardPick: ChomChom removes stubborn fur mats that senior dogs can't groom themselves,
-  preventing skin infections and discomfort.
----
+cardPick: ChomChom removes stubborn fur mats that senior dogs can't groom themselves, preventing skin infections and discomfort.---
 
 ## Introduction
 

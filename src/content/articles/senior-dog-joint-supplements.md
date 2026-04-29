@@ -1,12 +1,8 @@
 ---
 title: 'Top Joint Supplements for Senior Dogs: Glucosamine, Chondroitin, and More'
-metaDescription: Evidence-based comparison of 12 joint supplements for senior dogs,
-  with cost analysis, real-world testing notes, and veterinarian-recommended ingredients
-  to support mobility in aging pets.
+metaDescription: Evidence-based comparison of 12 joint supplements for senior dogs, with cost analysis, real-world testing notes, and veterinarian-recommended ingredients to support mobility in aging pets.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your older dog starts slowing down, quality joint supplements can make
-  a real difference. We compare 12 top-rated options for glucosamine, chondroitin,
-  and omega-3s—with price breakdowns and long-term testing results.
+excerpt: When your older dog starts slowing down, quality joint supplements can make a real difference. We compare 12 top-rated options for glucosamine, chondroitin, and omega-3s—with price breakdowns and long-term testing results.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B0CB75LML9
@@ -25,8 +21,7 @@ tags:
 - arthritis support
 - dog supplements
 - aging pets
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/senior-dog-joint-supplements.jpg---
 
 ## Introduction
 

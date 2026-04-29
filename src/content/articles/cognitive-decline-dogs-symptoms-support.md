@@ -1,12 +1,8 @@
 ---
 title: Recognizing and Supporting Cognitive Decline in Older Dogs
-metaDescription: Learn how to identify cognitive decline in senior dogs and compare
-  evidence-based support options like supplements, diets, and enrichment tools to
-  improve their quality of life.
+metaDescription: Learn how to identify cognitive decline in senior dogs and compare evidence-based support options like supplements, diets, and enrichment tools to improve their quality of life.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: As dogs age, cognitive dysfunction affects up to 60% of pets over 11. This
-  guide compares 12 proven interventions—from Senilife supplements to puzzle feeders—with
-  real-world testing data on what actually slows decline.
+excerpt: As dogs age, cognitive dysfunction affects up to 60% of pets over 11. This guide compares 12 proven interventions—from Senilife supplements to puzzle feeders—with real-world testing data on what actually slows decline.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -27,8 +23,7 @@ tags:
 - enrichment toys
 - omega-3 for dogs
 - cognitive support
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/cognitive-decline-dogs-symptoms-support.jpg---
 
 ## Introduction
 

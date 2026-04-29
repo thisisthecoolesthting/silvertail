@@ -1,13 +1,8 @@
 ---
 title: Providing Compassionate At-Home Hospice Care for Your Senior Pet
-metaDescription: A practical guide to comfort-focused products and routines for pets
-  in their final months, with honest comparisons of pain relief pads, mobility aids,
-  and hygiene solutions tested by long-term caregivers.
+metaDescription: A practical guide to comfort-focused products and routines for pets in their final months, with honest comparisons of pain relief pads, mobility aids, and hygiene solutions tested by long-term caregivers.
 publishedAt: '2026-04-28T00:00:00-05:00'
-excerpt: When your aging pet enters hospice care, small comforts make big differences.
-  We compare 8 essential products for pain management, mobility support, and cleanliness—from
-  orthopedic beds to waterproof pads—with real-world testing notes on durability and
-  cost per use.
+excerpt: When your aging pet enters hospice care, small comforts make big differences. We compare 8 essential products for pain management, mobility support, and cleanliness—from orthopedic beds to waterproof pads—with real-world testing notes on durability and cost per use.
 pillarSlug: health-wellness
 relatedProducts:
 - B004QM8SLG
@@ -27,8 +22,7 @@ tags:
 - mobility aids
 - incontinence solutions
 - caregiver support
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/at-home-pet-hospice-care.jpg---
 
 # Introduction
 

@@ -1,12 +1,8 @@
 ---
 title: 'My Cat Stopped Jumping: Solutions for Senior Feline Mobility'
-metaDescription: When your senior cat stops jumping, it's time to adapt. We tested
-  7 mobility aids to compare ramps, steps, and orthopedic solutions for arthritis
-  and muscle loss.
+metaDescription: When your senior cat stops jumping, it's time to adapt. We tested 7 mobility aids to compare ramps, steps, and orthopedic solutions for arthritis and muscle loss.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: If your older cat hesitates to jump on beds or counters, they're telling
-  you something important. We tested ramps, steps, and orthopedic solutions over 18
-  months with senior cats to show you which aids actually work—and why.
+excerpt: If your older cat hesitates to jump on beds or counters, they're telling you something important. We tested ramps, steps, and orthopedic solutions over 18 months with senior cats to show you which aids actually work—and why.
 pillarSlug: comfort-mobility
 status: published
 tags:
@@ -24,11 +20,9 @@ relatedProducts:
 - B07GR5MSKD
 - B00FLYWNYQ
 - B07L1XS33Y
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/cat-stopped-jumping-solutions.jpg
 cardTitle: 'Why Senior Cats Stop Jumping: Easy Mobility Solutions'
-cardPick: ChomChom removes loose fur painlessly without brushes, reducing matting
-  that restricts older cats' movement and comfort.
----
+cardPick: ChomChom removes loose fur painlessly without brushes, reducing matting that restricts older cats' movement and comfort.---
 
 ## Introduction
 

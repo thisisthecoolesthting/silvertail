@@ -1,12 +1,8 @@
 ---
 title: 'Omega-3 Fatty Acids: Essential for Senior Pet Health'
-metaDescription: A deep dive into omega-3 supplements for senior dogs and cats, comparing
-  top products, analyzing cost efficiency, and explaining why these fatty acids matter
-  for aging pets.
+metaDescription: A deep dive into omega-3 supplements for senior dogs and cats, comparing top products, analyzing cost efficiency, and explaining why these fatty acids matter for aging pets.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Omega-3 fatty acids support joint health, cognitive function, and skin/coat
-  quality in older pets. This guide compares 12 top-rated supplements, analyzes cost
-  per dose, and explains how to choose the right formula for your senior dog or cat.
+excerpt: Omega-3 fatty acids support joint health, cognitive function, and skin/coat quality in older pets. This guide compares 12 top-rated supplements, analyzes cost per dose, and explains how to choose the right formula for your senior dog or cat.
 pillarSlug: nutrition-supplements
 status: published
 tags:
@@ -25,8 +21,7 @@ relatedProducts:
 - B0F54TYKF9
 - B00063RWT8
 - B0CGW2TFSV
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/omega-3-benefits-senior-pets.jpg---
 
 # Introduction
 

@@ -1,12 +1,8 @@
 ---
 title: Understanding and Managing Cognitive Decline in Older Dogs
-metaDescription: Evidence-based guide to recognizing canine cognitive dysfunction
-  and choosing supportive products, from supplements to orthopedic beds, for your
-  aging dog's comfort.
+metaDescription: Evidence-based guide to recognizing canine cognitive dysfunction and choosing supportive products, from supplements to orthopedic beds, for your aging dog's comfort.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: When your senior dog starts pacing at night or forgetting familiar commands,
-  cognitive decline may be the cause. This guide compares 14 science-backed solutions
-  to slow progression and maintain quality of life.
+excerpt: When your senior dog starts pacing at night or forgetting familiar commands, cognitive decline may be the cause. This guide compares 14 science-backed solutions to slow progression and maintain quality of life.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -26,11 +22,9 @@ tags:
 - aging pets
 - nighttime anxiety
 - orthopedic dog beds
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/cognitive-decline-dogs.jpg
 cardTitle: 'Keep Senior Dogs Moving: Joint Care That Actually Works'
-cardPick: Cosequin targets stiffness and mobility loss with clinically-proven glucosamine,
-  helping aging dogs climb stairs easier and stay active longer.
----
+cardPick: Cosequin targets stiffness and mobility loss with clinically-proven glucosamine, helping aging dogs climb stairs easier and stay active longer.---
 
 # Introduction
 

@@ -1,12 +1,8 @@
 ---
 title: Signs and Management of Arthritis in Senior Cats
-metaDescription: Learn how to recognize arthritis in older cats and compare the best
-  joint supplements, orthopedic beds, and mobility aids to keep them comfortable in
-  their golden years.
+metaDescription: Learn how to recognize arthritis in older cats and compare the best joint supplements, orthopedic beds, and mobility aids to keep them comfortable in their golden years.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Arthritis affects over 90% of cats over age 12. This guide compares pain
-  relief options, from glucosamine supplements to heated beds, with real-world testing
-  insights from senior cat owners.
+excerpt: Arthritis affects over 90% of cats over age 12. This guide compares pain relief options, from glucosamine supplements to heated beds, with real-world testing insights from senior cat owners.
 pillarSlug: health-wellness
 relatedProducts:
 - B004QM8SLG
@@ -24,8 +20,7 @@ tags:
 - mobility aids
 - pain management
 - aging cats
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/managing-arthritis-in-senior-cats.jpg---
 
 ## Introduction
 

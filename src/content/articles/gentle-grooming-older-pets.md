@@ -1,12 +1,8 @@
 ---
 title: Gentle Grooming Tips for Older Pets
-metaDescription: Discover the safest grooming tools and techniques for senior dogs
-  and cats with arthritis, thin skin, or mobility issues. Our hands-on review compares
-  8 products tested on aging pets.
+metaDescription: Discover the safest grooming tools and techniques for senior dogs and cats with arthritis, thin skin, or mobility issues. Our hands-on review compares 8 products tested on aging pets.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: As pets age, their grooming needs change. This guide compares gentle brushes,
-  no-rinse shampoos, and mobility-friendly tools that reduce stress for arthritic
-  dogs and fragile senior cats.
+excerpt: As pets age, their grooming needs change. This guide compares gentle brushes, no-rinse shampoos, and mobility-friendly tools that reduce stress for arthritic dogs and fragile senior cats.
 pillarSlug: comfort-care
 status: published
 tags:
@@ -27,8 +23,7 @@ relatedProducts:
 - B085VZPR2Y
 - B093TCYF9T
 - B0CB75LML9
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/gentle-grooming-older-pets.jpg---
 
 ## Introduction
 
