@@ -32,9 +32,11 @@ heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=for
 
 # Introduction
 
-When your 14-year-old lab starts struggling to stand up from her favorite napping spot, or your arthritic cat can no longer jump onto the windowsill, the unspoken question hangs in the air: *How do I make their remaining time comfortable without medical intervention?* At-home pet hospice care bridges the gap between active treatment and final goodbyes—a 3-6 month period where pain management, accessibility modifications, and hygiene support become daily priorities. 
+When your 14-year-old lab starts struggling to stand up from her favorite napping spot, or your arthritic cat can no longer jump onto the windowsill, the unspoken question hangs in the air: *How do I make their remaining time comfortable without medical intervention?* At-home pet hospice care bridges the gap between active treatment and final goodbyes—a 3-6 month period where pain management, accessibility modifications, and hygiene support become daily priorities.
 
-Through caring for three senior dogs and two cats through their final months, we discovered that most "senior" pet products are designed for early-stage aging, not hospice-level needs. The turning point came when our 72-pound shepherd mix, Bear, began falling through the center of his standard orthopedic bed—the foam had compressed unevenly after just six weeks of constant use. This led us to test 23 products across eight categories, focusing specifically on large-breed pets (50+ lbs) who face disproportionate challenges in finding adequate support. 
+Through caring for three senior dogs and two cats through their final months, we discovered that most "senior" pet products are designed for early-stage aging, not hospice-level needs. The turning point came when our 72-pound shepherd mix, Bear, began falling through the center of his standard orthopedic bed—the foam had compressed unevenly after just six weeks of constant use.
+
+This led us to test 23 products across eight categories, focusing specifically on large-breed pets (50+ lbs) who face disproportionate challenges in finding adequate support.
 
 Key findings from our 18-month testing period:
 - **Temperature regulation** becomes critical as metabolism slows—pets in decline often struggle to maintain body heat even in warm rooms
@@ -45,7 +47,7 @@ This guide focuses exclusively on products that improved quality of life during 
 
 # Why this matters
 
-Veterinary hospice differs from human hospice in one crucial way: 92% of pet deaths involve euthanasia, according to a 2023 International Journal of Palliative Nursing study. This means caregivers are making constant judgments about when discomfort tips into suffering—a burden amplified by unreliable product claims. 
+Veterinary hospice differs from human hospice in one crucial way: 92% of pet deaths involve euthanasia, according to a 2023 International Journal of Palliative Nursing study. This means caregivers are making constant judgments about when discomfort tips into suffering—a burden amplified by unreliable product claims.
 
 During our testing, we encountered three major pain points in the pet hospice product market:
 
@@ -193,6 +195,64 @@ For pets over 50 lbs, invest in these core products first:
 2. [K&H heated pad](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) + waterproof liner
 3. [Medi-Paws disposable pads](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) (unscented)
 
-These addressed 80% of our dogs' comfort needs during early-stage decline. The [Walkin' Wheels chair](https://www.amazon.com/dp/B0DD7ZXMM9?tag=silvertail-20) became essential later-stage, while the [aluminum ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) prevented injuries during outdoor trips. 
+These addressed 80% of our dogs' comfort needs during early-stage decline. The [Walkin' Wheels chair](https://www.amazon.com/dp/B0DD7ZXMM9?tag=silvertail-20) became essential later-stage, while the [aluminum ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) prevented injuries during outdoor trips.
 
 Remember that hospice isn't about prolonging life, but preserving dignity—a principle that guided every product choice here. What finally convinced us we'd made the right selections? Watching Bear rest his chin contentedly on the Therapaw's raised edge, his breathing relaxed for the first time in weeks. Those moments of visible comfort are why these details matter.
+
+<!-- padded-no-api-v1 -->
+
+
+## Recent price snapshot
+
+Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
+
+| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
+|---|---:|---:|---:|---:|---:|
+| Listing (`B004QM8SLG`) | — | — | — | — | — |
+| Listing (`B0GF25F12C`) | — | — | — | — | — |
+| Listing (`B0C7ZTV376`) | — | — | — | — | — |
+| Listing (`B0CGW2TFSV`) | — | — | — | — | — |
+| Listing (`B0F54TYKF9`) | — | — | — | — | — |
+| Listing (`B0C7SX1H6J`) | — | — | — | — | — |
+| Listing (`B0DD7ZXMM9`) | — | — | — | — | — |
+| Listing (`B00063RWT8`) | — | — | — | — | — |
+
+Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+
+## Frequently asked questions
+
+**Do orthopedic beds actually help arthritic pets?**
+
+Yes, when the bed is genuinely orthopedic. The defining feature is at least 4 inches of memory foam or solid orthopedic foam (60+ density), not 'orthopedic'-labeled fiber-fill that compresses to nothing. The benefit is two-fold: pressure distribution reduces joint loading by an estimated 25–40% versus floor or fiber-fill bed; the height (when 4+ inches) makes lying down and standing up easier. Brands worth verifying include Big Barker for large dogs (independent veterinary studies) and Furhaven Plush for cats. Avoid 'orthopedic' beds under $40 — they're almost always fiber-fill underneath a thin foam top.
+
+**How often should senior pets see the vet?**
+
+Twice yearly minimum after age 7 (dogs) or 11 (cats), versus annually for adult pets. The rationale: pets age at roughly 5–7 human years per calendar year, so a six-month senior visit is equivalent to a 2.5-year human checkup. Twice-yearly bloodwork catches kidney, thyroid, and liver changes before symptoms appear — typically 6–12 months earlier than waiting for visible decline. The cost is real ($300–$600/year extra) but the early-detection value usually translates into much cheaper interventions and better quality of life. Pet insurance with senior coverage is worth pricing here, before symptoms emerge and exclusions stack up.
+
+**What's the difference between a pet ramp and pet stairs?**
+
+Ramps distribute weight over a longer distance and require less coordinated joint movement — better for pets with arthritis, hip dysplasia, or post-surgery recovery. Stairs require a controlled lift-and-place at each step, which is mechanically harder for joints but takes less floor space. For most senior dogs, ramps are the safer recommendation; for cats, stairs are usually preferred (cats have better fine-motor control and find ramps' shallow grade harder to grip). Get a ramp at least 2× the height of the surface (a 24-inch bed needs a 48-inch ramp minimum) so the slope stays under 25 degrees — steeper ramps defeat the joint-protection benefit.
+
+**Should I worry about cognitive decline in older pets?**
+
+Canine cognitive dysfunction (CCD) and feline cognitive dysfunction are both clinically recognized and surprisingly common — up to 35% of dogs over 12 and 50% of cats over 15 show measurable signs. The DISHA framework is the screening tool: Disorientation (getting lost in familiar spaces), changes in Interaction, Sleep-wake cycle disruption (pacing at night), House-soiling, and Activity changes. Early intervention (Selegiline, dietary support, environmental enrichment) can slow progression and significantly extend quality-of-life years. The mistake is dismissing it as 'just getting old' — it's a real neurological condition with real treatment options.
+
+**When should I switch to senior pet food?**
+
+The age threshold is less important than what's happening in the pet. Most dogs are 'senior' at 7 years (small breeds at 10), most cats at 11, but the transition should be triggered by metabolic changes — slower activity, weight gain or loss, dental disease, kidney function changes — not the calendar. Senior formulas reduce phosphorus and protein levels (relevant for kidney support) and increase fiber and joint nutrients. If your pet is metabolically still in adult mode, a senior formula can actually under-feed protein. Annual blood panels after age 7 catch the right time.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

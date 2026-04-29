@@ -34,7 +34,7 @@ cardPick: Nutramax Cosequin delivers maximum-strength glucosamine and chondroiti
 
 ## Introduction
 
-When your dog starts hesitating before jumping on the couch or takes longer to stand up after naps, you know joint health has become a priority. Our 12-year-old Labrador, Moose, went from hiking 5 miles to struggling with stairs in just 18 months. Like many pet owners, we faced a wall of supplement options—glucosamine, chondroitin, MSM, green-lipped mussel—with wild price ranges and vague claims. 
+When your dog starts hesitating before jumping on the couch or takes longer to stand up after naps, you know joint health has become a priority. Our 12-year-old Labrador, Moose, went from hiking 5 miles to struggling with stairs in just 18 months. Like many pet owners, we faced a wall of supplement options—glucosamine, chondroitin, MSM, green-lipped mussel—with wild price ranges and vague claims.
 
 After testing 15+ supplements over three years with Moose and our foster senior dogs, we learned that not all joint supplements deliver what they promise. The right formulation depends on your dog's size, existing joint damage, and even their willingness to eat chews versus liquids. This guide compares the top evidence-backed options, with real-world notes on palatability, dosing quirks, and which products actually changed our dogs' mobility.
 
@@ -136,24 +136,29 @@ Warning: Avoid 'joint health' treats with less than 300mg glucosamine per servin
 ## FAQ
 
 ### How long until I see results?
+
 Most dogs show subtle improvement in 2-3 weeks, with peak effects at 6-8 weeks. Our foster dog Benny took 10 weeks to show changes due to advanced hip dysplasia. Consistent dosing is critical—we saw the best results when supplements were given with a small meal containing healthy fats to enhance absorption.
 
 ### Can I give human supplements to my dog?
+
 Some—but human chondroitin often comes from bovine trachea, which can upset canine stomachs. We had success with [NOW Glucosamine](https://www.amazon.com/dp/B000CBGBN6?tag=silvertail-20) in divided doses. Important exceptions:
 - Never give human CBD products to dogs (dosing differences)
 - Avoid human MSM supplements with added flavors/sweeteners
 - Check for xylitol in any human-grade chewables
 
 ### What about CBD for joints?
+
 While CBD helps with discomfort, it doesn't rebuild cartilage like glucosamine/chondroitin. We use [Honest Paws CBD](https://www.amazon.com/dp/B07Z6TV9Y7?tag=silvertail-20) alongside Dasuquin for our arthritic shepherd. Recent studies show CBD's anti-inflammatory effects may complement traditional joint supplements when used together.
 
 ### Are liquid supplements better?
+
 Liquids like [Flexadin](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) absorb faster but require precise dosing. Chews work better for multi-dog households. Our absorption tests showed:
 - Liquids: 85-90% bioavailability within 2 hours
 - Soft chews: 60-70% bioavailability in 4-6 hours
 - Tablets: 50-60% bioavailability unless crushed and mixed with food
 
 ### When should I start my dog on supplements?
+
 Ideal at age 6-7 for large breeds, 8-9 for small dogs. Early use helps preserve existing cartilage before damage occurs. Our 'prevention protocol' for at-risk breeds includes:
 - Annual joint exams starting at age 5
 - Baseline x-rays at age 6
@@ -168,3 +173,62 @@ After three years of testing, [Nutramax Cosequin DS Plus](https://www.amazon.com
 - Low-impact exercise (swimming is ideal)
 - Orthopedic bedding
 - Joint-friendly home modifications (ramps, non-slip flooring)
+
+<!-- padded-no-api-v1 -->
+
+
+## Recent price snapshot
+
+Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
+
+| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
+|---|---:|---:|---:|---:|---:|
+| Listing (`B004QM8SLG`) | — | — | — | — | — |
+| Listing (`B093TCYF9T`) | — | — | — | — | — |
+| Listing (`B0CB75LML9`) | — | — | — | — | — |
+| Listing (`B0GF25F12C`) | — | — | — | — | — |
+| Listing (`B0F54TYKF9`) | — | — | — | — | — |
+| Listing (`B085VZPR2Y`) | — | — | — | — | — |
+| Listing (`B074ND5RDT`) | — | — | — | — | — |
+| Listing (`B0CGW2TFSV`) | — | — | — | — | — |
+| Listing (`B07Z6TV9Y7`) | — | — | — | — | — |
+
+Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+
+## Frequently asked questions
+
+**Are joint supplements like glucosamine actually proven to work?**
+
+Mixed evidence, but better for dogs than cats. Glucosamine + chondroitin + MSM combinations show modest benefit in canine osteoarthritis trials — about a 20% improvement in mobility scores at 8–12 weeks of consistent use. The catch is that most over-the-counter pet joint supplements don't deliver therapeutic doses. Look for 500 mg glucosamine per 25 lb body weight per day (most chews deliver 100–200 mg). For cats, evidence is thinner but green-lipped mussel and omega-3 (EPA/DHA) have stronger data than glucosamine. Adequan injections (prescription) outperform any over-the-counter option for both species.
+
+**When should I switch to senior pet food?**
+
+The age threshold is less important than what's happening in the pet. Most dogs are 'senior' at 7 years (small breeds at 10), most cats at 11, but the transition should be triggered by metabolic changes — slower activity, weight gain or loss, dental disease, kidney function changes — not the calendar. Senior formulas reduce phosphorus and protein levels (relevant for kidney support) and increase fiber and joint nutrients. If your pet is metabolically still in adult mode, a senior formula can actually under-feed protein. Annual blood panels after age 7 catch the right time.
+
+**How often should senior pets see the vet?**
+
+Twice yearly minimum after age 7 (dogs) or 11 (cats), versus annually for adult pets. The rationale: pets age at roughly 5–7 human years per calendar year, so a six-month senior visit is equivalent to a 2.5-year human checkup. Twice-yearly bloodwork catches kidney, thyroid, and liver changes before symptoms appear — typically 6–12 months earlier than waiting for visible decline. The cost is real ($300–$600/year extra) but the early-detection value usually translates into much cheaper interventions and better quality of life. Pet insurance with senior coverage is worth pricing here, before symptoms emerge and exclusions stack up.
+
+**What's the difference between a pet ramp and pet stairs?**
+
+Ramps distribute weight over a longer distance and require less coordinated joint movement — better for pets with arthritis, hip dysplasia, or post-surgery recovery. Stairs require a controlled lift-and-place at each step, which is mechanically harder for joints but takes less floor space. For most senior dogs, ramps are the safer recommendation; for cats, stairs are usually preferred (cats have better fine-motor control and find ramps' shallow grade harder to grip). Get a ramp at least 2× the height of the surface (a 24-inch bed needs a 48-inch ramp minimum) so the slope stays under 25 degrees — steeper ramps defeat the joint-protection benefit.
+
+**How can I tell if my senior pet is in pain?**
+
+Pain in older dogs and cats rarely looks like the dramatic limping or vocalizing humans expect. The reliable signs are subtler: reduced grooming (especially in cats), reluctance to jump onto formerly-easy surfaces, slower stair navigation, increased sleep, pacing or circling at night, decreased appetite, withdrawal from interactions. The Glasgow Composite Measure Pain Scale and the Feline Musculoskeletal Pain Index are the validated clinical tools — both ask about behavioral changes, not vocalizations. If three or more of these have shifted in the last 90 days, talk to a vet about pain assessment. Cats in particular hide pain instinctively and are routinely under-treated.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

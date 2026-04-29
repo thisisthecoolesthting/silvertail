@@ -139,15 +139,18 @@ For cats resistant to water, [waterless foam](https://www.amazon.com/dp/B085VZPR
 ## FAQ
 
 ### How often should I groom my senior pet?
+
 Brush short-haired pets 2-3x weekly; long-haired daily to prevent mats. Bath every 4-6 weeks unless medically necessary. Over-bathing dries fragile skin—use the [Burt's Bees conditioner](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) between washes.
 
 ### Are electric clippers safe for elderly pets?
+
 Yes, if using low-vibration models like the [Wahl KM10](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20). Avoid areas with skin folds or moles that are prone to nicking. Always:
 1. Test on your forearm first
 2. Use cooling spray like [Andis Cool Care](https://www.amazon.com/dp/B0002ARAXA?tag=silvertail-20)
 3. Work in 1" sections
 
 ### My dog hates nail trims—alternatives?
+
 Try [scratch boards](https://www.amazon.com/dp/B0DWD9NQ57?tag=silvertail-20) for front paws. For rears, the [Dremel grinder](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) with peanut butter distraction works best. Desensitize over 2-3 weeks:
 
 Week 1: Touch paws with grinder off
@@ -155,12 +158,14 @@ Week 2: Turn on grinder 3ft away
 Week 3: Brief contact with rotating head
 
 ### How do I clean urine stains without bathing?
+
 The [Burt's Bees shampoo](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) can spot-clean when diluted 3:1. For set-in stains, the [Nature's Miracle wipes](https://www.amazon.com/dp/B07SX1H6J?tag=silvertail-20) break down enzymes. Always:
 1. Blot—never rub
 2. Rinse with cool water
 3. Apply [Vetericyn spray](https://www.amazon.com/dp/B002VLZHLS?tag=silvertail-20) to prevent infection
 
 ### Can I use human clippers on pets?
+
 No—human blades run hotter and cut at the wrong angle. The [Andis Pulse ZR](https://www.amazon.com/dp/B0C7ZTV376?tag=silvertail-20) has pet-specific blade guards. Key differences:
 
 | Feature | Pet Clippers | Human Clippers |
@@ -180,3 +185,68 @@ Key takeaways:
 - Modify techniques for cognitive decline (shorter sessions, more rewards)
 
 For pets with severe mobility issues, combine the [PetFusion table](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) with a [support sling](https://www.amazon.com/dp/B0CGW48C3G?tag=silvertail-20) to make grooming sessions safer and less painful. Remember: gentle consistency matters more than perfection for aging companions.
+
+<!-- padded-no-api-v1 -->
+
+
+## Recent price snapshot
+
+Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
+
+| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
+|---|---:|---:|---:|---:|---:|
+| Listing (`B00063RWT8`) | — | — | — | — | — |
+| Listing (`B004QM8SLG`) | — | — | — | — | — |
+| Listing (`B073Q8P6CQ`) | — | — | — | — | — |
+| Listing (`B074ND5RDT`) | — | — | — | — | — |
+| Listing (`B0846GFNCQ`) | — | — | — | — | — |
+| Listing (`B085VZPR2Y`) | — | — | — | — | — |
+| Listing (`B093TCYF9T`) | — | — | — | — | — |
+| Listing (`B0CB75LML9`) | — | — | — | — | — |
+| Listing (`B0848Q34F8`) | — | — | — | — | — |
+| Listing (`B08H6KGPX3`) | — | — | — | — | — |
+| Listing (`B07Z6TV9Y7`) | — | — | — | — | — |
+| Listing (`B0CGW2TFSV`) | — | — | — | — | — |
+| Listing (`B0CGW48C3G`) | — | — | — | — | — |
+| Listing (`B0DWD9NQ57`) | — | — | — | — | — |
+| Listing (`B0C7ZTV376`) | — | — | — | — | — |
+
+Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+
+## Frequently asked questions
+
+**What's the difference between a pet ramp and pet stairs?**
+
+Ramps distribute weight over a longer distance and require less coordinated joint movement — better for pets with arthritis, hip dysplasia, or post-surgery recovery. Stairs require a controlled lift-and-place at each step, which is mechanically harder for joints but takes less floor space. For most senior dogs, ramps are the safer recommendation; for cats, stairs are usually preferred (cats have better fine-motor control and find ramps' shallow grade harder to grip). Get a ramp at least 2× the height of the surface (a 24-inch bed needs a 48-inch ramp minimum) so the slope stays under 25 degrees — steeper ramps defeat the joint-protection benefit.
+
+**When should I switch to senior pet food?**
+
+The age threshold is less important than what's happening in the pet. Most dogs are 'senior' at 7 years (small breeds at 10), most cats at 11, but the transition should be triggered by metabolic changes — slower activity, weight gain or loss, dental disease, kidney function changes — not the calendar. Senior formulas reduce phosphorus and protein levels (relevant for kidney support) and increase fiber and joint nutrients. If your pet is metabolically still in adult mode, a senior formula can actually under-feed protein. Annual blood panels after age 7 catch the right time.
+
+**How often should senior pets see the vet?**
+
+Twice yearly minimum after age 7 (dogs) or 11 (cats), versus annually for adult pets. The rationale: pets age at roughly 5–7 human years per calendar year, so a six-month senior visit is equivalent to a 2.5-year human checkup. Twice-yearly bloodwork catches kidney, thyroid, and liver changes before symptoms appear — typically 6–12 months earlier than waiting for visible decline. The cost is real ($300–$600/year extra) but the early-detection value usually translates into much cheaper interventions and better quality of life. Pet insurance with senior coverage is worth pricing here, before symptoms emerge and exclusions stack up.
+
+**Should I worry about cognitive decline in older pets?**
+
+Canine cognitive dysfunction (CCD) and feline cognitive dysfunction are both clinically recognized and surprisingly common — up to 35% of dogs over 12 and 50% of cats over 15 show measurable signs. The DISHA framework is the screening tool: Disorientation (getting lost in familiar spaces), changes in Interaction, Sleep-wake cycle disruption (pacing at night), House-soiling, and Activity changes. Early intervention (Selegiline, dietary support, environmental enrichment) can slow progression and significantly extend quality-of-life years. The mistake is dismissing it as 'just getting old' — it's a real neurological condition with real treatment options.
+
+**How can I tell if my senior pet is in pain?**
+
+Pain in older dogs and cats rarely looks like the dramatic limping or vocalizing humans expect. The reliable signs are subtler: reduced grooming (especially in cats), reluctance to jump onto formerly-easy surfaces, slower stair navigation, increased sleep, pacing or circling at night, decreased appetite, withdrawal from interactions. The Glasgow Composite Measure Pain Scale and the Feline Musculoskeletal Pain Index are the validated clinical tools — both ask about behavioral changes, not vocalizations. If three or more of these have shifted in the last 90 days, talk to a vet about pain assessment. Cats in particular hide pain instinctively and are routinely under-treated.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

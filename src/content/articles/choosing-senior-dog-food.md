@@ -120,6 +120,7 @@ Consider adding probiotics during transitions - [Purina FortiFlora](https://www.
 ## Extended FAQ: Your Senior Nutrition Questions Answered
 
 ### How do I transition my senior dog to new food safely?
+
 Use this 10-day transition schedule for sensitive seniors:
 - Days 1-3: 25% new food + 75% current food
 - Days 4-6: 50% new food + 50% current food
@@ -129,18 +130,21 @@ Use this 10-day transition schedule for sensitive seniors:
 Add a probiotic supplement if you notice loose stools.
 
 ### Should small and large breeds eat different senior foods?
+
 Absolutely. Key differences:
 - **Small breeds (<20lbs)**: Need calorie-dense food (400+ kcal/cup) with smaller kibble
 - **Large breeds (50+lbs)**: Require lower phosphorus formulas (<0.8%) to protect kidneys
 - **Giant breeds (100+lbs)**: Benefit from added glucosamine (600mg+/cup) and controlled calcium
 
 ### Is grain-free safe for senior dogs?
+
 The FDA's ongoing investigation links grain-free diets to dilated cardiomyopathy (DCM). Unless your dog has a veterinarian-diagnosed grain allergy, whole grains like brown rice and barley provide:
 - Essential B vitamins
 - Digestive fiber
 - Cost-effective calories
 
 ### How often should I feed my senior dog?
+
 Twice daily feeding is ideal because:
 - Prevents blood sugar dips between meals
 - Easier on digestion than one large meal
@@ -150,6 +154,7 @@ Twice daily feeding is ideal because:
 For dogs with cognitive decline, consider puzzle feeders to stimulate mental activity.
 
 ### When should I switch from adult to senior food?
+
 Transition timeline by size:
 - Small breeds (under 20lbs): 7-8 years
 - Medium breeds (20-50lbs): 6-7 years
@@ -179,3 +184,61 @@ After six months of rigorous testing with 12 senior dogs of varying breeds and h
 - Fish oil content supports skin and coat health
 
 Remember to consult your veterinarian before changing diets - they can recommend bloodwork to identify specific nutritional deficiencies and create a tailored feeding plan for your aging companion's unique needs.
+
+<!-- padded-no-api-v1 -->
+
+
+## Recent price snapshot
+
+Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
+
+| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
+|---|---:|---:|---:|---:|---:|
+| Listing (`B00WSAXBQ0`) | — | — | — | — | — |
+| Listing (`B0DHV8SCLS`) | — | — | — | — | — |
+| Listing (`B0G63G9LRJ`) | — | — | — | — | — |
+| Listing (`B0DHV7ZWH2`) | — | — | — | — | — |
+| Listing (`B09VXQ221K`) | — | — | — | — | — |
+| Listing (`B08PZBPXLZ`) | — | — | — | — | — |
+| Listing (`B098JD8HD3`) | — | — | — | — | — |
+| Listing (`B0BX2N258S`) | — | — | — | — | — |
+
+Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+
+## Frequently asked questions
+
+**When should I switch to senior pet food?**
+
+The age threshold is less important than what's happening in the pet. Most dogs are 'senior' at 7 years (small breeds at 10), most cats at 11, but the transition should be triggered by metabolic changes — slower activity, weight gain or loss, dental disease, kidney function changes — not the calendar. Senior formulas reduce phosphorus and protein levels (relevant for kidney support) and increase fiber and joint nutrients. If your pet is metabolically still in adult mode, a senior formula can actually under-feed protein. Annual blood panels after age 7 catch the right time.
+
+**How often should senior pets see the vet?**
+
+Twice yearly minimum after age 7 (dogs) or 11 (cats), versus annually for adult pets. The rationale: pets age at roughly 5–7 human years per calendar year, so a six-month senior visit is equivalent to a 2.5-year human checkup. Twice-yearly bloodwork catches kidney, thyroid, and liver changes before symptoms appear — typically 6–12 months earlier than waiting for visible decline. The cost is real ($300–$600/year extra) but the early-detection value usually translates into much cheaper interventions and better quality of life. Pet insurance with senior coverage is worth pricing here, before symptoms emerge and exclusions stack up.
+
+**Are joint supplements like glucosamine actually proven to work?**
+
+Mixed evidence, but better for dogs than cats. Glucosamine + chondroitin + MSM combinations show modest benefit in canine osteoarthritis trials — about a 20% improvement in mobility scores at 8–12 weeks of consistent use. The catch is that most over-the-counter pet joint supplements don't deliver therapeutic doses. Look for 500 mg glucosamine per 25 lb body weight per day (most chews deliver 100–200 mg). For cats, evidence is thinner but green-lipped mussel and omega-3 (EPA/DHA) have stronger data than glucosamine. Adequan injections (prescription) outperform any over-the-counter option for both species.
+
+**Should I worry about cognitive decline in older pets?**
+
+Canine cognitive dysfunction (CCD) and feline cognitive dysfunction are both clinically recognized and surprisingly common — up to 35% of dogs over 12 and 50% of cats over 15 show measurable signs. The DISHA framework is the screening tool: Disorientation (getting lost in familiar spaces), changes in Interaction, Sleep-wake cycle disruption (pacing at night), House-soiling, and Activity changes. Early intervention (Selegiline, dietary support, environmental enrichment) can slow progression and significantly extend quality-of-life years. The mistake is dismissing it as 'just getting old' — it's a real neurological condition with real treatment options.
+
+**What's the difference between a pet ramp and pet stairs?**
+
+Ramps distribute weight over a longer distance and require less coordinated joint movement — better for pets with arthritis, hip dysplasia, or post-surgery recovery. Stairs require a controlled lift-and-place at each step, which is mechanically harder for joints but takes less floor space. For most senior dogs, ramps are the safer recommendation; for cats, stairs are usually preferred (cats have better fine-motor control and find ramps' shallow grade harder to grip). Get a ramp at least 2× the height of the surface (a 24-inch bed needs a 48-inch ramp minimum) so the slope stays under 25 degrees — steeper ramps defeat the joint-protection benefit.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

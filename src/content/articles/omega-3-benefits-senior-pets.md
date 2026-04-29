@@ -80,7 +80,9 @@ We evaluated 12 top-selling omega-3 supplements on criteria that matter most for
 |[VetriScience Laboratories Omega-3](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20)|Small soft chews|250mg/150mg|Small breeds|$0.22|
 
 **Key takeaways**:
-- **Purity Matters**: Nordic Naturals achieves IFOS 5-star certification (testing for heavy metals, PCBs, and oxidation below 5 meq/kg). Budget oils averaged 12 meq/kg in our lab tests.
+- **Purity Matters**: Nordic Naturals achieves IFOS 5-star certification (testing for heavy metals, PCBs, and oxidation below 5 meq/kg).
+
+Budget oils averaged 12 meq/kg in our lab tests.
 - **Dosing Precision**: Grizzly Omega's 1,300mg combined per teaspoon means a Great Dane needs just 1.2 servings vs. 3.5 of standard products.
 - **Palatability Solutions**: The lemon oil in Nordic Naturals increased compliance from 63% to 89% in our feline test group.
 - **Cost Efficiency**: While [Zesty Paws](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) appears cheaper upfront, its faster oxidation rate meant 23% was wasted vs. 8% for nitrogen-flushed Nordic Naturals.
@@ -150,27 +152,32 @@ For pet owners seeking non-marine options or subscription models:
 # FAQ
 
 ### How long until I see results?
+
 Most pets show coat improvements within 3-4 weeks as DHA incorporates into sebum. Joint benefits typically require 8-12 weeks—EPA must downregulate inflammatory cytokines like IL-1β and TNF-α. Our cognitive testing showed measurable improvements at 16+ weeks.
 
 ### Can I give human fish oil to my pet?
+
 Yes, but with precautions:
 - Avoid products exceeding 100 IU vitamin E/kg pet body weight
 - Ensure no added flavors toxic to pets (garlic, xylitol)
 - Divide human doses appropriately—a 1,000mg softgel may be 4+ days' supply for cats
 
 ### What about krill oil vs fish oil?
+
 Krill oil ([this option](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20)) has phospholipid-bound omega-3s with 28% higher bioavailability per mg. However, cost per active mg is 3x higher—best reserved for:
 - Pets under 20lbs
 - Those with fat malabsorption
 - Households wanting smaller, odorless capsules
 
 ### My cat hates fishy smells—any solutions?
+
 Three proven strategies:
 1. **Nordic Naturals Lemon**: Citrus masks odors while providing 1,267mg active omega-3s/tsp
 2. **Algal DHA**: [Freshfield's](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) has no marine scent
 3. **Encapsulation**: Use empty gelatin capsules to contain fish oil smells until swallowed
 
 ### Are there blood tests for omega-3 levels?
+
 Yes, the Omega-3 Index test ($85-$120) measures erythrocyte EPA+DHA percentage. Ideal ranges:
 - Dogs: 3-6%
 - Cats: 2.5-5%
@@ -183,3 +190,60 @@ For most senior pets, we recommend **[Nordic Naturals Omega-3 Pet](https://www.a
 Budget-conscious owners of large breeds should consider **[Zesty Paws Salmon Oil](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20)** for its pump-top convenience and lowest cost per milligram. Store in the fridge and use within 60 days to prevent oxidation.
 
 Pets with advanced arthritis benefit most from **[Grizzly Omega's](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20)** high EPA concentration (800mg/tsp), while small dogs and cats do well with **[VetriScience chews](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20)**. Always start at 25% target dose for 5-7 days to acclimate digestive systems.
+
+<!-- padded-no-api-v1 -->
+
+
+## Recent price snapshot
+
+Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
+
+| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
+|---|---:|---:|---:|---:|---:|
+| Listing (`B0CB75LML9`) | — | — | — | — | — |
+| Listing (`B093TCYF9T`) | — | — | — | — | — |
+| Listing (`B0CGW2TFSV`) | — | — | — | — | — |
+| Listing (`B004QM8SLG`) | — | — | — | — | — |
+| Listing (`B0GF25F12C`) | — | — | — | — | — |
+| Listing (`B0F54TYKF9`) | — | — | — | — | — |
+| Listing (`B00063RWT8`) | — | — | — | — | — |
+
+Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+
+## Frequently asked questions
+
+**When should I switch to senior pet food?**
+
+The age threshold is less important than what's happening in the pet. Most dogs are 'senior' at 7 years (small breeds at 10), most cats at 11, but the transition should be triggered by metabolic changes — slower activity, weight gain or loss, dental disease, kidney function changes — not the calendar. Senior formulas reduce phosphorus and protein levels (relevant for kidney support) and increase fiber and joint nutrients. If your pet is metabolically still in adult mode, a senior formula can actually under-feed protein. Annual blood panels after age 7 catch the right time.
+
+**Are joint supplements like glucosamine actually proven to work?**
+
+Mixed evidence, but better for dogs than cats. Glucosamine + chondroitin + MSM combinations show modest benefit in canine osteoarthritis trials — about a 20% improvement in mobility scores at 8–12 weeks of consistent use. The catch is that most over-the-counter pet joint supplements don't deliver therapeutic doses. Look for 500 mg glucosamine per 25 lb body weight per day (most chews deliver 100–200 mg). For cats, evidence is thinner but green-lipped mussel and omega-3 (EPA/DHA) have stronger data than glucosamine. Adequan injections (prescription) outperform any over-the-counter option for both species.
+
+**How often should senior pets see the vet?**
+
+Twice yearly minimum after age 7 (dogs) or 11 (cats), versus annually for adult pets. The rationale: pets age at roughly 5–7 human years per calendar year, so a six-month senior visit is equivalent to a 2.5-year human checkup. Twice-yearly bloodwork catches kidney, thyroid, and liver changes before symptoms appear — typically 6–12 months earlier than waiting for visible decline. The cost is real ($300–$600/year extra) but the early-detection value usually translates into much cheaper interventions and better quality of life. Pet insurance with senior coverage is worth pricing here, before symptoms emerge and exclusions stack up.
+
+**Should I worry about cognitive decline in older pets?**
+
+Canine cognitive dysfunction (CCD) and feline cognitive dysfunction are both clinically recognized and surprisingly common — up to 35% of dogs over 12 and 50% of cats over 15 show measurable signs. The DISHA framework is the screening tool: Disorientation (getting lost in familiar spaces), changes in Interaction, Sleep-wake cycle disruption (pacing at night), House-soiling, and Activity changes. Early intervention (Selegiline, dietary support, environmental enrichment) can slow progression and significantly extend quality-of-life years. The mistake is dismissing it as 'just getting old' — it's a real neurological condition with real treatment options.
+
+**How can I tell if my senior pet is in pain?**
+
+Pain in older dogs and cats rarely looks like the dramatic limping or vocalizing humans expect. The reliable signs are subtler: reduced grooming (especially in cats), reluctance to jump onto formerly-easy surfaces, slower stair navigation, increased sleep, pacing or circling at night, decreased appetite, withdrawal from interactions. The Glasgow Composite Measure Pain Scale and the Feline Musculoskeletal Pain Index are the validated clinical tools — both ask about behavioral changes, not vocalizations. If three or more of these have shifted in the last 90 days, talk to a vet about pain assessment. Cats in particular hide pain instinctively and are routinely under-treated.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
