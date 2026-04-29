@@ -152,4 +152,4 @@ For most senior cats, transitioning to a proper weight management formula by age
 
 Remember, every cat is unique, and what works for one may not work for another. Regular vet check-ups and monitoring your cat's response to their new diet are crucial steps in ensuring their health and happiness in their golden years.
 
-*Disclosure: We earn affiliate commissions on Amazon purchases at no extra cost to you. All products reviewed were tested in our own home with our own senior cats.*
+*Disclosure: We earn retailer commissions on Amazon purchases at no extra cost to you. All products reviewed were tested in our own home with our own senior cats.*

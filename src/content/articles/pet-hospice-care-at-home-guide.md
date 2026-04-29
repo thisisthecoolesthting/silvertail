@@ -147,4 +147,4 @@ After helping five pets through their final chapters, the [PetFusion Ultimate Be
 
 The most important investment isn't monetary—it's your presence. Our pets' final comfort often comes more from familiar voices and gentle touch than from any product. Combine these tools with patience, observation, and plenty of quiet time together to create the most peaceful transition possible.
 
-**Disclosure**: We earn affiliate commissions through Amazon links in this article. We only recommend products we've personally tested with our own senior animals. This article is not veterinary advice. Please discuss all care decisions with your veterinarian.
+**Disclosure**: We earn retailer commissions through Amazon links in this article. We only recommend products we've personally tested with our own senior animals. This article is not veterinary advice. Please discuss all care decisions with your veterinarian.

@@ -155,4 +155,4 @@ After 18 months tracking our senior dogs, the [Senilife Supplement](https://www.
 4. Rotate cognitive exercises (nose work, puzzle toys, shallow water retrieval) to maintain mental engagement
 5. Set realistic expectations—most interventions require 4-6 weeks before measurable change appears
 
-**Disclosure**: SilverTail is a participant in the Amazon Services LLC Associates Program. We earn affiliate commissions from qualifying purchases linked in this article. All products listed were tested in our own home with our own animals. This is not medical advice; consult your veterinarian about your dog's specific needs.
+**Disclosure**: SilverTail is a participant in the Amazon Services LLC Associates Program. We earn retailer commissions from qualifying purchases linked in this article. All products listed were tested in our own home with our own animals. This is not medical advice; consult your veterinarian about your dog's specific needs.

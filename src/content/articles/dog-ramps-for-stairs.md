@@ -98,4 +98,4 @@ For everyday bedroom and couch access, the [Pet Gear Free Standing Ramp](https:/
 
 Measure your space before buying—note the height your dog needs to reach and how much floor or vehicle space you can spare. Test the ramp's angle if possible; watch how your dog reacts. The best ramp is one your senior dog will actually use every day.
 
-**Affiliate disclosure:** We earn a small commission if you buy through our Amazon links. This helps us test and review more products for senior pets. We only recommend products we've tested ourselves.
+**Disclosure:** We earn a small commission if you buy through our Amazon links. This helps us test and review more products for senior pets. We only recommend products we've tested ourselves.

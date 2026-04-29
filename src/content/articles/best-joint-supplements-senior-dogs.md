@@ -126,4 +126,4 @@ After six months of testing with senior dogs ranging from 8 to 15 years old, [Nu
 
 For picky eaters or dogs with early-stage stiffness, [Pawfy Mobility Chews](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) offer a palatable alternative with innovative ingredients, albeit at a higher cost per dose.
 
-Remember: No supplement replaces veterinary care for advanced arthritis. If your dog struggles to stand or shows signs of pain (panting, reluctance to move, whimpering), consult your vet about comprehensive pain management options. We affiliate with Amazon, and products linked here are ones we've tested and recommend based on real-world results with our own senior dogs.
+Remember: No supplement replaces veterinary care for advanced arthritis. If your dog struggles to stand or shows signs of pain (panting, reluctance to move, whimpering), consult your vet about comprehensive pain management options. We partner with Amazon, and products linked here are ones we've tested and recommend based on real-world results with our own senior dogs.

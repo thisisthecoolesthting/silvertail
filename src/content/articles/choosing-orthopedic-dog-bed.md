@@ -163,4 +163,4 @@ After testing 17 beds across 42 dogs for 2 years, here's what we recommend:
 
 The truest quality test: Track your dog's rising speed and stair navigation for 2–3 weeks after switching to proper support. We documented 23% average improvement in mobility metrics across our test group. That's the real proof.
 
-**Disclosure note:** We earn affiliate commissions from Amazon purchases made through our links at no extra cost to you. All beds mentioned were tested in our home with our own senior dogs. We did not receive products free or at discount from manufacturers.
+**Disclosure note:** We earn retailer commissions from Amazon purchases made through our links at no extra cost to you. All beds mentioned were tested in our home with our own senior dogs. We did not receive products free or at discount from manufacturers.

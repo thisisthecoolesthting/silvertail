@@ -163,4 +163,4 @@ This data will help your vet make targeted recommendations if problems persist.
 
 ---
 
-**Affiliate disclosure**: SilverTail is a participant in the Amazon Services LLC Associates Program. We earn a small commission when you purchase products through our affiliate links. This does not affect the price you pay and helps support our mission of providing honest, evidence-informed reviews for senior pets.
+**Disclosure**: SilverTail is a participant in the Amazon Services LLC Associates Program. We earn a small commission when you purchase products through our partner links. This does not affect the price you pay and helps support our mission of providing honest, evidence-informed reviews for senior pets.

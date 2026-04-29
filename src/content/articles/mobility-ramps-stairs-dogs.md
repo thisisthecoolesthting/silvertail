@@ -183,4 +183,4 @@ Regardless of choice, introduce any mobility aid gradually with positive reinfor
 
 ---
 
-**Disclosure**: We earn affiliate commissions from Amazon links in this article. We only recommend products we've tested with our own senior dogs and believe offer genuine value for aging pets. All prices are current as of the publication date.
+**Disclosure**: We earn retailer commissions from Amazon links in this article. We only recommend products we've tested with our own senior dogs and believe offer genuine value for aging pets. All prices are current as of the publication date.

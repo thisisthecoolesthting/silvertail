@@ -36,7 +36,7 @@ When your 10-year-old lab hesitates before jumping onto the couch or your 12-yea
 
 We conducted this research after our own 11-year-old German Shepherd mix began showing stiffness during morning walks. After trying five different glucosamine formulations at varying dosages, we documented measurable differences in his ability to climb stairs, rise from resting positions, and maintain comfort during seasonal changes. This hands-on testing revealed critical insights about absorption rates, palatability issues in senior dogs with dental problems, and the surprising impact of storage conditions on supplement efficacy.
 
-*Affiliate Disclosure: We earn from qualifying Amazon purchases. All products in this guide were purchased and tested with our own pets.*
+*Partner Disclosure: We earn from qualifying Amazon purchases. All products in this guide were purchased and tested with our own pets.*
 
 ## Why This Matters
 

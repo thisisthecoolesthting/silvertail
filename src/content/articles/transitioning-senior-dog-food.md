@@ -133,4 +133,4 @@ Key takeaway: transition slowly, monitor stool quality closely, and don't mistak
 
 Always consult your vet before making significant dietary changes, especially for dogs with existing health conditions. The ideal transition combines nutrition science with your individual dog's preferences and needs—there's no universal "best" food, only the best choice for your senior companion at this life stage.
 
-*Affiliate disclosure: We earn from qualifying Amazon purchases. All products mentioned were tested in our home with our own senior dogs.*
+*Disclosure: We earn from qualifying Amazon purchases. All products mentioned were tested in our home with our own senior dogs.*
