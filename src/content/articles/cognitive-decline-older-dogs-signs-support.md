@@ -1,8 +1,14 @@
 ---
-title: 'Cognitive Decline in Senior Dogs: Recognizing CCD and Evidence-Based Support Strategies'
-metaDescription: Identify canine cognitive dysfunction in aging dogs with our evidence-informed guide. Learn practical support strategies, supplement comparisons, and environmental modifications to maintain quality of life.
+title: 'Cognitive Decline in Senior Dogs: Recognizing CCD and Evidence-Based Support
+  Strategies'
+metaDescription: Identify canine cognitive dysfunction in aging dogs with our evidence-informed
+  guide. Learn practical support strategies, supplement comparisons, and environmental
+  modifications to maintain quality of life.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Nearly 68% of dogs over 15 show signs of cognitive decline. Discover how to recognize canine cognitive dysfunction early and implement vet-informed strategies—from targeted supplements to environmental adaptations—that help senior dogs maintain their best quality of life.
+excerpt: Nearly 68% of dogs over 15 show signs of cognitive decline. Discover how
+  to recognize canine cognitive dysfunction early and implement vet-informed strategies—from
+  targeted supplements to environmental adaptations—that help senior dogs maintain
+  their best quality of life.
 pillarSlug: health-nutrition
 status: published
 tags:
@@ -22,7 +28,9 @@ relatedProducts:
 - B07P6Y7954
 heroImage: /images/hero/cognitive-decline-older-dogs-signs-support.jpg
 cardTitle: Senior Dogs Losing Memory? Spot CCD Early and Help Them
-cardPick: ChomChom's gentle design removes mats without painful pulling, perfect for stiff, sensitive aging joints.---
+cardPick: ChomChom's gentle design removes mats without painful pulling, perfect for
+  stiff, sensitive aging joints.
+---
 
 ## Introduction
 

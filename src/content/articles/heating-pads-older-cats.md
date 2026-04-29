@@ -1,8 +1,12 @@
 ---
 title: Best Heating Pads for Older Cats with Arthritis
-metaDescription: A detailed comparison of heating pads for senior cats with arthritis, covering safety features, heat retention, and real-world performance to help you choose the best option for your pet.
+metaDescription: A detailed comparison of heating pads for senior cats with arthritis,
+  covering safety features, heat retention, and real-world performance to help you
+  choose the best option for your pet.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Discover the best heating pads for older cats with arthritis, focusing on safety, comfort, and durability. Our guide compares top products and provides practical advice for keeping your senior cat warm and comfortable.
+excerpt: Discover the best heating pads for older cats with arthritis, focusing on
+  safety, comfort, and durability. Our guide compares top products and provides practical
+  advice for keeping your senior cat warm and comfortable.
 pillarSlug: mobility-comfort
 relatedProducts:
 - B0CB75LML9
@@ -19,7 +23,8 @@ tags:
 - pet heating pads
 - cat comfort
 - elderly cat products
-heroImage: /images/hero/heating-pads-older-cats.jpg---
+heroImage: /images/hero/heating-pads-older-cats.jpg
+---
 
 # Introduction
 

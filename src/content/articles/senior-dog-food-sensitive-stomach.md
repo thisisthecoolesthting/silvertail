@@ -1,8 +1,12 @@
 ---
 title: 'Best Senior Dog Foods for Sensitive Stomachs: 12 Tested Formulas'
-metaDescription: Compare 12 senior dog foods for sensitive stomachs. Evidence-based testing of digestibility, ingredient quality, and real-world results with aging dogs.
+metaDescription: Compare 12 senior dog foods for sensitive stomachs. Evidence-based
+  testing of digestibility, ingredient quality, and real-world results with aging
+  dogs.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your older dog struggles with vomiting, diarrhea, or picky eating, the right food becomes urgent. We tested 12 senior formulas for digestibility, ingredient quality, and real-world digestive outcomes—and found three standouts that work.
+excerpt: When your older dog struggles with vomiting, diarrhea, or picky eating, the
+  right food becomes urgent. We tested 12 senior formulas for digestibility, ingredient
+  quality, and real-world digestive outcomes—and found three standouts that work.
 pillarSlug: health-nutrition
 relatedProducts:
 - B07TFB22H5
@@ -21,7 +25,9 @@ tags:
 - food transitions
 heroImage: /images/hero/senior-dog-food-sensitive-stomach.jpg
 cardTitle: 'Senior Dogs Need Better Beds: Orthopedic Solutions for Aging Joints'
-cardPick: Memory foam supports arthritic joints and stiff muscles, helping senior dogs sleep deeper and wake with less pain.---
+cardPick: Memory foam supports arthritic joints and stiff muscles, helping senior
+  dogs sleep deeper and wake with less pain.
+---
 
 ## Introduction
 

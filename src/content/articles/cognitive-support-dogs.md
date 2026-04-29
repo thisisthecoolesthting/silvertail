@@ -1,8 +1,12 @@
 ---
 title: Understanding and Supporting Cognitive Decline in Older Dogs
-metaDescription: A comprehensive guide to recognizing cognitive decline in senior dogs, comparing top supplements, and practical strategies to support your aging pet's mental health.
+metaDescription: A comprehensive guide to recognizing cognitive decline in senior
+  dogs, comparing top supplements, and practical strategies to support your aging
+  pet's mental health.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: As dogs age, cognitive decline can affect their quality of life. This guide compares evidence-based supplements, examines real-world performance, and provides cost-effective solutions to support your senior dog's mental acuity.
+excerpt: As dogs age, cognitive decline can affect their quality of life. This guide
+  compares evidence-based supplements, examines real-world performance, and provides
+  cost-effective solutions to support your senior dog's mental acuity.
 pillarSlug: health-wellness
 relatedProducts:
 - B004QM8SLG
@@ -20,7 +24,8 @@ tags:
 - cognitive support
 - dog dementia
 - senior dog care
-heroImage: /images/hero/cognitive-support-dogs.jpg---
+heroImage: /images/hero/cognitive-support-dogs.jpg
+---
 
 ## Introduction
 

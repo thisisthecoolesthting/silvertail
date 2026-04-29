@@ -1,8 +1,13 @@
 ---
-title: 'Best Mobility Ramps and Stairs for Senior Dogs: Real-World Testing for Arthritis and Aging'
-metaDescription: Honest reviews of 8 mobility ramps and stairs for senior dogs with arthritis. We tested folding ramps, telescoping designs, and foam stairs with real aging pets—plus cost analysis and training tips.
+title: 'Best Mobility Ramps and Stairs for Senior Dogs: Real-World Testing for Arthritis
+  and Aging'
+metaDescription: Honest reviews of 8 mobility ramps and stairs for senior dogs with
+  arthritis. We tested folding ramps, telescoping designs, and foam stairs with real
+  aging pets—plus cost analysis and training tips.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your older dog hesitates jumping into the car or onto the couch, a mobility ramp or stair can restore independence safely. We tested 8 top-rated options with senior dogs to compare stability, traction, portability, and real-world durability.
+excerpt: When your older dog hesitates jumping into the car or onto the couch, a mobility
+  ramp or stair can restore independence safely. We tested 8 top-rated options with
+  senior dogs to compare stability, traction, portability, and real-world durability.
 pillarSlug: comfort-mobility
 relatedProducts:
 - B07TFB22H5
@@ -25,7 +30,9 @@ tags:
 - car ramp for dogs
 heroImage: /images/hero/mobility-ramps-stairs-dogs.jpg
 cardTitle: 'Senior Dog Mobility: Ramps & Stairs That Actually Work'
-cardPick: PetFusion's orthopedic memory foam provides joint relief and comfort that aging dogs desperately need for better mobility and sleep.---
+cardPick: PetFusion's orthopedic memory foam provides joint relief and comfort that
+  aging dogs desperately need for better mobility and sleep.
+---
 
 ## Introduction
 

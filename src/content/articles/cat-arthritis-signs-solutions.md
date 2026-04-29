@@ -1,8 +1,11 @@
 ---
 title: Is Your Senior Cat Hiding Arthritis Pain? Signs and Solutions
-metaDescription: Learn how to spot subtle signs of arthritis in older cats and compare evidence-based solutions for joint comfort, from orthopedic beds to supplements.
+metaDescription: Learn how to spot subtle signs of arthritis in older cats and compare
+  evidence-based solutions for joint comfort, from orthopedic beds to supplements.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Cats mask arthritis pain instinctively. This guide decodes subtle mobility changes in senior cats and compares 12+ vet-recommended comfort solutions tested with real aging felines.
+excerpt: Cats mask arthritis pain instinctively. This guide decodes subtle mobility
+  changes in senior cats and compares 12+ vet-recommended comfort solutions tested
+  with real aging felines.
 pillarSlug: joint-mobility
 relatedProducts:
 - B0DHV8SCLS
@@ -21,7 +24,8 @@ tags:
 - feline mobility
 - pain management
 - aging cats
-heroImage: /images/hero/cat-arthritis-signs-solutions.jpg---
+heroImage: /images/hero/cat-arthritis-signs-solutions.jpg
+---
 
 # Introduction
 

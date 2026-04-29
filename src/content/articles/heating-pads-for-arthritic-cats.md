@@ -1,8 +1,12 @@
 ---
 title: Are Heating Pads Safe and Effective for Arthritic Senior Cats?
-metaDescription: A detailed comparison of heating pads for arthritic senior cats, covering safety, effectiveness, cost, and alternatives to help your feline friend stay comfortable.
+metaDescription: A detailed comparison of heating pads for arthritic senior cats,
+  covering safety, effectiveness, cost, and alternatives to help your feline friend
+  stay comfortable.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Discover the best heating pads for arthritic senior cats, including safety tips, cost comparisons, and real-world performance to keep your aging pet comfortable and pain-free.
+excerpt: Discover the best heating pads for arthritic senior cats, including safety
+  tips, cost comparisons, and real-world performance to keep your aging pet comfortable
+  and pain-free.
 pillarSlug: comfort-care
 relatedProducts:
 - B0DHV8SCLS
@@ -21,7 +25,8 @@ tags:
 - pet heating pads
 - cat pain relief
 - senior pet products
-heroImage: /images/hero/heating-pads-for-arthritic-cats.jpg---
+heroImage: /images/hero/heating-pads-for-arthritic-cats.jpg
+---
 
 ## Introduction
 

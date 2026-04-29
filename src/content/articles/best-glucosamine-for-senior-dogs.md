@@ -1,8 +1,12 @@
 ---
 title: The 5 Best Glucosamine Supplements for Senior Dogs
-metaDescription: Evidence-based comparison of glucosamine supplements for senior dogs, including cost analysis, real-world performance, and alternatives to help your aging pet stay mobile.
+metaDescription: Evidence-based comparison of glucosamine supplements for senior dogs,
+  including cost analysis, real-world performance, and alternatives to help your aging
+  pet stay mobile.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Choosing the right glucosamine supplement can make a significant difference in your senior dog's mobility. We compare 5 top-rated options based on ingredients, effectiveness, and value.
+excerpt: Choosing the right glucosamine supplement can make a significant difference
+  in your senior dog's mobility. We compare 5 top-rated options based on ingredients,
+  effectiveness, and value.
 pillarSlug: joint-mobility
 relatedProducts:
 - B004QM8SLG
@@ -20,7 +24,8 @@ tags:
 - mobility aids
 - dog health
 - aging pets
-heroImage: /images/hero/best-glucosamine-for-senior-dogs.jpg---
+heroImage: /images/hero/best-glucosamine-for-senior-dogs.jpg
+---
 
 ## Introduction
 

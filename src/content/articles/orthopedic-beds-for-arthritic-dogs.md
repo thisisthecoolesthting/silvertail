@@ -1,8 +1,12 @@
 ---
 title: Top Orthopedic Dog Beds for Arthritis Relief
-metaDescription: Evidence-based comparison of 12 orthopedic dog beds for senior pets with arthritis. We test durability, pressure relief, and real-world performance in homes with aging dogs.
+metaDescription: Evidence-based comparison of 12 orthopedic dog beds for senior pets
+  with arthritis. We test durability, pressure relief, and real-world performance
+  in homes with aging dogs.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: After testing 12 orthopedic beds with our senior dogs, we found three that consistently relieve joint pain. This guide compares materials, longevity, and hidden costs you won't find in product listings.
+excerpt: After testing 12 orthopedic beds with our senior dogs, we found three that
+  consistently relieve joint pain. This guide compares materials, longevity, and hidden
+  costs you won't find in product listings.
 pillarSlug: comfort-care
 relatedProducts:
 - B0CB75LML9
@@ -21,7 +25,8 @@ tags:
 - senior dog comfort
 - pressure relief
 - orthopedic support
-heroImage: /images/hero/orthopedic-beds-for-arthritic-dogs.jpg---
+heroImage: /images/hero/orthopedic-beds-for-arthritic-dogs.jpg
+---
 
 ## Introduction
 

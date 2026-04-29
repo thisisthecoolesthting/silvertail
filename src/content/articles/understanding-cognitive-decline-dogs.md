@@ -1,8 +1,14 @@
 ---
-title: 'Canine Cognitive Dysfunction: Recognizing Signs and Evidence-Based Support Strategies'
-metaDescription: Learn to recognize canine cognitive dysfunction (CCD) in senior dogs, compare brain-support supplements with real test data, and implement environmental changes that slow decline.
+title: 'Canine Cognitive Dysfunction: Recognizing Signs and Evidence-Based Support
+  Strategies'
+metaDescription: Learn to recognize canine cognitive dysfunction (CCD) in senior dogs,
+  compare brain-support supplements with real test data, and implement environmental
+  changes that slow decline.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your senior dog paces at night or forgets familiar commands, it might be canine cognitive dysfunction—not just aging. This evidence-based guide compares six cognitive supplements tested over 18 months, breaks down realistic timelines and costs, and shares environmental adaptations that actually work.
+excerpt: When your senior dog paces at night or forgets familiar commands, it might
+  be canine cognitive dysfunction—not just aging. This evidence-based guide compares
+  six cognitive supplements tested over 18 months, breaks down realistic timelines
+  and costs, and shares environmental adaptations that actually work.
 pillarSlug: health-and-nutrition
 relatedProducts:
 - B0FT32PL8L
@@ -22,7 +28,9 @@ tags:
 - cognitive support
 heroImage: /images/hero/understanding-cognitive-decline-dogs.jpg
 cardTitle: 'Senior Dog Brain Health: Recognize Early Signs Protect Memory'
-cardPick: Dasuquin's proven joint support reduces pain-related confusion, helping aging dogs stay mentally sharp and engaged longer.---
+cardPick: Dasuquin's proven joint support reduces pain-related confusion, helping
+  aging dogs stay mentally sharp and engaged longer.
+---
 
 # Introduction
 

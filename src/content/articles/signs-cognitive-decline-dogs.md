@@ -1,8 +1,12 @@
 ---
 title: Recognizing the Signs of Cognitive Decline in Older Dogs
-metaDescription: Learn how to identify cognitive decline in senior dogs, compare supportive supplements and products, and make informed decisions to improve your dog's quality of life.
+metaDescription: Learn how to identify cognitive decline in senior dogs, compare supportive
+  supplements and products, and make informed decisions to improve your dog's quality
+  of life.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: As dogs age, cognitive decline can manifest in subtle ways. This guide helps you recognize the signs, compare supportive products, and choose the best options for your senior companion.
+excerpt: As dogs age, cognitive decline can manifest in subtle ways. This guide helps
+  you recognize the signs, compare supportive products, and choose the best options
+  for your senior companion.
 pillarSlug: cognitive-care
 relatedProducts:
 - B0DHV8SCLS
@@ -19,7 +23,8 @@ tags:
 - brain health
 - aging pets
 - canine supplements
-heroImage: /images/hero/signs-cognitive-decline-dogs.jpg---
+heroImage: /images/hero/signs-cognitive-decline-dogs.jpg
+---
 
 ## Introduction
 

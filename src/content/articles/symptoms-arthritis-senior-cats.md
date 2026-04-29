@@ -1,8 +1,11 @@
 ---
 title: Recognizing Arthritis Symptoms in Senior Cats
-metaDescription: Learn how to identify arthritis in older cats, compare joint supplements and mobility aids, and make evidence-informed decisions for your pet's comfort.
+metaDescription: Learn how to identify arthritis in older cats, compare joint supplements
+  and mobility aids, and make evidence-informed decisions for your pet's comfort.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Arthritis affects over 60% of cats aged 10+. This guide compares 8 proven solutions for joint stiffness, from ramps to supplements, with real-world cost analysis and veterinary insights.
+excerpt: Arthritis affects over 60% of cats aged 10+. This guide compares 8 proven
+  solutions for joint stiffness, from ramps to supplements, with real-world cost analysis
+  and veterinary insights.
 pillarSlug: joint-mobility
 relatedProducts:
 - B004QM8SLG
@@ -23,7 +26,8 @@ tags:
 - pain management
 - orthopedic beds
 - pet ramps
-heroImage: /images/hero/symptoms-arthritis-senior-cats.jpg---
+heroImage: /images/hero/symptoms-arthritis-senior-cats.jpg
+---
 
 ## Introduction
 

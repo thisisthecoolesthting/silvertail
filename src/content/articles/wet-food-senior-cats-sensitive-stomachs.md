@@ -1,8 +1,12 @@
 ---
 title: Top Wet Foods for Senior Cats with Sensitive Stomachs
-metaDescription: Evidence-based comparison of 12 senior cat foods for sensitive digestion, tested with real aging felines. Includes cost analysis, transition tips, and vet-approved picks.
+metaDescription: Evidence-based comparison of 12 senior cat foods for sensitive digestion,
+  tested with real aging felines. Includes cost analysis, transition tips, and vet-approved
+  picks.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Finding the right wet food for older cats with stomach issues requires balancing digestibility, hydration, and nutrient density. We tested 12 formulas to identify options that reduce vomiting while meeting senior nutritional needs.
+excerpt: Finding the right wet food for older cats with stomach issues requires balancing
+  digestibility, hydration, and nutrient density. We tested 12 formulas to identify
+  options that reduce vomiting while meeting senior nutritional needs.
 pillarSlug: nutrition-diet
 relatedProducts:
 - B0DHV8SCLS
@@ -22,7 +26,8 @@ tags:
 - hydration
 - veterinary nutrition
 - aging cats
-heroImage: /images/hero/wet-food-senior-cats-sensitive-stomachs.jpg---
+heroImage: /images/hero/wet-food-senior-cats-sensitive-stomachs.jpg
+---
 
 ## Introduction
 

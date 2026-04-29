@@ -1,8 +1,12 @@
 ---
 title: Choosing the Right Mobility Ramp for Your Senior Dog's Stairs
-metaDescription: A detailed guide comparing 12+ mobility ramps for senior dogs, with real-world testing data on traction, weight limits, and setup quirks to help you make an informed choice.
+metaDescription: A detailed guide comparing 12+ mobility ramps for senior dogs, with
+  real-world testing data on traction, weight limits, and setup quirks to help you
+  make an informed choice.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: When your older dog struggles with stairs, a well-chosen ramp can add years of comfortable movement. We compare 12 models by traction, weight capacity, and real-world stability to find options that actually work.
+excerpt: When your older dog struggles with stairs, a well-chosen ramp can add years
+  of comfortable movement. We compare 12 models by traction, weight capacity, and
+  real-world stability to find options that actually work.
 pillarSlug: joint-mobility
 relatedProducts:
 - B0CB75LML9
@@ -22,7 +26,8 @@ tags:
 - large dog support
 - indoor pet ramps
 - non-slip ramps
-heroImage: /images/hero/choosing-mobility-ramps-for-dogs.jpg---
+heroImage: /images/hero/choosing-mobility-ramps-for-dogs.jpg
+---
 
 ## Introduction
 

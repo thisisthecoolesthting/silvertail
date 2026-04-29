@@ -1,8 +1,12 @@
 ---
 title: 'My Cat Stopped Jumping: Solutions for Senior Cat Mobility Loss'
-metaDescription: Practical solutions for senior cats struggling with mobility loss, including ramps, steps, and orthopedic beds to help them stay comfortable and active in their golden years.
+metaDescription: Practical solutions for senior cats struggling with mobility loss,
+  including ramps, steps, and orthopedic beds to help them stay comfortable and active
+  in their golden years.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your senior cat stops jumping, it can be heartbreaking. Discover evidence-based solutions like ramps, steps, and orthopedic beds to help your feline friend navigate their world with ease and comfort.
+excerpt: When your senior cat stops jumping, it can be heartbreaking. Discover evidence-based
+  solutions like ramps, steps, and orthopedic beds to help your feline friend navigate
+  their world with ease and comfort.
 pillarSlug: mobility-comfort
 relatedProducts:
 - B0CB75LML9
@@ -25,7 +29,9 @@ tags:
 - aging cats
 heroImage: /images/hero/cat-mobility-loss-solutions.jpg
 cardTitle: 'Why Your Senior Cat Stopped Jumping: Easy Mobility Fixes'
-cardPick: Dasuquin with MSM supports aging joints naturally, helping senior cats regain confidence climbing and playing.---
+cardPick: Dasuquin with MSM supports aging joints naturally, helping senior cats regain
+  confidence climbing and playing.
+---
 
 ## Introduction
 

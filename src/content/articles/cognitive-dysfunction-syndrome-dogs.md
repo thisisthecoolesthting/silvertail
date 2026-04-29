@@ -1,8 +1,12 @@
 ---
 title: Understanding Cognitive Dysfunction Syndrome in Older Dogs
-metaDescription: A comprehensive guide to managing cognitive decline in senior dogs, including product comparisons, cost analysis, and practical care strategies.
+metaDescription: A comprehensive guide to managing cognitive decline in senior dogs,
+  including product comparisons, cost analysis, and practical care strategies.
 publishedAt: '2026-04-29'
-excerpt: Cognitive Dysfunction Syndrome (CDS) affects many senior dogs, leading to confusion, disorientation, and behavioral changes. This guide explores evidence-based solutions, compares top supplements, and provides practical care tips to improve your dog's quality of life.
+excerpt: Cognitive Dysfunction Syndrome (CDS) affects many senior dogs, leading to
+  confusion, disorientation, and behavioral changes. This guide explores evidence-based
+  solutions, compares top supplements, and provides practical care tips to improve
+  your dog's quality of life.
 pillarSlug: joint-mobility
 relatedProducts:
 - B0DHV8SCLS
@@ -23,7 +27,8 @@ tags:
 - canine dementia
 - dog behavior
 - senior pet products
-heroImage: /images/hero/cognitive-dysfunction-syndrome-dogs.jpg---
+heroImage: /images/hero/cognitive-dysfunction-syndrome-dogs.jpg
+---
 
 ## Introduction
 

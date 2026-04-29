@@ -1,8 +1,13 @@
 ---
 title: 'Best Joint Supplements for Senior Dogs: Our 6-Month Test Results'
-metaDescription: Evidence-backed comparison of 12 joint supplements for aging dogs, tested with real senior pets. We analyze ingredients, costs, and long-term results to help you choose wisely.
+metaDescription: Evidence-backed comparison of 12 joint supplements for aging dogs,
+  tested with real senior pets. We analyze ingredients, costs, and long-term results
+  to help you choose wisely.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your older dog starts slowing down on stairs or hesitates before jumping in the car, joint supplements can make a real difference—but only if you pick the right one. We tested 12 top options with our own senior dogs to compare effectiveness, safety, and real-world value.
+excerpt: When your older dog starts slowing down on stairs or hesitates before jumping
+  in the car, joint supplements can make a real difference—but only if you pick the
+  right one. We tested 12 top options with our own senior dogs to compare effectiveness,
+  safety, and real-world value.
 pillarSlug: health-and-nutrition
 relatedProducts:
 - B0FT32PL8L
@@ -23,7 +28,9 @@ tags:
 - glucosamine
 heroImage: /images/hero/best-joint-supplements-senior-dogs.jpg
 cardTitle: 'Senior Dog Joint Care: Which Supplement Actually Works Best'
-cardPick: Nutramax Dasuquin's proven formula reduces stiffness and improves mobility in aging dogs within weeks of consistent use.---
+cardPick: Nutramax Dasuquin's proven formula reduces stiffness and improves mobility
+  in aging dogs within weeks of consistent use.
+---
 
 # Introduction
 

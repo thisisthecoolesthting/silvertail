@@ -1,8 +1,12 @@
 ---
 title: 'Best Heating Pads for Senior Cats: Safety, Warmth & Tested Comfort'
-metaDescription: Expert comparison of 12 heating pads for older cats with arthritis. Real testing data on safety features, heat retention, washability, and cost-per-use to help you choose safely.
+metaDescription: Expert comparison of 12 heating pads for older cats with arthritis.
+  Real testing data on safety features, heat retention, washability, and cost-per-use
+  to help you choose safely.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: We tested 12 heating pads with senior cats over two winters. This guide compares safety features, heat retention, washability, and real-world performance to help you choose warmth that won't harm aging joints.
+excerpt: We tested 12 heating pads with senior cats over two winters. This guide compares
+  safety features, heat retention, washability, and real-world performance to help
+  you choose warmth that won't harm aging joints.
 pillarSlug: comfort-mobility
 relatedProducts:
 - B07TFB22H5
@@ -23,7 +27,9 @@ tags:
 - feline mobility
 heroImage: /images/hero/best-heating-pads-older-cats.jpg
 cardTitle: 'Senior Cat Heating Pads: Soothe Stiffness & Joint Pain Safely'
-cardPick: PetFusion's orthopedic memory foam cradles aging joints while gentle heat eases arthritis discomfort without overheating risk.---
+cardPick: PetFusion's orthopedic memory foam cradles aging joints while gentle heat
+  eases arthritis discomfort without overheating risk.
+---
 
 # Introduction
 

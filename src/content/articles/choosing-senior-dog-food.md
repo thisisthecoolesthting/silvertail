@@ -1,8 +1,12 @@
 ---
 title: How to Choose the Best Senior Dog Food for Your Aging Companion
-metaDescription: A practical guide to selecting the right senior dog food based on nutritional needs, budget, and real-world performance. We compare top brands and break down costs.
+metaDescription: A practical guide to selecting the right senior dog food based on
+  nutritional needs, budget, and real-world performance. We compare top brands and
+  break down costs.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: As your dog ages, their nutritional needs change. This guide compares 12 senior dog foods, analyzes cost per meal, and explains how to transition your older dog safely to a new diet.
+excerpt: As your dog ages, their nutritional needs change. This guide compares 12
+  senior dog foods, analyzes cost per meal, and explains how to transition your older
+  dog safely to a new diet.
 pillarSlug: nutrition-diet
 status: published
 tags:
@@ -22,7 +26,8 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-heroImage: /images/hero/choosing-senior-dog-food.jpg---
+heroImage: /images/hero/choosing-senior-dog-food.jpg
+---
 
 ## Introduction
 

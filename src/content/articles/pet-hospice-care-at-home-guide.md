@@ -1,8 +1,12 @@
 ---
 title: 'Pet Hospice Care at Home: A Practical Guide to Comfort and Dignity'
-metaDescription: Evidence-informed guidance for creating a comfortable hospice environment at home for your senior dog or cat. Real-world product testing, cost breakdowns, and strategies we've used with our own pets.
+metaDescription: Evidence-informed guidance for creating a comfortable hospice environment
+  at home for your senior dog or cat. Real-world product testing, cost breakdowns,
+  and strategies we've used with our own pets.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your aging pet enters their final stage of life, hospice care at home can provide comfort, dignity, and precious extra time together. We've navigated this journey multiple times with our own senior animals—here's what actually works.
+excerpt: When your aging pet enters their final stage of life, hospice care at home
+  can provide comfort, dignity, and precious extra time together. We've navigated
+  this journey multiple times with our own senior animals—here's what actually works.
 pillarSlug: care-support
 relatedProducts:
 - B07TFB22H5
@@ -22,7 +26,9 @@ tags:
 - pet pain management
 heroImage: /images/hero/pet-hospice-care-at-home-guide.jpg
 cardTitle: 'Comfort Matters: Orthopedic Beds for Senior Pets at Home'
-cardPick: Memory foam supports aging joints and reduces pressure points, helping senior dogs rest pain-free during their golden years.---
+cardPick: Memory foam supports aging joints and reduces pressure points, helping senior
+  dogs rest pain-free during their golden years.
+---
 
 ## Introduction
 

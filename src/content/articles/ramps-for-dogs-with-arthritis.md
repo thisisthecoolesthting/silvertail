@@ -1,8 +1,12 @@
 ---
 title: 'Mobility Ramps and Stairs: Making Your Home Accessible for Senior Dogs'
-metaDescription: A detailed comparison of dog ramps and stairs for arthritis relief, with real-world testing data on durability, cost, and safety features to help your senior pet navigate your home comfortably.
+metaDescription: A detailed comparison of dog ramps and stairs for arthritis relief,
+  with real-world testing data on durability, cost, and safety features to help your
+  senior pet navigate your home comfortably.
 publishedAt: '2026-04-28'
-excerpt: Choosing the right mobility ramp or stairs for your arthritic dog involves balancing safety, cost, and home layout. We tested 12 models to find the best options for different needs and budgets.
+excerpt: Choosing the right mobility ramp or stairs for your arthritic dog involves
+  balancing safety, cost, and home layout. We tested 12 models to find the best options
+  for different needs and budgets.
 pillarSlug: mobility-comfort
 relatedProducts:
 - B0CB75LML9
@@ -21,7 +25,8 @@ tags:
 - pet stairs
 - orthopedic support
 - home accessibility
-heroImage: /images/hero/ramps-for-dogs-with-arthritis.jpg---
+heroImage: /images/hero/ramps-for-dogs-with-arthritis.jpg
+---
 
 # Introduction
 

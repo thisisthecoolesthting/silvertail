@@ -1,8 +1,12 @@
 ---
 title: 'Providing Comfort: At-Home Hospice Care for Your Senior Pet'
-metaDescription: A compassionate guide to at-home hospice care for senior pets, covering pain management, mobility aids, and creating a peaceful environment for their final days.
+metaDescription: A compassionate guide to at-home hospice care for senior pets, covering
+  pain management, mobility aids, and creating a peaceful environment for their final
+  days.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: When your aging pet enters their final stage of life, providing compassionate at-home hospice care can make all the difference. This guide covers essential products and practical strategies to keep your companion comfortable.
+excerpt: When your aging pet enters their final stage of life, providing compassionate
+  at-home hospice care can make all the difference. This guide covers essential products
+  and practical strategies to keep your companion comfortable.
 pillarSlug: end-of-life-comfort
 relatedProducts:
 - B0DHV8SCLS
@@ -22,7 +26,8 @@ tags:
 - mobility aids
 - orthopedic bedding
 - quality of life
-heroImage: /images/hero/at-home-hospice-care-for-pets.jpg---
+heroImage: /images/hero/at-home-hospice-care-for-pets.jpg
+---
 
 ## Introduction
 
