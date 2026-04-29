@@ -15,7 +15,7 @@ relatedProducts:
 - B07GR5MSKD
 - B00FLYWNYQ
 - B07P6Y7954
-status: published
+status: draft
 tags:
 - orthopedic dog bed
 - arthritis relief

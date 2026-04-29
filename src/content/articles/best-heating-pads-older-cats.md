@@ -16,7 +16,7 @@ relatedProducts:
 - B07GR5MSKD
 - B07YT4JWPK
 - B0BTYCRJSS
-status: published
+status: draft
 tags:
 - senior cat comfort
 - arthritis relief

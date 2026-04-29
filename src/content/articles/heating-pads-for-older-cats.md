@@ -16,7 +16,7 @@ relatedProducts:
 - B07C11YW88
 - B083BFPGD8
 - B0CYJV9X52
-status: published
+status: draft
 tags:
 - cat arthritis
 - senior cat care
