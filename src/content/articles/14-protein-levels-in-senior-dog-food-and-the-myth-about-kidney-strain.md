@@ -16,6 +16,10 @@ If you’re a concerned dog owner, you’ve likely heard warnings about feeding 
 
 ---
 
+
+
+> **See also:** [27. Elevated food bowls for big dogs: helpful or dangerous?](https://silvertail.app/articles/27-elevated-food-bowls-for-big-dogs-helpful-or-dangerous/)
+
 ## What Protein Does for Senior Dogs
 
 Protein is a building block of life—it supports muscle maintenance, immune function, hormone production, and overall repair systems in the body. For senior dogs (10 years and older), maintaining lean muscle mass and vitality is a top priority, and protein plays a central role.

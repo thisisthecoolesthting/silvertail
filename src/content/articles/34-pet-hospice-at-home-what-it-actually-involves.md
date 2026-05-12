@@ -18,6 +18,10 @@ Pet hospice at home is a specialized type of end-of-life care focused on managin
 
 For senior cats, particularly those with chronic illnesses such as kidney disease, arthritis, or cancer, pet hospice involves coordinated attention to nutrition, pain management, mobility, and emotional support. It is guided by veterinary advice but largely carried out by the pet owner, often in collaboration with trained hospice veterinarians or pet care professionals.
 
+
+
+> **See also:** [End-of-Life Care Considerations for Silvertail Cats Over Ten Years](https://silvertail.app/articles/end-of-life-care-considerations-for-silvertail-cats-over-ten-years/)
+
 ## How Pet Hospice at Home Works
 
 Home hospice care combines medical, practical, and emotional strategies tailored to a cat’s unique needs, emphasizing comfort and minimal stress.

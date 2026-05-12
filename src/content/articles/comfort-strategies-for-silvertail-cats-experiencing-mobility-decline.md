@@ -18,6 +18,10 @@ This article breaks down practical strategies tailored for silvertail cats—tho
 
 ---
 
+
+
+> **See also:** [Improving Joint Health in Silvertail Cats Through Vet-Recommended Therapies](https://silvertail.app/articles/improving-joint-health-in-silvertail-cats-through-vet-recommended-therapies/)
+
 ## Understanding Mobility Decline in Senior Cats
 
 ### What It Is

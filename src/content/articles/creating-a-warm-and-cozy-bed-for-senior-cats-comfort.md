@@ -109,3 +109,5 @@ Ensuring these tailored choices helps reduce stress, improves rest quality, and 
 ---
 
 Providing your senior cat with a warm and cozy bed tailored to their changing needs is one of the most rewarding ways to support their comfort and well-being in their golden years. Thoughtful bedding solves multiple challenges: temperature regulation, joint pain relief, accessibility, and security, allowing your beloved companion peaceful and restful days.
+
+> **See also:** [Creating a Safe Indoor Environment for Elderly Cats](https://silvertail.app/articles/creating-a-safe-indoor-environment-for-elderly-cats/)

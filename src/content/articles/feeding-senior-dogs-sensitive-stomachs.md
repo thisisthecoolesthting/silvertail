@@ -45,6 +45,10 @@ Whether your dog needs a gentle formula for occasional upset or a therapeutic di
 - Special considerations for small vs. large breed seniors
 - Hydration strategies for dogs who resist drinking water
 
+
+
+> **See also:** [Feeding Senior Cats with Sensitive Stomachs: A Comprehensive Guide](https://silvertail.app/articles/feeding-senior-cats-sensitive-stomachs/)
+
 ## Why this matters
 
 As dogs age, their digestive systems undergo significant changes that most owners aren't prepared for. A 2024 Cornell University veterinary study identified three key shifts:

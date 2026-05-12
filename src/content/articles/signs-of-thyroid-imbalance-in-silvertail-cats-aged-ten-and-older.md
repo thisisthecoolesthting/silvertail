@@ -16,6 +16,10 @@ If you own a Silvertail cat that is ten years or older, you may have noticed som
 
 ---
 
+
+
+> **See also:** [Thyroid Disorders in Silvertail Cats: Diagnosis and Treatment Strategies](https://silvertail.app/articles/thyroid-disorders-in-silvertail-cats-diagnosis-and-treatment-strategies/)
+
 ## What Is Thyroid Imbalance in Senior Cats?
 
 The thyroid gland is a small, butterfly-shaped organ located in a cat’s neck that produces hormones essential for regulating metabolism, energy usage, and overall body function. In senior cats, the most common type of thyroid imbalance is **hyperthyroidism**, where the gland produces too much thyroid hormone. Less commonly, cats may suffer from **hypothyroidism**, which is an underproduction of hormones, but this is relatively rare in felines.

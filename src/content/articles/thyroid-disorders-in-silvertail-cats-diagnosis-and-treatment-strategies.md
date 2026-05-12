@@ -18,6 +18,10 @@ Thyroid disorders primarily involve the overproduction or underproduction of thy
 
 Silvertail cats, known for their distinctive silver-gray coat and calm demeanor, can be especially sensitive to the effects of thyroid imbalances, which may affect their energy level, coat condition, and overall well-being.
 
+
+
+> **See also:** [Signs of Thyroid Imbalance in Silvertail Cats Aged Ten and Older](https://silvertail.app/articles/signs-of-thyroid-imbalance-in-silvertail-cats-aged-ten-and-older/)
+
 ## How Thyroid Disorders Affect Silvertail Cats
 
 **Hyperthyroidism** leads to increased metabolism and can result in:

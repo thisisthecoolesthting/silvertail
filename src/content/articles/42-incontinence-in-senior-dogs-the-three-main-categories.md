@@ -18,6 +18,10 @@ Incontinence refers to the involuntary leakage of urine, where a dog is unable t
 
 In senior dogs (generally over 7-10 years old), incontinence can stem from changes in the urinary tract, hormones, neurological control, or other health issues. It can occur at rest or during movement and may worsen with time if the cause isn’t addressed.
 
+
+
+> **See also:** [40. Eye cloudiness in older dogs: nuclear sclerosis vs cataracts](https://silvertail.app/articles/40-eye-cloudiness-in-older-dogs-nuclear-sclerosis-vs-cataracts/)
+
 ## The Three Main Categories of Incontinence in Senior Dogs
 
 ### 1. Urinary Sphincter Mechanism Incompetence (USMI)

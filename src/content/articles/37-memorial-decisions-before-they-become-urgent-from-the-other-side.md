@@ -18,6 +18,10 @@ Memorial decisions encompass choices made about how to respectfully and lovingly
 
 For senior cats, especially those with health challenges such as renal disease, joint mobility issues, or anxiety at the vet, early memorial planning can alleviate considerable stress. It also helps ensure the care you want for your pet's remains aligns with your values and available resources.
 
+
+
+> **See also:** [45. Vaccines in senior pets: what is necessary and what is optional](https://silvertail.app/articles/45-vaccines-in-senior-pets-what-is-necessary-and-what-is-optional/)
+
 ## How These Decisions Work From “The Other Side”
 
 Hearing from other cat owners or caregivers after their loss reveals several truths:

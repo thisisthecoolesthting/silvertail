@@ -16,6 +16,10 @@ Dehydration in older cats can sneak up on you, especially since many signs are s
 
 Dehydration occurs when a cat loses more fluids than they take in, resulting in a critical imbalance in their body's water content. Older cats are especially vulnerable because they often drink less, have diminished kidney function, or might suffer from chronic illnesses affecting their hydration. Dehydration impacts every organ system and can rapidly escalate to a veterinary emergency if not recognized and treated early.
 
+
+
+> **See also:** [How to Support a Senior Cat’s Immune System Naturally](https://silvertail.app/articles/how-to-support-a-senior-cat-s-immune-system-naturally/)
+
 ## How Dehydration Develops in Senior Cats
 
 Several factors combine to increase dehydration risk as cats age:

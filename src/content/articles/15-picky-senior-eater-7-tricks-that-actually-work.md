@@ -24,6 +24,10 @@ Before jumping into solutions, it’s important to recognize why a senior cat mi
 
 Addressing these causes is key—simply changing the recipe without vet consultation may overlook health concerns.
 
+
+
+> **See also:** [Thyroid Disorders in Silvertail Cats: Diagnosis and Treatment Strategies](https://silvertail.app/articles/thyroid-disorders-in-silvertail-cats-diagnosis-and-treatment-strategies/)
+
 ## 7 Tricks That Actually Work for Picky Senior Eaters
 
 ### 1. Warm Up the Food

@@ -26,6 +26,10 @@ Because Silvertail cats often exhibit sensitivity to environmental changes and s
 - **Comfort:** Adjusted litter boxes and accessible resting places ease daily activities.
 - **Emotional care:** Maintaining familiar routines and gentle interactions supports mental well-being.
 
+
+
+> **See also:** [End-of-Life Planning Tips for Owners of Senior Silvertail Cats](https://silvertail.app/articles/end-of-life-planning-tips-for-owners-of-senior-silvertail-cats/)
+
 ## When to Start Focusing on End-of-Life Care
 
 You don’t have to wait for clear signs of decline. Begin preparing for end-of-life care as your cat reaches their senior years (10+), particularly if diagnosed with:

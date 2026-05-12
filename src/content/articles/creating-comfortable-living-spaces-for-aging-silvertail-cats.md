@@ -19,6 +19,10 @@ As your beloved silvertail cat enters their senior years, typically around 10 ye
 
 A comfortable living space for an aging cat focuses on minimizing physical strain, reducing stress, and supporting health issues common in seniors—especially renal (kidney) health, joint mobility, and anxiety. These adaptations go beyond simply providing a cozy bed. They include reconsidering feeding arrangements, litter box accessibility, environmental enrichment, and interaction routines to address the specific needs of senior felines.
 
+
+
+> **See also:** [Creating Comfortable Living Spaces for Elderly Cats at Home](https://silvertail.app/articles/creating-comfortable-living-spaces-for-elderly-cats-at-home/)
+
 ## How It Works: Tailoring Your Home to Meet Aging Cat Needs
 
 ### 1. Optimize Nutrition Zones for Renal Health

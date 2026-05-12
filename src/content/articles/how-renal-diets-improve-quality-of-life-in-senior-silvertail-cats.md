@@ -101,3 +101,5 @@ Renal diets are essential but should be paired with other senior cat care strate
 ---
 
 Supporting your silvertail cat’s kidneys through thoughtfully selected renal nutrition is one of the best ways to extend their healthful years. Understanding the balance of nutrients, the timing for dietary change, and accompanying care can make a meaningful difference. Together with your veterinarian’s guidance, these measures help keep your senior feline comfortable and vibrant despite kidney challenges.
+
+> **See also:** [Renal Diet Plans Tailored for Silvertail Cats Aged Ten and Older](https://silvertail.app/articles/renal-diet-plans-tailored-for-silvertail-cats-aged-ten-and-older/)

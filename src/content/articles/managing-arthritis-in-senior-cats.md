@@ -43,6 +43,10 @@ After caring for three geriatric cats with varying degrees of joint degeneration
 
 This guide incorporates clinical research from Tufts University's veterinary program alongside six months of product testing with 12 arthritic foster cats. We evaluated not just efficacy but real-world usability - like which supplements cats actually consume and how long orthopedic beds maintain support under daily use. For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).
 
+
+
+> **See also:** [Signs of Arthritis in Senior Cats: What to Look For](https://silvertail.app/articles/arthritis-symptoms-cats/)
+
 ## Why This Matters
 
 The consequences of untreated feline arthritis extend far beyond stiff movements. A 2024 longitudinal study published in Veterinary Record followed 200 senior cats for three years, documenting these cascading effects: For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).
@@ -285,3 +289,17 @@ Senior formulas reduce phosphorus and protein levels (relevant for kidney suppor
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What are the most common signs of arthritis in senior cats?**  
+A: Common signs include limping, stiffness, difficulty jumping, reduced activity, and changes in grooming habits.
+
+**Q: How can I help manage arthritis pain in my senior cat?**  
+A: Provide soft bedding, use joint supplements, maintain a healthy weight, and consult your vet for pain management options like medications or therapies.
+
+**Q: Are there specific products designed for senior cats with arthritis?**  
+A: Yes, products like orthopedic beds, heated pads, and low-entry litter boxes can make daily life more comfortable for arthritic cats.
+
+**Q: Should I adjust my senior cat’s diet if they have arthritis?**  
+A: Yes, consider diets rich in omega-3 fatty acids and joint-supporting nutrients, and ensure portion control to prevent weight gain, which can worsen arthritis.

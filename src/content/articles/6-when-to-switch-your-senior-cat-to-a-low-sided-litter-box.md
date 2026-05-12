@@ -18,6 +18,10 @@ A low-sided litter box is simply a litter tray with lowered entry points—meani
 
 Low-sided boxes can come in various shapes and sizes but share the common feature of a reduced wall height, often less than 4 inches, compared to regular boxes that can have walls 6 inches or higher. Some are specifically designed for senior or mobility-impaired cats, often with extra-wide entry points or ramps for gradual access.
 
+
+
+> **See also:** [Optimizing Mobility Comfort for Silvertail Cats Over a Decade Old](https://silvertail.app/articles/optimizing-mobility-comfort-for-silvertail-cats-over-a-decade-old/)
+
 ## How Does a Low-Sided Litter Box Help Senior Cats?
 
 As cats age, maintaining agility becomes challenging. Conditions such as arthritis, hip dysplasia, or general muscle weakness can make high-sided litter box entry a painful or intimidating task. Low-sided boxes reduce the physical barrier, allowing the cat to enter and exit without lifting their legs too high or jumping.

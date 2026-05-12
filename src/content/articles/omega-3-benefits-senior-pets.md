@@ -234,6 +234,10 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 
 
 
+
+
+> **See also:** [The Benefits of Omega-3 Fatty Acids for Senior Dog and Cat Health](https://silvertail.app/articles/omega-3-for-senior-pets/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -248,3 +252,17 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why are omega-3 fatty acids important for senior pets?**  
+A: Omega-3s support joint health, reduce inflammation, and promote cognitive function, which are especially beneficial for aging pets with mobility or brain health concerns.  
+
+**Q: What are the best sources of omega-3s for senior dogs and cats?**  
+A: High-quality fish oil, algae supplements, and fatty fish like salmon are excellent sources. Always consult your vet for the right dosage and form for your pet.  
+
+**Q: Can omega-3 supplements help with arthritis in older pets?**  
+A: Yes, omega-3s have anti-inflammatory properties that can ease joint pain and improve mobility in pets with arthritis.  
+
+**Q: Are there any risks to giving omega-3s to senior pets?**  
+A: Over-supplementation can lead to digestive upset or blood thinning, so it’s important to follow veterinary guidance on dosage and formulation.

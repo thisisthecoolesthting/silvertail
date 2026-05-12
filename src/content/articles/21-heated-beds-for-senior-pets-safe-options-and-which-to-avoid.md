@@ -16,6 +16,10 @@ If you have a senior cat or dog, you probably notice them seeking out warm, cozy
 
 ---
 
+
+
+> **See also:** [The Best Heating Pads for Older Cats: Keeping Them Warm and Comfortable](https://silvertail.app/articles/heating-pads-older-cats-comfort/)
+
 ## What Is a Heated Bed for Senior Pets?
 
 A heated bed is a pet bed with a built-in warming element to provide gentle, consistent heat. These beds come in various forms, including:

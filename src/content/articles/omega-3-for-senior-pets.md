@@ -40,6 +40,10 @@ But with over 87 different omega-3 products on the market ranging from $15 to $1
 
 You'll discover why krill oil outperforms fish oil in certain metabolic scenarios (but not all), how to decode misleading label claims that obscure inferior ingredients, and why the cheapest option may actually cost more long-term when considering bioavailability and waste factors. For pets with pre-existing conditions like kidney disease or diabetes, we'll highlight specific formulations like [Nordic Naturals Omega-3 Pet](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) that omit problematic additives while providing third-party Certificates of Analysis for every batch. For more context, see our [article on glucosamine and chondroitin for](/articles/glucosamine-chondroitin-senior-dogs).
 
+
+
+> **See also:** [Omega-3 Fatty Acids: Essential for Senior Pet Health](https://silvertail.app/articles/omega-3-benefits-senior-pets/)
+
 ## Why This Matters: The Science Behind Omega-3s for Aging Pets
 
 A 12-year-old Labrador produces 40% less anti-inflammatory compounds from dietary fats than a 2-year-old due to natural declines in delta-6-desaturase enzyme activity. Three landmark studies published in the Journal of Veterinary Internal Medicine (2021-2023) show senior dogs given therapeutic doses of 220mg EPA+DHA per 10lbs body weight daily needed 37% less pain medication after 90 days, with observable improvements in stair-climbing ability and morning stiffness.
@@ -210,3 +214,17 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How do omega-3 fatty acids benefit senior dogs and cats?**  
+A: Omega-3s support joint health, reduce inflammation, and improve cognitive function in aging pets, helping them stay active and mentally sharp.  
+
+**Q: What are the best sources of omega-3s for senior pets?**  
+A: High-quality fish oil, algae supplements, and foods fortified with EPA and DHA are excellent sources tailored for senior dogs and cats.  
+
+**Q: How much omega-3 should I give my senior pet daily?**  
+A: Dosage depends on weight and health status—consult your vet, but generally, 20-30mg of EPA/DHA per pound of body weight is a safe starting point.  
+
+**Q: Can omega-3s help with arthritis in older pets?**  
+A: Yes, omega-3s have anti-inflammatory properties that can ease joint pain and improve mobility in pets with arthritis.

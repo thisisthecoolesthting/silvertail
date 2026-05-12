@@ -42,6 +42,10 @@ The first signs often appear subtly: excessive circling before lying down, stari
 
 Early interventions make a measurable difference. A 2024 University of California, San Diego study found dogs who began cognitive support protocols before age 11 maintained significantly better quality-of-life indicators in their later years.  For more context, see our [article on senior cat food](/articles/senior-cat-weight-loss-food).The key is recognizing CCD early and implementing a combination of evidence-based strategies.
 
+
+
+> **See also:** [Understanding Cognitive Dysfunction Syndrome in Older Dogs](https://silvertail.app/articles/cognitive-dysfunction-syndrome-dogs/)
+
 ## Why This Matters
 
 Cognitive decline in dogs represents progressive neural deterioration affecting multiple systems. The canine brain shrinks approximately 25% between ages 10 and 15, with the prefrontal cortex (responsible for decision-making) being particularly vulnerable. Because dogs compress this decline into 2–3 years, early detection is critical.
@@ -218,3 +222,17 @@ Look for 500 mg glucosamine per 25 lb body weight per day (most chews deliver 10
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What is Canine Cognitive Dysfunction (CCD) in senior dogs?**  
+A: CCD is a condition similar to dementia in humans, characterized by memory loss, disorientation, and changes in behavior in aging dogs.
+
+**Q: What are the common signs of CCD in senior dogs?**  
+A: Signs include confusion, altered sleep patterns, increased anxiety, house soiling, and reduced interaction with family members.
+
+**Q: How can I support a senior dog with CCD?**  
+A: Provide mental stimulation, maintain a consistent routine, and consider veterinary-recommended supplements or medications to manage symptoms.
+
+**Q: Are there specific products that can help dogs with CCD?**  
+A: Yes, products like puzzle toys, calming beds, and specially formulated diets or supplements enriched with antioxidants can support cognitive health in senior dogs.

@@ -18,6 +18,10 @@ This article breaks down what renal-supportive supplements are, how they work, w
 
 ---
 
+
+
+> **See also:** [Renal Diet Plans Tailored for Silvertail Cats Aged Ten and Older](https://silvertail.app/articles/renal-diet-plans-tailored-for-silvertail-cats-aged-ten-and-older/)
+
 ## What Are Renal Nutritional Supplements for Senior Cats?
 
 Renal nutritional supplements are specifically designed to reduce the workload on the kidneys, slow progression of kidney dysfunction, and improve quality of life. These supplements often include ingredients that support kidney cells, normalize blood chemistry, and reduce the build-up of toxins that impaired kidneys cannot efficiently remove.

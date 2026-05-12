@@ -18,6 +18,10 @@ Vaccines work by stimulating your pet’s immune system to recognize and fight s
 
 Senior pets remain susceptible to infectious diseases, especially if they attend daycare, have contact with other animals, or go outdoors. However, older pets may have a weakened immune response, so decisions about vaccinations must carefully weigh benefits and potential risks.
 
+
+
+> **See also:** [7. Omega-3 for joint health: EPA vs DHA, dosage, and when it falls short](https://silvertail.app/articles/7-omega-3-for-joint-health-epa-vs-dha-dosage-and-when-it-falls-short/)
+
 ## Core versus Non-Core Vaccines: What Does This Mean?
 
 The veterinary community often divides vaccines into two broad categories:

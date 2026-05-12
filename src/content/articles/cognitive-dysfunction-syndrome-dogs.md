@@ -48,6 +48,10 @@ Early intervention with targeted supplements like [Novifit](https://www.amazon.c
 3. Why some $15 supplements outperform $100 formulas
 4. Case studies from our 90-day testing period
 
+
+
+> **See also:** [Cognitive Decline in Senior Dogs: Recognizing CCD and Evidence-Based Support](https://silvertail.app/articles/cognitive-decline-older-dogs-signs-support/)
+
 ## Why This Matters
 
 CDS isn't just about forgotten tricks. The neurological decline impacts every aspect of your dog's wellbeing:
@@ -250,3 +254,17 @@ Senior formulas reduce phosphorus and protein levels (relevant for kidney suppor
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What is Cognitive Dysfunction Syndrome (CDS) in older dogs?**  
+A: Cognitive Dysfunction Syndrome is a condition similar to dementia in humans, characterized by age-related changes in a dog’s brain that lead to memory loss, disorientation, and altered behavior.
+
+**Q: What are the common signs of CDS in senior dogs?**  
+A: Common signs include confusion, changes in sleep patterns, increased anxiety, decreased interaction with family, and house soiling despite prior training.
+
+**Q: Can Cognitive Dysfunction Syndrome be treated or managed?**  
+A: While there is no cure, CDS can be managed with medications, dietary supplements, environmental enrichment, and maintaining a consistent routine to reduce stress.
+
+**Q: How can I support my dog if they are diagnosed with CDS?**  
+A: Provide mental stimulation through interactive toys, maintain a predictable daily schedule, and consult your veterinarian for tailored treatment options to improve your dog’s quality of life.

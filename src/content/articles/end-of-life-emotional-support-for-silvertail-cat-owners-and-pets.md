@@ -16,6 +16,10 @@ Facing the slow decline or terminal illness of your beloved senior cat is one of
 
 ---
 
+
+
+> **See also:** [Comprehensive End-of-Life Care Plans for Senior Silvertail Cats](https://silvertail.app/articles/comprehensive-end-of-life-care-plans-for-senior-silvertail-cats/)
+
 ## What End-of-Life Emotional Support Means for Senior Cat Owners
 
 End-of-life emotional support is about addressing the complex feelings and needs that arise as your cat approaches their final days or weeks. This includes preparing yourself for loss, helping your pet stay comfortable and loved, managing stress, and making compassionate decisions.

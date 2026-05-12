@@ -16,6 +16,10 @@ Caring for a senior cat comes with specific nutritional challenges. Once your ca
 
 ---
 
+
+
+> **See also:** [Adjusting Feeding Schedules for Cats Over Ten Years Old](https://silvertail.app/articles/adjusting-feeding-schedules-for-cats-over-ten-years-old/)
+
 ## What Senior Cat Nutrition Is and Why It Matters
 
 Senior cat nutrition isn’t just about cutting calories or switching to "senior" labeled foods. It’s a targeted approach that matches the cat’s changing physiology:

@@ -18,6 +18,10 @@ This guide provides a clear road map for cat owners to monitor and manage diabet
 
 ---
 
+
+
+> **See also:** [How to Manage Chronic Conditions in Cats Over Ten Years](https://silvertail.app/articles/how-to-manage-chronic-conditions-in-cats-over-ten-years/)
+
 ## What is Diabetes in Senior Cats?
 
 Diabetes mellitus is a condition where the cat's body cannot regulate blood glucose properly, either due to insufficient insulin production by the pancreas or because the body’s cells are resistant to insulin. This leads to elevated blood sugar levels and, if left unmanaged, can cause serious health problems including kidney damage, nerve issues, and cataracts.

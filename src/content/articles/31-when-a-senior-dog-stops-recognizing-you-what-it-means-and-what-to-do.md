@@ -25,6 +25,10 @@ Key reasons for loss of recognition include:
 
 Loss of recognition is less about an emotional break and more about the dog’s brain no longer connecting the dots as clearly as before.
 
+
+
+> **See also:** [32. Sundowning in older dogs: real phenomenon and practical help](https://silvertail.app/articles/32-sundowning-in-older-dogs-real-phenomenon-and-practical-help/)
+
 ## How It Works: The Dog’s Brain in Senior Years
 
 Dogs rely heavily on smell, sight, and sound to identify familiar people. When one or more of these senses diminish, recognition can falter.

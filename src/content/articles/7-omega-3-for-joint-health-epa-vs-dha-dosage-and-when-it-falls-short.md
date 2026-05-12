@@ -29,6 +29,10 @@ Omega-3 fatty acids are a class of polyunsaturated fats essential for maintainin
 
 In cats, direct supplementation with EPA and/or DHA is crucial because their bodies cannot efficiently convert plant-based omega-3s like alpha-linolenic acid (ALA) into these active forms.
 
+
+
+> **See also:** [45. Vaccines in senior pets: what is necessary and what is optional](https://silvertail.app/articles/45-vaccines-in-senior-pets-what-is-necessary-and-what-is-optional/)
+
 ## How Omega-3s Work to Support Joint Health in Cats
 
 The primary reason omega-3 fatty acids benefit joints is their role in modulating inflammation. Arthritis and joint degeneration involve inflammatory processes that cause pain, swelling, and stiffness. Omega-3s integrate into cell membranes, replacing omega-6 fatty acids, which tend to promote inflammation when present in excess. EPA is particularly effective at decreasing the production of pro-inflammatory molecules called eicosanoids.

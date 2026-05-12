@@ -16,6 +16,10 @@ If your senior cat is struggling with decreased appetite, mobility issues, or ea
 
 ---
 
+
+
+> **See also:** [Caring for Silvertail Cats’ Mobility Needs in Their Senior Years](https://silvertail.app/articles/caring-for-silvertail-cats-mobility-needs-in-their-senior-years/)
+
 ## What Are Supplements in Senior Cat Nutrition?
 
 Supplements for senior cats generally consist of vitamins, minerals, fatty acids, amino acids, and other compounds designed to complement the normal diet. Unlike regular cat food, these are concentrated ingredients intended to provide targeted support for specific health issues common in older cats.

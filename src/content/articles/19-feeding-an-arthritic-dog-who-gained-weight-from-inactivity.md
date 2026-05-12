@@ -18,6 +18,10 @@ Arthritis causes joint inflammation and pain, which often reduces a dog’s acti
 
 Feeding an arthritic dog who gained weight stems from this cycle: you need to reduce calories to lose weight but maintain balanced nutrition and provide ingredients that may support joint health. The challenge is finding the right diet and feeding approach tailored to your dog’s condition.
 
+
+
+> **See also:** [Understanding Dietary Needs of Cats Over Ten Years Old](https://silvertail.app/articles/understanding-dietary-needs-of-cats-over-ten-years-old/)
+
 ## How Proper Feeding Helps Arthritic Dogs with Weight Gain
 
 The right diet achieves multiple goals:

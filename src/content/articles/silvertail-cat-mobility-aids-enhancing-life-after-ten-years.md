@@ -26,6 +26,10 @@ Typical mobility aids for senior cats include:
 
 These aids form part of a holistic approach to managing mobility in senior cats alongside proper nutrition and veterinary care.
 
+
+
+> **See also:** [Optimizing Mobility Comfort for Silvertail Cats Over a Decade Old](https://silvertail.app/articles/optimizing-mobility-comfort-for-silvertail-cats-over-a-decade-old/)
+
 ## How Silvertail Cat Mobility Aids Work
 
 The aids function by addressing specific obstacles that senior cats face:

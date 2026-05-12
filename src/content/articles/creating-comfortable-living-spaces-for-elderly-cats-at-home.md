@@ -119,3 +119,5 @@ Creating a living space tailored to your elderly cat’s evolving needs is a pow
 
 **Q: How can I tell if my cat’s discomfort is due to arthritis or another issue?**  
 **A:** Signs include stiffness after resting, reluctance to jump or climb, limping, and decreased activity. Always consult a vet to diagnose properly and rule out other causes.
+
+> **See also:** [Creating Comfortable Living Spaces for Aging Silvertail Cats](https://silvertail.app/articles/creating-comfortable-living-spaces-for-aging-silvertail-cats/)

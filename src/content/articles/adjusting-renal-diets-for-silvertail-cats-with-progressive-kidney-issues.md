@@ -23,6 +23,10 @@ A renal diet is specially formulated to reduce stress on the kidneys. It typical
 
 The goal is to reduce kidney workload without causing malnutrition or muscle wasting, common risks in aging cats. These diets come as wet and dry options, but wet food is often preferred for senior cats to maintain hydration.
 
+
+
+> **See also:** [Adjusting Your Senior Cat’s Diet for Kidney Health](https://silvertail.app/articles/adjusting-your-senior-cat-s-diet-for-kidney-health/)
+
 ## How Kidney Disease Affects Nutrition Needs
 
 The kidneys filter toxins and regulate electrolytes and fluids. When damaged, waste products build up, and the balance between nutrients and minerals shifts. Common issues require careful nutritional adjustments:

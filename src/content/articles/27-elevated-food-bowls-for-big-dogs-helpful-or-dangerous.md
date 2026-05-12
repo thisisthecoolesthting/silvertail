@@ -27,6 +27,10 @@ The idea is to bring the food and water closer to the dog’s natural standing o
 
 Such elevated feeders are widely marketed for both health and convenience reasons.
 
+
+
+> **See also:** [14. Protein levels in senior dog food and the myth about kidney strain](https://silvertail.app/articles/14-protein-levels-in-senior-dog-food-and-the-myth-about-kidney-strain/)
+
 ## How Elevated Food Bowls Work for Big Dogs
 
 For smaller dogs or certain breeds, reducing the need to stoop may seem logical. For big dogs, the main theories are:

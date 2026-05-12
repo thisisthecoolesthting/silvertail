@@ -16,6 +16,10 @@ As a senior cat owner, you’ve likely noticed one or more lumps on your pet’s
 
 ---
 
+
+
+> **See also:** [Signs of Thyroid Imbalance in Silvertail Cats Aged Ten and Older](https://silvertail.app/articles/signs-of-thyroid-imbalance-in-silvertail-cats-aged-ten-and-older/)
+
 ## What Are Lipomas and How Are They Different from Other Lumps?
 
 A **lipoma** is a benign tumor made up of fat cells that usually forms just under the skin. They are generally soft, movable, and painless. Lipomas are common in older cats and typically don’t cause any health problems. However, their appearance can sometimes be confused with other lumps, some of which may be cancerous or require medical intervention.

@@ -26,6 +26,10 @@ Common signs your cat’s dental health needs attention include:
 
 Left untreated, these problems cause chronic pain and interfere with eating, which can worsen nutritional status—especially critical for older cats with already sensitive kidneys and joints.
 
+
+
+> **See also:** [Common Health Issues in Senior Cats and Prevention Tips](https://silvertail.app/articles/common-health-issues-in-senior-cats-and-prevention-tips/)
+
 ## How to Support Dental Health in Cats Over Ten Years Old
 
 ### 1. Schedule Regular Veterinary Dental Exams and Cleanings

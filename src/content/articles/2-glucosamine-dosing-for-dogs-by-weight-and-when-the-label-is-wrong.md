@@ -24,6 +24,10 @@ Supplementing with glucosamine aims to:
 
 Most glucosamine supplements for dogs come in tablet, capsule, chewable, or powder forms and often combine glucosamine with other ingredients like chondroitin sulfate.
 
+
+
+> **See also:** [9. Turmeric (curcumin) for dogs: the real evidence](https://silvertail.app/articles/9-turmeric-curcumin-for-dogs-the-real-evidence/)
+
 ## Determining Glucosamine Dosage Based on Dog Weight
 
 Glucosamine dosing should be tailored to your dog’s size because joint stress and metabolic needs vary significantly across weights. Yet, you may notice labels on commercial supplements provide vague or inconsistent dosing recommendations, causing confusion.

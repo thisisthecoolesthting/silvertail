@@ -41,6 +41,10 @@ During Gus's final months, we cycled through four different beds before finding 
 
 This guide incorporates lessons from veterinary hospice specialists, geriatric pet physical therapists, and hundreds of hours of firsthand observation.
 
+
+
+> **See also:** [Providing Comfort: At-Home Hospice Care for Your Senior Pet](https://silvertail.app/articles/at-home-hospice-care-for-pets/)
+
 ## Why This Matters
 
 A 2023 study in the Journal of Veterinary Behavior found that 68% of senior dogs experience untreated discomfort in their final year, often because subtle signs (sleeping more, avoiding stairs) are mistaken for "normal" aging. But unmanaged pain accelerates decline by reducing mobility and appetite in a vicious cycle.  For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).Dr. Lisa Walling, a veterinary hospice specialist, notes that pets often hide pain until it becomes severe - what owners perceive as "slowing down" may actually be low-grade chronic suffering.
@@ -192,3 +196,17 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How can I make my senior pet more comfortable at home during their final days?**  
+A: Provide soft bedding, easy access to food and water, and a quiet, warm space. Gentle massages and maintaining a calm environment can also help reduce stress.  
+
+**Q: What are signs that my aging pet is in pain or discomfort?**  
+A: Look for limping, excessive panting, reluctance to move, changes in appetite, or vocalizing more than usual. A vet can help assess pain levels and recommend management options.  
+
+**Q: Are there special products that can help with my senior pet’s mobility?**  
+A: Yes, orthopedic beds, ramps, and non-slip mats can assist pets with arthritis or weakness. Support harnesses and raised food bowls may also improve their quality of life.  
+
+**Q: How do I know when it’s time to consider euthanasia for my pet?**  
+A: Consult your vet if your pet stops eating, shows severe pain, or loses interest in activities they once enjoyed. Quality of life scales can help guide this difficult decision.

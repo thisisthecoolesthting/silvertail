@@ -18,6 +18,10 @@ Low entry cat trees are designed with accessibility and comfort in mind, featuri
 
 Such trees often include wider platforms, ramps, and softer materials to reduce impact on joints, making transitions from floor to perch smoother and less intimidating. They offer vertical enrichment without compromising mobility or causing undue stress.
 
+
+
+> **See also:** [Creating Comfortable Living Spaces for Elderly Cats at Home](https://silvertail.app/articles/creating-comfortable-living-spaces-for-elderly-cats-at-home/)
+
 ## How Do Low Entry Cat Trees Support Senior Cats?
 
 The importance of vertical territory for cats cannot be overstated—they like to watch their domain from a height, which helps with confidence and mental stimulation. However, as cats age (10+ years), issues like arthritis, muscle loss, weight gain, or kidney issues can reduce their leap ability. A low entry cat tree:

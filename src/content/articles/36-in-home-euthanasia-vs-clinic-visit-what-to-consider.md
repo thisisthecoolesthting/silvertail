@@ -20,6 +20,10 @@ In-home euthanasia involves a veterinarian or a trained professional coming to y
 ### Clinic Visit Euthanasia
 Clinic visit euthanasia means bringing your cat to a veterinary clinic or hospital where the procedure is performed under medical supervision. The clinic environment provides immediate access to medical resources and staff trained to assist and comfort you through the process.
 
+
+
+> **See also:** [Understanding End-of-Life Care Options for Senior Cats](https://silvertail.app/articles/understanding-end-of-life-care-options-for-senior-cats/)
+
 ## How In-Home Euthanasia and Clinic Visit Work
 
 #### In-Home Euthanasia Steps:

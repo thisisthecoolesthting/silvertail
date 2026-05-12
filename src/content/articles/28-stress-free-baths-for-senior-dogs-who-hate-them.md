@@ -16,6 +16,10 @@ If your senior dog hates bath time and the whole process turns into a stressful 
 
 ---
 
+
+
+> **See also:** [39. Dental chews for older dogs with sensitive teeth](https://silvertail.app/articles/39-dental-chews-for-older-dogs-with-sensitive-teeth/)
+
 ## What It Is: The Challenge of Bathing Senior Dogs
 
 Bathing a senior dog is more than just routine grooming. As dogs age, they often develop arthritis, sensory decline, and sometimes cognitive changes that affect how they tolerate new or unpleasant experiences. For many, the slippery tub, cold water, loud noises, and feeling trapped may trigger stress behaviors such as trembling, vocalizing, or trying to escape.

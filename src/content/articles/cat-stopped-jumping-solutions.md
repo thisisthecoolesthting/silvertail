@@ -49,6 +49,10 @@ We tested 14 mobility aids over 18 months with three senior cats (ages 11–17) 
 2.  For more context, see our [article on mobility ramps and stairs](/articles/mobility-ramps-stairs-dogs).**Home layout**: Apartments may need foldable options; larger homes allow for permanent installations
 3. **Feline temperament**: Anxious cats often prefer enclosed step systems versus open ramps
 
+
+
+> **See also:** [Managing Arthritis in Senior Cats: Symptoms and Solutions](https://silvertail.app/articles/managing-arthritis-senior-cats/)
+
 ## Why This Matters
 
 Feline arthritis often starts in the elbows and spine, making upward jumps painful. Without intervention, mobility decline creates a difficult cycle:
@@ -289,3 +293,17 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why has my senior cat stopped jumping onto furniture?**  
+A: Older cats often lose mobility due to arthritis, muscle weakness, or joint pain. Reduced jumping can also signal vision decline or balance issues. A vet checkup can help identify the exact cause.  
+
+**Q: What are the best ways to help my cat reach high places safely?**  
+A: Use pet stairs or ramps with non-slip surfaces to assist your cat. Place low-profile steps near their favorite spots, like beds or windowsills, to make climbing easier.  
+
+**Q: Are there supplements that can improve my cat’s joint health?**  
+A: Glucosamine, chondroitin, and omega-3 fatty acids may support joint function. Always consult your vet before starting any supplements to ensure they’re safe and effective for your cat.  
+
+**Q: How can I make my home more comfortable for a less mobile cat?**  
+A: Provide soft, orthopedic bedding and keep essentials (food, water, litter) on one level. Avoid sudden changes in furniture layout to help your cat navigate confidently.

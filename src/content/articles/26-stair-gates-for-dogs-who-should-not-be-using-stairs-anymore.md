@@ -14,6 +14,10 @@ subtopic: nutrition
 
 If you own an older dog experiencing mobility issues, arthritis, or recovering from surgery, stairs can quickly become a dangerous obstacle. Allowing your dog to climb or descend stairs may lead to falls, slips, or worsening joint pain. This is where stair gates come in—they provide a simple, effective barrier to keep your furry friend safe and limit access to stairs without resorting to confinement or discomfort. Understanding how to choose and use stair gates correctly can improve your dog's quality of life, reduce your worry, and maintain household harmony.
 
+
+
+> **See also:** [9. Turmeric (curcumin) for dogs: the real evidence](https://silvertail.app/articles/9-turmeric-curcumin-for-dogs-the-real-evidence/)
+
 ## What Are Stair Gates for Dogs?
 
 Stair gates are barriers installed at the bottom or top of staircases to block pets from accessing steps that are unsafe or difficult for them. Unlike baby gates which are designed for toddlers, dog stair gates are often reinforced and tailored for canine behavior and physical needs. They can be pressure-mounted or hardware-mounted, made from various materials, and styled to integrate with your home decor while fulfilling their safety function.

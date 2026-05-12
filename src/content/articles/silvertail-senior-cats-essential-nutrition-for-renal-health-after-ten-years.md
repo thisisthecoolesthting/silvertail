@@ -18,6 +18,10 @@ Renal health refers to the condition and function of the kidneys. In cats, kidne
 
 CKD is progressive and irreversible but manageable. Early intervention through diet can reduce the workload on the kidneys, improve hydration, and control waste build-up. Symptoms of renal issues include increased thirst and urination, decreased appetite, weight loss, and lethargy.
 
+
+
+> **See also:** [Adjusting Renal Diets for Silvertail Cats with Progressive Kidney Issues](https://silvertail.app/articles/adjusting-renal-diets-for-silvertail-cats-with-progressive-kidney-issues/)
+
 ## How Nutrition Supports Renal Health
 
 The kidneys are sensitive to protein breakdown products, phosphorus, and electrolyte imbalances. Renal-friendly nutrition works by balancing these key elements to reduce kidney stress:

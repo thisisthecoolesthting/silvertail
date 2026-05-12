@@ -42,6 +42,10 @@ Early signs often manifest subtly: your dog might hesitate before jumping onto f
 
 This guide compares 14 evidence-backed options we've tested with our own senior dogs across three key dimensions: biochemical support (supplements like [VetriScience Composure](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20)), nutritional interventions (therapeutic diets such as [Purina Pro Plan NeuroCare](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20)), and environmental enrichment (tools like the [CleverPet interactive feeder](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20)). We'll separate marketing hype from what actually improves quality of life, with month-by-month tracking data from our 8-month study involving 12 senior dogs of varying breeds and CCD stages. For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).
 
+
+
+> **See also:** [Understanding and Supporting Cognitive Decline in Older Dogs](https://silvertail.app/articles/cognitive-support-dogs/)
+
 ## Why this matters
 
 Cognitive decline isn't just about forgotten tricks. A 2018 Journal of Veterinary Behavior study found dogs with CCD experience measurable anxiety—their cortisol levels spike 37% higher than cognitively healthy peers during routine vet visits.  For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).The neurological changes (amyloid plaques, reduced dopamine) also disrupt sleep cycles, leading to nighttime restlessness that exhausts both pet and owner.
@@ -195,3 +199,17 @@ Senior formulas reduce phosphorus and protein levels (relevant for kidney suppor
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What are the early signs of cognitive decline in older dogs?**  
+A: Early signs include disorientation, changes in sleep patterns, increased anxiety, decreased interest in play, and accidents indoors despite prior housetraining. These symptoms may develop gradually, so monitoring your dog’s behavior closely is key.  
+
+**Q: How can I support my dog’s brain health as they age?**  
+A: Provide mental stimulation through puzzle toys, short training sessions, and interactive games. A balanced diet rich in antioxidants and omega-3 fatty acids can also help. Regular vet check-ups ensure early detection and management of cognitive issues.  
+
+**Q: Are there specific products that help dogs with cognitive decline?**  
+A: Yes, products like calming beds, night lights for better visibility, and slow-feeder puzzles can assist. Supplements containing phosphatidylserine or SAM-e may also support brain function, but always consult your vet first.  
+
+**Q: When should I consult a vet about my dog’s cognitive changes?**  
+A: If your dog shows sudden or severe behavioral shifts, struggles with basic tasks, or seems distressed, schedule a vet visit. Early intervention can improve quality of life and rule out other medical conditions.

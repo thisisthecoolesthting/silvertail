@@ -18,6 +18,10 @@ Holistic vet care takes a comprehensive approach, focusing not only on symptoms 
 
 For older cats—especially those over a decade—holistic veterinary care recognizes the delicate balance of managing arthritis with minimal side effects while enhancing kidney health, managing stress, and improving mobility. This is particularly relevant to silvertail cats, who often experience age-related joint degeneration but also tend to have sensitive renal systems requiring special nutritional considerations.
 
+
+
+> **See also:** [Managing Arthritis in Silvertail Cats Aged 10+ Through Vet Care](https://silvertail.app/articles/managing-arthritis-in-silvertail-cats-aged-10-through-vet-care/)
+
 ## How Holistic Vet Care Works for Arthritic Silvertail Cats
 
 1. **Comprehensive Assessment**  

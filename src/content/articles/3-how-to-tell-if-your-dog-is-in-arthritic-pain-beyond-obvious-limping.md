@@ -16,6 +16,10 @@ If you suspect your dog has arthritis but don’t see clear signs like limping o
 
 ---
 
+
+
+> **See also:** [How to Detect Pain in Senior Cats and Provide Relief](https://silvertail.app/articles/how-to-detect-pain-in-senior-cats-and-provide-relief/)
+
 ## Step 1: Observe Your Dog’s Activity and Mobility Patterns
 
 Arthritis slows joint movement and causes stiffness, but it may not result immediately in limp or overt lameness. Look for subtle mobility changes such as:

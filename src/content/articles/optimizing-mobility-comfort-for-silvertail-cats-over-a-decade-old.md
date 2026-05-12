@@ -30,6 +30,10 @@ For silvertail cats over a decade old, mobility challenges often stem from:
 
 Effective mobility optimization combines nutritional support, physical comfort, stress reduction during vet visits, appropriate litter accessibility, and honest discussions about end-of-life comfort care.
 
+
+
+> **See also:** [Silvertail Cat Mobility Aids: Enhancing Life After Ten Years](https://silvertail.app/articles/silvertail-cat-mobility-aids-enhancing-life-after-ten-years/)
+
 ## How Mobility Optimization Works: Key Components
 
 ### 1. Renal-Friendly Nutrition That Supports Joint Health

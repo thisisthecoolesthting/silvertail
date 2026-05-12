@@ -18,6 +18,10 @@ This article explains what kidney disease means for your senior cat’s nutritio
 
 ---
 
+
+
+> **See also:** [Adjusting Renal Diets for Silvertail Cats with Progressive Kidney Issues](https://silvertail.app/articles/adjusting-renal-diets-for-silvertail-cats-with-progressive-kidney-issues/)
+
 ## What Is Kidney Disease in Senior Cats?
 
 Chronic Kidney Disease (CKD) is a progressive, irreversible decline in kidney function common in older cats. The kidneys filter waste from the bloodstream and regulate electrolyte and fluid balance. When the kidneys weaken, toxins build up, and imbalances in minerals like phosphorus and sodium occur.

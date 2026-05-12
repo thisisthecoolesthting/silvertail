@@ -18,6 +18,10 @@ Thyroid disease in cats primarily refers to hyperthyroidism, a condition caused 
 
 Unlike hypothyroidism (an underactive thyroid) that is more rare in cats, hyperthyroidism can cause a range of symptoms that mimic other diseases or normal signs of aging, often leading to misdiagnosis or late detection.
 
+
+
+> **See also:** [Thyroid Health Monitoring for Silvertail Cats Over Ten Years Old](https://silvertail.app/articles/thyroid-health-monitoring-for-silvertail-cats-over-ten-years-old/)
+
 ## How Hyperthyroidism Works
 
 The thyroid glands sit near the trachea in your cat's neck and control how quickly cells use energy. When hyperthyroidism develops, usually due to benign tumors or hyperplasia of thyroid tissue, it causes increased metabolic activity. This “metabolic overdrive” affects multiple organ systems, including the heart, digestive tract, and nervous system, contributing to a sometimes dramatic change in health and behavior.

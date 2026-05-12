@@ -16,6 +16,10 @@ Older dog owners often notice a sudden change: their previously spry pet no long
 
 Jumping on the couch is a common way dogs seek comfort, companionship, and a vantage point in the home. Many dogs enjoy this behavior throughout their lives. When an older dog stops doing this, it’s typically a sign that something has changed physically or emotionally. The dog might be experiencing discomfort, reduced mobility, fear, confusion, or even loss of interest in previously enjoyed activities.
 
+
+
+> **See also:** [32. Sundowning in older dogs: real phenomenon and practical help](https://silvertail.app/articles/32-sundowning-in-older-dogs-real-phenomenon-and-practical-help/)
+
 ## How It Works: Physical and Emotional Factors Behind the Change
 
 ### 1. Joint Pain and Arthritis  

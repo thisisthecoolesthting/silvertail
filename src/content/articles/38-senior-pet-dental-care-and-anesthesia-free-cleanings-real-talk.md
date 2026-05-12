@@ -18,6 +18,10 @@ Dental health is often overlooked in senior pets, but it’s a cornerstone of th
 
 Caring for senior pet teeth goes beyond cosmetic whitening or fresh breath; it’s about preventing pain, infection, and degeneration that affect quality of life. Because older pets often have other health concerns—like kidney insufficiency or arthritis—dental care choices should also align with their broader health status.
 
+
+
+> **See also:** [Top Vet Care Tips for Cats Aged Ten and Older](https://silvertail.app/articles/top-vet-care-tips-for-cats-aged-ten-and-older/)
+
 ## How Traditional Dental Cleanings Work
 
 Veterinary dental cleanings are usually performed under general anesthesia. This approach has several advantages:

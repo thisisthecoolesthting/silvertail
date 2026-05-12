@@ -25,6 +25,10 @@ A senior cat–friendly indoor environment is a home setup designed to accommoda
 - **Comfort and security needs** as cats age and become more vulnerable
 - **Ease of litter box use** due to stiffness or weak joints
 
+
+
+> **See also:** [Creating a Warm and Cozy Bed for Senior Cats’ Comfort](https://silvertail.app/articles/creating-a-warm-and-cozy-bed-for-senior-cats-comfort/)
+
 ## How It Works: Key Strategies to Create and Maintain Safety and Comfort
 
 As cats age, subtle changes in behavior may signal discomfort or confusion. Proactively adjusting your home can prevent accidents, lower stress, and extend your cat’s independence.

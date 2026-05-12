@@ -18,6 +18,10 @@ Pheromone therapy involves using synthetic chemicals that mimic natural feline f
 
 For senior cats, who may become more sensitive to household noise, changes in routine, or the presence of other pets, pheromone therapy can be a valuable part of an overall anxiety management plan.
 
+
+
+> **See also:** [30. Feline cognitive decline: what it looks like at the litter box](https://silvertail.app/articles/30-feline-cognitive-decline-what-it-looks-like-at-the-litter-box/)
+
 ## How Does Pheromone Therapy Work?
 
 Cats use pheromones mainly through scent glands located around their face, paws, and tail. When cats rub their face on furniture or a favorite human, they deposit these chemicals, signaling a sense of safety and territory ownership.

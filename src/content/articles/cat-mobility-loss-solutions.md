@@ -45,6 +45,10 @@ This comprehensive guide will walk you through the best options for supporting y
 
 Understanding feline mobility loss requires recognizing the subtle signs early. Cats are masters at masking discomfort, so changes in behavior like reduced jumping, hesitation before climbs, or altered grooming habits can be crucial indicators.  For more context, see our [article on heating pads](/articles/heating-pads-older-cats).Early intervention with mobility aids can significantly slow the progression of arthritis, maintain muscle tone, prevent secondary health issues from inactivity, and preserve your cat's independence and confidence.
 
+
+
+> **See also:** [Helping Your Senior Cat with Mobility: Ramps, Stairs, and More](https://silvertail.app/articles/cat-mobility-solutions/)
+
 ## Why This Matters
 
 Mobility loss in cats isn't just about inconvenience - it can significantly impact their physical health and emotional wellbeing. Cats who stop jumping often experience:
@@ -246,3 +250,17 @@ The cost is real ($300–$600/year extra) but the early-detection value usually 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why has my senior cat stopped jumping?**  
+A: Reduced jumping ability in senior cats is often due to arthritis, muscle weakness, or joint pain. Age-related conditions like degenerative joint disease can also limit mobility. A vet visit can help identify the exact cause.  
+
+**Q: How can I help my cat reach high places without jumping?**  
+A: Use pet ramps or stairs to provide easy access to favorite spots like beds or windowsills. Place low-profile furniture or steps near elevated areas to reduce strain.  
+
+**Q: Are there supplements that can improve my cat’s mobility?**  
+A: Glucosamine, chondroitin, and omega-3 fatty acids may support joint health. Always consult your vet before starting any supplements to ensure they’re safe and appropriate.  
+
+**Q: When should I consider mobility aids for my senior cat?**  
+A: If your cat struggles with daily activities like climbing or using the litter box, consider aids like orthopedic beds or low-entry litter boxes. Early intervention can improve their quality of life.

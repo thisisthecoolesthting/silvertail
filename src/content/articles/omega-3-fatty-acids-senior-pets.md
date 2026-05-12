@@ -175,6 +175,10 @@ Early intervention (Selegiline, dietary support, environmental enrichment) can s
 
 
 
+
+
+> **See also:** [Omega-3 Fatty Acids: Essential for Senior Pet Health](https://silvertail.app/articles/omega-3-benefits-senior-pets/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -189,3 +193,17 @@ Early intervention (Selegiline, dietary support, environmental enrichment) can s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What are the main benefits of omega-3 fatty acids for senior dogs and cats?**  
+A: Omega-3 fatty acids support joint health, reduce inflammation, improve skin and coat condition, and promote cognitive function in aging pets.  
+
+**Q: How can omega-3s help with arthritis in senior pets?**  
+A: Omega-3s have anti-inflammatory properties that can reduce joint pain and stiffness, making it easier for pets with arthritis to move comfortably.  
+
+**Q: Are there specific sources of omega-3s recommended for senior pets?**  
+A: Fish oil, krill oil, and algae-based supplements are excellent sources of omega-3s, with fish oil being the most commonly used for pets.  
+
+**Q: How often should I give omega-3 supplements to my senior dog or cat?**  
+A: Follow the dosage instructions on the product label or consult your veterinarian, as needs vary based on your pet’s size, weight, and health condition.

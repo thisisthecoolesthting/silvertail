@@ -39,6 +39,10 @@ Unlike human hospice, we don't have dedicated facilities - the care happens wher
 
 Creating a hospice environment requires careful planning and attention to detail. Start by assessing your pet's specific needs. For example, if your pet has arthritis, consider investing in an orthopedic bed like the [PetFusion Orthopedic Bed](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) to alleviate joint pain. If mobility is an issue, a harness such as the [Help 'Em Up Harness](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) can provide the necessary support. Additionally, ensure that your home is safe and accessible, removing any obstacles that could cause falls or injuries.
 
+
+
+> **See also:** [Providing Comfort: At-Home Hospice Care for Your Senior Pet](https://silvertail.app/articles/at-home-hospice-care-for-pets/)
+
 ## Why this matters
 
 Veterinary hospice isn't about prolonging life at all costs, but about recognizing when curative treatments are no longer serving your pet. The American Animal Hospital Association reports that 90% of pet owners want to provide end-of-life care at home when possible, yet most don't know where to start. The stakes are emotional and practical: uncontrolled pain can accelerate decline, while proper support may preserve quality time.
@@ -180,3 +184,17 @@ Get a ramp at least 2× the height of the surface (a 24-inch bed needs a 48-inch
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What are the signs that my senior pet may need hospice care?**  
+A: Signs include chronic pain, difficulty eating or drinking, severe mobility issues, and a noticeable decline in overall quality of life despite medical treatment.  
+
+**Q: How can I make my home more comfortable for my pet during hospice care?**  
+A: Provide soft bedding, easy access to food and water, a quiet and warm environment, and consider ramps or pads to help with mobility.  
+
+**Q: What pain management options are available for senior pets in hospice care?**  
+A: Options include prescribed medications, acupuncture, physical therapy, and natural remedies like CBD oil, always under veterinary guidance.  
+
+**Q: How can I emotionally prepare for saying goodbye to my pet during hospice care?**  
+A: Spend quality time together, create lasting memories, and seek support from pet loss counseling or support groups to help process your emotions.

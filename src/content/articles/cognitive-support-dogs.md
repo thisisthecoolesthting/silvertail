@@ -39,6 +39,10 @@ Recent breakthroughs in veterinary neurology reveal that cognitive decline begin
 
 During my work with the Grey Muzzle Organization, we tracked 200 senior dogs and found those receiving early intervention maintained 40% more independence in daily activities compared to untreated peers after two years. For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).
 
+
+
+> **See also:** [Recognizing and Supporting Cognitive Decline in Older Dogs](https://silvertail.app/articles/cognitive-decline-dogs-symptoms-support/)
+
 ## Why This Matters
 
 Canine cognitive decline isn't just about forgotten commands. It manifests in four key areas:
@@ -213,3 +217,17 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What are the common signs of cognitive decline in older dogs?**  
+A: Common signs include disorientation, changes in sleep patterns, increased anxiety, decreased interaction with family, and accidents in the house despite being house-trained.  
+
+**Q: Can cognitive decline in dogs be prevented or slowed?**  
+A: While it cannot always be prevented, mental stimulation, a balanced diet, regular exercise, and veterinary-recommended supplements can help slow its progression.  
+
+**Q: Are there specific products that can help manage cognitive decline in senior dogs?**  
+A: Yes, products like puzzle toys, calming beds, specialized diets, and supplements containing omega-3 fatty acids or antioxidants can support cognitive health.  
+
+**Q: When should I consult a veterinarian about my dog’s cognitive decline?**  
+A: Consult a veterinarian if you notice significant behavioral changes, as they can rule out other medical conditions and recommend appropriate treatments or interventions.

@@ -178,6 +178,10 @@ Brands worth verifying include Big Barker for large dogs (independent veterinary
 
 
 
+
+
+> **See also:** [Recognizing the Signs of Cognitive Decline in Older Dogs](https://silvertail.app/articles/signs-cognitive-decline-dogs/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -194,3 +198,17 @@ Brands worth verifying include Big Barker for large dogs (independent veterinary
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
 For more on how to properly refill ink cartridges: a step-by-step guide, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-properly-refill-ink-cartridges-step-by-step-guide/).
+
+## FAQ  
+
+**Q: How long should the transition to new food take for a senior dog?**  
+A: The transition should take 7–10 days, gradually mixing the new food with the old in increasing amounts to avoid digestive upset.  
+
+**Q: What signs should I watch for during the transition?**  
+A: Monitor for vomiting, diarrhea, or loss of appetite, as these may indicate the new food isn’t agreeing with your dog or the transition is too fast.  
+
+**Q: Should I consult my vet before changing my senior dog’s food?**  
+A: Yes, especially if your dog has health issues like kidney disease or diabetes, as dietary changes can impact their condition.  
+
+**Q: Are there specific ingredients to look for in senior dog food?**  
+A: Opt for high-quality protein, joint-supporting supplements like glucosamine, and easily digestible carbohydrates to support aging dogs’ needs.

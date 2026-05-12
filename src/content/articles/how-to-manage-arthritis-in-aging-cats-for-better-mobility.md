@@ -16,6 +16,10 @@ If you have a senior cat over 10 years old who seems less active, reluctant to j
 
 ---
 
+
+
+> **See also:** [Managing Arthritis in Silvertail Cats Aged 10+ Through Vet Care](https://silvertail.app/articles/managing-arthritis-in-silvertail-cats-aged-10-through-vet-care/)
+
 ## What Is Arthritis in Cats?
 
 Arthritis, also called osteoarthritis or degenerative joint disease, is the breakdown of cartilage protecting the joints. As this cartilage erodes, bones may rub against one another, causing pain, inflammation, and stiffness. In cats, arthritis is largely underdiagnosed because they often mask pain and tend to slow down naturally with age.

@@ -39,6 +39,10 @@ The good news is that modern pet mobility solutions have evolved significantly, 
 
 Whether your cat needs help reaching their favorite perch or requires a complete home mobility system, this guide will provide the knowledge you need to significantly improve your feline companion's quality of life during their golden years. For more context, see our [article on orthopedic dog beds](/articles/best-orthopedic-dog-beds).
 
+
+
+> **See also:** [My Cat Stopped Jumping: Solutions for Senior Cat Mobility Loss](https://silvertail.app/articles/cat-mobility-loss-solutions/)
+
 ## Why this matters
 
 Understanding the profound impact of mobility issues on senior cats requires examining both the physiological and behavioral consequences. When a cat's movement becomes painful due to conditions like osteoarthritis (which affects 90% of cats over 12), it triggers a cascade of negative effects.  For more context, see our [article on heating pads](/articles/heating-pads-older-cats).First, reduced activity leads to muscle atrophy, which ironically worsens joint problems. The cat may stop grooming properly, resulting in matted fur and skin issues.
@@ -236,3 +240,17 @@ Brands worth verifying include Big Barker for large dogs (independent veterinary
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What types of ramps are best for senior cats?**  
+A: Lightweight, non-slip ramps with a gradual incline are ideal, as they provide stability and reduce strain on joints.  
+
+**Q: How can I encourage my senior cat to use stairs or ramps?**  
+A: Place treats or their favorite toys on the steps or ramp to entice them, and reward them with praise when they use it.  
+
+**Q: Are there alternatives to ramps and stairs for improving mobility?**  
+A: Yes, pet steps, orthopedic beds, and low-entry litter boxes can also help senior cats move more comfortably.  
+
+**Q: How do I know if my senior cat needs mobility assistance?**  
+A: Watch for signs like difficulty jumping, limping, or hesitating to climb stairs, which may indicate they need support.

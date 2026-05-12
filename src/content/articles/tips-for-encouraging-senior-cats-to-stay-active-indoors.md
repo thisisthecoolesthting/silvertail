@@ -14,6 +14,10 @@ subtopic: nutrition
 
 As cats age, especially once they hit around 10 years or older, they often become less active. This decrease in movement can contribute to weight gain, joint stiffness, and poorer overall health. For senior cats living indoors, the challenge is to promote gentle but consistent activity without causing stress or injury. If you’ve noticed your elderly cat lounging more frequently and resisting play, this article will help you understand how to encourage them to stay engaged physically and mentally, promoting their well-being and comfort.
 
+
+
+> **See also:** [Creating Comfortable Living Spaces for Elderly Cats at Home](https://silvertail.app/articles/creating-comfortable-living-spaces-for-elderly-cats-at-home/)
+
 ## Why Keeping Senior Cats Active Matters
 
 Senior cats are more susceptible to health issues like arthritis, obesity, diabetes, and kidney disease. Regular, moderate exercise supports joint mobility, helps control weight, and stimulates mental health. Encouraging movement can also aid in maintaining healthy renal function by promoting hydration and normal circulation.

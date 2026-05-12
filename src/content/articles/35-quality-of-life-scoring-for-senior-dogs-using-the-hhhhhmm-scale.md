@@ -16,6 +16,10 @@ Caring for a senior dog often involves difficult decisions, especially when it c
 
 ---
 
+
+
+> **See also:** [End-of-Life Planning Tips for Owners of Senior Silvertail Cats](https://silvertail.app/articles/end-of-life-planning-tips-for-owners-of-senior-silvertail-cats/)
+
 ## What is the HHHHHMM Scale?
 
 The HHHHHMM scale is a quality of life assessment tool designed by veterinarians and animal care experts to monitor and score several key aspects of a pet’s well-being. The acronym stands for:

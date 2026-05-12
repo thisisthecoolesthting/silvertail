@@ -45,6 +45,10 @@ Having tested 14 formulations with my own senior dogs over six years, I've learn
 - Dachshunds benefit from early supplementation (starting at age 5) to prevent intervertebral disc disease
 - Great Danes need careful monitoring for gastrointestinal effects when starting supplements For more context, see our [article on 5 joint supplements for](/articles/top-joint-supplements-dogs).
 
+
+
+> **See also:** [Top Joint Supplements for Senior Dogs: Glucosamine, Chondroitin, and More](https://silvertail.app/articles/senior-dog-joint-supplements/)
+
 ## Why This Matters
 
 Joint cartilage naturally deteriorates with age, losing its spongy shock-absorption quality. Glucosamine (a building block for cartilage) and chondroitin (which helps retain water in joint tissue) work synergistically to slow this process. But not all supplements deliver these compounds effectively. A 2018 study in the Journal of Veterinary Pharmacology and Therapeutics found only 23% of tested pet supplements contained the labeled amounts of active ingredients.
@@ -261,3 +265,17 @@ Early intervention (Selegiline, dietary support, environmental enrichment) can s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What are the benefits of glucosamine and chondroitin for senior dogs?**  
+A: Glucosamine and chondroitin support joint health by reducing inflammation, promoting cartilage repair, and improving mobility in aging dogs with arthritis or stiffness.  
+
+**Q: What is the recommended dosage of glucosamine and chondroitin for senior dogs?**  
+A: Dosage depends on weight, but a general guideline is 20 mg of glucosamine per pound of body weight daily, combined with 1 mg of chondroitin per pound. Always consult your vet for precise dosing.  
+
+**Q: How long does it take to see improvements in my dog’s mobility?**  
+A: Most dogs show noticeable improvement within 4–6 weeks, but some may take up to 8 weeks for full benefits. Consistency is key for long-term results.  
+
+**Q: Are there any side effects of giving glucosamine and chondroitin to senior dogs?**  
+A: Side effects are rare but may include mild digestive upset or diarrhea. If symptoms persist, discontinue use and consult your veterinarian.

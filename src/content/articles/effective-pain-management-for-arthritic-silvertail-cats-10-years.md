@@ -16,6 +16,10 @@ Arthritis in senior cats, particularly those over 10 years old, can severely imp
 
 Arthritis, also known as degenerative joint disease, is a chronic inflammatory condition that affects the joints. In senior cats like Silvertails, it commonly results from the natural wear and tear of cartilage cushioning joints or may be linked to past injuries. Arthritis causes joint stiffness, pain, swelling, and reduced mobility, which can lead to behavioral changes such as irritability, decreased appetite, or hiding.
 
+
+
+> **See also:** [Holistic Vet Care for Arthritic Silvertail Cats Over a Decade Old](https://silvertail.app/articles/holistic-vet-care-for-arthritic-silvertail-cats-over-a-decade-old/)
+
 ## How Pain Manages Arthritis
 
 Pain management for arthritic cats works by reducing inflammation, enhancing joint mobility, and addressing discomfort to improve overall wellbeing. Since cats instinctively hide pain, proactive management is key.

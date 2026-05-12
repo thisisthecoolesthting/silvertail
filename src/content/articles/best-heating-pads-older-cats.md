@@ -247,6 +247,10 @@ The cost is real ($300–$600/year extra) but the early-detection value usually 
 
 
 
+
+
+> **See also:** [My Cat Stopped Jumping: Solutions for Senior Feline Mobility](https://silvertail.app/articles/cat-stopped-jumping-solutions/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -261,3 +265,17 @@ The cost is real ($300–$600/year extra) but the early-detection value usually 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Are heating pads safe for senior cats with arthritis?**  
+A: Yes, but only if they are specifically designed for pets, have low-temperature settings, and automatic shut-off features. Always monitor your cat to ensure they don’t overheat or lie on the pad for too long.  
+
+**Q: What’s the best type of heating pad for an older cat?**  
+A: Self-warming pads or electric pads with adjustable thermostats are ideal. Look for models with chew-resistant cords and soft, washable covers for added safety and comfort.  
+
+**Q: How long should my senior cat use a heating pad each day?**  
+A: Limit use to 15–30 minutes at a time, especially with electric pads. Older cats may have reduced sensitivity to heat, so frequent breaks prevent overheating or burns.  
+
+**Q: Can heating pads help with my cat’s joint pain?**  
+A: Yes, gentle warmth can soothe stiff joints and improve circulation. Pairing a heating pad with vet-approved pain management can enhance your cat’s comfort.

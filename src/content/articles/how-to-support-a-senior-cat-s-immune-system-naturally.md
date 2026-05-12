@@ -18,6 +18,10 @@ As cats age, their immune systems naturally decline—a process called immunosen
 
 Supporting your senior cat’s immune system naturally means focusing on comprehensive health management: good nutrition, stress reduction, maintaining mobility, and tailored veterinary care.
 
+
+
+> **See also:** [20. Dehydration in older cats: signs you are probably missing](https://silvertail.app/articles/20-dehydration-in-older-cats-signs-you-are-probably-missing/)
+
 ## How to Support Your Senior Cat’s Immune System Naturally
 
 ### 1. Optimize Renal-Friendly Nutrition

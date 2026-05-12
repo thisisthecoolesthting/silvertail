@@ -16,6 +16,10 @@ Many owners of senior cats notice a troubling decline in their pets’ curiosity
 
 Mental enrichment refers to activities and environmental modifications that provide cognitive stimulation and engaging experiences beyond basic feeding and shelter. For senior cats, enrichment focuses on gentle challenges that encourage problem-solving, sensory engagement, and positive interaction—all adapted to their abilities and energy levels.
 
+
+
+> **See also:** [Setting Up a Senior Cat Play Area to Boost Mental Health](https://silvertail.app/articles/setting-up-a-senior-cat-play-area-to-boost-mental-health/)
+
 ## How Mental Enrichment Benefits Senior Cats
 
 As cats age, they may experience diminished senses, slower reflexes, joint stiffness, and cognitive decline similar to mild dementia. Mental enrichment helps by:

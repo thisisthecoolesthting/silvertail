@@ -18,6 +18,10 @@ Here’s a step-by-step guide to preparing your senior cat for vet visits withou
 
 ---
 
+
+
+> **See also:** [Best Practices for Administering Medication to Elderly Cats](https://silvertail.app/articles/best-practices-for-administering-medication-to-elderly-cats/)
+
 ## Step 1: Set Up a Comfortable Carrier and Getting-Ready Routine
 
 For many cats, the carrier itself is a major anxiety trigger.

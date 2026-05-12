@@ -21,6 +21,10 @@ As cats age past 10 years, their metabolism slows and activity levels typically 
 
 Natural weight management balances appropriate nutrition with lifestyle adjustments that accommodate your senior cat’s changing needs.
 
+
+
+> **See also:** [16. Prescription vs store brand senior food: when the difference matters](https://silvertail.app/articles/16-prescription-vs-store-brand-senior-food-when-the-difference-matters/)
+
 ## Step 1: Assess Your Senior Cat’s Ideal Weight and Body Condition
 
 Before making changes, determine if your cat is underweight, overweight, or within a healthy range. Use the **Body Condition Score (BCS)** system, a 9-point scale veterinary professionals use to assess body fat—from 1 (emaciated) to 9 (obese).

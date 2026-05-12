@@ -24,6 +24,10 @@ Key areas of focus include:
 - **Litter box access:** Adjusting for mobility or urinary issues.
 - **End-of-life comfort:** Gentle care and honest planning.
 
+
+
+> **See also:** [End-of-Life Planning Tips for Owners of Senior Silvertail Cats](https://silvertail.app/articles/end-of-life-planning-tips-for-owners-of-senior-silvertail-cats/)
+
 ## How to Support Renal Health in Senior Cats
 
 Kidney function gradually declines in many cats older than ten, leading to chronic kidney disease (CKD). Managing this early can slow progression and improve quality of life.

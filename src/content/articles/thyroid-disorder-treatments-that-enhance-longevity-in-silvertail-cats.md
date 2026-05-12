@@ -16,6 +16,10 @@ If your senior Silvertail cat has been diagnosed with thyroid disorder, you're l
 
 ---
 
+
+
+> **See also:** [Thyroid Disorders in Silvertail Cats: Diagnosis and Treatment Strategies](https://silvertail.app/articles/thyroid-disorders-in-silvertail-cats-diagnosis-and-treatment-strategies/)
+
 ## What Is Thyroid Disorder in Silvertail Cats?
 
 Thyroid disorder in older cats usually refers to **hyperthyroidism**, a condition characterized by an overactive thyroid gland producing excess thyroid hormones. These hormones regulate metabolism, so an imbalance accelerates metabolic processes, leading to symptoms like weight loss, increased appetite, restlessness, and heart issues.

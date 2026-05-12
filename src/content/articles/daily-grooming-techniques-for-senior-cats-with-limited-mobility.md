@@ -16,6 +16,10 @@ Senior cats with limited mobility often struggle to maintain their coat cleanlin
 
 As cats age, especially beyond 10 years, mobility issues can arise from arthritis, muscle weakening, or other health conditions, making self-grooming difficult or impossible. Without proper grooming, dead hair accumulates, mats form, and skin problems develop. Grooming also offers a valuable opportunity to check for lumps, wounds, or changes in skin condition. The goal is to maintain cleanliness, comfort, and health while minimizing stress.
 
+
+
+> **See also:** [End-of-Life Planning Tips for Owners of Senior Silvertail Cats](https://silvertail.app/articles/end-of-life-planning-tips-for-owners-of-senior-silvertail-cats/)
+
 ## Step-by-Step Daily Grooming Techniques for Senior Cats with Limited Mobility
 
 ### 1. Prepare a Comfortable Grooming Environment  

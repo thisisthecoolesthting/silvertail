@@ -28,6 +28,10 @@ Mobility loss can manifest subtly or quickly. Common signs include:
 
 These symptoms often result from arthritis, muscle deterioration, or other age-related conditions affecting joints and connective tissues.
 
+
+
+> **See also:** [Safe Exercise Routines to Improve Mobility in Older Cats](https://silvertail.app/articles/safe-exercise-routines-to-improve-mobility-in-older-cats/)
+
 ## How Diet Influences Joint and Muscle Health
 
 Nutrition plays a critical role in managing and preventing mobility challenges. Proper dietary choices can:

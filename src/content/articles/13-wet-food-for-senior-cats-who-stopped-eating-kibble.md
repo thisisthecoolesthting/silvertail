@@ -16,6 +16,10 @@ If your senior cat has suddenly stopped eating kibble, you’re likely worried a
 
 ---
 
+
+
+> **See also:** [Thyroid Disorders in Silvertail Cats: Diagnosis and Treatment Strategies](https://silvertail.app/articles/thyroid-disorders-in-silvertail-cats-diagnosis-and-treatment-strategies/)
+
 ## What Happens When Senior Cats Stop Eating Kibble?
 
 Senior cats (10+ years) sometimes refuse dry food for several reasons:

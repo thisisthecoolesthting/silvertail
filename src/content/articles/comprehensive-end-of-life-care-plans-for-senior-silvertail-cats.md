@@ -14,6 +14,10 @@ subtopic: nutrition
 
 As a dedicated owner of a senior silvertail cat, you may be facing the difficult reality that your beloved feline companion’s health is declining and advanced care is necessary. Navigating end-of-life care can be emotionally overwhelming and practically complex. Understanding how to create a compassionate, comprehensive plan tailored to your cat’s specific needs can make this stage more comfortable for both you and your pet.
 
+
+
+> **See also:** [End-of-Life Emotional Support for Silvertail Cat Owners and Pets](https://silvertail.app/articles/end-of-life-emotional-support-for-silvertail-cat-owners-and-pets/)
+
 ## What Is End-of-Life Care for Senior Cats?
 
 End-of-life care refers to supportive care focused on maintaining quality of life as a cat approaches the final stage of life. This includes managing symptoms, minimizing pain, and addressing physical, emotional, and environmental needs. Unlike curative treatments aiming to reverse illness, end-of-life care prioritizes comfort, dignity, and appropriate pain management.

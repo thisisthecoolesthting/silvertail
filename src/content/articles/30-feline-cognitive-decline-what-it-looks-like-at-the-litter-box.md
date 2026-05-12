@@ -18,6 +18,10 @@ Feline Cognitive Dysfunction (FCD), sometimes called feline dementia, is an age-
 
 The litter box is a crucial part of your cat’s daily routine. When cognitive functions falter, their ability to locate, recognize, or use the litter box properly may deteriorate. This can manifest in various ways, often causing distress to both cat and owner.
 
+
+
+> **See also:** [Recognizing Signs of Cognitive Decline in Senior Cats Early](https://silvertail.app/articles/recognizing-signs-of-cognitive-decline-in-senior-cats-early/)
+
 ## How Cognitive Decline Affects Litter Box Behavior
 
 Cats are creatures of habit; their neurological health is key to maintaining consistent litter habits. Cognitive decline impacts this through several mechanisms:

@@ -28,6 +28,10 @@ For senior cats, hospice means:
 
 Hospice care can be delivered at home, often involving close communication with your veterinarian. It’s about honoring your cat’s dignity and making their “golden years” as comfortable as possible.
 
+
+
+> **See also:** [Recognizing Signs of Cognitive Decline in Senior Cats Early](https://silvertail.app/articles/recognizing-signs-of-cognitive-decline-in-senior-cats-early/)
+
 ## How Hospice Care Works
 
 Hospice care is highly individualized but generally follows a compassionate approach with these components:

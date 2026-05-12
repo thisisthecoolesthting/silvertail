@@ -20,6 +20,10 @@ Arthritis, or osteoarthritis (OA), is a degenerative joint disease characterized
 
 Unlike acute injuries, arthritis develops gradually. Commonly affected joints include the hips, knees, elbows, and sometimes the spine. While not curable, arthritis is manageable and can significantly improve your cat’s comfort and mobility.
 
+
+
+> **See also:** [Improving Joint Health in Silvertail Cats Through Vet-Recommended Therapies](https://silvertail.app/articles/improving-joint-health-in-silvertail-cats-through-vet-recommended-therapies/)
+
 ## How Veterinary Professionals Diagnose Arthritis
 
 Veterinarians combine clinical examination with history and diagnostic imaging to identify arthritis:

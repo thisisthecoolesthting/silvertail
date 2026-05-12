@@ -42,6 +42,10 @@ Recent research from the University of California, San Diego reveals that CCD pr
 
 This comprehensive guide will walk you through the subtle signs many owners miss (including the often-overlooked 'sundowning' phenomenon where symptoms worsen in evenings), compare the most effective support products we've tested across 18 months of research, and provide practical strategies to maintain your dog's mental sharpness through environmental enrichment and targeted nutrition. Early intervention with the right combination of [brain-supporting supplements](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20), environmental adjustments (like using [interactive puzzle feeders](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20)), and veterinary care can significantly slow progression and preserve quality of life.
 
+
+
+> **See also:** [Understanding and Supporting Cognitive Decline in Older Dogs](https://silvertail.app/articles/cognitive-support-dogs/)
+
 ## Why this matters
 
 Cognitive decline isn't just about forgotten tricks - it directly impacts your dog's safety and emotional wellbeing. A 2022 study from the Dog Aging Project found that dogs showing CCD symptoms experience measurable brain atrophy comparable to human dementia patients, with up to 30% reduction in hippocampal volume. The stakes are higher than many realize:
@@ -254,3 +258,17 @@ Start tracking your dog's behaviors now - keeping a simple journal helps identif
 - Progress measurement scales
 
 Early action with the right products can add meaningful quality years to your life together. As one participant in our study remarked after seeing improvement in her 13-year-old Dachshund: 'It's like I got my old friend back.'
+
+## FAQ  
+
+**Q: What are the most common signs of cognitive decline in older dogs?**  
+A: Common signs include disorientation, changes in sleep patterns, increased anxiety, decreased interest in play, and accidents in the house despite prior housetraining. These behaviors may indicate canine cognitive dysfunction (CCD).  
+
+**Q: At what age should I start monitoring my dog for cognitive decline?**  
+A: Dogs are typically considered seniors around age 7, and cognitive decline can begin as early as this stage. Regular monitoring is especially important for breeds prone to faster aging or neurological issues.  
+
+**Q: Can cognitive decline in dogs be treated or slowed down?**  
+A: Yes, interventions like mental stimulation, a balanced diet rich in antioxidants, and veterinarian-prescribed medications or supplements can help manage symptoms and slow progression. Early detection is key.  
+
+**Q: How can I tell if my dog’s behavior changes are due to cognitive decline or another health issue?**  
+A: Sudden or severe changes should always be evaluated by a vet, as conditions like arthritis, vision loss, or urinary infections can mimic cognitive decline. A thorough exam can rule out other causes.

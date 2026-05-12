@@ -41,6 +41,10 @@ Consider Mrs. Whiskerson, a 14-year-old Maine Coon mix whose owner noticed she'd
 
 This comprehensive guide decodes the subtle signs of feline arthritis through three diagnostic lenses: behavioral changes (like altered litter box habits or social withdrawal), physical symptoms (stiffness after rest, reduced jumping height), and environmental adaptations that actually work based on clinical evidence. We've rigorously tested 14 products over 18 months with our panel of 8 arthritic cats, tracking measurable outcomes like morning stiffness duration, jumping success rates, and grooming frequency to separate evidence-based solutions from marketing hype. For more context, see our [article on choosing right mobility ramp](/articles/choosing-mobility-ramps-for-dogs).
 
+
+
+> **See also:** [Signs and Management of Arthritis in Senior Cats](https://silvertail.app/articles/managing-arthritis-in-senior-cats/)
+
 ## Why This Matters
 
 Left untreated, feline arthritis triggers a devastating cascade of secondary health complications. Chronic pain reduces mobility, leading to muscle atrophy that further stresses already compromised joints.  For more context, see our [article on orthopedic dog beds](/articles/best-orthopedic-beds-arthritis-dogs).A landmark 2023 Cornell University College of Veterinary Medicine study found arthritic cats are 3.2x more likely to develop obesity from decreased activity, which accelerates joint degeneration through increased mechanical loading.
@@ -251,3 +255,17 @@ Brands worth verifying include Big Barker for large dogs (independent veterinary
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What are the most common signs of arthritis in senior cats?**  
+A: Look for limping, stiffness, reluctance to jump or climb, reduced activity, and irritability when touched. Cats may also groom less due to pain or over-groom sore joints.  
+
+**Q: How can I tell if my cat’s arthritis is getting worse?**  
+A: Worsening arthritis may cause increased lethargy, noticeable weight loss from reduced movement, or vocalizing when moving. You might also see changes in litter box habits if bending becomes painful.  
+
+**Q: Are there home remedies to help a cat with arthritis?**  
+A: Provide soft bedding, ramps or steps to high places, and gentle massages. Weight management and joint supplements (like glucosamine) may also help, but always consult your vet first.  
+
+**Q: When should I take my senior cat to the vet for arthritis symptoms?**  
+A: Schedule a visit if symptoms persist for more than a few days, if your cat stops eating, or if pain seems severe. Early diagnosis and treatment can slow progression and improve quality of life.

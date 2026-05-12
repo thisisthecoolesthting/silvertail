@@ -16,6 +16,10 @@ If you have a senior cat (10 years or older), you already know they seem extra s
 
 ---
 
+
+
+> **See also:** [12. Best senior dry food for small breeds after three years of testing](https://silvertail.app/articles/12-best-senior-dry-food-for-small-breeds-after-three-years-of-testing/)
+
 ## What is the Ideal Room Temperature for Older Cats?
 
 While healthy adult cats typically prefer ambient temperatures around 70-80°F (21-27°C), older cats tend to need warmer surroundings. Aging cats often have reduced ability to regulate their body temperature due to less muscle mass, thinner fur, or health issues such as arthritis or kidney disease. Cold environments can exacerbate joint stiffness and increase stress.

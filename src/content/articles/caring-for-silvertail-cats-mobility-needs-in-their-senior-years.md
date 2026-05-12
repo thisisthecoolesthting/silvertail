@@ -19,6 +19,10 @@ As your beloved silvertail cat ages beyond ten years, you may notice changes in 
 
 Silvertail cats, known for their sleek build and often active personalities, can face mobility challenges as they age. These include stiffness, arthritis, muscle loss, and decreased coordination. Such conditions may cause your cat to hesitate before jumping, avoid stairs or high surfaces, or exhibit signs of discomfort when moving. Unlike dogs, cats tend to hide pain, making it crucial for owners to proactively observe subtle behavioral changes indicating mobility decline.
 
+
+
+> **See also:** [Managing Arthritis in Silvertail Cats Aged 10+ Through Vet Care](https://silvertail.app/articles/managing-arthritis-in-silvertail-cats-aged-10-through-vet-care/)
+
 ## How It Works: Causes of Mobility Decline
 
 The primary causes of decreased mobility in senior silvertail cats include:

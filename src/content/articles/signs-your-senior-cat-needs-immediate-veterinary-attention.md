@@ -18,6 +18,10 @@ Senior cats, typically considered 10 years and older, are prone to a range of he
 
 Emergency health issues can manifest as sudden behavioral changes, physical symptoms, or signs of pain and distress. Because older cats often mask discomfort, owners must be vigilant to subtle clues indicating a need for urgent veterinary care.
 
+
+
+> **See also:** [20. Dehydration in older cats: signs you are probably missing](https://silvertail.app/articles/20-dehydration-in-older-cats-signs-you-are-probably-missing/)
+
 ## How It Works: Detecting Signs of Emergency in Senior Cats
 
 Senior cats’ bodies respond differently to illness and injury. For example, their reduced mobility may cause reluctance to move or jump, which could be mistaken for normal aging rather than pain or injury. Similarly, decreased appetite or dehydration can be symptoms of kidney failure but might be missed if you don’t regularly monitor their eating and drinking habits.

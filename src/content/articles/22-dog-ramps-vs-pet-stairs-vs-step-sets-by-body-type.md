@@ -20,6 +20,10 @@ Dogs can struggle with mobility as they age, or if they have body types that put
 
 **Step Sets:** Multi-level steps usually narrower and deeper than pet stairs, often modular for adaptability, providing a stepped path.
 
+
+
+> **See also:** [5. Mobility ramps for stairs: what to buy for a 30, 50, or 80 pound dog](https://silvertail.app/articles/5-mobility-ramps-for-stairs-what-to-buy-for-a-30-50-or-80-pound-dog/)
+
 ## How They Work
 
 - **Ramps:** Provide a gentle incline that minimizes the need for jumping or climbing, benefiting dogs with joint issues, arthritis, or those recovering from surgery.

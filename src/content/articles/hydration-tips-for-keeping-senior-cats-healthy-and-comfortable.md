@@ -24,6 +24,10 @@ Hydration involves maintaining adequate water levels in your cat’s body so the
 
 Understanding these challenges is the first step toward helping your senior cat stay comfortable and hydrated.
 
+
+
+> **See also:** [Managing Weight in Senior Cats to Improve Overall Health](https://silvertail.app/articles/managing-weight-in-senior-cats-to-improve-overall-health/)
+
 ## How Hydration Supports Renal Health in Older Cats
 
 One of the biggest concerns for senior cats is kidney disease or chronic kidney failure, which affects nearly 30% of cats over 10 years old. Adequate hydration helps:

@@ -14,6 +14,10 @@ subtopic: nutrition
 
 If your cat has reached their senior years—typically considered 10 years or older—you might notice subtle changes: less energy, slight weight loss, or changes in appetite. These signs often prompt questions about their health and longevity. The problem is that many health issues in older cats develop silently and aren’t obvious until they become advanced. That’s why routine blood tests are crucial for senior cats—they help catch early signs of kidney disease, diabetes, thyroid problems, and other conditions common in aging felines. This article dives into why routine blood tests are essential, how they work, when you should schedule them, and what to watch out for.
 
+
+
+> **See also:** [43. Senior cat hyperthyroidism: signs to watch for](https://silvertail.app/articles/43-senior-cat-hyperthyroidism-signs-to-watch-for/)
+
 ## What Are Routine Blood Tests for Senior Cats?
 
 Routine blood tests for senior cats involve analyzing a small sample of blood to assess different organ functions and detect abnormalities before symptoms appear. These tests typically include:

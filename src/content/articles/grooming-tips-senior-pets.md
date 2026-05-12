@@ -45,6 +45,10 @@ Senior pets (typically dogs over 7 and cats over 8) undergo physical changes tha
 
 This guide combines veterinary insights with six months of hands-on testing using pressure sensors, thermal cameras, and coat hydration meters. We evaluated 12 products across three key metrics: comfort (measured by heart rate monitors), effectiveness (fur removal per stroke), and durability (500-stroke lifespan testing). For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).
 
+
+
+> **See also:** [Gentle Grooming Tips for Older Pets](https://silvertail.app/articles/gentle-grooming-older-pets/)
+
 ## Why this matters
 
 Neglecting senior pet grooming creates cascading health risks that many owners don't anticipate. Matted fur doesn't just look unkempt - it pulls constantly on delicate skin, creating microtears that become entry points for infection.  For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).A University of Tennessee study found senior pets with matted coats were 3x more likely to develop skin infections requiring antibiotics.
@@ -264,3 +268,17 @@ Early intervention (Selegiline, dietary support, environmental enrichment) can s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: How often should I groom my senior pet?**  
+A: Senior pets typically need grooming once every 1–2 weeks, but this can vary based on their coat type, skin condition, and mobility.  
+
+**Q: What grooming tools are best for senior pets?**  
+A: Use soft-bristle brushes, gentle combs, and hypoallergenic shampoos to avoid irritating their sensitive skin and joints.  
+
+**Q: How can I make grooming less stressful for my senior pet?**  
+A: Keep sessions short, use calming techniques like soothing words or treats, and ensure they’re comfortable with proper padding or support.  
+
+**Q: Are there specific grooming concerns for senior pets with arthritis?**  
+A: Yes, avoid prolonged positions that strain their joints, and consider using ramps or non-slip mats to make grooming areas safer and more accessible.

@@ -30,6 +30,10 @@ Key ingredient categories include:
 
 Research generally focuses on osteoarthritis, which is common in senior dogs as cartilage thins and joint surfaces become irregular and inflamed.
 
+
+
+> **See also:** [9. Turmeric (curcumin) for dogs: the real evidence](https://silvertail.app/articles/9-turmeric-curcumin-for-dogs-the-real-evidence/)
+
 ## What the Research Actually Shows
 
 While many supplements are sold with big claims, evidence tends to vary.

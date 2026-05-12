@@ -25,6 +25,10 @@ Before digging into nutrition, it’s crucial to understand the conditions:
 
 When these two diagnoses overlap, balancing dietary needs becomes an exercise in compromise to maintain overall health and quality of life.
 
+
+
+> **See also:** [Renal Diet Plans Tailored for Silvertail Cats Aged Ten and Older](https://silvertail.app/articles/renal-diet-plans-tailored-for-silvertail-cats-aged-ten-and-older/)
+
 ## How Veterinary Nutrition Supports Dual CKD and Thyroid Management
 
 Veterinary nutrition strategies aim to:

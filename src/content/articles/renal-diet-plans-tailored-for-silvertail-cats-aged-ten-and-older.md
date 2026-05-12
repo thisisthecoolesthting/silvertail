@@ -18,6 +18,10 @@ This article will outline what a renal diet plan looks like for senior Silvertai
 
 ---
 
+
+
+> **See also:** [How Renal Diets Improve Quality of Life in Senior Silvertail Cats](https://silvertail.app/articles/how-renal-diets-improve-quality-of-life-in-senior-silvertail-cats/)
+
 ## What Is a Renal Diet for Senior Cats?
 
 A renal diet is a specialized nutritional plan designed to support kidney function and slow the progression of kidney disease in cats. Unlike generic cat food, these diets focus on controlling specific nutrients that impact the kidneys over time.

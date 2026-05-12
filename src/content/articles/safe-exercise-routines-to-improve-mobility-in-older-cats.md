@@ -28,6 +28,10 @@ Older cats benefit most from activities that encourage gentle movement, improve 
 - Attention to your cat’s comfort signals and energy levels
 - Gradual introductions to any new activity to prevent joint strain or stress
 
+
+
+> **See also:** [Preventing Mobility Loss in Aging Silvertail Cats Through Diet and Care](https://silvertail.app/articles/preventing-mobility-loss-in-aging-silvertail-cats-through-diet-and-care/)
+
 ## How to Safely Introduce Exercise Routines to Your Senior Cat
 
 Exercise may not come naturally if your senior cat is used to resting or is experiencing discomfort. Here’s a step-by-step guide for easing into exercise safely:

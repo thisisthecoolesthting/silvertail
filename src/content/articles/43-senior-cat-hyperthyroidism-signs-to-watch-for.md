@@ -16,6 +16,10 @@ If your senior cat has suddenly developed unusual behaviors or physical changes,
 
 ---
 
+
+
+> **See also:** [The Importance of Routine Blood Tests for Senior Cats](https://silvertail.app/articles/the-importance-of-routine-blood-tests-for-senior-cats/)
+
 ## What Is Hyperthyroidism in Senior Cats?
 
 Hyperthyroidism is a condition where the thyroid gland, located in the neck, produces excessive amounts of thyroid hormone (thyroxine). This overproduction accelerates the cat’s metabolism and affects multiple organ systems. It is the most common hormonal disorder in senior cats, most frequently diagnosed in cats older than 10 years.

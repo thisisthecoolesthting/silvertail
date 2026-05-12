@@ -23,6 +23,10 @@ Appetite changes refer to any noticeable increase, decrease, or fluctuation in h
 
 In senior pets (generally over 10 years old), these changes are common but not “normal” or to be ignored. They are important signals that need context and attention.
 
+
+
+> **See also:** [10. Why your older dog stopped jumping on the couch and when to worry](https://silvertail.app/articles/10-why-your-older-dog-stopped-jumping-on-the-couch-and-when-to-worry/)
+
 ## Why Do Appetite Changes Happen?
 
 Multiple factors can cause changes in appetite in older cats and dogs, including:

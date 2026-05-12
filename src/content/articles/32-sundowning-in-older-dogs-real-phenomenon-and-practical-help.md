@@ -16,6 +16,10 @@ If you own an older dog and have noticed that in the late afternoon or evening t
 
 ---
 
+
+
+> **See also:** [10. Why your older dog stopped jumping on the couch and when to worry](https://silvertail.app/articles/10-why-your-older-dog-stopped-jumping-on-the-couch-and-when-to-worry/)
+
 ## What Is Sundowning in Dogs?
 
 Sundowning is a term used to describe a pattern of increased confusion, anxiety, restlessness, or agitation that tends to occur in the late afternoon, evening, or night. It’s widely recognized in aging humans with dementia, and recent veterinary research confirms it can also affect older dogs, especially those with Canine Cognitive Dysfunction Syndrome (CDS)—the dog equivalent of Alzheimer’s.

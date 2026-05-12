@@ -26,6 +26,10 @@ As cats age, their metabolism slows, kidney function declines, and joints may st
 
 Since small breeds tend to be more active and have higher metabolisms than larger cats, senior foods for them must carefully balance nutrition to prevent obesity while providing sufficient energy.
 
+
+
+> **See also:** [25. Room temperature for older cats and the thermostat math](https://silvertail.app/articles/25-room-temperature-for-older-cats-and-the-thermostat-math/)
+
 ## How We Tested Over Three Years
 
 Testing focused on adult cats aged 7+ of small breeds, such as Siamese, Burmese, and domestic shorthairs under 10 pounds. We measured:

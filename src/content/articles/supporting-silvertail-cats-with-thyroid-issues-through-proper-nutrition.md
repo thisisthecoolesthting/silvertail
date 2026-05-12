@@ -20,6 +20,10 @@ Feline hyperthyroidism is a common endocrine disorder in cats over 10 years old.
 
 The thyroid hormone excess forces the body into overdrive, taxing the cardiovascular system and other organs. Left unmanaged, it can contribute to serious complications such as heart disease and kidney dysfunction. Hence, early diagnosis and supportive care — including nutrition — are essential.
 
+
+
+> **See also:** [Signs of Thyroid Imbalance in Silvertail Cats Aged Ten and Older](https://silvertail.app/articles/signs-of-thyroid-imbalance-in-silvertail-cats-aged-ten-and-older/)
+
 ## How Nutrition Affects Thyroid Health in Cats
 
 Thyroid hormone production is influenced by the availability of iodine, an essential trace mineral. Too much or too little iodine can worsen thyroid imbalance:

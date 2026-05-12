@@ -25,6 +25,10 @@ CBD is a compound extracted from the Cannabis plant family, distinct from THC, t
 
 Veterinarians consider the ECS a promising target for pain management but emphasize that research, especially in senior animals, is still in early stages.
 
+
+
+> **See also:** [1. The best joint supplements for senior dogs: what the research actually](https://silvertail.app/articles/1-the-best-joint-supplements-for-senior-dogs-what-the-research-actually-shows/)
+
 ## When Might CBD Be Appropriate for Senior Pet Pain?
 
 Veterinarians typically consider CBD as an adjunct—meaning a supplementary—therapy rather than a first-line treatment. Scenarios where vets might discuss CBD include:

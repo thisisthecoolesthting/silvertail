@@ -18,6 +18,10 @@ Cognitive decline in cats, often called Feline Cognitive Dysfunction Syndrome (F
 
 Unlike physical ailments, cognitive decline affects a cat’s mental processes, which may not be immediately obvious. Early recognition allows for interventions that can slow progression and improve your cat’s comfort.
 
+
+
+> **See also:** [Recognizing Thyroid Disease Symptoms in Senior Silvertail Cats](https://silvertail.app/articles/recognizing-thyroid-disease-symptoms-in-senior-silvertail-cats/)
+
 ## How Cognitive Decline Develops in Cats
 
 Aging causes gradual loss of neurons, neurotransmitter imbalances, and accumulation of abnormal proteins in the brain, which leads to diminished cognitive function. Factors influencing the rate and severity include genetics, overall health, diet, environmental enrichment, and the presence of concurrent diseases such as kidney insufficiency or arthritis.

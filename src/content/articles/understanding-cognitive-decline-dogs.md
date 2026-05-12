@@ -207,6 +207,10 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 
 
 
+
+
+> **See also:** [Understanding and Managing Cognitive Decline in Older Dogs](https://silvertail.app/articles/cognitive-decline-dogs/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -221,3 +225,17 @@ If three or more of these have shifted in the last 90 days, talk to a vet about 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What are the common signs of canine cognitive dysfunction?**  
+A: Common signs include disorientation, changes in sleep patterns, decreased interaction with family, house soiling, and altered activity levels.
+
+**Q: At what age do dogs typically develop cognitive dysfunction?**  
+A: Dogs typically show signs of cognitive dysfunction around the age of 9 or older, though it can vary depending on breed and overall health.
+
+**Q: Are there any proven treatments for canine cognitive dysfunction?**  
+A: Yes, treatments may include prescription medications like selegiline, dietary supplements such as omega-3 fatty acids, and environmental enrichment to stimulate mental activity.
+
+**Q: Can lifestyle changes help manage cognitive dysfunction in senior dogs?**  
+A: Absolutely, maintaining a consistent routine, providing mental stimulation, and ensuring regular exercise can help slow the progression of cognitive decline.

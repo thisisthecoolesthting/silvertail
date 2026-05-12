@@ -23,6 +23,10 @@ Hypothyroidism—too little thyroid hormone—is much rarer in cats but can stil
 
 Monitoring thyroid health means regularly assessing hormone levels and clinical symptoms to catch problems early and prevent complications such as heart disease or kidney damage.
 
+
+
+> **See also:** [Recognizing Thyroid Disease Symptoms in Senior Silvertail Cats](https://silvertail.app/articles/recognizing-thyroid-disease-symptoms-in-senior-silvertail-cats/)
+
 ## How Thyroid Monitoring Works: The Key Components
 
 ### 1. Clinical Observation  

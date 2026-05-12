@@ -24,6 +24,10 @@ A feeding schedule is more than a set of feeding times — it’s an approach to
 - **Weight management:** Preventing obesity while ensuring adequate nutrition can be a fine balance.
 - **Joint and mobility support:** Feeding routines that reduce stress and accommodate limited mobility matter.
 
+
+
+> **See also:** [Best Nutritional Plans for Senior Cats Over Ten Years Old](https://silvertail.app/articles/best-nutritional-plans-for-senior-cats-over-ten-years-old/)
+
 ## How Feeding Schedules Should Change With Age
 
 Young adult cats can often be fed twice daily with measured portions based on activity levels. However, senior cats may benefit from:

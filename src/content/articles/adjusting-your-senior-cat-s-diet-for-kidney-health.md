@@ -143,3 +143,5 @@ Adjusting your senior cat’s diet for kidney health is a vital step when managi
 
 **Q: My cat refuses the kidney diet food; what are my options?**  
 **A:** Try mixing with favorite wet foods, warming it slightly, or using appetite stimulants as recommended by your vet. Never force-feed, as stress can worsen the situation.
+
+> **See also:** [Adjusting Renal Diets for Silvertail Cats with Progressive Kidney Issues](https://silvertail.app/articles/adjusting-renal-diets-for-silvertail-cats-with-progressive-kidney-issues/)

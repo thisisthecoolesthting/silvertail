@@ -16,6 +16,10 @@ If you're noticing that your once-responsive senior cat or dog no longer reacts 
 
 ---
 
+
+
+> **See also:** [32. Sundowning in older dogs: real phenomenon and practical help](https://silvertail.app/articles/32-sundowning-in-older-dogs-real-phenomenon-and-practical-help/)
+
 ## What Is Hearing Loss in Senior Pets?
 
 Hearing loss in aging pets, much like in humans, is typically a gradual decline in the ability to detect sounds. This condition can occur due to:

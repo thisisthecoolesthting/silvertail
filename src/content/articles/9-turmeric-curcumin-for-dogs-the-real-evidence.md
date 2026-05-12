@@ -18,6 +18,10 @@ Turmeric is a bright yellow-orange spice derived from the root of the *Curcuma l
 
 For dogs, turmeric supplements typically contain either powdered turmeric root or extracted curcumin, often combined with additives that improve absorption such as black pepper extract (piperine) or fats.
 
+
+
+> **See also:** [1. The best joint supplements for senior dogs: what the research actually](https://silvertail.app/articles/1-the-best-joint-supplements-for-senior-dogs-what-the-research-actually-shows/)
+
 ## How Turmeric Works in Dogs
 
 Curcumin’s most well-studied effects are anti-inflammatory and antioxidant actions. Chronic inflammation plays a key role in many senior dog issues like osteoarthritis, cognitive decline, and some types of cancers. Curcumin inhibits certain inflammatory molecules (cytokines, enzymes) and scavenges free radicals, potentially reducing oxidative damage to cells.

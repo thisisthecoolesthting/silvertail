@@ -34,6 +34,10 @@ Similar to dementia in humans, CDS causes disorientation, altered sleep cycles, 
 
 ---
 
+
+
+> **See also:** [How to Support Dental Health in Cats Over Ten Years Old](https://silvertail.app/articles/how-to-support-dental-health-in-cats-over-ten-years-old/)
+
 ## How These Issues Develop and Affect Your Cat
 
 As cats age, their body systems naturally decline, making them more susceptible to chronic disease. Environmental stress, nutrition, genetics, and body weight contribute to how rapidly health conditions develop. Early signs can be subtle and easily dismissed as “just old age,” but catching problems early improves outcomes dramatically.

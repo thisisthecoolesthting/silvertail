@@ -16,6 +16,10 @@ Homemade food for senior dogs might seem like the best way to ensure your aging 
 
 Homemade senior dog food is any meal prepared at home, outside of commercial pet food options, tailored to the needs of dogs aged 7-10 years and older. These recipes often emphasize fresh ingredients, limited processing, and avoidance of preservatives. Owners may choose homemade diets to better control ingredients, address allergies, or provide a fresher, "natural" diet.
 
+
+
+> **See also:** [29. Dog cognitive dysfunction: early signs and when to get tested](https://silvertail.app/articles/29-dog-cognitive-dysfunction-early-signs-and-when-to-get-tested/)
+
 ## How Homemade Senior Dog Food Works: The Appeal and The Challenge
 
 On the surface, preparing homemade meals seems straightforward: you select meat, vegetables, and grains, then cook and serve. The goal is to provide a nutritious, palatable diet that supports an aging dog's unique requirements, such as joint health, kidney function, or weight management.

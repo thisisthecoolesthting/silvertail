@@ -16,6 +16,10 @@ Senior cats, those graceful friends aged 10 and up, often slow down and need gen
 
 As cats age, their mobility and stamina decline. Joints stiffen and energy reserves diminish, making intense play or sudden movements potentially painful or unsafe. Gentle play focuses on low-impact, mentally stimulating activities that maintain a senior cat’s muscle tone and cognitive skills without risking discomfort. From interactive toys to soothing movement prompts, the goal is to spark interest and joy adaptively.
 
+
+
+> **See also:** [Tips for Encouraging Senior Cats to Stay Active Indoors](https://silvertail.app/articles/tips-for-encouraging-senior-cats-to-stay-active-indoors/)
+
 ## How Gentle Toys Support Senior Cat Health
 
 Toys designed for gentle play usually:

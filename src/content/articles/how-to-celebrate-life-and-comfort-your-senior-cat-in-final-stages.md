@@ -24,6 +24,10 @@ As cats age, especially beyond 10 years, their health can decline due to kidney 
 - **Calm environment:** Reducing stress in daily routines and vet visits.
 - **End-of-life comfort:** Gentle management of pain and distress, emphasizing dignity.
 
+
+
+> **See also:** [Understanding End-of-Life Care Options for Senior Cats](https://silvertail.app/articles/understanding-end-of-life-care-options-for-senior-cats/)
+
 ## How to Comfort Your Senior Cat in Final Stages: Step-by-Step
 
 ### 1. Optimize Nutrition for Their Needs

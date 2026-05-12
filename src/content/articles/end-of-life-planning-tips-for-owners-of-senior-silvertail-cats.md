@@ -23,6 +23,10 @@ This planning covers several key areas:
 - Making decisions about pain management and when to consider euthanasia
 - Preparing emotionally and legally for the end-of-life phase
 
+
+
+> **See also:** [Top Vet Care Tips for Cats Aged Ten and Older](https://silvertail.app/articles/top-vet-care-tips-for-cats-aged-ten-and-older/)
+
 ## How End-of-Life Planning Works
 
 Planning works best as a continuous, flexible process rather than a single moment of decision-making. Start early, regularly reassess your cat’s health and comfort, and communicate openly with your veterinarian.

@@ -24,6 +24,10 @@ Managing weight involves:
 - Minimizing stress during vet visits to catch early health issues.
 - Adjusting litter box setup to accommodate mobility changes.
 
+
+
+> **See also:** [Hydration Tips for Keeping Senior Cats Healthy and Comfortable](https://silvertail.app/articles/hydration-tips-for-keeping-senior-cats-healthy-and-comfortable/)
+
 ## How Weight Affects Senior Cat Health
 
 Excess weight puts strain on joints, which is especially problematic if arthritis is developing. Fat accumulation can increase the risk of diabetes and exacerbate renal (kidney) insufficiency—a common issue in senior cats. Conversely, unintentional weight loss may signal severe underlying health problems such as renal failure or cancer, requiring immediate vet attention.

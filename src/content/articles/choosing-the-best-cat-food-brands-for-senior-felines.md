@@ -16,6 +16,10 @@ If you have a senior cat, you know the importance of adjusting their diet to mee
 
 ---
 
+
+
+> **See also:** [16. Prescription vs store brand senior food: when the difference matters](https://silvertail.app/articles/16-prescription-vs-store-brand-senior-food-when-the-difference-matters/)
+
 ## What Is Senior Cat Food?
 
 Senior cat food is specially formulated to address the unique nutritional requirements of cats aged 10 years and above. As cats age, their metabolism slows, their kidneys may weaken, and they might develop joint stiffness. Senior-specific diets aim to:

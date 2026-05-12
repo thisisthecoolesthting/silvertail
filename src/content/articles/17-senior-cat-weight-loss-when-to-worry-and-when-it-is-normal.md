@@ -20,6 +20,10 @@ As cats age, subtle body composition shifts are common. Lean muscle mass may dec
 
 However, this gradual decline should be carefully monitored. Sudden or pronounced weight loss—over 10% in a month or noticeable thinning of the coat, dehydration, or lethargy—usually indicates underlying medical issues. Common causes include kidney (renal) disease, hyperthyroidism, dental problems, diabetes, cancer, or gastrointestinal conditions.
 
+
+
+> **See also:** [Recognizing Thyroid Disease Symptoms in Senior Silvertail Cats](https://silvertail.app/articles/recognizing-thyroid-disease-symptoms-in-senior-silvertail-cats/)
+
 ## How senior cat weight loss works: underlying mechanisms
 
 ### Muscle loss and fat redistribution

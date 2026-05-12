@@ -23,6 +23,10 @@ The two primary causes of age-related cloudiness are:
 
 Understanding which condition your dog has is critical because nuclear sclerosis is mostly harmless, while cataracts may require veterinary intervention or surgical treatment.
 
+
+
+> **See also:** [42. Incontinence in senior dogs: the three main categories](https://silvertail.app/articles/42-incontinence-in-senior-dogs-the-three-main-categories/)
+
 ## How Nuclear Sclerosis Develops and Presents
 
 ### What It Is

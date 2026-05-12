@@ -240,6 +240,10 @@ The cost is real ($300–$600/year extra) but the early-detection value usually 
 
 
 
+
+
+> **See also:** [Canine Cognitive Dysfunction: Recognizing Signs and Evidence-Based Support](https://silvertail.app/articles/understanding-cognitive-decline-dogs/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -254,3 +258,17 @@ The cost is real ($300–$600/year extra) but the early-detection value usually 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What are the early signs of cognitive decline in older dogs?**  
+A: Early signs include disorientation, changes in sleep patterns, increased anxiety, house soiling, and reduced interest in play or social interaction. These symptoms often develop gradually, so monitoring your dog’s behavior is key.  
+
+**Q: How can I support my dog’s brain health as they age?**  
+A: Provide mental stimulation through puzzles, training, and interactive toys, and consider a diet rich in antioxidants and omega-3 fatty acids. Regular vet check-ups can also help catch and address issues early.  
+
+**Q: Are there medications or supplements that can help manage cognitive decline in dogs?**  
+A: Yes, some veterinarians prescribe medications like selegiline, and supplements like SAM-e or CBD may offer support. Always consult your vet before starting any new treatment.  
+
+**Q: Can lifestyle changes slow the progression of cognitive decline in senior dogs?**  
+A: Yes, maintaining a consistent routine, ensuring regular exercise, and minimizing stress can help. A stimulating environment and plenty of social interaction also play a crucial role in slowing decline.
