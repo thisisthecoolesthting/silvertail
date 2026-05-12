@@ -28,6 +28,8 @@ heroImage: /images/hero/pet-hospice-care-at-home-guide.jpg
 cardTitle: 'Comfort Matters: Orthopedic Beds for Senior Pets at Home'
 cardPick: Memory foam supports aging joints and reduces pressure points, helping senior
   dogs rest pain-free during their golden years.
+subtopic: comfort
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -59,6 +61,8 @@ During our dachshund's final six months, we documented how proper support change
 
 The PetFusion bed proved indispensable for our 75lb shepherd mix during his last six months, while the Help 'Em Up harness allowed our dachshund to continue bathroom trips independently until her final week. Each product serves different needs—the key is matching the solution to your pet's specific limitations.
 
+
+For more on bulk buying pet food: a guide to significant savings, see [our coverage at refillwatch.org](https://refillwatch.org/articles/bulk-pet-food-savings-guide/).
 ## Real-World Performance
 
 Through three years of testing these products with multiple pets, we've identified crucial longevity factors. The [PetFusion bed](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) maintains its support for 18+ months of continuous use, though the cover requires monthly washing for incontinence cases. The [Pet Gear ramp](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) handles daily use well but develops slight wobbling after 8 months—we stabilized ours with rubber cabinet bumpers under the legs.

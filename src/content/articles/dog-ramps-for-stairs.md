@@ -28,6 +28,8 @@ heroImage: /images/hero/dog-ramps-for-stairs.jpg
 cardTitle: Aging Dogs Climbing Stairs? This Joint Support Changes Everything
 cardPick: Dasuquin targets stiffness and mobility loss with clinically-proven ingredients
   senior dogs need most.
+subtopic: comfort
+updatedAt: 2026-05-12
 ---
 
 # Introduction

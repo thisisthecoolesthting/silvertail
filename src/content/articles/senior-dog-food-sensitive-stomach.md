@@ -27,15 +27,17 @@ heroImage: /images/hero/senior-dog-food-sensitive-stomach.jpg
 cardTitle: 'Senior Dogs Need Better Beds: Orthopedic Solutions for Aging Joints'
 cardPick: Memory foam supports arthritic joints and stiff muscles, helping senior
   dogs sleep deeper and wake with less pain.
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-"Why does my 10-year-old lab vomit every other morning?" This was my first question when Rosie started showing digestive issues at age 9. After ruling out medical conditions with our vet, we realized her lifelong kibble no longer agreed with her aging system. Senior dogs (generally 7+ years) often develop new food sensitivities as their gut microbiome changes, pancreatic enzyme production decreases, and intestinal lining becomes more permeable.
+"Why does my 10-year-old lab vomit every other morning?" This was my first question when Rosie started showing digestive issues at age 9. After ruling out medical conditions with our vet, we realized her lifelong kibble no longer agreed with her aging system.  For more context, see our [article on cognitive decline in senior](/articles/cognitive-decline-older-dogs-signs-support).Senior dogs (generally 7+ years) often develop new food sensitivities as their gut microbiome changes, pancreatic enzyme production decreases, and intestinal lining becomes more permeable.
 
 Through our 18-month study with veterinary nutritionists, we identified three critical transition phases for senior digestive health:
 
-1. **Acute Adjustment (Weeks 1-2)**: When switching foods, 68% of senior dogs show temporary loose stools. We found adding pumpkin puree (1 tsp per 10 lbs body weight) eased this transition better than rice.
+1. **Acute Adjustment (Weeks 1-2)**: When switching foods, 68% of senior dogs show temporary loose stools.  For more context, see our [article on glucosamine dosage for senior](/articles/glucosamine-dosage-senior-dogs).We found adding pumpkin puree (1 tsp per 10 lbs body weight) eased this transition better than rice.
 2. **Microbiome Rebalancing (Month 1-3)**: The [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) showed superior prebiotic fiber content (2.8% beet pulp) that reduced diarrhea episodes by 42% compared to baseline.
 3. **Long-Term Maintenance (Month 4+)**: Dogs on optimized senior diets maintained 23% better hydration levels (measured via skin tent tests) and required fewer emergency vet visits for dehydration-related issues.
 
@@ -51,7 +53,7 @@ This guide compares 12 senior-specific dog foods formulated for sensitive stomac
 
 ## Why this matters
 
-Digestive distress in older dogs isn't just messy—it's a nutrition crisis. When food moves too quickly through the system (diarrhea) or gets rejected (vomiting), your dog absorbs fewer nutrients. This accelerates muscle loss and weakens the immune system right when aging makes those losses harder to recover from.
+Digestive distress in older dogs isn't just messy—it's a nutrition crisis. When food moves too quickly through the system (diarrhea) or gets rejected (vomiting), your dog absorbs fewer nutrients.  For more context, see our [article on senior cat food](/articles/senior-cat-weight-loss-food).This accelerates muscle loss and weakens the immune system right when aging makes those losses harder to recover from.
 
 Three physiological changes demand different nutrition:
 

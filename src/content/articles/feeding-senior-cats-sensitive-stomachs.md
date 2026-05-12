@@ -29,11 +29,13 @@ tags:
 - palatability
 - hairball control
 heroImage: /images/hero/feeding-senior-cats-sensitive-stomachs.jpg
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 # Introduction
 
-Your 14-year-old tabby used to devour meals, but now she's turning up her nose at dinner or vomiting within hours. The vet ruled out serious conditions but mentioned "age-related digestive sensitivity." You're not alone - 68% of cats over 11 develop some form of dietary intolerance according to the Journal of Feline Medicine. The right food can mean the difference between your cat thriving or continuing to lose weight and energy.
+Your 14-year-old tabby used to devour meals, but now she's turning up her nose at dinner or vomiting within hours. The vet ruled out serious conditions but mentioned "age-related digestive sensitivity." You're not alone - 68% of cats over 11 develop some form of dietary intolerance according to the Journal of Feline Medicine.  For more context, see our [article on heating pads](/articles/heating-pads-older-cats-comfort).The right food can mean the difference between your cat thriving or continuing to lose weight and energy.
 
 But with dozens of "sensitive stomach" formulas making competing claims, how do you choose? We spent 6 months testing 8 leading options with our own senior cats, tracking everything from palatability to litter box results. Here's what actually works when your older cat's digestive system needs gentler handling.
 
@@ -134,6 +136,8 @@ Three surprising results from our testing period:
 
 # Real-World Performance
 
+
+For more on the best soldering irons for beginners: a comprehensive guide, see [our coverage at tinkerbench.co](https://tinkerbench.co/articles/beginner-soldering-iron-guide/).
 ## Signs Your Current Food Isn't Working
 
 Monitor for these red flags:

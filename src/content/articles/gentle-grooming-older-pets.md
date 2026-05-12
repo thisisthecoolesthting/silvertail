@@ -28,13 +28,15 @@ relatedProducts:
 - B093TCYF9T
 - B0CB75LML9
 heroImage: /images/hero/gentle-grooming-older-pets.jpg
+subtopic: grooming
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When my 14-year-old Labrador, Moose, started flinching during brushings, I realized his once-enjoyable grooming sessions had become painful. His arthritis made standing difficult, his thinning skin bruised easily, and his cloudy eyes reacted to harsh shampoos. Like many pet owners with aging animals, I faced a dilemma: how to maintain hygiene without causing discomfort.
+When my 14-year-old Labrador, Moose, started flinching during brushings, I realized his once-enjoyable grooming sessions had become painful. His arthritis made standing difficult, his thinning skin bruised easily, and his cloudy eyes reacted to harsh shampoos.  For more context, see our [article on are heating pads safe](/articles/heating-pads-for-arthritic-cats).Like many pet owners with aging animals, I faced a dilemma: how to maintain hygiene without causing discomfort.
 
-Senior pets require fundamentally different grooming approaches. A [study in the Journal of Veterinary Behavior](https://www.sciencedirect.com/science/article/abs/pii/S1558787817300367) found 68% of dogs over age 8 show signs of grooming-related stress, from nail trims to brushing. Cloudy eyes reduce their ability to anticipate touch, arthritis makes prolonged standing painful, and thinning skin is prone to nicks from sharp blades. The [American Kennel Club](https://www.akc.org/expert-advice/health/grooming-senior-dogs/) warns that traditional slicker brushes can actually tear the delicate skin of older pets.
+Senior pets require fundamentally different grooming approaches. A [study in the Journal of Veterinary Behavior](https://www.sciencedirect.com/science/article/abs/pii/S1558787817300367) found 68% of dogs over age 8 show signs of grooming-related stress, from nail trims to brushing.  For more context, see our [article on orthopedic dog beds for](/articles/orthopedic-beds-for-arthritic-dogs).Cloudy eyes reduce their ability to anticipate touch, arthritis makes prolonged standing painful, and thinning skin is prone to nicks from sharp blades. The [American Kennel Club](https://www.akc.org/expert-advice/health/grooming-senior-dogs/) warns that traditional slicker brushes can actually tear the delicate skin of older pets.
 
 Through trial and error with Moose and my senior cat Whiskers, I tested 22 grooming tools to identify solutions that:
 - Reduce pressure on joints during bathing/brushing

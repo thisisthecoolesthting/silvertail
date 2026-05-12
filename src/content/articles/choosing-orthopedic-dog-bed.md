@@ -31,11 +31,13 @@ heroImage: /images/hero/choosing-orthopedic-dog-bed.jpg
 cardTitle: Best Orthopedic Dog Beds for Senior Dogs With Arthritis
 cardPick: Nutramax Dasuquin with MSM supports joint health and mobility, helping aging
   dogs move easier and sleep better.
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-If your senior dog struggles with arthritis, you've likely wondered: *Which orthopedic bed actually reduces their morning stiffness?* The market is flooded with options promising joint support, but not all deliver. My 12-year-old Labrador, Max, went through three beds before we found one that truly eased his stiffness.
+If your senior dog struggles with arthritis, you've likely wondered: *Which orthopedic bed actually reduces their morning stiffness?* The market is flooded with options promising joint support, but not all deliver. My 12-year-old Labrador, Max, went through three beds before we found one that truly eased his stiffness. For more context, see our [article on heating pads](/articles/heating-pads-for-older-cats).
 
 Through testing 17 beds over 2 years with dogs ranging from 8 to 120 pounds, we discovered that the difference between adequate and exceptional support comes down to three factors: foam density (measured in pounds per cubic foot), base structure, and how well the bed resists compression over time.
 

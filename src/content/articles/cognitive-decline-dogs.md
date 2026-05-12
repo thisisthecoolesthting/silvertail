@@ -30,17 +30,19 @@ heroImage: /images/hero/cognitive-decline-dogs.jpg
 cardTitle: 'Keep Senior Dogs Moving: Joint Care That Actually Works'
 cardPick: Cosequin targets stiffness and mobility loss with clinically-proven glucosamine,
   helping aging dogs climb stairs easier and stay active longer.
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 # Introduction
 
-You notice it first in small things. Your 12-year-old Labrador stares at the wall instead of fetching his ball. He circles the same spot on the rug for 20 minutes before lying down. At 2 AM, he barks at nothing. These aren't just "old dog" quirks—they're potential signs of canine cognitive dysfunction (CCD), a condition affecting nearly 30% of dogs aged 11-12 and 68% of those 15-16, according to veterinary behaviorists at the University of California, Davis.
+You notice it first in small things. Your 12-year-old Labrador stares at the wall instead of fetching his ball.  For more context, see our [article on essential dental care tips](/articles/dental-care-for-aging-pets).He circles the same spot on the rug for 20 minutes before lying down. At 2 AM, he barks at nothing. These aren't just "old dog" quirks—they're potential signs of canine cognitive dysfunction (CCD), a condition affecting nearly 30% of dogs aged 11-12 and 68% of those 15-16, according to veterinary behaviorists at the University of California, Davis.
 
-Unlike normal aging, CCD involves measurable brain changes similar to human Alzheimer's: amyloid plaques build up, cerebral blood flow decreases, and neurotransmitters like dopamine drop by up to 30%. The good news? Early intervention with targeted supplements, environmental adjustments, and specialized gear like the [Neurotrophics Chews](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) or [OrthoComfort Bed](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) can slow progression. This guide compares 14 clinically studied approaches to help your dog maintain mental sharpness and nighttime calm.
+Unlike normal aging, CCD involves measurable brain changes similar to human Alzheimer's: amyloid plaques build up, cerebral blood flow decreases, and neurotransmitters like dopamine drop by up to 30%. The good news?  For more context, see our [article on signs of arthritis in](/articles/arthritis-symptoms-cats).Early intervention with targeted supplements, environmental adjustments, and specialized gear like the [Neurotrophics Chews](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) or [OrthoComfort Bed](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) can slow progression. This guide compares 14 clinically studied approaches to help your dog maintain mental sharpness and nighttime calm.
 
-Recent breakthroughs in veterinary neuroscience have identified three critical intervention windows for CCD. The first occurs when dogs show subtle behavioral changes (ages 8-10 for large breeds), marked by slight delays in recognizing familiar people or increased startle responses. The second window (ages 10-13) involves more pronounced symptoms like disrupted sleep cycles or getting "lost" in corners. The final stage (14+ years) requires comprehensive management of multiple symptoms.
+Recent breakthroughs in veterinary neuroscience have identified three critical intervention windows for CCD. The first occurs when dogs show subtle behavioral changes (ages 8-10 for large breeds), marked by slight delays in recognizing familiar people or increased startle responses.  For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).The second window (ages 10-13) involves more pronounced symptoms like disrupted sleep cycles or getting "lost" in corners. The final stage (14+ years) requires comprehensive management of multiple symptoms.
 
-A 2025 longitudinal study published in the Journal of Veterinary Internal Medicine demonstrated that dogs receiving early intervention with products like [Senior Moments Omega Complex](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) maintained 40% better cognitive function at age 13 compared to untreated controls.
+A 2025 longitudinal study published in the Journal of Veterinary Internal Medicine demonstrated that dogs receiving early intervention with products like [Senior Moments Omega Complex](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) maintained 40% better cognitive function at age 13 compared to untreated controls. For more context, see our [article on signs and management of](/articles/managing-arthritis-in-senior-cats).
 
 # Why this matters
 

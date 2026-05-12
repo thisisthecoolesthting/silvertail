@@ -27,13 +27,15 @@ tags:
 - pet mobility
 - incontinence solutions
 heroImage: /images/hero/at-home-hospice-care-senior-pets.jpg
+subtopic: end-of-life
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When my 16-year-old Labrador mix stopped being able to stand without assistance, I realized we'd entered territory no one prepares you for as a pet owner. The question isn't just "How do I make my senior pet comfortable?" but "How do I honor their life while managing the practical realities of decline?" At-home hospice care for pets bridges veterinary medicine with compassionate daily support, focusing on pain management, mobility assistance, and maintaining dignity.
+When my 16-year-old Labrador mix stopped being able to stand without assistance, I realized we'd entered territory no one prepares you for as a pet owner. The question isn't just "How do I make my senior pet comfortable?" but "How do I honor their life while managing the practical realities of decline?" At-home hospice care for pets bridges veterinary medicine with compassionate daily support, focusing on pain management, mobility assistance, and maintaining dignity. For more context, see our [article on recognizing signs of cognitive](/articles/signs-cognitive-decline-dogs).
 
-Unlike human hospice, we don't have dedicated facilities - the care happens wherever your pet feels safest, usually at home surrounded by familiar smells and routines. This guide walks through the essential products and adaptations that helped my dog (and later my cat) through their final months with comfort.
+Unlike human hospice, we don't have dedicated facilities - the care happens wherever your pet feels safest, usually at home surrounded by familiar smells and routines. This guide walks through the essential products and adaptations that helped my dog (and later my cat) through their final months with comfort. For more context, see our [article on managing arthritis in senior](/articles/managing-arthritis-senior-cats).
 
 Creating a hospice environment requires careful planning and attention to detail. Start by assessing your pet's specific needs. For example, if your pet has arthritis, consider investing in an orthopedic bed like the [PetFusion Orthopedic Bed](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) to alleviate joint pain. If mobility is an issue, a harness such as the [Help 'Em Up Harness](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) can provide the necessary support. Additionally, ensure that your home is safe and accessible, removing any obstacles that could cause falls or injuries.
 

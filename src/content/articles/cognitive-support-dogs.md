@@ -25,17 +25,19 @@ tags:
 - dog dementia
 - senior dog care
 heroImage: /images/hero/cognitive-support-dogs.jpg
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old lab starts pacing at 3 AM or forgets the path to his favorite napping spot, it's not just 'getting old'—it's likely canine cognitive dysfunction (CCD). Nearly 28% of dogs aged 11-12 show signs of cognitive decline, jumping to 68% by age 15 (Landsberg et al., 2012). As someone who's navigated this with three senior dogs, I know how overwhelming it feels when your once-vibrant companion struggles with disorientation or sleep disturbances.
+When your 12-year-old lab starts pacing at 3 AM or forgets the path to his favorite napping spot, it's not just 'getting old'—it's likely canine cognitive dysfunction (CCD). Nearly 28% of dogs aged 11-12 show signs of cognitive decline, jumping to 68% by age 15 (Landsberg et al., 2012).  For more context, see our [article on essential dental care tips](/articles/dental-care-for-aging-pets).As someone who's navigated this with three senior dogs, I know how overwhelming it feels when your once-vibrant companion struggles with disorientation or sleep disturbances.
 
-This guide cuts through the noise of miracle cures to focus on what actually works: clinically studied supplements, environmental adaptations, and realistic expectations. We'll compare [Senilife](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and [ActivPhy](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) head-to-head, analyze whether premium options like [Neutricks](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) justify their cost, and share practical tips from veterinary behaviorists.
+This guide cuts through the noise of miracle cures to focus on what actually works: clinically studied supplements, environmental adaptations, and realistic expectations. We'll compare [Senilife](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and [ActivPhy](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) head-to-head, analyze whether premium options like [Neutricks](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) justify their cost, and share practical tips from veterinary behaviorists. For more context, see our [article on signs of arthritis in](/articles/arthritis-symptoms-cats).
 
-Recent breakthroughs in veterinary neurology reveal that cognitive decline begins at the cellular level years before symptoms appear. The hippocampus—responsible for memory formation—can shrink by up to 25% in dogs with advanced CCD (Tapp et al., 2004). What many owners mistake for 'slowing down' is actually a complex neurological process involving amyloid plaque buildup, oxidative stress, and reduced dopamine production.
+Recent breakthroughs in veterinary neurology reveal that cognitive decline begins at the cellular level years before symptoms appear. The hippocampus—responsible for memory formation—can shrink by up to 25% in dogs with advanced CCD (Tapp et al., 2004).  For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).What many owners mistake for 'slowing down' is actually a complex neurological process involving amyloid plaque buildup, oxidative stress, and reduced dopamine production.
 
-During my work with the Grey Muzzle Organization, we tracked 200 senior dogs and found those receiving early intervention maintained 40% more independence in daily activities compared to untreated peers after two years.
+During my work with the Grey Muzzle Organization, we tracked 200 senior dogs and found those receiving early intervention maintained 40% more independence in daily activities compared to untreated peers after two years. For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).
 
 ## Why This Matters
 

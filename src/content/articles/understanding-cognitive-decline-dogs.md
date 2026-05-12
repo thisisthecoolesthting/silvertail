@@ -30,15 +30,17 @@ heroImage: /images/hero/understanding-cognitive-decline-dogs.jpg
 cardTitle: 'Senior Dog Brain Health: Recognize Early Signs Protect Memory'
 cardPick: Dasuquin's proven joint support reduces pain-related confusion, helping
   aging dogs stay mentally sharp and engaged longer.
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 # Introduction
 
-You notice your 12-year-old Labrador staring blankly at the wall. He circles the same spot before lying down, then gets up to repeat the process. At 3 AM, he whines to go outside but seems confused about why he's there. These aren't just "old dog" quirks—they're potential signs of canine cognitive dysfunction (CCD), a condition affecting nearly 30% of dogs over 11 according to veterinary research.
+You notice your 12-year-old Labrador staring blankly at the wall. He circles the same spot before lying down, then gets up to repeat the process.  For more context, see our [article on how to transition senior](/articles/transitioning-senior-dog-food).At 3 AM, he whines to go outside but seems confused about why he's there. These aren't just "old dog" quirks—they're potential signs of canine cognitive dysfunction (CCD), a condition affecting nearly 30% of dogs over 11 according to veterinary research.
 
 Unlike normal aging, CCD involves measurable brain changes similar to human Alzheimer's, including amyloid plaque buildup and reduced dopamine production.
 
-This is not medical advice for your dog. If you notice these changes, your veterinarian should evaluate whether CCD or another health condition is at play. What follows is evidence we gathered testing 18 months with our own senior dogs, comparing which supplements, routines, and environmental tweaks showed measurable improvement in our household.
+This is not medical advice for your dog. If you notice these changes, your veterinarian should evaluate whether CCD or another health condition is at play.  For more context, see our [article on joint supplements](/articles/best-joint-supplements-senior-dogs).What follows is evidence we gathered testing 18 months with our own senior dogs, comparing which supplements, routines, and environmental tweaks showed measurable improvement in our household.
 
 Recent research from UC Davis (2025) shows CCD progresses through distinct stages, each responding to different interventions. Early-stage symptoms like disrupted sleep-wake cycles respond best to environmental modifications, while mid-stage spatial disorientation benefits most from targeted supplements and cognitive enrichment. We tracked our test dogs using monthly assessments adapted from published cognitive decline scales, documenting which interventions performed at each stage.
 

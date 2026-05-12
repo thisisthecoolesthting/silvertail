@@ -32,15 +32,17 @@ heroImage: /images/hero/mobility-ramps-stairs-dogs.jpg
 cardTitle: 'Senior Dog Mobility: Ramps & Stairs That Actually Work'
 cardPick: PetFusion's orthopedic memory foam provides joint relief and comfort that
   aging dogs desperately need for better mobility and sleep.
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When my 12-year-old Labrador, Gus, started hesitating before jumping into my SUV, I realized his arthritis wasn't just affecting his walks—it was changing how he interacted with everyday spaces. Like many pet owners watching their dogs age, I faced a difficult question: *How can I help my senior dog maintain independence without risking injury from jumping?*
+When my 12-year-old Labrador, Gus, started hesitating before jumping into my SUV, I realized his arthritis wasn't just affecting his walks—it was changing how he interacted with everyday spaces. Like many pet owners watching their dogs age, I faced a difficult question: *How can I help my senior dog maintain independence without risking injury from jumping?* For more context, see our [article on heating pads](/articles/best-heating-pads-older-cats).
 
-Mobility ramps and stairs bridge this gap, but with over 40 models on Amazon claiming to be 'the best' for older dogs, choosing the right one requires understanding key differences. Through testing 8 top-rated options with three senior dogs (a 75lb Lab, 45lb Border Collie, and 18lb Dachshund), we identified what actually works versus what looks good in product photos.
+Mobility ramps and stairs bridge this gap, but with over 40 models on Amazon claiming to be 'the best' for older dogs, choosing the right one requires understanding key differences. Through testing 8 top-rated options with three senior dogs (a 75lb Lab, 45lb Border Collie, and 18lb Dachshund), we identified what actually works versus what looks good in product photos. For more context, see our [article on my cat stopped jumping:](/articles/cat-stopped-jumping-solutions).
 
-This guide focuses exclusively on solutions for dogs showing early-to-moderate mobility decline, not end-of-life cases requiring full-body support. We'll compare foldable ramps, telescoping designs, foam stairs, and hybrid models—with specific recommendations based on your dog's size, your home layout, and whether you need portability for car travel.
+This guide focuses exclusively on solutions for dogs showing early-to-moderate mobility decline, not end-of-life cases requiring full-body support. We'll compare foldable ramps, telescoping designs, foam stairs, and hybrid models—with specific recommendations based on your dog's size, your home layout, and whether you need portability for car travel. For more context, see our [article on orthopedic dog beds](/articles/orthopedic-beds-arthritis-dogs).
 
 **Key considerations before purchasing**:
 - **Weight distribution**: How your dog's weight concentrates on a ramp affects stability and safety

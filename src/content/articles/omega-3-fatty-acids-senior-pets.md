@@ -27,17 +27,19 @@ tags:
 - omega-3 dosage
 - veterinary nutrition
 heroImage: /images/hero/omega-3-fatty-acids-senior-pets.jpg
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 # Introduction
 
-When your 12-year-old Lab starts struggling with stiff hips or your 15-year-old tabby's coat loses its luster, you'll find yourself staring at rows of omega-3 supplements wondering: *Do these actually work, or is this just another pet industry upsell?* After testing 14 formulations with my own aging animals (including a 16-year-old border collie mix and three senior cats), I can confirm that not all omega-3s are created equal—but the right ones make a measurable difference.
+When your 12-year-old Lab starts struggling with stiff hips or your 15-year-old tabby's coat loses its luster, you'll find yourself staring at rows of omega-3 supplements wondering: *Do these actually work, or is this just another pet industry upsell?* After testing 14 formulations with my own aging animals (including a 16-year-old border collie mix and three senior cats), I can confirm that not all omega-3s are created equal—but the right ones make a measurable difference. For more context, see our [article on joint supplements for senior](/articles/senior-dog-joint-supplements).
 
-Omega-3 fatty acids (specifically EPA and DHA from marine sources) are among the few supplements with robust veterinary research backing their benefits for senior pets. A 2022 study in the *Journal of Veterinary Internal Medicine* found that dogs receiving 220mg EPA+DHA per kg of body weight showed significant improvement in arthritis symptoms compared to placebo groups. For cats, research from Cornell's College of Veterinary Medicine demonstrates omega-3s' role in maintaining cognitive function and kidney health.
+Omega-3 fatty acids (specifically EPA and DHA from marine sources) are among the few supplements with robust veterinary research backing their benefits for senior pets. A 2022 study in the *Journal of Veterinary Internal Medicine* found that dogs receiving 220mg EPA+DHA per kg of body weight showed significant improvement in arthritis symptoms compared to placebo groups.  For more context, see our [article on benefits of omega-3 fatty](/articles/omega-3-for-senior-pets).For cats, research from Cornell's College of Veterinary Medicine demonstrates omega-3s' role in maintaining cognitive function and kidney health.
 
-What most pet owners don't realize is that aging fundamentally changes how pets process fats. A 10-year-old dog's pancreas produces 40% fewer lipase enzymes than a 2-year-old's, while senior cats experience a 60% reduction in bile acid production by age 12. This explains why my clients often report "no effect" from supplements that worked in their pet's younger years—the delivery system matters as much as the active ingredients.
+What most pet owners don't realize is that aging fundamentally changes how pets process fats. A 10-year-old dog's pancreas produces 40% fewer lipase enzymes than a 2-year-old's, while senior cats experience a 60% reduction in bile acid production by age 12.  For more context, see our [article on senior cat food](/articles/best-senior-cat-food).This explains why my clients often report "no effect" from supplements that worked in their pet's younger years—the delivery system matters as much as the active ingredients.
 
-Through clinical trials at Texas A&M's Veterinary Medical Center, we've identified triglyceride-form omega-3s (like those in [Nordic Naturals](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20)) as having 82% better absorption in geriatric pets versus standard ethyl ester forms.
+Through clinical trials at Texas A&M's Veterinary Medical Center, we've identified triglyceride-form omega-3s (like those in [Nordic Naturals](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20)) as having 82% better absorption in geriatric pets versus standard ethyl ester forms. For more context, see our [article on 5 joint supplements for](/articles/top-joint-supplements-dogs).
 
 # Why This Matters
 

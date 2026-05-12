@@ -27,21 +27,23 @@ tags:
 - orthopedic beds
 - pet ramps
 heroImage: /images/hero/symptoms-arthritis-senior-cats.jpg
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old tabby hesitates before jumping onto the windowsill, or your 15-year-old Persian starts missing the litter box, you're likely witnessing more than just 'slowing down.' Feline arthritis affects 60-90% of cats over age 12 according to the American Association of Feline Practitioners, yet a 2021 University of Liverpool study found 82% of cases go undiagnosed. Unlike dogs who limp noticeably, cats evolved to hide weakness—a survival instinct that now works against their health.
+When your 12-year-old tabby hesitates before jumping onto the windowsill, or your 15-year-old Persian starts missing the litter box, you're likely witnessing more than just 'slowing down.' Feline arthritis affects 60-90% of cats over age 12 according to the American Association of Feline Practitioners, yet a 2021 University of Liverpool study found 82% of cases go undiagnosed. Unlike dogs who limp noticeably, cats evolved to hide weakness—a survival instinct that now works against their health. For more context, see our [article on glucosamine supplements](/articles/best-glucosamine-for-senior-dogs).
 
 This creates a dangerous gap where joint damage progresses untreated while owners mistake subtle symptoms for normal aging.
 
-Consider Mrs. Whiskerson, a 14-year-old Maine Coon mix whose owner noticed she'd stopped grooming her hindquarters and developed mats. After six months of attributing it to 'old age,' a veterinary exam including palpation and X-rays revealed severe spinal arthritis and three fused vertebrae. By then, matted fur had caused skin infections requiring sedation for shaving—a traumatic experience that could have been prevented with early intervention using [joint supplements like Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and [heated orthopedic beds](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20).
+Consider Mrs. Whiskerson, a 14-year-old Maine Coon mix whose owner noticed she'd stopped grooming her hindquarters and developed mats.  For more context, see our [article on understanding cognitive dysfunction syndrome](/articles/cognitive-dysfunction-syndrome-dogs).After six months of attributing it to 'old age,' a veterinary exam including palpation and X-rays revealed severe spinal arthritis and three fused vertebrae. By then, matted fur had caused skin infections requiring sedation for shaving—a traumatic experience that could have been prevented with early intervention using [joint supplements like Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and [heated orthopedic beds](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20).
 
-This comprehensive guide decodes the subtle signs of feline arthritis through three diagnostic lenses: behavioral changes (like altered litter box habits or social withdrawal), physical symptoms (stiffness after rest, reduced jumping height), and environmental adaptations that actually work based on clinical evidence. We've rigorously tested 14 products over 18 months with our panel of 8 arthritic cats, tracking measurable outcomes like morning stiffness duration, jumping success rates, and grooming frequency to separate evidence-based solutions from marketing hype.
+This comprehensive guide decodes the subtle signs of feline arthritis through three diagnostic lenses: behavioral changes (like altered litter box habits or social withdrawal), physical symptoms (stiffness after rest, reduced jumping height), and environmental adaptations that actually work based on clinical evidence. We've rigorously tested 14 products over 18 months with our panel of 8 arthritic cats, tracking measurable outcomes like morning stiffness duration, jumping success rates, and grooming frequency to separate evidence-based solutions from marketing hype. For more context, see our [article on choosing right mobility ramp](/articles/choosing-mobility-ramps-for-dogs).
 
 ## Why This Matters
 
-Left untreated, feline arthritis triggers a devastating cascade of secondary health complications. Chronic pain reduces mobility, leading to muscle atrophy that further stresses already compromised joints. A landmark 2023 Cornell University College of Veterinary Medicine study found arthritic cats are 3.2x more likely to develop obesity from decreased activity, which accelerates joint degeneration through increased mechanical loading.
+Left untreated, feline arthritis triggers a devastating cascade of secondary health complications. Chronic pain reduces mobility, leading to muscle atrophy that further stresses already compromised joints.  For more context, see our [article on orthopedic dog beds](/articles/best-orthopedic-beds-arthritis-dogs).A landmark 2023 Cornell University College of Veterinary Medicine study found arthritic cats are 3.2x more likely to develop obesity from decreased activity, which accelerates joint degeneration through increased mechanical loading.
 
 The same research showed these cats have 40% higher cortisol levels—chronic stress that weakens immune function and increases susceptibility to urinary tract infections and dental disease.
 

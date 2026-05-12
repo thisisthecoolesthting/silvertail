@@ -28,11 +28,13 @@ heroImage: /images/hero/cat-stopped-jumping-solutions.jpg
 cardTitle: 'Why Senior Cats Stop Jumping: Easy Mobility Solutions'
 cardPick: ChomChom removes loose fur painlessly without brushes, reducing matting
   that restricts older cats' movement and comfort.
+subtopic: comfort
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-You notice it gradually: your 12-year-old tabby hesitates before leaping onto the windowsill. Your 15-year-old Persian waits by the bed, meowing to be lifted. That effortless spring in their step has faded. For cats over 8, reduced jumping ability often signals arthritis (found in 60–90% of senior felines), muscle atrophy, or neurological changes. Unlike dogs who vocalize pain, cats hide discomfort until movement becomes impossible.
+You notice it gradually: your 12-year-old tabby hesitates before leaping onto the windowsill. Your 15-year-old Persian waits by the bed, meowing to be lifted.  For more context, see our [article on heating pads](/articles/best-heating-pads-older-cats).That effortless spring in their step has faded. For cats over 8, reduced jumping ability often signals arthritis (found in 60–90% of senior felines), muscle atrophy, or neurological changes. Unlike dogs who vocalize pain, cats hide discomfort until movement becomes impossible.
 
 This isn't just about convenience—unaddressed mobility issues can lead to:
 
@@ -44,7 +46,7 @@ This isn't just about convenience—unaddressed mobility issues can lead to:
 We tested 14 mobility aids over 18 months with three senior cats (ages 11–17) in our home to identify solutions that actually work. The right support depends on:
 
 1. **Joint health status**: Arthritic cats need gentler inclines (≤20°) versus those with muscle loss who may manage steeper angles
-2. **Home layout**: Apartments may need foldable options; larger homes allow for permanent installations
+2.  For more context, see our [article on mobility ramps and stairs](/articles/mobility-ramps-stairs-dogs).**Home layout**: Apartments may need foldable options; larger homes allow for permanent installations
 3. **Feline temperament**: Anxious cats often prefer enclosed step systems versus open ramps
 
 ## Why This Matters
@@ -60,7 +62,7 @@ Early adaptations can meaningfully slow this progression by providing gentler pa
 **Biomechanics**:
 - Cats' vertical leap capacity decreases by approximately 1" per year after age 10
 - Most seniors struggle with jumps >12" (compared to 36"+ for young adults)
-- Downward jumps create significantly more joint impact than ascending
+- Downward jumps create significantly more joint impact than ascending For more context, see our [article on orthopedic dog beds](/articles/orthopedic-beds-arthritis-dogs).
 
 **Environmental Factors**:
 - Hardwood floors reduce traction—grip surfaces help considerably

@@ -30,15 +30,17 @@ heroImage: /images/hero/cognitive-decline-older-dogs-signs-support.jpg
 cardTitle: Senior Dogs Losing Memory? Spot CCD Early and Help Them
 cardPick: ChomChom's gentle design removes mats without painful pulling, perfect for
   stiff, sensitive aging joints.
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old Lab starts pacing at 3 AM or forgets familiar commands he's known for a decade, you're likely seeing canine cognitive dysfunction (CCD)—a condition that affects nearly 28% of dogs aged 11–12 and 68% by age 15, according to the Journal of Veterinary Behavior. Unlike simple aging, CCD involves amyloid plaque buildup and reduced dopamine production, mirroring some aspects of human cognitive decline.
+When your 12-year-old Lab starts pacing at 3 AM or forgets familiar commands he's known for a decade, you're likely seeing canine cognitive dysfunction (CCD)—a condition that affects nearly 28% of dogs aged 11–12 and 68% by age 15, according to the Journal of Veterinary Behavior. Unlike simple aging, CCD involves amyloid plaque buildup and reduced dopamine production, mirroring some aspects of human cognitive decline. For more context, see our [article on senior dog foods](/articles/senior-dog-food-sensitive-stomach).
 
-The first signs often appear subtly: excessive circling before lying down, staring blankly at walls, or uncharacteristic accidents indoors despite years of house-training. I watched my border collie forget the route to his favorite park—a walk we'd taken daily for 9 years. Through targeted supplements and environmental adjustments, we recovered about 70% of his spatial awareness within five months.
+The first signs often appear subtly: excessive circling before lying down, staring blankly at walls, or uncharacteristic accidents indoors despite years of house-training. I watched my border collie forget the route to his favorite park—a walk we'd taken daily for 9 years.  For more context, see our [article on glucosamine dosage for senior](/articles/glucosamine-dosage-senior-dogs).Through targeted supplements and environmental adjustments, we recovered about 70% of his spatial awareness within five months.
 
-Early interventions make a measurable difference. A 2024 University of California, San Diego study found dogs who began cognitive support protocols before age 11 maintained significantly better quality-of-life indicators in their later years. The key is recognizing CCD early and implementing a combination of evidence-based strategies.
+Early interventions make a measurable difference. A 2024 University of California, San Diego study found dogs who began cognitive support protocols before age 11 maintained significantly better quality-of-life indicators in their later years.  For more context, see our [article on senior cat food](/articles/senior-cat-weight-loss-food).The key is recognizing CCD early and implementing a combination of evidence-based strategies.
 
 ## Why This Matters
 

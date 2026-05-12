@@ -29,13 +29,15 @@ heroImage: /images/hero/transitioning-senior-dog-food.jpg
 cardTitle: 'Senior Dogs Need Different Food: Safe Transition Tips'
 cardPick: Nutramax Dasuquin supports aging joints while you switch foods, easing stiffness
   and keeping your senior comfortable through dietary changes.
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 # Introduction
 
-When your senior dog starts leaving kibble in the bowl or shows signs of digestive upset, you face a choice that most owners of older pets recognize: Is it time to switch foods? The signs are subtle—slower eating, occasional stomach trouble, or weight shifts that don't match their calorie intake.
+When your senior dog starts leaving kibble in the bowl or shows signs of digestive upset, you face a choice that most owners of older pets recognize: Is it time to switch foods? The signs are subtle—slower eating, occasional stomach trouble, or weight shifts that don't match their calorie intake. For more context, see our [article on canine cognitive dysfunction: recognizing](/articles/understanding-cognitive-decline-dogs).
 
-Unlike puppies who bounce back from dietary changes quickly, older dogs need careful transitions to stay comfortable. This guide walks through a practical, evidence-informed approach we've used with our own senior dogs, comparing six top-rated formulas designed for aging canines. You'll learn why gradual transitions matter, how to read ingredient lists for joint and cognitive support, and which products deliver consistent results across different budgets and health needs.
+Unlike puppies who bounce back from dietary changes quickly, older dogs need careful transitions to stay comfortable. This guide walks through a practical, evidence-informed approach we've used with our own senior dogs, comparing six top-rated formulas designed for aging canines.  For more context, see our [article on joint supplements](/articles/best-joint-supplements-senior-dogs).You'll learn why gradual transitions matter, how to read ingredient lists for joint and cognitive support, and which products deliver consistent results across different budgets and health needs.
 
 # Why this matters
 
@@ -190,3 +192,5 @@ Brands worth verifying include Big Barker for large dogs (independent veterinary
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on how to properly refill ink cartridges: a step-by-step guide, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-properly-refill-ink-cartridges-step-by-step-guide/).

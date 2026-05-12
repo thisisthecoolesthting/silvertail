@@ -24,13 +24,15 @@ tags:
 - aging pets
 - canine supplements
 heroImage: /images/hero/signs-cognitive-decline-dogs.jpg
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old Labrador starts staring at walls or forgetting familiar commands, it's easy to dismiss these changes as 'just getting old.' But what if I told you these could be early signs of canine cognitive dysfunction (CCD), a condition affecting nearly 30% of dogs aged 11-12 and 68% of those 15-16?
+When your 12-year-old Labrador starts staring at walls or forgetting familiar commands, it's easy to dismiss these changes as 'just getting old.' But what if I told you these could be early signs of canine cognitive dysfunction (CCD), a condition affecting nearly 30% of dogs aged 11-12 and 68% of those 15-16? For more context, see our [article on managing arthritis in senior](/articles/managing-arthritis-senior-cats).
 
-As someone who's navigated this journey with three senior dogs, I've learned that recognizing these signs early makes all the difference in managing your dog's comfort and quality of life.
+As someone who's navigated this journey with three senior dogs, I've learned that recognizing these signs early makes all the difference in managing your dog's comfort and quality of life. For more context, see our [article on providing compassionate at-home hospice](/articles/at-home-hospice-care-senior-pets).
 
 CCD shares striking similarities with Alzheimer's in humans, involving amyloid plaque buildup in the brain. The key symptoms often appear gradually: disorientation in familiar spaces (like getting 'stuck' behind furniture), altered sleep-wake cycles (nighttime pacing followed by daytime lethargy), decreased interest in play (ignoring favorite toys), and sometimes even changes in social behavior like increased anxiety or clinginess.
 

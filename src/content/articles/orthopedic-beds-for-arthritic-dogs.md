@@ -26,13 +26,15 @@ tags:
 - pressure relief
 - orthopedic support
 heroImage: /images/hero/orthopedic-beds-for-arthritic-dogs.jpg
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your arthritic dog struggles to settle, whimpers when lying down, or leaves dents in cheap foam beds, you need real solutions—not marketing claims. After helping three senior dogs through arthritis (including my 14-year-old Lab mix), I've learned that not all orthopedic beds deliver on their promises. The best ones combine medical-grade foam with smart design features that address the specific needs of aging joints.
+When your arthritic dog struggles to settle, whimpers when lying down, or leaves dents in cheap foam beds, you need real solutions—not marketing claims. After helping three senior dogs through arthritis (including my 14-year-old Lab mix), I've learned that not all orthopedic beds deliver on their promises.  For more context, see our [article on are heating pads safe](/articles/heating-pads-for-arthritic-cats).The best ones combine medical-grade foam with smart design features that address the specific needs of aging joints.
 
-This guide compares 12 beds we've tested with dogs weighing 30-90 lbs, focusing on measurable factors like foam density recovery time, edge support, and waterproofing effectiveness. We'll expose which brands use cheaper layered foams that compact within months versus those maintaining support for years. You'll see side-by-side comparisons of heat retention (critical for inflamed joints) and ease of cleaning (because accidents happen more with older dogs).
+This guide compares 12 beds we've tested with dogs weighing 30-90 lbs, focusing on measurable factors like foam density recovery time, edge support, and waterproofing effectiveness. We'll expose which brands use cheaper layered foams that compact within months versus those maintaining support for years.  For more context, see our [article on gentle grooming tips for](/articles/gentle-grooming-older-pets).You'll see side-by-side comparisons of heat retention (critical for inflamed joints) and ease of cleaning (because accidents happen more with older dogs).
 
 We conducted our testing in three phases: laboratory measurements of foam properties, controlled home trials with senior dogs diagnosed with arthritis by veterinarians, and long-term durability testing where beds were subjected to continuous use for 18 months. Our test dogs represented various sleep styles - side sleepers, sprawlers, and curl-up sleepers - to evaluate how different designs performed across sleeping positions.
 

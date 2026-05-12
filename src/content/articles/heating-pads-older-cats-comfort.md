@@ -25,11 +25,13 @@ tags:
 - orthopedic pet products
 - cat health
 heroImage: /images/hero/heating-pads-older-cats-comfort.jpg
+subtopic: comfort
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your cat reaches their golden years, you might notice they seek out warm spots more often—sunbeams, your laptop, or even the top of the radiator. This isn't just a quirk; older cats struggle to regulate body temperature due to slower metabolism and thinning fur. A quality heating pad can provide consistent warmth without the risks of hot surfaces or space heaters.
+When your cat reaches their golden years, you might notice they seek out warm spots more often—sunbeams, your laptop, or even the top of the radiator. This isn't just a quirk; older cats struggle to regulate body temperature due to slower metabolism and thinning fur.  For more context, see our [article on feeding senior cats with](/articles/feeding-senior-cats-sensitive-stomachs).A quality heating pad can provide consistent warmth without the risks of hot surfaces or space heaters.
 
 But with dozens of products claiming to be 'perfect for seniors,' how do you choose one that's truly safe and effective?
 

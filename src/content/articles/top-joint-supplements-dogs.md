@@ -30,21 +30,23 @@ heroImage: /images/hero/top-joint-supplements-dogs.jpg
 cardTitle: 'Best Joint Supplements for Senior Dogs: Vet-Approved Relief'
 cardPick: Nutramax Cosequin delivers maximum-strength glucosamine and chondroitin,
   proven to ease stiffness and restore mobility in aging dogs.
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your dog starts hesitating before jumping on the couch or takes longer to stand up after naps, you know joint health has become a priority. Our 12-year-old Labrador, Moose, went from hiking 5 miles to struggling with stairs in just 18 months. Like many pet owners, we faced a wall of supplement options—glucosamine, chondroitin, MSM, green-lipped mussel—with wild price ranges and vague claims.
+When your dog starts hesitating before jumping on the couch or takes longer to stand up after naps, you know joint health has become a priority. Our 12-year-old Labrador, Moose, went from hiking 5 miles to struggling with stairs in just 18 months.  For more context, see our [article on joint supplements for senior](/articles/senior-dog-joint-supplements).Like many pet owners, we faced a wall of supplement options—glucosamine, chondroitin, MSM, green-lipped mussel—with wild price ranges and vague claims.
 
-After testing 15+ supplements over three years with Moose and our foster senior dogs, we learned that not all joint supplements deliver what they promise. The right formulation depends on your dog's size, existing joint damage, and even their willingness to eat chews versus liquids. This guide compares the top evidence-backed options, with real-world notes on palatability, dosing quirks, and which products actually changed our dogs' mobility.
+After testing 15+ supplements over three years with Moose and our foster senior dogs, we learned that not all joint supplements deliver what they promise. The right formulation depends on your dog's size, existing joint damage, and even their willingness to eat chews versus liquids.  For more context, see our [article on benefits of omega-3 fatty](/articles/omega-3-for-senior-pets).This guide compares the top evidence-backed options, with real-world notes on palatability, dosing quirks, and which products actually changed our dogs' mobility.
 
 We documented every supplement's effects through:
 - Weekly video logs of mobility tests (stair climbing, rise time from lying position)
 - Veterinary assessments of joint flexion and range of motion
 - Owner journals tracking activity levels and pain indicators
-- Bloodwork to monitor organ function with long-term supplement use
+- Bloodwork to monitor organ function with long-term supplement use For more context, see our [article on senior cat food](/articles/best-senior-cat-food).
 
-The results revealed clear winners in different categories—from best overall joint support to most palatable chews for finicky eaters. We'll share exactly which products helped our test dogs regain the ability to jump into cars, play with toys again, and sleep through the night without joint discomfort.
+The results revealed clear winners in different categories—from best overall joint support to most palatable chews for finicky eaters. We'll share exactly which products helped our test dogs regain the ability to jump into cars, play with toys again, and sleep through the night without joint discomfort. For more context, see our [article on glucosamine and chondroitin for](/articles/glucosamine-chondroitin-senior-dogs).
 
 ## Why this matters
 

@@ -28,22 +28,24 @@ tags:
 - incontinence solutions
 - caregiver support
 heroImage: /images/hero/at-home-pet-hospice-care.jpg
+subtopic: end-of-life
+updatedAt: 2026-05-12
 ---
 
 # Introduction
 
-When your 14-year-old lab starts struggling to stand up from her favorite napping spot, or your arthritic cat can no longer jump onto the windowsill, the unspoken question hangs in the air: *How do I make their remaining time comfortable without medical intervention?* At-home pet hospice care bridges the gap between active treatment and final goodbyes—a 3-6 month period where pain management, accessibility modifications, and hygiene support become daily priorities.
+When your 14-year-old lab starts struggling to stand up from her favorite napping spot, or your arthritic cat can no longer jump onto the windowsill, the unspoken question hangs in the air: *How do I make their remaining time comfortable without medical intervention?* At-home pet hospice care bridges the gap between active treatment and final goodbyes—a 3-6 month period where pain management, accessibility modifications, and hygiene support become daily priorities. For more context, see our [article on essential dental care tips](/articles/dental-care-for-aging-pets).
 
-Through caring for three senior dogs and two cats through their final months, we discovered that most "senior" pet products are designed for early-stage aging, not hospice-level needs. The turning point came when our 72-pound shepherd mix, Bear, began falling through the center of his standard orthopedic bed—the foam had compressed unevenly after just six weeks of constant use.
+Through caring for three senior dogs and two cats through their final months, we discovered that most "senior" pet products are designed for early-stage aging, not hospice-level needs. The turning point came when our 72-pound shepherd mix, Bear, began falling through the center of his standard orthopedic bed—the foam had compressed unevenly after just six weeks of constant use. For more context, see our [article on signs of arthritis in](/articles/arthritis-symptoms-cats).
 
 This led us to test 23 products across eight categories, focusing specifically on large-breed pets (50+ lbs) who face disproportionate challenges in finding adequate support.
 
 Key findings from our 18-month testing period:
 - **Temperature regulation** becomes critical as metabolism slows—pets in decline often struggle to maintain body heat even in warm rooms
 - **Pressure sores** develop 3x faster in immobile pets than humans due to thinner skin and reduced fat padding
-- **Incontinence products** must balance absorption with skin protection—we saw more irritation from scented pads than from urine exposure itself
+- **Incontinence products** must balance absorption with skin protection—we saw more irritation from scented pads than from urine exposure itself For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).
 
-This guide focuses exclusively on products that improved quality of life during active decline, with detailed notes on setup modifications that made the difference between functional use and frustration. For example, the [Therapaw orthopedic bed](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) required placing a 1/2" plywood base underneath to prevent sagging on carpet—a hack that extended its lifespan by eight months.
+This guide focuses exclusively on products that improved quality of life during active decline, with detailed notes on setup modifications that made the difference between functional use and frustration. For example, the [Therapaw orthopedic bed](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) required placing a 1/2" plywood base underneath to prevent sagging on carpet—a hack that extended its lifespan by eight months. For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).
 
 # Why this matters
 

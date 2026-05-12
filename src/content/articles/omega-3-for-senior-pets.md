@@ -26,17 +26,19 @@ tags:
 - pet nutrition
 - aging pets
 heroImage: /images/hero/omega-3-for-senior-pets.jpg
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-If your older dog struggles with stiff joints or your senior cat's coat has lost its luster, you've likely wondered: *Can omega-3 supplements really help?* As pets age, their bodies become less efficient at utilizing essential fatty acids from food alone.
+If your older dog struggles with stiff joints or your senior cat's coat has lost its luster, you've likely wondered: *Can omega-3 supplements really help?* As pets age, their bodies become less efficient at utilizing essential fatty acids from food alone. For more context, see our [article on joint supplements for senior](/articles/senior-dog-joint-supplements).
 
-Multiple peer-reviewed studies confirm that EPA and DHA from marine sources demonstrate measurable benefits for arthritis inflammation (reducing joint swelling by up to 42% in clinical trials), cognitive function (improving memory test scores by 28% in aging beagles), and skin/coat quality (increasing ceramide production by 35% in felines with dry skin).
+Multiple peer-reviewed studies confirm that EPA and DHA from marine sources demonstrate measurable benefits for arthritis inflammation (reducing joint swelling by up to 42% in clinical trials), cognitive function (improving memory test scores by 28% in aging beagles), and skin/coat quality (increasing ceramide production by 35% in felines with dry skin). For more context, see our [article on senior cat food](/articles/best-senior-cat-food).
 
-But with over 87 different omega-3 products on the market ranging from $15 to $150—each making competing claims about purity, potency, and absorption rates—how do pet owners make an informed choice? This comprehensive 3,000-word guide examines 6 evidence-backed omega-3 supplements we've rigorously tested with our own senior animals over 18 months.
+But with over 87 different omega-3 products on the market ranging from $15 to $150—each making competing claims about purity, potency, and absorption rates—how do pet owners make an informed choice? This comprehensive 3,000-word guide examines 6 evidence-backed omega-3 supplements we've rigorously tested with our own senior animals over 18 months. For more context, see our [article on 5 joint supplements for](/articles/top-joint-supplements-dogs).
 
-You'll discover why krill oil outperforms fish oil in certain metabolic scenarios (but not all), how to decode misleading label claims that obscure inferior ingredients, and why the cheapest option may actually cost more long-term when considering bioavailability and waste factors. For pets with pre-existing conditions like kidney disease or diabetes, we'll highlight specific formulations like [Nordic Naturals Omega-3 Pet](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) that omit problematic additives while providing third-party Certificates of Analysis for every batch.
+You'll discover why krill oil outperforms fish oil in certain metabolic scenarios (but not all), how to decode misleading label claims that obscure inferior ingredients, and why the cheapest option may actually cost more long-term when considering bioavailability and waste factors. For pets with pre-existing conditions like kidney disease or diabetes, we'll highlight specific formulations like [Nordic Naturals Omega-3 Pet](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) that omit problematic additives while providing third-party Certificates of Analysis for every batch. For more context, see our [article on glucosamine and chondroitin for](/articles/glucosamine-chondroitin-senior-dogs).
 
 ## Why This Matters: The Science Behind Omega-3s for Aging Pets
 

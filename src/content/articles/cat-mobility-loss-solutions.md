@@ -31,17 +31,19 @@ heroImage: /images/hero/cat-mobility-loss-solutions.jpg
 cardTitle: 'Why Your Senior Cat Stopped Jumping: Easy Mobility Fixes'
 cardPick: Dasuquin with MSM supports aging joints naturally, helping senior cats regain
   confidence climbing and playing.
+subtopic: comfort
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-You've noticed it gradually - your once agile feline companion hesitates before jumping onto the couch, misses landings they used to stick perfectly, or worse, stops attempting to reach their favorite perches altogether. "My cat stopped jumping" is a common concern among pet parents with senior cats, and it often signals the beginning of mobility challenges. As cats age, they may develop arthritis, muscle weakness, or other conditions that make jumping painful or difficult.
+You've noticed it gradually - your once agile feline companion hesitates before jumping onto the couch, misses landings they used to stick perfectly, or worse, stops attempting to reach their favorite perches altogether. "My cat stopped jumping" is a common concern among pet parents with senior cats, and it often signals the beginning of mobility challenges.  For more context, see our [article on helping senior cat with](/articles/cat-mobility-solutions).As cats age, they may develop arthritis, muscle weakness, or other conditions that make jumping painful or difficult.
 
-The average cat begins showing signs of mobility decline around age 8-10, with 90% of cats over age 12 showing radiographic signs of arthritis according to veterinary studies. But before you resign yourself to watching your cat's world shrink, there are practical solutions that can help maintain their independence and quality of life.
+The average cat begins showing signs of mobility decline around age 8-10, with 90% of cats over age 12 showing radiographic signs of arthritis according to veterinary studies. But before you resign yourself to watching your cat's world shrink, there are practical solutions that can help maintain their independence and quality of life. For more context, see our [article on mobility ramps and stairs:](/articles/ramps-for-dogs-with-arthritis).
 
-This comprehensive guide will walk you through the best options for supporting your senior cat's mobility, from ramps and steps to specialized bedding and environmental modifications. We've tested these solutions with our own aging felines and analyzed dozens of products to identify what actually works. Whether your cat is just starting to show signs of stiffness or has already given up on jumping entirely, you'll find actionable solutions to help them navigate their world comfortably.
+This comprehensive guide will walk you through the best options for supporting your senior cat's mobility, from ramps and steps to specialized bedding and environmental modifications. We've tested these solutions with our own aging felines and analyzed dozens of products to identify what actually works.  For more context, see our [article on orthopedic dog beds](/articles/best-orthopedic-dog-beds).Whether your cat is just starting to show signs of stiffness or has already given up on jumping entirely, you'll find actionable solutions to help them navigate their world comfortably.
 
-Understanding feline mobility loss requires recognizing the subtle signs early. Cats are masters at masking discomfort, so changes in behavior like reduced jumping, hesitation before climbs, or altered grooming habits can be crucial indicators. Early intervention with mobility aids can significantly slow the progression of arthritis, maintain muscle tone, prevent secondary health issues from inactivity, and preserve your cat's independence and confidence.
+Understanding feline mobility loss requires recognizing the subtle signs early. Cats are masters at masking discomfort, so changes in behavior like reduced jumping, hesitation before climbs, or altered grooming habits can be crucial indicators.  For more context, see our [article on heating pads](/articles/heating-pads-older-cats).Early intervention with mobility aids can significantly slow the progression of arthritis, maintain muscle tone, prevent secondary health issues from inactivity, and preserve your cat's independence and confidence.
 
 ## Why This Matters
 

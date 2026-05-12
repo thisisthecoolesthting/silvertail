@@ -27,6 +27,8 @@ tags:
 - orthopedic bedding
 - quality of life
 heroImage: /images/hero/at-home-hospice-care-for-pets.jpg
+subtopic: comfort
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

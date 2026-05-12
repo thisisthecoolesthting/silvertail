@@ -24,13 +24,15 @@ tags:
 - dog food comparison
 - cost analysis
 heroImage: /images/hero/feeding-senior-dogs-sensitive-stomachs.jpg
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-If your senior dog has started turning up their nose at meals or experiencing digestive upset, you're not alone. Many pet owners notice changes in their dog's appetite and digestion as they age—a 2023 study by the American Kennel Club found that 68% of dogs over 7 years old develop some form of digestive sensitivity.
+If your senior dog has started turning up their nose at meals or experiencing digestive upset, you're not alone. Many pet owners notice changes in their dog's appetite and digestion as they age—a 2023 study by the American Kennel Club found that 68% of dogs over 7 years old develop some form of digestive sensitivity. For more context, see our [article on wet foods for senior](/articles/wet-food-senior-cats-sensitive-stomachs).
 
-A sensitive stomach can make mealtime stressful for both you and your pet, leading to cycles of food refusal, vomiting, or irregular bowel movements that disrupt your entire household routine.
+A sensitive stomach can make mealtime stressful for both you and your pet, leading to cycles of food refusal, vomiting, or irregular bowel movements that disrupt your entire household routine. For more context, see our [article on senior dog food](/articles/choosing-senior-dog-food).
 
 The right food can make all the difference, but with over 200 'sensitive stomach' formulas on the market (according to Pet Food Industry Association data), how do you choose? This comprehensive 3,000-word guide will walk you through the best food options for senior dogs with sensitive stomachs, comparing ingredients, cost, and real-world performance across multiple feeding trials.
 

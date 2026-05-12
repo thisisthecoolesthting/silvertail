@@ -27,13 +27,15 @@ tags:
 - veterinary nutrition
 - aging cats
 heroImage: /images/hero/wet-food-senior-cats-sensitive-stomachs.jpg
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old cat starts leaving half her meals untouched or vomiting after eating, the panic sets in. Is it just aging, or something worse? Senior cats (typically 8+ years) often develop food sensitivities as their digestive systems slow down. The right wet food can mean the difference between a cat who thrives in their golden years and one who loses weight dangerously.
+When your 12-year-old cat starts leaving half her meals untouched or vomiting after eating, the panic sets in. Is it just aging, or something worse?  For more context, see our [article on feeding senior dog with](/articles/feeding-senior-dogs-sensitive-stomachs).Senior cats (typically 8+ years) often develop food sensitivities as their digestive systems slow down. The right wet food can mean the difference between a cat who thrives in their golden years and one who loses weight dangerously.
 
-We conducted an extensive 6-month feeding trial with 32 senior cats aged 10-16, tracking every meal through a custom app that recorded portion consumption, vomiting incidents, and stool quality. Our veterinary nutritionist team analyzed over 1,200 data points to identify patterns. Unlike generic pet food reviews, we measured actual physiological responses:
+We conducted an extensive 6-month feeding trial with 32 senior cats aged 10-16, tracking every meal through a custom app that recorded portion consumption, vomiting incidents, and stool quality. Our veterinary nutritionist team analyzed over 1,200 data points to identify patterns.  For more context, see our [article on senior dog food](/articles/choosing-senior-dog-food).Unlike generic pet food reviews, we measured actual physiological responses:
 
 - **Gastric emptying time** (via radiographic markers)
 - **Fecal moisture content** (laboratory-tested samples)

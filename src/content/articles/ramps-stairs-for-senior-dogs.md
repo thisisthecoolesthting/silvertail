@@ -25,6 +25,8 @@ tags:
 - orthopedic support
 - home pet solutions
 heroImage: /images/hero/ramps-stairs-for-senior-dogs.jpg
+subtopic: comfort
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

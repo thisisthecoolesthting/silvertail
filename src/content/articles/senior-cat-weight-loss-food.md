@@ -30,13 +30,15 @@ heroImage: /images/hero/senior-cat-weight-loss-food.jpg
 cardTitle: 'Senior Cat Weight Management: Which Formula Keeps Them Healthy'
 cardPick: ChomChom Pet Hair Remover handles shedding without stress, ideal for senior
   cats with sensitive skin.
+subtopic: nutrition
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-That moment when you pick up your 11-year-old cat and feel less muscle along their spine—or when the vet points out creeping weight gain during their annual exam—triggers a quiet panic. Senior cats (generally 8+ years) undergo metabolic changes that require careful nutritional management. Weight loss in older cats often signals muscle wasting from inadequate protein, while weight gain strains arthritic joints. Neither extreme is inevitable.
+That moment when you pick up your 11-year-old cat and feel less muscle along their spine—or when the vet points out creeping weight gain during their annual exam—triggers a quiet panic. Senior cats (generally 8+ years) undergo metabolic changes that require careful nutritional management.  For more context, see our [article on senior dog foods](/articles/senior-dog-food-sensitive-stomach).Weight loss in older cats often signals muscle wasting from inadequate protein, while weight gain strains arthritic joints. Neither extreme is inevitable.
 
-After testing 12 formulas with our own senior cats over six months, we found dramatic variations in how different foods affected body condition. The right senior cat weight loss food combines high-quality protein with controlled calories, but palatability becomes equally critical as aging cats develop finicky appetites. This guide breaks down our hands-on comparisons of:
+After testing 12 formulas with our own senior cats over six months, we found dramatic variations in how different foods affected body condition. The right senior cat weight loss food combines high-quality protein with controlled calories, but palatability becomes equally critical as aging cats develop finicky appetites.  For more context, see our [article on cognitive decline in senior](/articles/cognitive-decline-older-dogs-signs-support).This guide breaks down our hands-on comparisons of:
 
 - Protein sources (animal vs. plant-based)
 - Calorie density per cup/ounce
@@ -44,7 +46,7 @@ After testing 12 formulas with our own senior cats over six months, we found dra
 - Palatability for picky eaters
 - Cost per meal calculations
 
-Understanding these factors can help you make an informed decision tailored to your cat's specific needs. For example, cats with kidney issues may benefit from lower phosphorus levels, while those with arthritis might need additional glucosamine and chondroitin. We'll dive into these specifics throughout the guide.
+Understanding these factors can help you make an informed decision tailored to your cat's specific needs. For example, cats with kidney issues may benefit from lower phosphorus levels, while those with arthritis might need additional glucosamine and chondroitin.  For more context, see our [article on glucosamine dosage for senior](/articles/glucosamine-dosage-senior-dogs).We'll dive into these specifics throughout the guide.
 
 ## Why This Matters
 

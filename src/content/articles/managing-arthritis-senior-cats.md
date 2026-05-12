@@ -23,15 +23,17 @@ tags:
 - pain management
 - aging cats
 heroImage: /images/hero/managing-arthritis-senior-cats.jpg
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old cat stops jumping onto the windowsill or hesitates before climbing stairs, it's easy to dismiss these changes as normal aging. But what if I told you that 90% of cats over age 12 show radiographic signs of arthritis, yet most owners never notice? Having cared for three arthritic cats through their golden years, I've learned that subtle changes in behavior often signal real discomfort.
+When your 12-year-old cat stops jumping onto the windowsill or hesitates before climbing stairs, it's easy to dismiss these changes as normal aging. But what if I told you that 90% of cats over age 12 show radiographic signs of arthritis, yet most owners never notice?  For more context, see our [article on recognizing signs of cognitive](/articles/signs-cognitive-decline-dogs).Having cared for three arthritic cats through their golden years, I've learned that subtle changes in behavior often signal real discomfort.
 
 This guide will help you recognize the quiet signs of feline arthritis and compare evidence-based solutions that actually work in real homes - not just in theory.
 
-Arthritis in cats manifests differently than in dogs or humans. While a dog might limp or whimper, cats instinctively hide pain. You might notice decreased grooming (leading to matted fur), reluctance to use tall litter boxes, or even unexpected aggression when touched. The [American Association of Feline Practitioners](https://catvets.com/guidelines/practice-guidelines/arthritis-management) confirms that behavioral changes are often the primary indicators.
+Arthritis in cats manifests differently than in dogs or humans. While a dog might limp or whimper, cats instinctively hide pain.  For more context, see our [article on providing compassionate at-home hospice](/articles/at-home-hospice-care-senior-pets).You might notice decreased grooming (leading to matted fur), reluctance to use tall litter boxes, or even unexpected aggression when touched. The [American Association of Feline Practitioners](https://catvets.com/guidelines/practice-guidelines/arthritis-management) confirms that behavioral changes are often the primary indicators.
 
 Early intervention with proper support can maintain your cat's mobility and prevent secondary issues like muscle atrophy or urinary tract infections from avoiding the litter box.
 

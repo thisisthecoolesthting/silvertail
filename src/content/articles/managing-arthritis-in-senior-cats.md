@@ -25,11 +25,13 @@ tags:
 - pain management
 - aging cats
 heroImage: /images/hero/managing-arthritis-in-senior-cats.jpg
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 14-year-old tabby hesitates before jumping onto the couch, or your formerly fastidious Persian starts missing the litter box, arthritis might be the silent culprit. Feline osteoarthritis affects 60-90% of cats over age 12 according to the Journal of Feline Medicine, yet only 7% receive treatment due to their exceptional pain-masking abilities. Unlike dogs who limp noticeably, cats evolved to hide weakness - a survival instinct that now works against them in domestic settings.
+When your 14-year-old tabby hesitates before jumping onto the couch, or your formerly fastidious Persian starts missing the litter box, arthritis might be the silent culprit. Feline osteoarthritis affects 60-90% of cats over age 12 according to the Journal of Feline Medicine, yet only 7% receive treatment due to their exceptional pain-masking abilities.  For more context, see our [article on essential dental care tips](/articles/dental-care-for-aging-pets).Unlike dogs who limp noticeably, cats evolved to hide weakness - a survival instinct that now works against them in domestic settings.
 
 Through thermal imaging studies, veterinarians have identified that arthritic cats experience up to 15°F temperature variations in affected joints during flare-ups, despite showing minimal outward signs.
 
@@ -37,13 +39,13 @@ After caring for three geriatric cats with varying degrees of joint degeneration
 - **Grooming changes**: Look for matting along the spine/base of tail (areas requiring spinal flexion) or excessive licking of painful joints
 - **Litter box avoidance**: High-sided boxes become painful to enter; consider the [PetFusion BetterBox](https://www.amazon.com/dp/B07D1H5X4N?tag=silvertail-20) with its 5.5" low entry
 - **Sleep position shifts**: Cats who previously slept curled may sprawl to reduce joint pressure
-- **Personality changes**: Increased irritability when touched near hips or reluctance to be picked up
+- **Personality changes**: Increased irritability when touched near hips or reluctance to be picked up For more context, see our [article on signs of arthritis in](/articles/arthritis-symptoms-cats).
 
-This guide incorporates clinical research from Tufts University's veterinary program alongside six months of product testing with 12 arthritic foster cats. We evaluated not just efficacy but real-world usability - like which supplements cats actually consume and how long orthopedic beds maintain support under daily use.
+This guide incorporates clinical research from Tufts University's veterinary program alongside six months of product testing with 12 arthritic foster cats. We evaluated not just efficacy but real-world usability - like which supplements cats actually consume and how long orthopedic beds maintain support under daily use. For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).
 
 ## Why This Matters
 
-The consequences of untreated feline arthritis extend far beyond stiff movements. A 2024 longitudinal study published in Veterinary Record followed 200 senior cats for three years, documenting these cascading effects:
+The consequences of untreated feline arthritis extend far beyond stiff movements. A 2024 longitudinal study published in Veterinary Record followed 200 senior cats for three years, documenting these cascading effects: For more context, see our [article on understanding and managing cognitive](/articles/cognitive-decline-dogs).
 
 1. **Muscle Atrophy**: Cats lost 18-22% of hindquarter muscle mass within 12 months, worsening joint instability
 2. **Metabolic Slowdown**: Reduced activity decreased calorie burn by 30-40%, leading to obesity that exacerbated joint stress

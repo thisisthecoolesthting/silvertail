@@ -29,11 +29,13 @@ heroImage: /images/hero/heating-pads-for-older-cats.jpg
 cardTitle: 'Senior Cat Joint Care: Gentle Relief for Aging Feline Arthritis'
 cardPick: Glucosamine and MSM formula specifically targets cartilage support and mobility
   in aging cats experiencing stiffness and slower movement.
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old tabby hesitates before jumping onto the couch or seems stiff after naps, you're witnessing the early signs of feline arthritis. Over 60% of cats show joint degeneration by age 10, according to Cornell University's College of Veterinary Medicine. This degenerative joint disease causes cartilage breakdown, leading to painful bone-on-bone contact that worsens in cold temperatures.
+When your 12-year-old tabby hesitates before jumping onto the couch or seems stiff after naps, you're witnessing the early signs of feline arthritis. Over 60% of cats show joint degeneration by age 10, according to Cornell University's College of Veterinary Medicine.  For more context, see our [article on how to choose orthopedic](/articles/choosing-orthopedic-dog-bed).This degenerative joint disease causes cartilage breakdown, leading to painful bone-on-bone contact that worsens in cold temperatures.
 
 A quality heating pad provides targeted warmth to soothe achy joints by increasing blood flow to affected areas—but not all pads meet the unique physiological needs of older cats.
 

@@ -28,23 +28,25 @@ heroImage: /images/hero/best-orthopedic-dog-beds.jpg
 cardTitle: Best Orthopedic Beds for Aging Dogs with Arthritis
 cardPick: Nutramax Dasuquin combines glucosamine and MSM to reduce joint inflammation
   and improve mobility in senior dogs.
+subtopic: health
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
 
-When your 12-year-old labrador starts groaning when lying down, or your terrier hesitates before jumping onto the couch, you know joint pain has arrived. Orthopedic beds promise relief - but which actually help? After helping 23 senior dogs through arthritis (including my own 14-year-old shepherd mix), I've learned that not all 'orthopedic' beds live up to the label.
+When your 12-year-old labrador starts groaning when lying down, or your terrier hesitates before jumping onto the couch, you know joint pain has arrived. Orthopedic beds promise relief - but which actually help?  For more context, see our [article on helping senior cat with](/articles/cat-mobility-solutions).After helping 23 senior dogs through arthritis (including my own 14-year-old shepherd mix), I've learned that not all 'orthopedic' beds live up to the label.
 
 The right bed can mean the difference between a dog who struggles to stand and one who wakes up ready for a short walk.
 
-This guide compares 14 beds we tested with stiff-hipped golden retrievers, arthritic dachshunds, and large breeds with elbow dysplasia. We evaluated pressure relief, ease of access, and durability through 6 months of daily use. Three beds disintegrated within weeks, while others became permanent fixtures in our testers' homes. Below, you'll find the five that delivered measurable comfort improvements, along with cost-per-use calculations that reveal the true value of premium foam.
+This guide compares 14 beds we tested with stiff-hipped golden retrievers, arthritic dachshunds, and large breeds with elbow dysplasia. We evaluated pressure relief, ease of access, and durability through 6 months of daily use.  For more context, see our [article on my cat stopped jumping:](/articles/cat-mobility-loss-solutions).Three beds disintegrated within weeks, while others became permanent fixtures in our testers' homes. Below, you'll find the five that delivered measurable comfort improvements, along with cost-per-use calculations that reveal the true value of premium foam.
 
-We partnered with veterinary rehabilitation specialists to measure pressure distribution using gait analysis mats and thermal imaging to identify inflammation patterns. The results showed that dogs using properly supportive beds had 28% less morning stiffness and required 22% fewer pain medication doses after 8 weeks. One remarkable case was a 13-year-old Great Dane with severe hip dysplasia who regained the ability to climb onto the sofa unassisted after switching to the [Big Barker Orthopedic Bed](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20).
+We partnered with veterinary rehabilitation specialists to measure pressure distribution using gait analysis mats and thermal imaging to identify inflammation patterns. The results showed that dogs using properly supportive beds had 28% less morning stiffness and required 22% fewer pain medication doses after 8 weeks.  For more context, see our [article on mobility ramps and stairs:](/articles/ramps-for-dogs-with-arthritis).One remarkable case was a 13-year-old Great Dane with severe hip dysplasia who regained the ability to climb onto the sofa unassisted after switching to the [Big Barker Orthopedic Bed](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20).
 
 His owner reported he stopped whimpering during position changes and began initiating play sessions again.
 
 ## Why this matters
 
-Canine arthritis affects 80% of dogs over age 8, according to veterinary studies from the American College of Veterinary Surgeons. Unlike humans, dogs don't show pain through facial expressions - they exhibit subtle signs like sleeping more, reluctance to climb stairs, or licking joints. A proper orthopedic bed addresses three biomechanical needs:
+Canine arthritis affects 80% of dogs over age 8, according to veterinary studies from the American College of Veterinary Surgeons. Unlike humans, dogs don't show pain through facial expressions - they exhibit subtle signs like sleeping more, reluctance to climb stairs, or licking joints.  For more context, see our [article on heating pads](/articles/heating-pads-older-cats).A proper orthopedic bed addresses three biomechanical needs:
 
 1. **Pressure redistribution**: Memory foam or egg-crate designs prevent painful pressure points on hips and elbows. Our pressure mapping showed standard dog beds create peak pressures of 32psi on joints, while quality orthopedic beds reduce this to under 12psi.
 2. **Joint alignment**: 4-inch minimum thickness keeps spine neutral for dogs over 50lbs. Veterinary physiotherapists recommend beds that allow the dog's elbows to sink no more than 1.5 inches when lying on their side.
