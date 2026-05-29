@@ -5,6 +5,7 @@ topic: DEV1 queue-api wiring smoke 2026-05-29T13:45:55.539Z
 tier: mvp
 relatedProducts: []
 status: published
+heroImage: /images/hero/dev1-queue-api-wiring-smoke-2026-05-29t13-45-55-539z.jpg
 ---
 
 ## Understanding DEV1 Queue-API Wiring Smoke Testing: A Practical Guide

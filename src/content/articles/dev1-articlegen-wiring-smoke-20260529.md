@@ -5,6 +5,7 @@ topic: DEV1-articlegen-wiring-smoke-20260529
 tier: mvp
 relatedProducts: []
 status: published
+heroImage: /images/hero/dev1-articlegen-wiring-smoke-20260529.jpg
 ---
 
 ## Understanding the Wiring of Smoke Detectors: A Practical Guide
