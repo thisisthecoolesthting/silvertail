@@ -5,19 +5,19 @@
     "taglineShort": "The best years for your older pet.",
     "identity": {
       "palette": {
-        "primary": "#5B8C7F",
-        "accent": "#E8A17B",
-        "cream": "#FAF5ED",
-        "ink": "#2D2A27"
+        "primary": "#2C3E50",
+        "accent": "#6F5840",
+        "cream": "#F2F0EA",
+        "ink": "#0B1120"
       },
       "fonts": {
-        "display": "Lora",
-        "body": "Inter",
+        "display": "Cormorant Garamond",
+        "body": "Source Sans 3",
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "brand/silvertail.svg",
-        "svgPublicPath": "/brand/silvertail.svg",
+        "svgPath": "brand/silvertail-mark.png",
+        "svgPublicPath": "/brand/silvertail-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -28,7 +28,7 @@
       },
       "headerVariant": "editorial",
       "eyebrowText": "SENIOR PET CARE",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap"
     }
   },
   "persona": {
@@ -65,7 +65,7 @@
     "ctaSecondaryLabel": "See top supplements",
     "ctaSecondaryHref": "/products",
     "trustLine": "Not veterinary advice. Reviewed quarterly by a practicing veterinary technician. We buy what we review.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=1600&q=85"
+    "heroImageUrl": "/images/hero-silvertail.webp"
   },
   "about": {
     "headline": "Why SilverTail exists",

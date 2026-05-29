@@ -7,36 +7,36 @@ export default {
     extend: {
       colors: {
         cream: {
-          50: "#FAFAF9",
-          100: "#F5F5F4",
-          200: "#E7E5E4",
+          50: "#F2F0EA",
+          100: "#E8E6E1",
+          200: "#DAD8D3",
         },
         terracotta: {
-          400: "#86B39F",
-          500: "#5B8C7F",
-          600: "#406258",
+          400: "#80654A",
+          500: "#6F5840",
+          600: "#5B4834",
         },
-        primary: { DEFAULT: "#5B8C7F" },
-        accent: { DEFAULT: "#E8A17B" },
+        primary: { DEFAULT: "#2C3E50" },
+        accent: { DEFAULT: "#6F5840" },
         sage: { 400: "#8FA888", 500: "#6F8B6A", 600: "#566F52" },
         rose: { deep: "#2D2A27" },
         ink: {
-          900: "#2D2A27",
-          700: "#4A4340",
-          500: "#6E6863",
+          900: "#0B1120",
+          700: "#334155",
+          500: "#64748B",
         },
       },
       maxWidth: {
         prose: "68ch",
       },
-      typography: {
+            typography: {
         DEFAULT: { css: { maxWidth: "68ch" } },
         ink: { css: { color: "#4A4340" } },
       },
       fontFamily: {
-        display: ['Lora', "Georgia", "serif"],
-        sans: ['Inter', "system-ui", "sans-serif"],
-        body: ['Inter', "sans-serif"],
+        display: ['Cormorant Garamond', "Georgia", "serif"],
+        sans: ['Source Sans 3', "system-ui", "sans-serif"],
+        body: ['Source Sans 3', "sans-serif"],
         mono: ['JetBrains Mono', "monospace"],
       },
     },
