@@ -1,6 +1,6 @@
-/** Amazon Associates link helpers for RefillWatch. */
+/** Amazon Associates link helpers for SilverTail. */
 
-export const DEFAULT_ASSOCIATE_TAG = 'refillwatch-20';
+export const DEFAULT_ASSOCIATE_TAG = 'silvertail-20';
 
 export function amazonAffiliateUrlFromAsin(
   asin: string,

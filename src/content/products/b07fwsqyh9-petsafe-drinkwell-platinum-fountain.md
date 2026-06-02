@@ -13,6 +13,7 @@ reviewCount: 15240
 bsr: 102
 commissionPerSale: 0.0
 score: 46.5
+imageUrl: "/images/amazon-picks/B07FWSQYH9.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B07FWSQYH9?tag=silvertail-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"
