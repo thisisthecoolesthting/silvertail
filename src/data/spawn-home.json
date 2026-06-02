@@ -70,5 +70,27 @@
   "about": {
     "headline": "Why SilverTail exists",
     "body": "Our first senior dog was a 14-year-old terrier mix named Rosa. We made every mistake \u2014 the wrong joint supplement, the bed that was too soft, the food she refused because it hurt to chew. SilverTail is the site we needed then, built for the second half of a pet's life, when the stakes feel higher and the advice gets vaguer."
-  }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ]
 }
