@@ -6,7 +6,7 @@ import home from '@/data/spawn-home.json';
 import { isHeroImageAvailable } from '@/lib/hero-image';
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
-const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'dana-wolff';
+const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'amelia-silvertail';
 
 const articleData = allArticles.map((a) => ({
   slug: a.slug,
@@ -96,7 +96,7 @@ const description = "Tracking shrinkflation and pricing tricks so you don't have
               alt={a.author}
               class="w-6 h-6 rounded-full object-cover bg-cream-200"
               loading="lazy"
-              onerror="this.onerror=null;this.src='/authors/dana-wolff.svg'"
+              onerror="this.onerror=null;this.src='/authors/amelia-silvertail.svg'"
             />
             {(a.updatedAt || a.publishedAt) && (
               <span>{new Date(a.updatedAt || a.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>

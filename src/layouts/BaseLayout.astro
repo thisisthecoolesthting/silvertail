@@ -19,6 +19,14 @@ const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescripti
 const ga = (home as { analytics?: { ga_measurement_id?: string; ga_property_id?: string; search_console_property?: string } }).analytics;
 const gaMeasurementId = (ga?.ga_measurement_id || '').trim();
 
+// -- Ad injection: derive site slug for utm_source
+const rawBrandName: string =
+  (home as { brand?: { shortName?: string; fullName?: string } }).brand?.shortName ||
+  (home as { brand?: { fullName?: string } }).brand?.fullName ||
+  (home as { siteSlug?: string }).siteSlug ||
+  'silvertail';
+const adSiteSlug = rawBrandName.toLowerCase().replace(/[^a-z0-9-]/g, '');
+
 export interface Props {
   title: string;
   description?: string;
@@ -123,10 +131,17 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
         <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });`}></script>
       </>
     )}
+
+
+    {/* -- Ad injection system v3: slots.css prevents CLS; inject.js fills [data-ad-slot] */}
+    <link rel="stylesheet" href="/ads/slots.css" />
+    <script set:html={`window.__AD_SITE_SLUG__="${adSiteSlug}";`} />
+    <script src="/ads/inject.js" defer></script>
   </head>
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />
     <Header />
+    <div data-ad-slot="home-top" class="max-w-4xl mx-auto px-4 py-2 w-full"></div>
     {sectionAds && (
       <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95 py-0">
         <SiteSectionAds page={sectionAds} variant="header" compact={sectionAdsCompact} />
@@ -136,6 +151,7 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
       <slot />
       {sectionAds && sectionAdsFooter && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>
+    <div data-ad-slot="footer-family" class="max-w-3xl mx-auto px-4 py-4 w-full"></div>
     <GlobalBottomAffiliateStrip />
     <CaseAdRotateInit />
     <Footer />
