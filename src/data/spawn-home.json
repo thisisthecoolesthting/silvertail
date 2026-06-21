@@ -41,7 +41,7 @@
     "methodology": [
       "Every supplement, bed, and mobility aid is tested in our home with our own senior dog or cat across at least 30 days of daily use.",
       "Veterinary claims are reviewed by a practicing vet tech contributor before publish; nothing on this site is medical advice for your specific pet.",
-      "Reviews are tied to specific conditions at specific stages \u2014 early arthritis vs late, mild cognitive decline vs advanced \u2014 never to a generic 'senior' label.",
+      "Reviews are tied to specific conditions at specific stages — early arthritis vs late, mild cognitive decline vs advanced — never to a generic 'senior' label.",
       "We disclose every partner relationship on the product page itself, not just the global disclosure.",
       "End-of-life and hospice content is reviewed quarterly because the products and best practices keep changing; outdated picks are demoted.",
       "Reader-submitted vet reports are accepted as counter-evidence; if a reader's vet flatly disagrees with our pick we re-test and update."
@@ -69,7 +69,7 @@
   },
   "about": {
     "headline": "Why SilverTail exists",
-    "body": "Our first senior dog was a 14-year-old terrier mix named Rosa. We made every mistake \u2014 the wrong joint supplement, the bed that was too soft, the food she refused because it hurt to chew. SilverTail is the site we needed then, built for the second half of a pet's life, when the stakes feel higher and the advice gets vaguer."
+    "body": "Our first senior dog was a 14-year-old terrier mix named Rosa. We made every mistake — the wrong joint supplement, the bed that was too soft, the food she refused because it hurt to chew. SilverTail is the site we needed then, built for the second half of a pet's life, when the stakes feel higher and the advice gets vaguer."
   },
   "navigation": [
     {
@@ -92,5 +92,10 @@
       "href": "/about",
       "label": "About"
     }
-  ]
+  ],
+  "analytics": {
+    "ga_measurement_id": "G-E62HM1VE2K",
+    "ga_property_id": "536814522",
+    "search_console_property": "https://silvertail.app/"
+  }
 }
