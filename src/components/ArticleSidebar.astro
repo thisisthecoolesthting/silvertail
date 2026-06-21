@@ -1,6 +1,6 @@
 ---
 import ArticleToC from '@/components/ArticleToC.astro';
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
+// CaseAdSlot replaced by central ad-injection system v3
 ---
 
 <aside
@@ -13,7 +13,7 @@ import CaseAdSlot from '@/components/CaseAdSlot.astro';
     </section>
 
     <div class="article-sidebar-ad not-prose shrink-0">
-      <CaseAdSlot size="300x600" placement="longform-sidebar-sticky" />
+      <div data-ad-slot="sidebar" class="w-full"></div>
     </div>
   </div>
 </aside>
