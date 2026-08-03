@@ -104,3 +104,12 @@ Treatment options should be discussed with your veterinarian and tailored for yo
 ---
 
 Recognizing and managing thyroid disease in your senior silvertail cat means paying close attention to subtle changes and partnering with your veterinarian for timely care. With proper diagnosis and treatment, many cats continue to enjoy a comfortable and active life well into their senior years.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+

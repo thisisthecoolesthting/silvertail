@@ -1,12 +1,8 @@
 ---
 title: Gentle Grooming Tips for Older Pets
-metaDescription: Discover the safest grooming tools and techniques for senior dogs
-  and cats with arthritis, thin skin, or mobility issues. Our hands-on review compares
-  8 products tested on aging pets.
+metaDescription: Discover the safest grooming tools and techniques for senior dogs and cats with arthritis, thin skin, or mobility issues. Our hands-on review compares 8 products tested on aging pets.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: As pets age, their grooming needs change. This guide compares gentle brushes,
-  no-rinse shampoos, and mobility-friendly tools that reduce stress for arthritic
-  dogs and fragile senior cats.
+excerpt: As pets age, their grooming needs change. This guide compares gentle brushes, no-rinse shampoos, and mobility-friendly tools that reduce stress for arthritic dogs and fragile senior cats.
 pillarSlug: comfort-care
 status: published
 tags:
@@ -261,3 +257,12 @@ A: Keep sessions short (10–15 minutes) and provide breaks if needed. Use non-s
 
 **Q: Are there special shampoos for older pets?**  
 A: Yes, opt for hypoallergenic, moisturizing shampoos designed for senior pets to avoid drying their skin. Avoid harsh chemicals and look for formulas with oatmeal or aloe vera for added comfort.
+
+## Our picks worth a closer look
+
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+

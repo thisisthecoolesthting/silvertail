@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B07C67K7ZL?tag=silvertail-20&linkCode=ll
 isPrime: true
 status: published
 firstSeen: '2026-05-13T00:00:00+00:00'
-lastSeen: '2026-08-03T14:50:55+00:00'
+lastSeen: '2026-08-03T14:52:52+00:00'
 tags:
 - feliway
 - calming

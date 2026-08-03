@@ -1,14 +1,8 @@
 ---
-title: 'Canine Cognitive Dysfunction: Recognizing Signs and Evidence-Based Support
-  Strategies'
-metaDescription: Learn to recognize canine cognitive dysfunction (CCD) in senior dogs,
-  compare brain-support supplements with real test data, and implement environmental
-  changes that slow decline.
+title: 'Canine Cognitive Dysfunction: Recognizing Signs and Evidence-Based Support Strategies'
+metaDescription: Learn to recognize canine cognitive dysfunction (CCD) in senior dogs, compare brain-support supplements with real test data, and implement environmental changes that slow decline.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your senior dog paces at night or forgets familiar commands, it might
-  be canine cognitive dysfunction—not just aging. This evidence-based guide compares
-  six cognitive supplements tested over 18 months, breaks down realistic timelines
-  and costs, and shares environmental adaptations that actually work.
+excerpt: When your senior dog paces at night or forgets familiar commands, it might be canine cognitive dysfunction—not just aging. This evidence-based guide compares six cognitive supplements tested over 18 months, breaks down realistic timelines and costs, and shares environmental adaptations that actually work.
 pillarSlug: health-and-nutrition
 relatedProducts:
 - B0FT32PL8L
@@ -28,8 +22,7 @@ tags:
 - cognitive support
 heroImage: /images/hero/understanding-cognitive-decline-dogs.jpg
 cardTitle: 'Senior Dog Brain Health: Recognize Early Signs Protect Memory'
-cardPick: Dasuquin's proven joint support reduces pain-related confusion, helping
-  aging dogs stay mentally sharp and engaged longer.
+cardPick: Dasuquin's proven joint support reduces pain-related confusion, helping aging dogs stay mentally sharp and engaged longer.
 subtopic: nutrition
 updatedAt: 2026-05-12
 ---
@@ -239,3 +232,12 @@ A: Yes, treatments may include prescription medications like selegiline, dietary
 
 **Q: Can lifestyle changes help manage cognitive dysfunction in senior dogs?**  
 A: Absolutely, maintaining a consistent routine, providing mental stimulation, and ensuring regular exercise can help slow the progression of cognitive decline.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+

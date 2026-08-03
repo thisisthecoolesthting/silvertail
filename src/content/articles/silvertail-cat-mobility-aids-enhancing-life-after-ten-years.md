@@ -120,3 +120,12 @@ Besides mobility aids, consider:
 ---
 
 Harnessing Silvertail Cat Mobility Aids is about enhancing dignity and comfort for your aged cat. With thoughtful selection and steady introduction, these tools can transform the daily experience of your beloved senior feline, making movement less daunting and life more enjoyable.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Stand Assist Aid for Elderly Chair Couch Standing Aids and Supports Hip Knee Sur](/products/stand-assist-aid-for-elderly-chair-couch-standing-aids-/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml](/products/b07c67k7zl-feliway-classic-starter-kit/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+

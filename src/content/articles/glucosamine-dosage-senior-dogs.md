@@ -1,12 +1,8 @@
 ---
 title: 'Glucosamine Dosage for Senior Dogs: Complete Testing Guide & Dosage Charts'
-metaDescription: Evidence-based glucosamine dosing for senior dogs with dosage charts,
-  3-supplement comparison, cost analysis, and 18 months of real-world testing data.
+metaDescription: Evidence-based glucosamine dosing for senior dogs with dosage charts, 3-supplement comparison, cost analysis, and 18 months of real-world testing data.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: What's the right glucosamine dose for your 10+ year old dog? We tested 14
-  supplements over 18 months with three senior dogs, documenting exact dosages, absorption
-  differences, and cost-per-month breakdowns to help you choose the best joint supplement
-  for your aging dog's needs.
+excerpt: What's the right glucosamine dose for your 10+ year old dog? We tested 14 supplements over 18 months with three senior dogs, documenting exact dosages, absorption differences, and cost-per-month breakdowns to help you choose the best joint supplement for your aging dog's needs.
 pillarSlug: health-nutrition
 relatedProducts:
 - B07PXGQC1Q
@@ -26,8 +22,7 @@ tags:
 - aging pets
 heroImage: /images/hero/glucosamine-dosage-senior-dogs.jpg
 cardTitle: 'Senior Dog Joint Care: Glucosamine Dosing Guide for Aging Pets'
-cardPick: ChomChom removes stubborn fur mats that senior dogs can't groom themselves,
-  preventing skin infections and discomfort.
+cardPick: ChomChom removes stubborn fur mats that senior dogs can't groom themselves, preventing skin infections and discomfort.
 subtopic: health
 updatedAt: 2026-05-12
 ---
@@ -211,3 +206,12 @@ A: While glucosamine is generally safe, excessive amounts may cause mild side ef
 
 **Q: Are there any senior dogs who shouldn’t take glucosamine?**  
 A: Dogs with diabetes, shellfish allergies (if using shellfish-derived glucosamine), or those on certain medications should avoid glucosamine unless approved by a veterinarian.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

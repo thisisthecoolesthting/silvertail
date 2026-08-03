@@ -1,12 +1,8 @@
 ---
 title: Recognizing the Signs of Cognitive Decline in Older Dogs
-metaDescription: Learn how to identify cognitive decline in senior dogs, compare supportive
-  supplements and products, and make informed decisions to improve your dog's quality
-  of life.
+metaDescription: Learn how to identify cognitive decline in senior dogs, compare supportive supplements and products, and make informed decisions to improve your dog's quality of life.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: As dogs age, cognitive decline can manifest in subtle ways. This guide helps
-  you recognize the signs, compare supportive products, and choose the best options
-  for your senior companion.
+excerpt: As dogs age, cognitive decline can manifest in subtle ways. This guide helps you recognize the signs, compare supportive products, and choose the best options for your senior companion.
 pillarSlug: cognitive-care
 relatedProducts:
 - B0DHV8SCLS
@@ -272,3 +268,12 @@ A: Yes, interventions like mental stimulation, a balanced diet rich in antioxida
 
 **Q: How can I tell if my dog’s behavior changes are due to cognitive decline or another health issue?**  
 A: Sudden or severe changes should always be evaluated by a vet, as conditions like arthritis, vision loss, or urinary infections can mimic cognitive decline. A thorough exam can rule out other causes.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+

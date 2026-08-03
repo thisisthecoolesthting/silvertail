@@ -89,3 +89,12 @@ While naturally supporting a senior cat’s immune system, it’s vital to recog
 **A:** Recurrent infections, slow wound healing, lethargy, unexplained weight loss, or increased vet visits all suggest immune challenges.
 
 Supporting a senior cat’s immune system naturally means embracing a holistic routine focused on nutrition, low-stress environments, physical activity, hygiene, and thoughtful veterinary care. The key is consistent, gentle adjustments recognizing your cat’s changing needs with age. These practical steps not only bolster immunity but enhance your cat’s comfort and longevity.
+
+## Our picks worth a closer look
+
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml](/products/b07c67k7zl-feliway-classic-starter-kit/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+

@@ -1,12 +1,8 @@
 ---
 title: 'Pet Hospice Care at Home: A Practical Guide to Comfort and Dignity'
-metaDescription: Evidence-informed guidance for creating a comfortable hospice environment
-  at home for your senior dog or cat. Real-world product testing, cost breakdowns,
-  and strategies we've used with our own pets.
+metaDescription: Evidence-informed guidance for creating a comfortable hospice environment at home for your senior dog or cat. Real-world product testing, cost breakdowns, and strategies we've used with our own pets.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your aging pet enters their final stage of life, hospice care at home
-  can provide comfort, dignity, and precious extra time together. We've navigated
-  this journey multiple times with our own senior animals—here's what actually works.
+excerpt: When your aging pet enters their final stage of life, hospice care at home can provide comfort, dignity, and precious extra time together. We've navigated this journey multiple times with our own senior animals—here's what actually works.
 pillarSlug: care-support
 relatedProducts:
 - B07TFB22H5
@@ -26,8 +22,7 @@ tags:
 - pet pain management
 heroImage: /images/hero/pet-hospice-care-at-home-guide.jpg
 cardTitle: 'Comfort Matters: Orthopedic Beds for Senior Pets at Home'
-cardPick: Memory foam supports aging joints and reduces pressure points, helping senior
-  dogs rest pain-free during their golden years.
+cardPick: Memory foam supports aging joints and reduces pressure points, helping senior dogs rest pain-free during their golden years.
 subtopic: comfort
 updatedAt: 2026-05-12
 ---
@@ -230,3 +225,12 @@ A: Create a quiet, cozy space, use soft bedding, provide pain relief medications
 
 **Q: Can I manage pet hospice care on my own, or do I need professional help?**  
 A: While many aspects can be managed at home, consulting a veterinarian or pet hospice specialist is recommended to ensure proper pain management and emotional support for both you and your pet.
+
+## Our picks worth a closer look
+
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

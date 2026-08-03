@@ -111,3 +111,12 @@ Improving mobility safely in senior cats revolves around gentle, low-impact acti
 
 **Q: Can older cats learn new tricks or exercises?**  
 **A:** Yes, but patience is key. They may take longer to adapt, and exercises should always be gentle and respect their comfort levels.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pet Неmр Oil for Dogs and Cats 2 Packs, Organic Oil for Anxiеty Strеss Pαin Holi](/products/pet-m-oil-for-dogs-and-cats-2-packs-organic-oil-for-anx/)** — see current price and specs.
+

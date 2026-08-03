@@ -132,3 +132,12 @@ Consult your vet for a full evaluation including physical exams and possibly X-r
 ---
 
 Supporting your Silvertail cat’s joint health with a thoughtful combination of vet-approved therapies can keep them feeling comfortable and active well into their senior years. Starting early, combining nutrition, physical therapy, and pain management, and ensuring an accessible, loving environment creates the foundation for healthier, happier golden years.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Pet Неmр Oil for Dogs and Cats 2 Packs, Organic Oil for Anxiеty Strеss Pαin Holi](/products/pet-m-oil-for-dogs-and-cats-2-packs-organic-oil-for-anx/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+

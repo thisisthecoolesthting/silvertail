@@ -126,3 +126,12 @@ Detecting pain in senior cats relies on observing subtle changes in behavior and
 
 **Q: Can diet changes actually reduce pain in senior cats?**  
 **A:** Yes. Diets designed for kidney support or joint health can reduce pain indirectly by improving overall health and reducing inflammation or metabolic stress. Always discuss diet with your vet before changes.
+
+## Our picks worth a closer look
+
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Ruduwu Hip & Joint Bites for Cats - Chicken Flavored Glucosamine Joint Supplemen](/products/ruduwu-hip-joint-bites-for-cats-chicken-flavored-glucos/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+

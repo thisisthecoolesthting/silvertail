@@ -1,12 +1,8 @@
 ---
 title: 'Top Joint Supplements for Senior Dogs: Glucosamine, Chondroitin, and More'
-metaDescription: Evidence-based comparison of 12 joint supplements for senior dogs,
-  with cost analysis, real-world testing notes, and veterinarian-recommended ingredients
-  to support mobility in aging pets.
+metaDescription: Evidence-based comparison of 12 joint supplements for senior dogs, with cost analysis, real-world testing notes, and veterinarian-recommended ingredients to support mobility in aging pets.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your older dog starts slowing down, quality joint supplements can make
-  a real difference. We compare 12 top-rated options for glucosamine, chondroitin,
-  and omega-3s—with price breakdowns and long-term testing results.
+excerpt: When your older dog starts slowing down, quality joint supplements can make a real difference. We compare 12 top-rated options for glucosamine, chondroitin, and omega-3s—with price breakdowns and long-term testing results.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B0CB75LML9
@@ -270,3 +266,12 @@ A: Most dogs tolerate joint supplements well, but mild digestive upset (like dia
 
 **Q: How long does it take to see improvements after starting joint supplements?**  
 A: Results vary, but many owners notice positive changes in their dog’s mobility within 4–6 weeks of consistent use. Some dogs may take longer, especially if joint damage is advanced.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

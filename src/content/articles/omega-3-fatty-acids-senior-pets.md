@@ -1,12 +1,8 @@
 ---
 title: The Benefits of Omega-3 Fatty Acids for Senior Dogs and Cats
-metaDescription: A deep dive into how omega-3 fatty acids can support joint health,
-  cognitive function, and skin/coat quality in aging pets, with evidence-informed
-  product comparisons.
+metaDescription: A deep dive into how omega-3 fatty acids can support joint health, cognitive function, and skin/coat quality in aging pets, with evidence-informed product comparisons.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Omega-3 fatty acids aren't just hype—they're scientifically proven to help
-  senior pets with arthritis, cognitive decline, and dry skin. We compare 8 top supplements
-  for bioavailability, dosing, and value.
+excerpt: Omega-3 fatty acids aren't just hype—they're scientifically proven to help senior pets with arthritis, cognitive decline, and dry skin. We compare 8 top supplements for bioavailability, dosing, and value.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B00063RWT8
@@ -207,3 +203,12 @@ A: Fish oil, krill oil, and algae-based supplements are excellent sources of ome
 
 **Q: How often should I give omega-3 supplements to my senior dog or cat?**  
 A: Follow the dosage instructions on the product label or consult your veterinarian, as needs vary based on your pet’s size, weight, and health condition.
+
+## Our picks worth a closer look
+
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+

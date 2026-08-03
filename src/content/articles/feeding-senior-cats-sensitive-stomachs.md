@@ -1,13 +1,8 @@
 ---
 title: 'Feeding Senior Cats with Sensitive Stomachs: A Comprehensive Guide'
-metaDescription: Struggling with your senior cat's digestive issues? We compare 8
-  specialized foods, analyze cost-per-meal, and reveal which formulas actually work
-  for delicate systems.
+metaDescription: Struggling with your senior cat's digestive issues? We compare 8 specialized foods, analyze cost-per-meal, and reveal which formulas actually work for delicate systems.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: When your 12-year-old cat starts vomiting after meals or refusing food, finding
-  the right nutrition becomes urgent. We tested 8 senior cat foods for sensitive stomachs,
-  analyzing ingredients, digestibility, and real-owner experiences to help you make
-  an informed choice.
+excerpt: When your 12-year-old cat starts vomiting after meals or refusing food, finding the right nutrition becomes urgent. We tested 8 senior cat foods for sensitive stomachs, analyzing ingredients, digestibility, and real-owner experiences to help you make an informed choice.
 pillarSlug: nutrition-comfort
 relatedProducts:
 - B0DHV8SCLS
@@ -326,3 +321,12 @@ A: Smaller, more frequent meals (2–4 times a day) are recommended to avoid ove
 
 **Q: Can I give my senior cat supplements to help with digestion?**  
 A: Yes, probiotics or digestive enzymes can support gut health, but always consult your vet before introducing any supplements.
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+

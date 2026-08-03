@@ -1,12 +1,8 @@
 ---
 title: 'Best Senior Dog Foods for Sensitive Stomachs: 12 Tested Formulas'
-metaDescription: Compare 12 senior dog foods for sensitive stomachs. Evidence-based
-  testing of digestibility, ingredient quality, and real-world results with aging
-  dogs.
+metaDescription: Compare 12 senior dog foods for sensitive stomachs. Evidence-based testing of digestibility, ingredient quality, and real-world results with aging dogs.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your older dog struggles with vomiting, diarrhea, or picky eating, the
-  right food becomes urgent. We tested 12 senior formulas for digestibility, ingredient
-  quality, and real-world digestive outcomes—and found three standouts that work.
+excerpt: When your older dog struggles with vomiting, diarrhea, or picky eating, the right food becomes urgent. We tested 12 senior formulas for digestibility, ingredient quality, and real-world digestive outcomes—and found three standouts that work.
 pillarSlug: health-nutrition
 relatedProducts:
 - B07TFB22H5
@@ -25,8 +21,7 @@ tags:
 - food transitions
 heroImage: /images/hero/senior-dog-food-sensitive-stomach.jpg
 cardTitle: 'Senior Dogs Need Better Beds: Orthopedic Solutions for Aging Joints'
-cardPick: Memory foam supports arthritic joints and stiff muscles, helping senior
-  dogs sleep deeper and wake with less pain.
+cardPick: Memory foam supports arthritic joints and stiff muscles, helping senior dogs sleep deeper and wake with less pain.
 subtopic: nutrition
 updatedAt: 2026-05-12
 ---
@@ -240,3 +235,12 @@ A: Not necessarily—some dogs tolerate grains like rice or oats well, while oth
 
 **Q: How should I transition my senior dog to a new sensitive-stomach food?**  
 A: Mix the new food with their current food over 7–10 days, gradually increasing the ratio. This helps prevent digestive upset and allows their system to adjust.
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+

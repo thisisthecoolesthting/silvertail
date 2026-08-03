@@ -141,3 +141,12 @@ The stress of the visit can extend several hours after going home.
 ---
 
 By thoughtfully preparing your elderly cat’s veterinary visits using these practical, low-stress techniques, you safeguard their physical and emotional health well into their golden years. This approach improves diagnostic accuracy and keeps your affectionate companion feeling safe and cared for even when a vet visit is unavoidable.
+
+## Our picks worth a closer look
+
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+- **[Stand Assist Aid for Elderly Chair Couch Standing Aids and Supports Hip Knee Sur](/products/stand-assist-aid-for-elderly-chair-couch-standing-aids-/)** — see current price and specs.
+

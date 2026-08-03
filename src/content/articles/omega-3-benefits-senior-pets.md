@@ -1,12 +1,8 @@
 ---
 title: 'Omega-3 Fatty Acids: Essential for Senior Pet Health'
-metaDescription: A deep dive into omega-3 supplements for senior dogs and cats, comparing
-  top products, analyzing cost efficiency, and explaining why these fatty acids matter
-  for aging pets.
+metaDescription: A deep dive into omega-3 supplements for senior dogs and cats, comparing top products, analyzing cost efficiency, and explaining why these fatty acids matter for aging pets.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Omega-3 fatty acids support joint health, cognitive function, and skin/coat
-  quality in older pets. This guide compares 12 top-rated supplements, analyzes cost
-  per dose, and explains how to choose the right formula for your senior dog or cat.
+excerpt: Omega-3 fatty acids support joint health, cognitive function, and skin/coat quality in older pets. This guide compares 12 top-rated supplements, analyzes cost per dose, and explains how to choose the right formula for your senior dog or cat.
 pillarSlug: nutrition-supplements
 status: published
 tags:
@@ -266,3 +262,12 @@ A: Yes, omega-3s have anti-inflammatory properties that can ease joint pain and 
 
 **Q: Are there any risks to giving omega-3s to senior pets?**  
 A: Over-supplementation can lead to digestive upset or blood thinning, so it’s important to follow veterinary guidance on dosage and formulation.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+

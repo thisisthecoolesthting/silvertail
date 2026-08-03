@@ -1,12 +1,8 @@
 ---
 title: Top Wet Foods for Senior Cats with Sensitive Stomachs
-metaDescription: Evidence-based comparison of 12 senior cat foods for sensitive digestion,
-  tested with real aging felines. Includes cost analysis, transition tips, and vet-approved
-  picks.
+metaDescription: Evidence-based comparison of 12 senior cat foods for sensitive digestion, tested with real aging felines. Includes cost analysis, transition tips, and vet-approved picks.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Finding the right wet food for older cats with stomach issues requires balancing
-  digestibility, hydration, and nutrient density. We tested 12 formulas to identify
-  options that reduce vomiting while meeting senior nutritional needs.
+excerpt: Finding the right wet food for older cats with stomach issues requires balancing digestibility, hydration, and nutrient density. We tested 12 formulas to identify options that reduce vomiting while meeting senior nutritional needs.
 pillarSlug: nutrition-diet
 relatedProducts:
 - B0DHV8SCLS
@@ -248,3 +244,12 @@ A: Opt for easily digestible proteins like chicken or turkey, limited ingredient
 
 **Q: Are there specific brands you recommend for senior cats with sensitive stomachs?**  
 A: Brands like Royal Canin Digestive Care, Hill’s Science Diet Sensitive Stomach, and Purina Pro Plan Focus Sensitive Skin & Stomach are formulated for easy digestion and senior cat needs.
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+

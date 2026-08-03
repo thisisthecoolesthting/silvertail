@@ -1,13 +1,8 @@
 ---
 title: 'Best Senior Cat Food for Weight Management: 12 Formulas Tested'
-metaDescription: Evidence-based senior cat food comparison for healthy weight loss.
-  We tested 12 formulas with aging cats, analyzing protein, calories, and real-world
-  results.
+metaDescription: Evidence-based senior cat food comparison for healthy weight loss. We tested 12 formulas with aging cats, analyzing protein, calories, and real-world results.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: When your older cat loses muscle or gains unhealthy weight, the right food
-  becomes critical. We tested 12 senior formulas designed for aging cats' metabolic
-  needs, comparing protein quality, calorie density, and how cats actually ate them
-  over six months.
+excerpt: When your older cat loses muscle or gains unhealthy weight, the right food becomes critical. We tested 12 senior formulas designed for aging cats' metabolic needs, comparing protein quality, calorie density, and how cats actually ate them over six months.
 pillarSlug: health-nutrition
 status: published
 tags:
@@ -28,8 +23,7 @@ relatedProducts:
 - B08GG9CMLR
 heroImage: /images/hero/senior-cat-weight-loss-food.jpg
 cardTitle: 'Senior Cat Weight Management: Which Formula Keeps Them Healthy'
-cardPick: ChomChom Pet Hair Remover handles shedding without stress, ideal for senior
-  cats with sensitive skin.
+cardPick: ChomChom Pet Hair Remover handles shedding without stress, ideal for senior cats with sensitive skin.
 subtopic: nutrition
 updatedAt: 2026-05-12
 ---
@@ -229,3 +223,12 @@ A: Grain-free options can be beneficial if your cat has allergies or sensitiviti
 
 **Q: Can I mix weight management food with my cat’s regular food?**  
 A: Yes, but it’s best to transition gradually over 7–10 days to avoid digestive upset and ensure your cat adjusts to the new formula.
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[RIZZARI 20 * 20 * 8 Inches Small Cat Tunnel Bed, Peekaboo Cat Cave for Indoor Ca](/products/rizzari-20-20-8-inches-small-cat-tunnel-bed-peekaboo-ca/)** — see current price and specs.
+

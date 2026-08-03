@@ -106,3 +106,12 @@ Advanced dental disease may cause unbearable pain that cannot be fully resolved 
 **A:** Don’t force the process; try gradual introduction or alternatives like dental diets and professional cleanings. Also, keep an eye on signs of dental pain and get vet advice promptly.
 
 Supporting dental health in cats over ten years old requires patience, consistency, and veterinary partnership. By combining professional care with gentle at-home practices and lifestyle adjustments, you help your senior feline live comfortably and happily into their golden years.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+- **[SI Joint Hip Belt for Men and Women,Sacroiliac Pelvic Support Belt for Sciatica ](/products/si-joint-hip-belt-for-men-and-women-sacroiliac-pelvic-s/)** — see current price and specs.
+

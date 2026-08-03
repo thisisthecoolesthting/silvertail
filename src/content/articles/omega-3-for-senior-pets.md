@@ -1,12 +1,8 @@
 ---
 title: The Benefits of Omega-3 Fatty Acids for Senior Dog and Cat Health
-metaDescription: A detailed comparison of omega-3 supplements for aging pets, covering
-  joint support, cognitive benefits, and cost-effectiveness to help you choose the
-  right product.
+metaDescription: A detailed comparison of omega-3 supplements for aging pets, covering joint support, cognitive benefits, and cost-effectiveness to help you choose the right product.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Discover how omega-3 fatty acids can improve mobility, brain function, and
-  skin health in older dogs and cats. We compare top brands, analyze real-world performance,
-  and break down costs to help you make an informed decision.
+excerpt: Discover how omega-3 fatty acids can improve mobility, brain function, and skin health in older dogs and cats. We compare top brands, analyze real-world performance, and break down costs to help you make an informed decision.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B004QM8SLG
@@ -228,3 +224,12 @@ A: Dosage depends on weight and health status—consult your vet, but generally,
 
 **Q: Can omega-3s help with arthritis in older pets?**  
 A: Yes, omega-3s have anti-inflammatory properties that can ease joint pain and improve mobility in pets with arthritis.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+

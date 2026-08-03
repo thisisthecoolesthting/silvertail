@@ -122,3 +122,12 @@ Dietary support is part of a comprehensive treatment that typically includes med
 ---
 
 Supporting your senior cat's thyroid health through careful nutrition helps maintain their quality and longevity. Close veterinary collaboration, patience in transitioning diets, and attention to your silvertail’s changing needs forge the best path forward.
+
+## Our picks worth a closer look
+
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Pet Неmр Oil for Dogs and Cats 2 Packs, Organic Oil for Anxiеty Strеss Pαin Holi](/products/pet-m-oil-for-dogs-and-cats-2-packs-organic-oil-for-anx/)** — see current price and specs.
+- **[RINGCO Pet Heating Pad for Cats & Small Dogs with 12 Adjustable Temperature, Wat](/products/ringco-pet-heating-pad-for-cats-small-dogs-with-12-adju/)** — see current price and specs.
+

@@ -1,11 +1,8 @@
 ---
 title: Recognizing Arthritis Symptoms in Senior Cats
-metaDescription: Learn how to identify arthritis in older cats, compare joint supplements
-  and mobility aids, and make evidence-informed decisions for your pet's comfort.
+metaDescription: Learn how to identify arthritis in older cats, compare joint supplements and mobility aids, and make evidence-informed decisions for your pet's comfort.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Arthritis affects over 60% of cats aged 10+. This guide compares 8 proven
-  solutions for joint stiffness, from ramps to supplements, with real-world cost analysis
-  and veterinary insights.
+excerpt: Arthritis affects over 60% of cats aged 10+. This guide compares 8 proven solutions for joint stiffness, from ramps to supplements, with real-world cost analysis and veterinary insights.
 pillarSlug: joint-mobility
 relatedProducts:
 - B004QM8SLG
@@ -269,3 +266,12 @@ A: Provide soft bedding, ramps or steps to high places, and gentle massages. Wei
 
 **Q: When should I take my senior cat to the vet for arthritis symptoms?**  
 A: Schedule a visit if symptoms persist for more than a few days, if your cat stops eating, or if pain seems severe. Early diagnosis and treatment can slow progression and improve quality of life.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Ruduwu Hip & Joint Bites for Cats - Chicken Flavored Glucosamine Joint Supplemen](/products/ruduwu-hip-joint-bites-for-cats-chicken-flavored-glucos/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+

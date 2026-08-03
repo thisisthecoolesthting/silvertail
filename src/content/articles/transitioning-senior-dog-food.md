@@ -1,13 +1,8 @@
 ---
 title: 'How to Transition Your Senior Dog to New Food: A Step-by-Step Guide'
-metaDescription: Safe, gradual food transitions for senior dogs—avoiding digestive
-  upset, comparing top formulas, and choosing the right senior diet for your aging
-  companion.
+metaDescription: Safe, gradual food transitions for senior dogs—avoiding digestive upset, comparing top formulas, and choosing the right senior diet for your aging companion.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Switching senior dogs to new food requires patience and planning. We tested
-  six formulas over 90 days to show you the safest transition method, which foods
-  perform best for aging digestion, and how to spot real quality versus marketing
-  hype.
+excerpt: Switching senior dogs to new food requires patience and planning. We tested six formulas over 90 days to show you the safest transition method, which foods perform best for aging digestion, and how to spot real quality versus marketing hype.
 pillarSlug: health-and-nutrition
 relatedProducts:
 - B0FT32PL8L
@@ -27,8 +22,7 @@ tags:
 - weight management
 heroImage: /images/hero/transitioning-senior-dog-food.jpg
 cardTitle: 'Senior Dogs Need Different Food: Safe Transition Tips'
-cardPick: Nutramax Dasuquin supports aging joints while you switch foods, easing stiffness
-  and keeping your senior comfortable through dietary changes.
+cardPick: Nutramax Dasuquin supports aging joints while you switch foods, easing stiffness and keeping your senior comfortable through dietary changes.
 subtopic: nutrition
 updatedAt: 2026-05-12
 ---
@@ -212,3 +206,12 @@ A: Yes, especially if your dog has health issues like kidney disease or diabetes
 
 **Q: Are there specific ingredients to look for in senior dog food?**  
 A: Opt for high-quality protein, joint-supporting supplements like glucosamine, and easily digestible carbohydrates to support aging dogs’ needs.
+
+## Our picks worth a closer look
+
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+
