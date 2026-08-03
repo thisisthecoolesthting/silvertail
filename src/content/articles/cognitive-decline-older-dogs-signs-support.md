@@ -1,14 +1,8 @@
 ---
-title: 'Cognitive Decline in Senior Dogs: Recognizing CCD and Evidence-Based Support
-  Strategies'
-metaDescription: Identify canine cognitive dysfunction in aging dogs with our evidence-informed
-  guide. Learn practical support strategies, supplement comparisons, and environmental
-  modifications to maintain quality of life.
+title: 'Cognitive Decline in Senior Dogs: Recognizing CCD and Evidence-Based Support Strategies'
+metaDescription: Identify canine cognitive dysfunction in aging dogs with our evidence-informed guide. Learn practical support strategies, supplement comparisons, and environmental modifications to maintain quality of life.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Nearly 68% of dogs over 15 show signs of cognitive decline. Discover how
-  to recognize canine cognitive dysfunction early and implement vet-informed strategies—from
-  targeted supplements to environmental adaptations—that help senior dogs maintain
-  their best quality of life.
+excerpt: Nearly 68% of dogs over 15 show signs of cognitive decline. Discover how to recognize canine cognitive dysfunction early and implement vet-informed strategies—from targeted supplements to environmental adaptations—that help senior dogs maintain their best quality of life.
 pillarSlug: health-nutrition
 status: published
 tags:
@@ -28,8 +22,7 @@ relatedProducts:
 - B07P6Y7954
 heroImage: /images/hero/cognitive-decline-older-dogs-signs-support.jpg
 cardTitle: Senior Dogs Losing Memory? Spot CCD Early and Help Them
-cardPick: ChomChom's gentle design removes mats without painful pulling, perfect for
-  stiff, sensitive aging joints.
+cardPick: ChomChom's gentle design removes mats without painful pulling, perfect for stiff, sensitive aging joints.
 subtopic: nutrition
 updatedAt: 2026-05-12
 ---
@@ -236,3 +229,12 @@ A: Provide mental stimulation, maintain a consistent routine, and consider veter
 
 **Q: Are there specific products that can help dogs with CCD?**  
 A: Yes, products like puzzle toys, calming beds, and specially formulated diets or supplements enriched with antioxidants can support cognitive health in senior dogs.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

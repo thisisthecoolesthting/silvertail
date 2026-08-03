@@ -1,30 +1,30 @@
 ---
-asin: "B07FWSQYH9"
-slug: "b07fwsqyh9-petsafe-drinkwell-platinum-fountain"
-title: "PetSafe Drinkwell Platinum Pet Water Fountain 168oz"
-seoTitle: "PetSafe Drinkwell Platinum Fountain Review | Silvertail"
-metaDescription: "Senior cats need more water to support kidney health. We test whether the Drinkwell Platinum actually increases daily intake."
-cardTitle: "Drinkwell Platinum"
-cardPick: "Best large-capacity senior cat fountain"
-category: "water-fountains"
+asin: B07FWSQYH9
+slug: b07fwsqyh9-petsafe-drinkwell-platinum-fountain
+title: PetSafe Drinkwell Platinum Pet Water Fountain 168oz
+seoTitle: PetSafe Drinkwell Platinum Fountain Review | Silvertail
+metaDescription: Senior cats need more water to support kidney health. We test whether the Drinkwell Platinum actually increases daily intake.
+cardTitle: Drinkwell Platinum
+cardPick: Best large-capacity senior cat fountain
+category: water-fountains
 price: 49.99
 rating: 4.5
 reviewCount: 15240
 bsr: 102
 commissionPerSale: 0.0
 score: 46.5
-imageUrl: "/images/amazon-picks/B07FWSQYH9.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07FWSQYH9?tag=silvertail-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B07FWSQYH9.jpg
+affiliateUrl: https://www.amazon.com/dp/B07FWSQYH9?tag=silvertail-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
 tags:
-  - water-fountain
-  - hydration
-  - kidney-health
-  - senior-cat
-author: "amelia-silvertail"
+- water-fountain
+- hydration
+- kidney-health
+- senior-cat
+author: amelia-silvertail
 ---
 # PetSafe Drinkwell Platinum — Does Moving Water Really Help Senior Cats Drink More?
 

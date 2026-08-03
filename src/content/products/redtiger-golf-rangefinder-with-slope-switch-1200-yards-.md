@@ -1,25 +1,26 @@
 ---
-asin: "B0BVFP6KXC"
-title: "REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X Magnification, Flag Pole Locking Vibration, Rechargeable Range Finders with Magnet Stripe, GolfVue Series 1"
-seoTitle: "REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Rang, Review"
-metaDescription: "Editorial overview of REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Rang — who it fits and where to check availability on Amazon."
-cardTitle: "REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Rang"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "sports-outdoors"
+asin: B0BVFP6KXC
+title: REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X Magnification, Flag Pole Locking Vibration, Rechargeable Range Finders with Magnet Stripe, GolfVue Series 1
+seoTitle: REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Rang, Review
+metaDescription: Editorial overview of REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Rang — who it fits and where to check availability on Amazon.
+cardTitle: REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Rang
+cardPick: Ranked catalog pick (unified harvester pool).
+category: sports-outdoors
 price: 109.99
 rating: 3.6
 reviewCount: 45
 bsr: 797
 commissionPerSale: 0.0
 score: 177.55
-imageUrl: "https://m.media-amazon.com/images/I/7126q+VJwTL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0BVFP6KXC?tag=silvertail-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/7126q+VJwTL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0BVFP6KXC?tag=silvertail-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T12:47:34+00:00"
-lastSeen: "2026-06-09T12:47:34+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T12:47:34+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
+tags:
+- catalog-export
 ---
 # REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X Magnification, Flag Pole Locking Vibrat
 

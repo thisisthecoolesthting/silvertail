@@ -112,3 +112,12 @@ If CCD progresses to severe levels where your dog's quality of life is significa
 
 **Q: How often should I have cognitive assessments done for my senior dog?**  
 **A:** Annual veterinary checkups including behavioral screenings are recommended, with more frequent visits if symptoms develop or worsen.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[ChunHee Recordable Dog Doorbell – Train Your Dog with Your Own Voice, Puppy Pott](/products/chunhee-recordable-dog-doorbell-train-your-dog-with-you/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+

@@ -145,3 +145,12 @@ Adjusting your senior cat’s diet for kidney health is a vital step when managi
 **A:** Try mixing with favorite wet foods, warming it slightly, or using appetite stimulants as recommended by your vet. Never force-feed, as stress can worsen the situation.
 
 > **See also:** [Adjusting Renal Diets for Silvertail Cats with Progressive Kidney Issues](https://silvertail.app/articles/adjusting-renal-diets-for-silvertail-cats-with-progressive-kidney-issues/)
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml](/products/b07c67k7zl-feliway-classic-starter-kit/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+

@@ -1,12 +1,8 @@
 ---
 title: Understanding Cognitive Dysfunction Syndrome in Older Dogs
-metaDescription: A comprehensive guide to managing cognitive decline in senior dogs,
-  including product comparisons, cost analysis, and practical care strategies.
+metaDescription: A comprehensive guide to managing cognitive decline in senior dogs, including product comparisons, cost analysis, and practical care strategies.
 publishedAt: '2026-04-29'
-excerpt: Cognitive Dysfunction Syndrome (CDS) affects many senior dogs, leading to
-  confusion, disorientation, and behavioral changes. This guide explores evidence-based
-  solutions, compares top supplements, and provides practical care tips to improve
-  your dog's quality of life.
+excerpt: Cognitive Dysfunction Syndrome (CDS) affects many senior dogs, leading to confusion, disorientation, and behavioral changes. This guide explores evidence-based solutions, compares top supplements, and provides practical care tips to improve your dog's quality of life.
 pillarSlug: joint-mobility
 relatedProducts:
 - B0DHV8SCLS
@@ -268,3 +264,12 @@ A: While there is no cure, CDS can be managed with medications, dietary suppleme
 
 **Q: How can I support my dog if they are diagnosed with CDS?**  
 A: Provide mental stimulation through interactive toys, maintain a predictable daily schedule, and consult your veterinarian for tailored treatment options to improve your dog’s quality of life.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+

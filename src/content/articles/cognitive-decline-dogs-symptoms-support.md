@@ -1,12 +1,8 @@
 ---
 title: Recognizing and Supporting Cognitive Decline in Older Dogs
-metaDescription: Learn how to identify cognitive decline in senior dogs and compare
-  evidence-based support options like supplements, diets, and enrichment tools to
-  improve their quality of life.
+metaDescription: Learn how to identify cognitive decline in senior dogs and compare evidence-based support options like supplements, diets, and enrichment tools to improve their quality of life.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: As dogs age, cognitive dysfunction affects up to 60% of pets over 11. This
-  guide compares 12 proven interventions—from Senilife supplements to puzzle feeders—with
-  real-world testing data on what actually slows decline.
+excerpt: As dogs age, cognitive dysfunction affects up to 60% of pets over 11. This guide compares 12 proven interventions—from Senilife supplements to puzzle feeders—with real-world testing data on what actually slows decline.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -213,3 +209,12 @@ A: Yes, products like calming beds, night lights for better visibility, and slow
 
 **Q: When should I consult a vet about my dog’s cognitive changes?**  
 A: If your dog shows sudden or severe behavioral shifts, struggles with basic tasks, or seems distressed, schedule a vet visit. Early intervention can improve quality of life and rule out other medical conditions.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+

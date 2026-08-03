@@ -1,30 +1,30 @@
 ---
-asin: "B07C67K7ZL"
-slug: "b07c67k7zl-feliway-classic-starter-kit"
-title: "Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml"
-seoTitle: "Feliway Classic Diffuser Review for Senior Cats | Silvertail"
-metaDescription: "Feliway Classic for anxious senior cats: how synthetic F3 pheromones reduce stress markers and whether the evidence supports it."
-cardTitle: "Feliway Classic Kit"
-cardPick: "Best calming diffuser for multi-cat households"
-category: "calming-products"
+asin: B07C67K7ZL
+slug: b07c67k7zl-feliway-classic-starter-kit
+title: Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml
+seoTitle: Feliway Classic Diffuser Review for Senior Cats | Silvertail
+metaDescription: 'Feliway Classic for anxious senior cats: how synthetic F3 pheromones reduce stress markers and whether the evidence supports it.'
+cardTitle: Feliway Classic Kit
+cardPick: Best calming diffuser for multi-cat households
+category: calming-products
 price: 29.99
 rating: 4.4
 reviewCount: 8920
 bsr: 88
 commissionPerSale: 0.0
 score: 44.9
-imageUrl: "/images/amazon-picks/B07C67K7ZL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07C67K7ZL?tag=silvertail-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B07C67K7ZL.jpg
+affiliateUrl: https://www.amazon.com/dp/B07C67K7ZL?tag=silvertail-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
 tags:
-  - feliway
-  - calming
-  - anxiety
-  - senior-cat
-author: "amelia-silvertail"
+- feliway
+- calming
+- anxiety
+- senior-cat
+author: amelia-silvertail
 ---
 # Feliway Classic — The Evidence Behind Synthetic Cat Pheromones
 

@@ -1,25 +1,26 @@
 ---
-asin: "B0GTQCP4V5"
-title: "Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior Dogs,Gentle Slope Pet Steps with Washable Corduroy Cover, Self-Sticky Pads for Safe Climbing (Reddish Brown, 6-Pack)"
-seoTitle: "Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges , Review"
-metaDescription: "Editorial overview of Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges  — who it fits and where to check availability on Amazon."
-cardTitle: "Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges "
-cardPick: "Catalog export from unified harvester pool."
-category: "pet-supplies"
+asin: B0GTQCP4V5
+title: Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior Dogs,Gentle Slope Pet Steps with Washable Corduroy Cover, Self-Sticky Pads for Safe Climbing (Reddish Brown, 6-Pack)
+seoTitle: Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges , Review
+metaDescription: Editorial overview of Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges  — who it fits and where to check availability on Amazon.
+cardTitle: 'Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges '
+cardPick: Catalog export from unified harvester pool.
+category: pet-supplies
 price: null
 rating: 0.2
 reviewCount: 50
 bsr: 5
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GTQCP4V5?tag=silvertail-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GTQCP4V5?tag=silvertail-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
+tags:
+- catalog-export
 ---
 # Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior Dogs,Gentle Slope Pet Steps with Washable
 

@@ -111,3 +111,12 @@ Ensuring these tailored choices helps reduce stress, improves rest quality, and 
 Providing your senior cat with a warm and cozy bed tailored to their changing needs is one of the most rewarding ways to support their comfort and well-being in their golden years. Thoughtful bedding solves multiple challenges: temperature regulation, joint pain relief, accessibility, and security, allowing your beloved companion peaceful and restful days.
 
 > **See also:** [Creating a Safe Indoor Environment for Elderly Cats](https://silvertail.app/articles/creating-a-safe-indoor-environment-for-elderly-cats/)
+
+## Our picks worth a closer look
+
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[RINGCO Pet Heating Pad for Cats & Small Dogs with 12 Adjustable Temperature, Wat](/products/ringco-pet-heating-pad-for-cats-small-dogs-with-12-adju/)** — see current price and specs.
+- **[RIZZARI 20 * 20 * 8 Inches Small Cat Tunnel Bed, Peekaboo Cat Cave for Indoor Ca](/products/rizzari-20-20-8-inches-small-cat-tunnel-bed-peekaboo-ca/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

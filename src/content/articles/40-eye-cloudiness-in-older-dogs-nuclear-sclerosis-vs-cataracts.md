@@ -159,3 +159,12 @@ The veterinarian will conduct a thorough eye examination including:
 ---
 
 Recognizing the differences between nuclear sclerosis and cataracts can provide peace of mind and guide you toward the right care path for your senior dog’s eye health. Being observant and proactive with veterinary visits will help keep your dog comfortable and enjoying their golden years with clear vision or the best possible quality of life.
+
+## Our picks worth a closer look
+
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[ChunHee Recordable Dog Doorbell – Train Your Dog with Your Own Voice, Puppy Pott](/products/chunhee-recordable-dog-doorbell-train-your-dog-with-you/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+

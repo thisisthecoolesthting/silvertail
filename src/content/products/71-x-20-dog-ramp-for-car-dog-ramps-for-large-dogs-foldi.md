@@ -1,25 +1,26 @@
 ---
-asin: "B0FR42RTGH"
-title: "71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps for Stairs, Up to 250LBS, Non-Slip Rug Surface, 5s Installation, Dogs Car Steps for Large Dogs SUV, Truck, LKW"
-seoTitle: "71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Foldi, Review"
-metaDescription: "Editorial overview of 71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Foldi — who it fits and where to check availability on Amazon."
-cardTitle: "71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Foldi"
-cardPick: "Catalog export from unified harvester pool."
-category: "pet-supplies"
+asin: B0FR42RTGH
+title: 71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps for Stairs, Up to 250LBS, Non-Slip Rug Surface, 5s Installation, Dogs Car Steps for Large Dogs SUV, Truck, LKW
+seoTitle: 71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Foldi, Review
+metaDescription: Editorial overview of 71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Foldi — who it fits and where to check availability on Amazon.
+cardTitle: 71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Foldi
+cardPick: Catalog export from unified harvester pool.
+category: pet-supplies
 price: null
 rating: 0.3
 reviewCount: 50
 bsr: 9
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0FR42RTGH?tag=silvertail-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0FR42RTGH?tag=silvertail-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
+tags:
+- catalog-export
 ---
 # 71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps for Stairs, Up to 250LBS, Non-Slip Rug 
 

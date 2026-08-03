@@ -133,3 +133,12 @@ Rubber feet or anti-skid pads that grip floors prevent ramp movement. Some ramps
 ---
 
 Choosing the right mobility ramp tailored to your dog’s weight, health, and usage environment can drastically improve their comfort and independence—helping them enjoy stairs, vehicles, and furniture safely for years to come.
+
+## Our picks worth a closer look
+
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+

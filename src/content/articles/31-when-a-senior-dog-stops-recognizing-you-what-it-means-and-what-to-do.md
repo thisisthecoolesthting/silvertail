@@ -118,3 +118,12 @@ Remember, recognizing your dog may fade, but your presence and kindness provide 
 ---
 
 Facing this challenge with your senior dog is tough, but understanding the “why” and “how” of recognition loss equips you to provide thoughtful, loving care in their golden years.
+
+## Our picks worth a closer look
+
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+

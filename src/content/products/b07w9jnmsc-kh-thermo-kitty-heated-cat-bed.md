@@ -1,30 +1,30 @@
 ---
-asin: "B07W9JNMSC"
-slug: "b07w9jnmsc-kh-thermo-kitty-heated-cat-bed"
-title: "K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha"
-seoTitle: "K&H Thermo-Kitty Heated Bed Review | Silvertail"
-metaDescription: "Heated beds for senior cats: thermostat accuracy, wattage draw, and whether arthritic cats actually use them."
-cardTitle: "K&H Thermo-Kitty Bed"
-cardPick: "Best thermostatically controlled heated bed"
-category: "heated-beds"
+asin: B07W9JNMSC
+slug: b07w9jnmsc-kh-thermo-kitty-heated-cat-bed
+title: K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha
+seoTitle: K&H Thermo-Kitty Heated Bed Review | Silvertail
+metaDescription: 'Heated beds for senior cats: thermostat accuracy, wattage draw, and whether arthritic cats actually use them.'
+cardTitle: K&H Thermo-Kitty Bed
+cardPick: Best thermostatically controlled heated bed
+category: heated-beds
 price: 44.99
 rating: 4.5
 reviewCount: 9480
 bsr: 130
 commissionPerSale: 0.0
 score: 45.9
-imageUrl: "/images/amazon-picks/B07W9JNMSC.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07W9JNMSC?tag=silvertail-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B07W9JNMSC.jpg
+affiliateUrl: https://www.amazon.com/dp/B07W9JNMSC?tag=silvertail-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
 tags:
-  - heated-bed
-  - arthritis-relief
-  - senior-cat
-  - warmth
-author: "amelia-silvertail"
+- heated-bed
+- arthritis-relief
+- senior-cat
+- warmth
+author: amelia-silvertail
 ---
 # K&H Thermo-Kitty — Heated Beds and Arthritic Senior Cats
 

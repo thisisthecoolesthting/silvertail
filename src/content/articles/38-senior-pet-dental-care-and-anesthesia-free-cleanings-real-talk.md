@@ -116,3 +116,12 @@ Anesthesia-free dental cleanings may have a place for minor cosmetic touch-ups o
 ---
 
 With thoughtful, consistent dental care tailored to your senior pet’s unique needs, you can maximize their comfort and health without unnecessary risks. Always prioritize veterinary consultation and evidence-based approaches over quick fixes or convenience.
+
+## Our picks worth a closer look
+
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+

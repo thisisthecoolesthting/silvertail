@@ -112,3 +112,12 @@ Making homemade senior dog food has emotional appeal but carries significant ris
 ---
 
 Making thoughtful, well-informed choices about your senior dog's diet is one of the most impactful ways to support their health and happiness in their golden years. Homemade food isn't inherently bad, but the risks demand respect and professional guidance.
+
+## Our picks worth a closer look
+
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+

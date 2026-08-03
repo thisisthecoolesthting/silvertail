@@ -104,3 +104,12 @@ If you observe these, it’s time to reassess your cat’s living environment to
 ---
 
 Creating a supportive living space helps your aging silvertail cat maintain independence, comfort, and happiness in their golden years. Thoughtful adaptations tailored to their changing health and behavior are the best way to honor their unique needs.
+
+## Our picks worth a closer look
+
+- **[RIZZARI 20 * 20 * 8 Inches Small Cat Tunnel Bed, Peekaboo Cat Cave for Indoor Ca](/products/rizzari-20-20-8-inches-small-cat-tunnel-bed-peekaboo-ca/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+

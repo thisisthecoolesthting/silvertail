@@ -108,3 +108,12 @@ Generally, vaccination needs to be reviewed yearly or biennially, depending on t
 ---
 
 Managing vaccines in senior pets requires understanding their evolving immune systems and lifestyle risks. A thoughtful approach guided by your vet ensures your pet remains protected with minimal stress, supporting their comfort and quality of life well into their golden years.
+
+## Our picks worth a closer look
+
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml](/products/b07c67k7zl-feliway-classic-starter-kit/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+

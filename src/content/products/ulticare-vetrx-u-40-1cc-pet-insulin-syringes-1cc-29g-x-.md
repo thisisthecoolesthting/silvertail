@@ -1,25 +1,26 @@
 ---
-asin: "B08HX6JFJH"
-title: "UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/2’’, 100 ct, Comfortable & Accurate Dosing, Compatible with Any U-40 Strength Insulin"
-seoTitle: "UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/, Review"
-metaDescription: "Editorial overview of UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/ — who it fits and where to check availability on Amazon."
-cardTitle: "UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/"
-cardPick: "Catalog export from unified harvester pool."
-category: "health-household"
+asin: B08HX6JFJH
+title: UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/2’’, 100 ct, Comfortable & Accurate Dosing, Compatible with Any U-40 Strength Insulin
+seoTitle: UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/, Review
+metaDescription: Editorial overview of UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/ — who it fits and where to check availability on Amazon.
+cardTitle: UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/
+cardPick: Catalog export from unified harvester pool.
+category: health-household
 price: null
 rating: 0.9
 reviewCount: 50
 bsr: 7
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B08HX6JFJH?tag=silvertail-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B08HX6JFJH?tag=silvertail-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
+tags:
+- catalog-export
 ---
 # UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/2’’, 100 ct, Comfortable & Accurate Dosing, Compatible with 
 

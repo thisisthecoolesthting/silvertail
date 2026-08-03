@@ -131,3 +131,12 @@ Senior small breed cat owners often face tradeoffs between renal-friendly nutrit
 ---
 
 Selecting the right senior dry food for your small breed cat is a dynamic process—keep monitoring health and preferences, consult your vet regularly, and prioritize formulas that support the unique aging challenges of small breeds. With patience and informed choices, you can help your feline companion enjoy their golden years with vitality and comfort.
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+

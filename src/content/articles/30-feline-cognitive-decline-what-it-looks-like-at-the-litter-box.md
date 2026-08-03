@@ -117,3 +117,8 @@ Choosing the right box depends on your cat’s specific mobility and cognitive n
 ---
 
 Caring for a senior cat with cognitive decline requires patience, observation, and thoughtful adjustments to their environment—especially the litter box. Supporting their dignity and well-being in these everyday tasks profoundly impacts their happiness in their golden years.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+

@@ -95,3 +95,12 @@ To manage cognitive dysfunction, reduce stressors, maintain routine, and provide
 ---
 
 Proactive care geared toward your senior cat’s evolving needs is the best way to minimize health risks and maximize comfort. Remember, subtle changes in behavior or habits often signal underlying issues early—don’t hesitate to reach out to your veterinarian when in doubt. With thoughtful attention and management, your older cat can enjoy their golden years with dignity and contentment.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+

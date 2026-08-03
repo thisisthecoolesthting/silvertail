@@ -99,3 +99,12 @@ Low entry cat trees provide the best of both worlds for senior cats who want hei
 
 **Q: How do I know if my cat is too arthritic to use a cat tree?**  
 **A:** Signs include reluctance to jump, slow movements, stiffness after rest, or vocalizing pain. Consult your vet if you’re unsure and consider the lowest possible entry with ramps or floor-level options.
+
+## Our picks worth a closer look
+
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml](/products/b07c67k7zl-feliway-classic-starter-kit/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+

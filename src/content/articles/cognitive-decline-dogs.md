@@ -1,12 +1,8 @@
 ---
 title: Understanding and Managing Cognitive Decline in Older Dogs
-metaDescription: Evidence-based guide to recognizing canine cognitive dysfunction
-  and choosing supportive products, from supplements to orthopedic beds, for your
-  aging dog's comfort.
+metaDescription: Evidence-based guide to recognizing canine cognitive dysfunction and choosing supportive products, from supplements to orthopedic beds, for your aging dog's comfort.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: When your senior dog starts pacing at night or forgetting familiar commands,
-  cognitive decline may be the cause. This guide compares 14 science-backed solutions
-  to slow progression and maintain quality of life.
+excerpt: When your senior dog starts pacing at night or forgetting familiar commands, cognitive decline may be the cause. This guide compares 14 science-backed solutions to slow progression and maintain quality of life.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -28,8 +24,7 @@ tags:
 - orthopedic dog beds
 heroImage: /images/hero/cognitive-decline-dogs.jpg
 cardTitle: 'Keep Senior Dogs Moving: Joint Care That Actually Works'
-cardPick: Cosequin targets stiffness and mobility loss with clinically-proven glucosamine,
-  helping aging dogs climb stairs easier and stay active longer.
+cardPick: Cosequin targets stiffness and mobility loss with clinically-proven glucosamine, helping aging dogs climb stairs easier and stay active longer.
 subtopic: nutrition
 updatedAt: 2026-05-12
 ---
@@ -272,3 +267,12 @@ A: Yes, some veterinarians prescribe medications like selegiline, and supplement
 
 **Q: Can lifestyle changes slow the progression of cognitive decline in senior dogs?**  
 A: Yes, maintaining a consistent routine, ensuring regular exercise, and minimizing stress can help. A stimulating environment and plenty of social interaction also play a crucial role in slowing decline.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+

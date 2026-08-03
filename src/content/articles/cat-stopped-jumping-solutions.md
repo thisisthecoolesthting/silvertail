@@ -1,12 +1,8 @@
 ---
 title: 'My Cat Stopped Jumping: Solutions for Senior Feline Mobility'
-metaDescription: When your senior cat stops jumping, it's time to adapt. We tested
-  7 mobility aids to compare ramps, steps, and orthopedic solutions for arthritis
-  and muscle loss.
+metaDescription: When your senior cat stops jumping, it's time to adapt. We tested 7 mobility aids to compare ramps, steps, and orthopedic solutions for arthritis and muscle loss.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: If your older cat hesitates to jump on beds or counters, they're telling
-  you something important. We tested ramps, steps, and orthopedic solutions over 18
-  months with senior cats to show you which aids actually work—and why.
+excerpt: If your older cat hesitates to jump on beds or counters, they're telling you something important. We tested ramps, steps, and orthopedic solutions over 18 months with senior cats to show you which aids actually work—and why.
 pillarSlug: comfort-mobility
 status: published
 tags:
@@ -26,8 +22,7 @@ relatedProducts:
 - B07L1XS33Y
 heroImage: /images/hero/cat-stopped-jumping-solutions.jpg
 cardTitle: 'Why Senior Cats Stop Jumping: Easy Mobility Solutions'
-cardPick: ChomChom removes loose fur painlessly without brushes, reducing matting
-  that restricts older cats' movement and comfort.
+cardPick: ChomChom removes loose fur painlessly without brushes, reducing matting that restricts older cats' movement and comfort.
 subtopic: comfort
 updatedAt: 2026-05-12
 ---
@@ -307,3 +302,12 @@ A: Glucosamine, chondroitin, and omega-3 fatty acids may support joint function.
 
 **Q: How can I make my home more comfortable for a less mobile cat?**  
 A: Provide soft, orthopedic bedding and keep essentials (food, water, litter) on one level. Avoid sudden changes in furniture layout to help your cat navigate confidently.
+
+## Our picks worth a closer look
+
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+

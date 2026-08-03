@@ -1,12 +1,8 @@
 ---
 title: How to Choose the Best Senior Dog Food for Your Aging Companion
-metaDescription: A practical guide to selecting the right senior dog food based on
-  nutritional needs, budget, and real-world performance. We compare top brands and
-  break down costs.
+metaDescription: A practical guide to selecting the right senior dog food based on nutritional needs, budget, and real-world performance. We compare top brands and break down costs.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: As your dog ages, their nutritional needs change. This guide compares 12
-  senior dog foods, analyzes cost per meal, and explains how to transition your older
-  dog safely to a new diet.
+excerpt: As your dog ages, their nutritional needs change. This guide compares 12 senior dog foods, analyzes cost per meal, and explains how to transition your older dog safely to a new diet.
 pillarSlug: nutrition-diet
 status: published
 tags:
@@ -260,3 +256,12 @@ A: Grain-free diets can be suitable if your dog has specific allergies or sensit
 
 **Q: How often should I feed my senior dog?**  
 A: Most senior dogs do well with two smaller meals per day to aid digestion and maintain energy levels. Adjust portion sizes based on their activity level and weight to prevent overfeeding.
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+

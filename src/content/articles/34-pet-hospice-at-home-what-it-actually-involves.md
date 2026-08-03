@@ -113,3 +113,12 @@ Discussing these possibilities openly with your vet helps avoid rushed decisions
 
 **Q: How do I manage my own emotions while providing hospice care?**  
 **A:** It’s normal to feel overwhelmed. Seek support from friends, family, or pet loss support groups. Take breaks when possible, and remember that doing your best to provide comfort is itself a compassionate gift.
+
+## Our picks worth a closer look
+
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+

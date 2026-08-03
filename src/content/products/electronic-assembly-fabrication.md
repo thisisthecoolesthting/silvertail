@@ -1,25 +1,26 @@
 ---
-asin: "0071378820"
-title: "Electronic Assembly Fabrication"
-seoTitle: "Electronic Assembly Fabrication, Review"
-metaDescription: "Editorial overview of Electronic Assembly Fabrication — who it fits and where to check availability on Amazon."
-cardTitle: "Electronic Assembly Fabrication"
-cardPick: "Catalog export from unified harvester pool."
-category: "books"
+asin: 0071378820
+title: Electronic Assembly Fabrication
+seoTitle: Electronic Assembly Fabrication, Review
+metaDescription: Editorial overview of Electronic Assembly Fabrication — who it fits and where to check availability on Amazon.
+cardTitle: Electronic Assembly Fabrication
+cardPick: Catalog export from unified harvester pool.
+category: books
 price: null
 rating: 0.2
 reviewCount: 50
 bsr: null
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/0071378820?tag=silvertail-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/0071378820?tag=silvertail-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
+tags:
+- catalog-export
 ---
 # Electronic Assembly Fabrication
 

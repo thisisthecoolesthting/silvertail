@@ -1,11 +1,8 @@
 ---
 title: 'Helping Your Senior Cat with Mobility: Ramps, Stairs, and More'
-metaDescription: Practical solutions for senior cat mobility issues, including ramps,
-  stairs, and other aids to help your aging feline move comfortably around your home.
+metaDescription: Practical solutions for senior cat mobility issues, including ramps, stairs, and other aids to help your aging feline move comfortably around your home.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Discover the best mobility aids for senior cats, from ramps to stairs, and
-  learn how to choose the right solution to help your aging feline navigate your home
-  with ease and comfort.
+excerpt: Discover the best mobility aids for senior cats, from ramps to stairs, and learn how to choose the right solution to help your aging feline navigate your home with ease and comfort.
 pillarSlug: mobility-comfort
 relatedProducts:
 - B0CB75LML9
@@ -25,8 +22,7 @@ tags:
 - cat comfort
 heroImage: /images/hero/cat-mobility-solutions.jpg
 cardTitle: 'Senior Cat Mobility: Ramps, Stairs, Supplements for Aging Pets'
-cardPick: Cosequin's maximum strength formula targets joint stiffness and mobility
-  loss that senior cats experience, supporting easier movement through daily life.
+cardPick: Cosequin's maximum strength formula targets joint stiffness and mobility loss that senior cats experience, supporting easier movement through daily life.
 subtopic: comfort
 updatedAt: 2026-05-12
 ---
@@ -254,3 +250,12 @@ A: Yes, pet steps, orthopedic beds, and low-entry litter boxes can also help sen
 
 **Q: How do I know if my senior cat needs mobility assistance?**  
 A: Watch for signs like difficulty jumping, limping, or hesitating to climb stairs, which may indicate they need support.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+

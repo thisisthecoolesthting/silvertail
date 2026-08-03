@@ -128,3 +128,12 @@ Wet food can also be fed exclusively or combined with small amounts of kibble to
 ---
 
 Switching your senior cat from kibble to wet food can be a practical, effective way to help them maintain nutrition, hydration, and quality of life in their golden years. Prioritize gentle transitions, appropriate formulations, and supportive care to keep your feline friend thriving well into old age.
+
+## Our picks worth a closer look
+
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

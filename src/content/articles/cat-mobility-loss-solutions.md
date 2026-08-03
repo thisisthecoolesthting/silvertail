@@ -1,12 +1,8 @@
 ---
 title: 'My Cat Stopped Jumping: Solutions for Senior Cat Mobility Loss'
-metaDescription: Practical solutions for senior cats struggling with mobility loss,
-  including ramps, steps, and orthopedic beds to help them stay comfortable and active
-  in their golden years.
+metaDescription: Practical solutions for senior cats struggling with mobility loss, including ramps, steps, and orthopedic beds to help them stay comfortable and active in their golden years.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your senior cat stops jumping, it can be heartbreaking. Discover evidence-based
-  solutions like ramps, steps, and orthopedic beds to help your feline friend navigate
-  their world with ease and comfort.
+excerpt: When your senior cat stops jumping, it can be heartbreaking. Discover evidence-based solutions like ramps, steps, and orthopedic beds to help your feline friend navigate their world with ease and comfort.
 pillarSlug: mobility-comfort
 relatedProducts:
 - B0CB75LML9
@@ -29,8 +25,7 @@ tags:
 - aging cats
 heroImage: /images/hero/cat-mobility-loss-solutions.jpg
 cardTitle: 'Why Your Senior Cat Stopped Jumping: Easy Mobility Fixes'
-cardPick: Dasuquin with MSM supports aging joints naturally, helping senior cats regain
-  confidence climbing and playing.
+cardPick: Dasuquin with MSM supports aging joints naturally, helping senior cats regain confidence climbing and playing.
 subtopic: comfort
 updatedAt: 2026-05-12
 ---
@@ -264,3 +259,12 @@ A: Glucosamine, chondroitin, and omega-3 fatty acids may support joint health. A
 
 **Q: When should I consider mobility aids for my senior cat?**  
 A: If your cat struggles with daily activities like climbing or using the litter box, consider aids like orthopedic beds or low-entry litter boxes. Early intervention can improve their quality of life.
+
+## Our picks worth a closer look
+
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Ruduwu Hip & Joint Bites for Cats - Chicken Flavored Glucosamine Joint Supplemen](/products/ruduwu-hip-joint-bites-for-cats-chicken-flavored-glucos/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

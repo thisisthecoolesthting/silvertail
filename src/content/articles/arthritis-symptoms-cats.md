@@ -1,12 +1,8 @@
 ---
 title: 'Signs of Arthritis in Senior Cats: What to Look For'
-metaDescription: Learn how to spot early signs of arthritis in older cats, compare
-  joint support products, and discover practical ways to improve your feline's mobility
-  and comfort.
+metaDescription: Learn how to spot early signs of arthritis in older cats, compare joint support products, and discover practical ways to improve your feline's mobility and comfort.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Is your senior cat slowing down? Subtle changes in movement, grooming, or
-  behavior could signal arthritis. This guide helps you recognize symptoms and choose
-  effective support solutions.
+excerpt: Is your senior cat slowing down? Subtle changes in movement, grooming, or behavior could signal arthritis. This guide helps you recognize symptoms and choose effective support solutions.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -26,8 +22,7 @@ tags:
 - aging pets
 heroImage: /images/hero/arthritis-symptoms-cats.jpg
 cardTitle: 'Senior Cat Stiffness: Joint Supplements That Actually Help Aging Pets'
-cardPick: Cosequin's proven formula reduces inflammation and improves mobility in
-  senior cats struggling with arthritis pain and stiffness.
+cardPick: Cosequin's proven formula reduces inflammation and improves mobility in senior cats struggling with arthritis pain and stiffness.
 subtopic: health
 updatedAt: 2026-05-12
 ---
@@ -238,3 +233,12 @@ A: Provide soft bedding, ramps or steps to access high areas, litter boxes with 
 
 **Q: When should I take my senior cat to the vet for suspected arthritis?**  
 A: Schedule a vet visit if you notice persistent signs of discomfort, changes in mobility, or if your cat seems less active than usual. Early diagnosis can improve their quality of life.
+
+## Our picks worth a closer look
+
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Ruduwu Hip & Joint Bites for Cats - Chicken Flavored Glucosamine Joint Supplemen](/products/ruduwu-hip-joint-bites-for-cats-chicken-flavored-glucos/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+

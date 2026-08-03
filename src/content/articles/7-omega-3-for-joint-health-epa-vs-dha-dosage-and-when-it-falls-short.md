@@ -116,3 +116,12 @@ Omega-3 fatty acids, particularly EPA and DHA, play valuable roles in reducing j
 
 **Q:** How long does it take to notice improvements in joint stiffness with omega-3 supplementation?  
 **A:** It typically takes 6-8 weeks of consistent supplementation before any improvements in stiffness or mobility are noticeable. Patience and continued vet follow-up are essential.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[SI Joint Hip Belt for Men and Women,Sacroiliac Pelvic Support Belt for Sciatica ](/products/si-joint-hip-belt-for-men-and-women-sacroiliac-pelvic-s/)** — see current price and specs.
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+

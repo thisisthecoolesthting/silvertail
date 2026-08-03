@@ -1,10 +1,8 @@
 ---
 title: Choosing the Best Senior Cat Food for Weight Management and Sensitive Stomachs
-metaDescription: Evidence-backed comparison of 15 senior cat foods for weight management
-  and digestive health, tested with aging felines.
+metaDescription: Evidence-backed comparison of 15 senior cat foods for weight management and digestive health, tested with aging felines.
 publishedAt: '2026-04-28'
-excerpt: For cats over 8 years old, the right nutrition makes all the difference.
-  We tested 15 foods for digestibility, calorie density, and cost per meal.
+excerpt: For cats over 8 years old, the right nutrition makes all the difference. We tested 15 foods for digestibility, calorie density, and cost per meal.
 pillarSlug: nutrition-supplements
 relatedProducts:
 - B004QM8SLG
@@ -247,3 +245,12 @@ A: Not necessarily; some cats benefit from easily digestible grains like rice or
 
 **Q: How often should I feed my senior cat to support weight management?**  
 A: Smaller, more frequent meals (2–3 times daily) can help regulate metabolism and prevent overeating, especially for less active senior cats.
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+

@@ -128,3 +128,12 @@ For senior cats, reluctance to eat may coincide with stress from litter box chan
 ---
 
 Understanding appetite changes in senior pets is crucial for maintaining their health and comfort. Regular monitoring, providing renal-friendly nutrition, ensuring easy access to food, and timely vet care can help your aging companion enjoy their golden years with dignity and happiness.
+
+## Our picks worth a closer look
+
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml](/products/b07c67k7zl-feliway-classic-starter-kit/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+

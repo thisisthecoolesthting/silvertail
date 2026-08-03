@@ -105,3 +105,12 @@ Whether you’re investing in prescription or store brand senior cat food, the g
 In navigating senior cat nutrition, aligning your cat’s individual health profile with the right diet—prescription or store brand—ensures the best support for their golden years.
 
 > **See also:** [Choosing the Best Cat Food Brands for Senior Felines](https://silvertail.app/articles/choosing-the-best-cat-food-brands-for-senior-felines/)
+
+## Our picks worth a closer look
+
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,](/products/delectables-lickable-treat-gravy-senior-10-variety-wet-/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Feliway Classic Starter Kit Plug-In Diffuser and Refill 48ml](/products/b07c67k7zl-feliway-classic-starter-kit/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+

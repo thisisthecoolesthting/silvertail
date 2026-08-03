@@ -1,29 +1,29 @@
 ---
-asin: "B0002AS39W"
-slug: "b0002as39w-royal-canin-aging-12-dry-cat-food"
-title: "Royal Canin Aging 12+ Dry Cat Food 7 lb"
-seoTitle: "Royal Canin Aging 12+ Cat Food Review | Silvertail"
-metaDescription: "Royal Canin Aging 12+: how the kibble size, phosphorus levels, and antioxidant blend support senior kidney and joint health."
-cardTitle: "Royal Canin Aging 12+"
-cardPick: "Best kidney-support senior kibble"
-category: "senior-cat-food"
+asin: B0002AS39W
+slug: b0002as39w-royal-canin-aging-12-dry-cat-food
+title: Royal Canin Aging 12+ Dry Cat Food 7 lb
+seoTitle: Royal Canin Aging 12+ Cat Food Review | Silvertail
+metaDescription: 'Royal Canin Aging 12+: how the kibble size, phosphorus levels, and antioxidant blend support senior kidney and joint health.'
+cardTitle: Royal Canin Aging 12+
+cardPick: Best kidney-support senior kibble
+category: senior-cat-food
 price: 28.99
 rating: 4.7
 reviewCount: 12560
 bsr: 45
 commissionPerSale: 0.0
 score: 48.3
-imageUrl: "/images/amazon-picks/B0002AS39W.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0002AS39W?tag=silvertail-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B0002AS39W.jpg
+affiliateUrl: https://www.amazon.com/dp/B0002AS39W?tag=silvertail-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T14:50:55+00:00'
 tags:
-  - senior-cat
-  - kidney-health
-  - dry-food
-author: "amelia-silvertail"
+- senior-cat
+- kidney-health
+- dry-food
+author: amelia-silvertail
 ---
 # Royal Canin Aging 12+ — Why Smaller Kibble and Lower Phosphorus Matter
 

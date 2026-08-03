@@ -128,3 +128,12 @@ Correct glucosamine dosing tailored to your dog’s weight is essential for join
 
 **Q:** Is it safe to give glucosamine daily for life?  
 **A:** For many dogs, daily glucosamine is safe long-term, but always check with your veterinarian to monitor health and adjust dosages as needed.
+
+## Our picks worth a closer look
+
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[ChunHee Recordable Dog Doorbell – Train Your Dog with Your Own Voice, Puppy Pott](/products/chunhee-recordable-dog-doorbell-train-your-dog-with-you/)** — see current price and specs.
+

@@ -1,13 +1,8 @@
 ---
 title: Providing Compassionate At-Home Hospice Care for Your Senior Pet
-metaDescription: A practical guide to comfort-focused products and routines for pets
-  in their final months, with honest comparisons of pain relief pads, mobility aids,
-  and hygiene solutions tested by long-term caregivers.
+metaDescription: A practical guide to comfort-focused products and routines for pets in their final months, with honest comparisons of pain relief pads, mobility aids, and hygiene solutions tested by long-term caregivers.
 publishedAt: '2026-04-28T00:00:00-05:00'
-excerpt: When your aging pet enters hospice care, small comforts make big differences.
-  We compare 8 essential products for pain management, mobility support, and cleanliness—from
-  orthopedic beds to waterproof pads—with real-world testing notes on durability and
-  cost per use.
+excerpt: When your aging pet enters hospice care, small comforts make big differences. We compare 8 essential products for pain management, mobility support, and cleanliness—from orthopedic beds to waterproof pads—with real-world testing notes on durability and cost per use.
 pillarSlug: health-wellness
 relatedProducts:
 - B004QM8SLG
@@ -274,3 +269,12 @@ A: Seek support from pet loss groups or a therapist, create a daily routine to c
 
 **Q: Are there special products that can help with at-home hospice care for pets?**  
 A: Yes, orthopedic beds, ramps, non-slip mats, and adjustable feeding stations can improve comfort. Your vet may also recommend supplements or mobility aids tailored to your pet’s needs.
+
+## Our picks worth a closer look
+
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl](/products/jinx-premium-senior-dog-food-dry-real-chicken-brown-ric/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

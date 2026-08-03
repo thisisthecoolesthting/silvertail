@@ -1,12 +1,8 @@
 ---
 title: 'Providing Comfort: At-Home Hospice Care for Your Senior Pet'
-metaDescription: A compassionate guide to at-home hospice care for senior pets, covering
-  pain management, mobility aids, and creating a peaceful environment for their final
-  days.
+metaDescription: A compassionate guide to at-home hospice care for senior pets, covering pain management, mobility aids, and creating a peaceful environment for their final days.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: When your aging pet enters their final stage of life, providing compassionate
-  at-home hospice care can make all the difference. This guide covers essential products
-  and practical strategies to keep your companion comfortable.
+excerpt: When your aging pet enters their final stage of life, providing compassionate at-home hospice care can make all the difference. This guide covers essential products and practical strategies to keep your companion comfortable.
 pillarSlug: end-of-life-comfort
 relatedProducts:
 - B0DHV8SCLS
@@ -256,3 +252,12 @@ A: Your vet may prescribe pain relievers, anti-inflammatories, or supplements li
 
 **Q: How do I know when it’s time to consider euthanasia for my pet?**  
 A: If your pet stops eating, shows constant distress, or no longer enjoys activities they once loved, consult your vet. They can help assess whether euthanasia is the most compassionate choice.
+
+## Our picks worth a closer look
+
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+

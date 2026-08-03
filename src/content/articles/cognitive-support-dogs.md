@@ -1,12 +1,8 @@
 ---
 title: Understanding and Supporting Cognitive Decline in Older Dogs
-metaDescription: A comprehensive guide to recognizing cognitive decline in senior
-  dogs, comparing top supplements, and practical strategies to support your aging
-  pet's mental health.
+metaDescription: A comprehensive guide to recognizing cognitive decline in senior dogs, comparing top supplements, and practical strategies to support your aging pet's mental health.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: As dogs age, cognitive decline can affect their quality of life. This guide
-  compares evidence-based supplements, examines real-world performance, and provides
-  cost-effective solutions to support your senior dog's mental acuity.
+excerpt: As dogs age, cognitive decline can affect their quality of life. This guide compares evidence-based supplements, examines real-world performance, and provides cost-effective solutions to support your senior dog's mental acuity.
 pillarSlug: health-wellness
 relatedProducts:
 - B004QM8SLG
@@ -231,3 +227,12 @@ A: Yes, products like puzzle toys, calming beds, specialized diets, and suppleme
 
 **Q: When should I consult a veterinarian about my dog’s cognitive decline?**  
 A: Consult a veterinarian if you notice significant behavioral changes, as they can rule out other medical conditions and recommend appropriate treatments or interventions.
+
+## Our picks worth a closer look
+
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

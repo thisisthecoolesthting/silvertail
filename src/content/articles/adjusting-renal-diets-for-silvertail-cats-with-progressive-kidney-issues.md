@@ -116,3 +116,12 @@ Track your cat’s weight, appetite, and hydration closely. Adjust portions and 
 ---
 
 Adjusting your silvertail cat’s renal diet requires attention, patience, and collaboration with your veterinarian. By focusing on stage-appropriate nutrient balance, hydration, and comfort, you can help your feline companion maintain strength and dignity through progressive kidney disease.
+
+## Our picks worth a closer look
+
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Royal Canin Aging 12+ Dry Cat Food 7 lb](/products/b0002as39w-royal-canin-aging-12-dry-cat-food/)** — see current price and specs.
+- **[PetSafe Drinkwell Platinum Pet Water Fountain 168oz](/products/b07fwsqyh9-petsafe-drinkwell-platinum-fountain/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+

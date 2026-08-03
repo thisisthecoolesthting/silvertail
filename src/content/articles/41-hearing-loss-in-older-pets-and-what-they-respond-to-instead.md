@@ -146,3 +146,12 @@ While hearing loss in older pets is common, some cases can be linked to treatabl
 ---
 
 Understanding hearing loss in your older pet and adapting to what they can still perceive makes a major difference in their comfort and happiness. By tuning in to their other senses and maintaining calm, clear communication, you can help your furry companion navigate their golden years with dignity and joy.
+
+## Our picks worth a closer look
+
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Pet Неmр Oil for Dogs and Cats 2 Packs, Organic Oil for Anxiеty Strеss Pαin Holi](/products/pet-m-oil-for-dogs-and-cats-2-packs-organic-oil-for-anx/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+- **[WACHRAY 2-Pack, Неmp Oil for Dogs & Cats, Calming Drops Dog Relaxants, Helps Pet](/products/wachray-2-pack-mp-oil-for-dogs-cats-calming-drops-dog-r/)** — see current price and specs.
+

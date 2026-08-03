@@ -119,3 +119,12 @@ Early veterinary intervention can slow arthritis progression, improve comfort, a
 ---
 
 Identifying arthritic pain beyond obvious limping requires close observation of your dog's behavior, posture, and activity. Early recognition and intervention help manage the disease better, easing discomfort and preserving your dog’s quality of life. With the practical steps outlined here, you can detect subtle signals and work with your veterinarian on an effective care plan.
+
+## Our picks worth a closer look
+
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[ChunHee Recordable Dog Doorbell – Train Your Dog with Your Own Voice, Puppy Pott](/products/chunhee-recordable-dog-doorbell-train-your-dog-with-you/)** — see current price and specs.
+

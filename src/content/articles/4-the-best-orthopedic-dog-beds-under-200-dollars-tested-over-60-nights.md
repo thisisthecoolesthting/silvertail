@@ -151,3 +151,12 @@ Make sure to measure your dog lying down and consider mobility issues when selec
 ---
 
 Choosing the right orthopedic bed under $200 requires balancing joint support, durability, and ease of care. With thoughtful selection based on your dog’s weight, sleeping preferences, and health needs, you can significantly improve their rest and overall quality of life.
+
+## Our picks worth a closer look
+
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+- **[ELOOP Orthopedic Memory Foam Dog Bed, Large Waterproof Pet Sofa with Sides & Rem](/products/eloop-orthopedic-memory-foam-dog-bed-large-waterproof-p/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+

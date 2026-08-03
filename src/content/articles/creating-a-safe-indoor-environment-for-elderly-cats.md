@@ -110,3 +110,12 @@ Creating a safe indoor environment is a loving investment that honors your cat�
 
 **Q: How do I know if my cat is in pain from arthritis?**  
 **A:** Watch for reduced jumping, limping, decreased grooming, or irritability, which may indicate joint pain needing veterinary care.
+
+## Our picks worth a closer look
+
+- **[RIZZARI 20 * 20 * 8 Inches Small Cat Tunnel Bed, Peekaboo Cat Cave for Indoor Ca](/products/rizzari-20-20-8-inches-small-cat-tunnel-bed-peekaboo-ca/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+

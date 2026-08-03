@@ -127,3 +127,12 @@ Discuss humane, gentle alternatives focused on pain relief, hydration, and famil
 ---
 
 Administering medication to elderly cats is a careful balance of patience, technique, and compassion. By following these best practices, you can ensure your senior cat receives the care they need while minimizing stress and discomfort for both of you.
+
+## Our picks worth a closer look
+
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS](/products/pawvotum-glucosamine-for-cats-pet-vitamins-and-suppleme/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+- **[Stand Assist Aid for Elderly Chair Couch Standing Aids and Supports Hip Knee Sur](/products/stand-assist-aid-for-elderly-chair-couch-standing-aids-/)** — see current price and specs.
+- **[2Pack Hemp Oil for Dogs & Cats, Anxiety & Stress Relief Drops with Omega 3-6-9,H](/products/2pack-hemp-oil-for-dogs-cats-anxiety-stress-relief-drop/)** — see current price and specs.
+

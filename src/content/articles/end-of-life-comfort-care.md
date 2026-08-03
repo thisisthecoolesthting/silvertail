@@ -1,12 +1,8 @@
 ---
 title: Providing End-of-Life Comfort for Your Senior Pet at Home
-metaDescription: A compassionate guide to creating comfort for aging pets with orthopedic
-  beds, mobility aids, and hospice care essentials. Compare 12 tested products that
-  ease final days.
+metaDescription: A compassionate guide to creating comfort for aging pets with orthopedic beds, mobility aids, and hospice care essentials. Compare 12 tested products that ease final days.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: When your senior dog or cat shows signs of decline, these evidence-backed
-  comfort solutions help manage pain, maintain dignity, and create peaceful moments.
-  We tested 12 products in our own homes.
+excerpt: When your senior dog or cat shows signs of decline, these evidence-backed comfort solutions help manage pain, maintain dignity, and create peaceful moments. We tested 12 products in our own homes.
 pillarSlug: health-wellness
 relatedProducts:
 - B0CB75LML9
@@ -210,3 +206,12 @@ A: Yes, orthopedic beds, ramps, and non-slip mats can assist pets with arthritis
 
 **Q: How do I know when it’s time to consider euthanasia for my pet?**  
 A: Consult your vet if your pet stops eating, shows severe pain, or loses interest in activities they once enjoyed. Quality of life scales can help guide this difficult decision.
+
+## Our picks worth a closer look
+
+- **[Vialoe Advanced Dog Hip & Joint Chews - Concentrated with Glucosamine, Chondroit](/products/vialoe-advanced-dog-hip-joint-chews-concentrated-with-g/)** — see current price and specs.
+- **[ELOOP Orthopedic Memory Foam Dog Bed, Large Waterproof Pet Sofa with Sides & Rem](/products/eloop-orthopedic-memory-foam-dog-bed-large-waterproof-p/)** — see current price and specs.
+- **[K&H Pet Products Thermo-Kitty Heated Cat Bed Small Mocha](/products/b07w9jnmsc-kh-thermo-kitty-heated-cat-bed/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+- **[Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs – ](/products/dog-ramp-for-stairs-non-slip-pet-ramp-for-small-short-l/)** — see current price and specs.
+

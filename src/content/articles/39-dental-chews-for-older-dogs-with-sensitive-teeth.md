@@ -84,3 +84,12 @@ Importantly, always consult your veterinarian before starting any new dental reg
 
 **Q: Are there risks using dental chews for dogs with missing teeth?**  
 **A:** Yes, chews that require heavy chewing could cause discomfort or injury. Choose soft chews and monitor closely.
+
+## Our picks worth a closer look
+
+- **[Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi](/products/zozdal-joint-supplement-for-dogs-180-chicken-flavor-che/)** — see current price and specs.
+- **[Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl](/products/longevity-dog-health-supplement-dog-vitamins-and-supple/)** — see current price and specs.
+- **[Неmp Oil for Dogs Cats (2 Packs), Organic Pet Calming Drops Anxiеty Relief & Str](/products/mp-oil-for-dogs-cats-2-packs-organic-pet-calming-drops-/)** — see current price and specs.
+- **[RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin, ](/products/rirywony-health-2-pack-hemp-oil-for-dogs-cats-helps-pet/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+

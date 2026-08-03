@@ -113,3 +113,12 @@ Older dogs stopping their usual couch-jumping is a natural warning sign urging y
 
 **Q: How can I make my home more senior-dog friendly?**  
 **A:** Provide ramps or steps for furniture, comfortable low beds, non-slip floor surfaces, and maintain a calm routine to reduce stress and risk of injury.
+
+## Our picks worth a closer look
+
+- **[ELOOP Orthopedic Memory Foam Dog Bed, Large Waterproof Pet Sofa with Sides & Rem](/products/eloop-orthopedic-memory-foam-dog-bed-large-waterproof-p/)** — see current price and specs.
+- **[2-Pack Dog Ramp Stairs for Pets ups to 170lbs, Durable Anti-Slip Carpet Surface,](/products/2-pack-dog-ramp-stairs-for-pets-ups-to-170lbs-durable-a/)** — see current price and specs.
+- **[71''x 20'' Dog ramp for Car, Dog Ramps for Large Dogs, Folding Outdoor Dog Ramps](/products/71-x-20-dog-ramp-for-car-dog-ramps-for-large-dogs-foldi/)** — see current price and specs.
+- **[ChunHee Recordable Dog Doorbell – Train Your Dog with Your Own Voice, Puppy Pott](/products/chunhee-recordable-dog-doorbell-train-your-dog-with-you/)** — see current price and specs.
+- **[Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D](/products/dog-ramp-for-stairs-dog-steps-anti-slip-foam-stair-wedg/)** — see current price and specs.
+
