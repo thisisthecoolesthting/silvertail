@@ -13,7 +13,7 @@ bsr: 307
 commissionPerSale: 0.0
 score: 201.3
 imageUrl: https://m.media-amazon.com/images/I/812nPYl4D8L.jpg
-affiliateUrl: https://www.amazon.com/dp/B0FNBX1VVD?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0FNBX1VVD
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Delectables Lickable Treat Gravy Senior 10+ Variety Wet Cat Treat & Food Topper,
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FNBX1VVD" url="https://www.amazon.com/dp/B0FNBX1VVD?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FNBX1VVD" url="https://www.amazon.com/dp/B0FNBX1VVD" label="Check price on Amazon" />
 

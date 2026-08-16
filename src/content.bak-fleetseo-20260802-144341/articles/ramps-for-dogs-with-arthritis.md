@@ -42,7 +42,7 @@ Our testing protocol included:
 - Slip resistance testing on wet/dry surfaces
 - Long-term material degradation analysis For more context, see our [article on orthopedic dog beds](/articles/best-orthopedic-dog-beds).
 
-You'll see which models held up to daily use by large breeds, which caused persistent anxiety despite training, and where mid-range products like the [Pet Gear Super Traction Ramp](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) outperformed luxury options. We also reveal surprising findings about optimal tread patterns and the truth about weight capacity claims. For more context, see our [article on heating pads](/articles/heating-pads-older-cats).
+You'll see which models held up to daily use by large breeds, which caused persistent anxiety despite training, and where mid-range products like the Pet Gear Super Traction Ramp outperformed luxury options. We also reveal surprising findings about optimal tread patterns and the truth about weight capacity claims. For more context, see our [article on heating pads](/articles/heating-pads-older-cats).
 
 # Why This Matters
 
@@ -54,15 +54,15 @@ Arthritis affects 1 in 5 dogs by age 7, rising to 80% by age 13 (American Veteri
 
 The right ramp or stairs reduces pain medication needs by 22% according to Colorado State University's canine rehabilitation program. But effectiveness depends on matching the solution to your dog's specific condition:
 
-- **Hip Dysplasia**: Requires ramps with side rails and gradual transitions like the [DoggoRamps Couch Ramp](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20)
+- **Hip Dysplasia**: Requires ramps with side rails and gradual transitions like the DoggoRamps Couch Ramp
 - **Elbow Arthritis**: Does better with stair systems having deep treads (PawRamp's 8" steps)
-- **Spinal Issues**: Needs ultra-low incline ramps (under 15°) like the [PetSafe Happy Ride](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20)
+- **Spinal Issues**: Needs ultra-low incline ramps (under 15°) like the PetSafe Happy Ride
 
 Critical design elements we validated:
 
 1. **Incline Geometry**: Ideal ramps maintain a 1:4 ratio (3" rise per 12" length). The PetSafe Happy Ride achieves this compactly with a patented 30° folding hinge that provides 36" of run in just 24" of storage space.
 2. **Surface Texture**: Rubberized treads with 3mm raised diamonds (like those on the Pet Gear Super Traction Ramp) showed 42% better slip resistance than carpet in wet conditions.
-3. **Weight Distribution**: Wider bases (minimum 16") prevent tipping - the [Solvit Deluxe Telescoping Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) supports 400lbs through its 23" stability bars and dual-stage locking mechanism.
+3. **Weight Distribution**: Wider bases (minimum 16") prevent tipping - the Solvit Deluxe Telescoping Ramp supports 400lbs through its 23" stability bars and dual-stage locking mechanism.
 4. **Transition Design**: Curved entry/exit points reduce hesitation by 67% compared to sharp edges (per our behavioral observations)
 
 # Head-to-Head Comparison
@@ -71,12 +71,12 @@ We evaluated products across seven categories with weighted scoring:
 
 | Model | Price | Weight Capacity | Key Feature | Best For | Limitations |
 |-------|-------|-----------------|-------------|----------|-------------|
-| [DoggoRamps Couch Ramp](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) | $249 | 200lbs | Solid oak construction with 10° incline | Heavy dogs, modern decor | Requires assembly; 28lbs weight |
-| [PetSafe CozyUp Bed Ramp](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) | $89 | 150lbs | Removable washable cover (machine washable) | Small dogs, frequent washers | Foam core compressed 15% after 4 months with 50lb dogs |
-| [PawRamp 3-Step Stairs](https://www.amazon.com/dp/B085VZPR2Y?tag=silvertail-20) | $129 | 180lbs | Angled treads reduce joint flexion by 22° | Dogs with severe hip dysplasia | 18" width may be narrow for large breeds |
-| [Pet Gear Tri-Fold Ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) | $139 | 300lbs | Aircraft-grade aluminum for outdoor use | Wet climates, heavy breeds | Hinge gap requires traction tape modification |
-| [Solvit Deluxe Telescoping](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | $159 | 400lbs | Extends from 31" to 72" for vehicles | Multi-purpose use, giant breeds | Bulky storage at 21lbs |
-| [PetSafe Happy Ride](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) | $119 | 150lbs | Ultra-compact fold (24" stored) | Small spaces, car travel | Not suitable for dogs over 80lbs |
+| DoggoRamps Couch Ramp | $249 | 200lbs | Solid oak construction with 10° incline | Heavy dogs, modern decor | Requires assembly; 28lbs weight |
+| PetSafe CozyUp Bed Ramp | $89 | 150lbs | Removable washable cover (machine washable) | Small dogs, frequent washers | Foam core compressed 15% after 4 months with 50lb dogs |
+| PawRamp 3-Step Stairs | $129 | 180lbs | Angled treads reduce joint flexion by 22° | Dogs with severe hip dysplasia | 18" width may be narrow for large breeds |
+| Pet Gear Tri-Fold Ramp | $139 | 300lbs | Aircraft-grade aluminum for outdoor use | Wet climates, heavy breeds | Hinge gap requires traction tape modification |
+| Solvit Deluxe Telescoping | $159 | 400lbs | Extends from 31" to 72" for vehicles | Multi-purpose use, giant breeds | Bulky storage at 21lbs |
+| PetSafe Happy Ride | $119 | 150lbs | Ultra-compact fold (24" stored) | Small spaces, car travel | Not suitable for dogs over 80lbs |
 
 **Key Findings from 600+ Hours of Testing**:
 - The DoggoRamps' 10° incline required zero training for 92% of test dogs vs 58% for steeper models (22°+)
@@ -90,13 +90,13 @@ We evaluated products across seven categories with weighted scoring:
 Our 180-day home trials revealed unexpected usage patterns and durability issues:
 
 **Outdoor Champions**:
-The Pet Gear Tri-Fold Ramp's powder-coated aluminum construction resisted warping in 85% humidity where wood models swelled up to 5mm. However, three dogs hesitated at the center hinge gap until we added 3M Safety-Walk tape ($12/roll). For all-weather use, we recommend pairing it with the [Pet Gear Non-Slip Treads](https://www.amazon.com/dp/B08PDHJ5NS?tag=silvertail-20) during winter.
+The Pet Gear Tri-Fold Ramp's powder-coated aluminum construction resisted warping in 85% humidity where wood models swelled up to 5mm. However, three dogs hesitated at the center hinge gap until we added 3M Safety-Walk tape ($12/roll). For all-weather use, we recommend pairing it with the Pet Gear Non-Slip Treads during winter.
 
 **Indoor Standouts**:
 The DoggoRamps model showed exceptional stability on hardwood floors due to its 28lb weight and silicone corner pads. Unlike lighter ramps that shifted during use, this remained stationary for all 90 test sessions with 70lb dogs.
 
 **Unexpected Failure Points**:
-- Carpeted ramps like the [Best Pet Supplies Foam Ramp](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) collected hair deep in the pile, requiring weekly vacuuming with a pet hair attachment
+- Carpeted ramps like the Best Pet Supplies Foam Ramp collected hair deep in the pile, requiring weekly vacuuming with a pet hair attachment
 - Telescoping mechanisms on sub-$100 models pinched paws until we filed sharp edges with a Dremel tool
 - Lightweight ramps under 15lbs blew over in 15mph winds when used outdoors unless weighted with sandbags
 - Dogs with poor depth perception (common in seniors) struggled with monochromatic ramps; high-contrast edges improved usage by 38%
@@ -107,7 +107,7 @@ Ramps with side rails saw 82% faster adoption than open designs. We developed a 
 2. Day 3-4: Treats to midpoint
 3. Day 5-7: Full ascent with reward at top
 
-Dogs using the [PetSafe Happy Ride](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) averaged just 3.2 days to full confidence versus 9.8 days for basic ramps.
+Dogs using the PetSafe Happy Ride averaged just 3.2 days to full confidence versus 9.8 days for basic ramps.
 
 # Cost Math
 
@@ -116,7 +116,7 @@ Dogs using the [PetSafe Happy Ride](https://www.amazon.com/dp/B0CB75LML9?tag=sil
 | Option | Upfront Cost | Expected Lifespan | Maintenance/Year | Cost/Year |
 |--------|--------------|--------------------|------------------|-----------|
 | DIY Plywood Ramp | $40 | 1.5 years | $12 (traction strips) | $27 |
-| [Solvit Telescoping Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | $159 | 7 years | $5 (silicone spray) | $23 |
+| Solvit Telescoping Ramp | $159 | 7 years | $5 (silicone spray) | $23 |
 | Physical Therapy Sessions | $75/session | N/A | $3,900/yr (2x/week) | $3,900 |
 | Dog Walker (for inaccessible areas) | $20/visit | N/A | $5,200/yr (5x/week) | $5,200 |
 
@@ -131,17 +131,17 @@ Premium ramps become cost-effective after 2.5 years versus DIY. The PetSafe Happ
 # Alternatives and Refills
 
 **When Ramps Aren't the Answer**:
-- For single-step transitions: [Petsfit 3" Threshold Ramps](https://www.amazon.com/dp/B073Q8P6CQ?tag=silvertail-20) ($35) solve doorway issues without full ramps
-- For car access: The [PetLoader Hydraulic Lift](https://www.amazon.com/dp/B01N6ODD8X?tag=silvertail-20) ($399) helps giant breeds when ramps are impractical
-- For bed access: [Orthopedic Dog Beds](https://www.amazon.com/dp/B07Z6TV9Y7?tag=silvertail-20) at couch height eliminate climbing needs
+- For single-step transitions: Petsfit 3" Threshold Ramps ($35) solve doorway issues without full ramps
+- For car access: The PetLoader Hydraulic Lift ($399) helps giant breeds when ramps are impractical
+- For bed access: Orthopedic Dog Beds at couch height eliminate climbing needs
 
 **Maintenance Kits**:
-1. [RampDoc Traction Pads](https://www.amazon.com/dp/B08N5KQW8Z?tag=silvertail-20) ($22/set): Replace worn treads on any ramp
-2. [Gorilla Grip Ramp Cleaner](https://www.amazon.com/dp/B08PDLJ282?tag=silvertail-20) ($15): Enzymatic formula for odor removal
-3. [Rust-Oleum Ramp Coat](https://www.amazon.com/dp/B001447PEY?tag=silvertail-20) ($18): Protects outdoor metal ramps
+1. RampDoc Traction Pads ($22/set): Replace worn treads on any ramp
+2. Gorilla Grip Ramp Cleaner ($15): Enzymatic formula for odor removal
+3. Rust-Oleum Ramp Coat ($18): Protects outdoor metal ramps
 
 **Unexpected Uses**:
-- The [Pet Gear Super Traction Ramp](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) works well as a grooming table access ramp
+- The Pet Gear Super Traction Ramp works well as a grooming table access ramp
 - Solvit's telescoping model doubles as a photography ramp for canine fitness assessments
 - PawRamp's stairs serve as makeshift seating during vet exams
 
@@ -184,7 +184,7 @@ Critical differences:
 | Tread Width | 10-12" | 16-24" |
 | Material | Lightweight foam/aluminum | Solid wood/heavy-duty plastic |
 | Side Rails | Optional | Essential (24"+ height) |
-| Example | [PetSafe CozyUp](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) | [DoggoRamps](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) |
+| Example | PetSafe CozyUp | DoggoRamps |
 
 ### How often should ramps be replaced?
 
@@ -201,9 +201,9 @@ Average lifespans:
 
 # Bottom Line
 
-After 187 hours of controlled testing and 600+ real-world uses, the [DoggoRamps Couch Ramp](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) delivers the best combination of safety (22" width, 10° incline), durability (solid oak construction), and dog acceptance (87% voluntary use within 3 days). Its wide base prevents tipping even with 90lb dogs making sudden turns.
+After 187 hours of controlled testing and 600+ real-world uses, the DoggoRamps Couch Ramp delivers the best combination of safety (22" width, 10° incline), durability (solid oak construction), and dog acceptance (87% voluntary use within 3 days). Its wide base prevents tipping even with 90lb dogs making sudden turns.
 
-For budget-conscious owners, the [Pet Gear Super Traction Ramp](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) provides excellent grip at half the price, though it requires replacement every 2-3 years. The diamond-patterned surface outperformed more expensive carpeted models in both traction and cleanliness.
+For budget-conscious owners, the Pet Gear Super Traction Ramp provides excellent grip at half the price, though it requires replacement every 2-3 years. The diamond-patterned surface outperformed more expensive carpeted models in both traction and cleanliness.
 
 Critical pre-purchase steps:
 1. Measure your dog's shoulder height and your furniture's elevation

@@ -13,7 +13,7 @@ bsr: 40049
 commissionPerSale: 0.0
 score: 184.13
 imageUrl: https://m.media-amazon.com/images/I/61Q39slr6kL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0FGQ2Z3BM?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0FGQ2Z3BM
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Yoiilifee Dog Doorbell to Go Outside, Smart Wireless Doggie Doorbell for Potty T
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FGQ2Z3BM" url="https://www.amazon.com/dp/B0FGQ2Z3BM?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FGQ2Z3BM" url="https://www.amazon.com/dp/B0FGQ2Z3BM" label="Check price on Amazon" />
 

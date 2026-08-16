@@ -70,7 +70,7 @@ Ramps offer an alternative but introduce their own considerations:
 
 Investing in the wrong product risks injury or creating negative associations that make your pet avoid the aid entirely. Our testing prioritized real-world scenarios: dogs with varying mobility levels, different home flooring, and everyday car access.
 
-**Real example**: A 9-year-old Golden Retriever named Maple refused to use her owner's purchased ramp for 3 weeks until we identified two issues: the aluminum surface reflected light uncomfortably, and the steep angle caused her to slide. Switching to the [PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) with its textured rubber surface and gentler incline solved both problems within days.
+**Real example**: A 9-year-old Golden Retriever named Maple refused to use her owner's purchased ramp for 3 weeks until we identified two issues: the aluminum surface reflected light uncomfortably, and the steep angle caused her to slide. Switching to the PetSafe Happy Ride with its textured rubber surface and gentler incline solved both problems within days.
 
 ## Head-to-Head Comparison
 
@@ -78,37 +78,37 @@ We tested four categories of mobility aids with consistent metrics: assembly tim
 
 | Product | Type | Weight Capacity | Length/Angle | Key Feature | Best For |
 |---------|------|-----------------|--------------|-------------|----------|
-|[PetSafe Happy Ride Folding Ramp](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20)|Folding ramp|150lbs|72" (18°)|Non-slip rubber surface|Cars, SUVs|
-|[Pet Gear Super Trax Ramp](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20)|Telescoping ramp|200lbs|71" extended (17°)|Side rails prevent falls|Large dogs|
-|[Best Pet Supplies Foam Stairs](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20)|Foam stairs|150lbs|24" tall, 5" steps|Removable washable cover|Small-medium dogs|
-|[Solvit Deluxe Telescoping Ramp](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20)|Telescoping ramp|400lbs|80" extended (14°)|Aluminum construction|Extra large breeds|
+|PetSafe Happy Ride Folding Ramp|Folding ramp|150lbs|72" (18°)|Non-slip rubber surface|Cars, SUVs|
+|Pet Gear Super Trax Ramp|Telescoping ramp|200lbs|71" extended (17°)|Side rails prevent falls|Large dogs|
+|Best Pet Supplies Foam Stairs|Foam stairs|150lbs|24" tall, 5" steps|Removable washable cover|Small-medium dogs|
+|Solvit Deluxe Telescoping Ramp|Telescoping ramp|400lbs|80" extended (14°)|Aluminum construction|Extra large breeds|
 
 **Key findings**:
-- The [PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) provided reliable grip for dogs with sensitive paws but required more storage space
-- Telescoping models like the [Pet Gear Super Trax](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) excelled for portability but showed minor wobbles after extended use
-- Foam stairs were the only option our Dachshund consistently approached, since the [Best Pet Supplies model](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) allowed her to pause midway
+- The PetSafe Happy Ride provided reliable grip for dogs with sensitive paws but required more storage space
+- Telescoping models like the Pet Gear Super Trax excelled for portability but showed minor wobbles after extended use
+- Foam stairs were the only option our Dachshund consistently approached, since the Best Pet Supplies model allowed her to pause midway
 
 **Unexpected discoveries**:
 - **Temperature sensitivity**: Aluminum ramps became uncomfortably hot in direct summer sun
 - **Sound aversion**: Some test dogs initially hesitated at the clicking sound of telescoping mechanisms
-- **Depth perception**: Dogs with cataracts performed better on high-contrast surfaces like the [PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20)'s black rubber
+- **Depth perception**: Dogs with cataracts performed better on high-contrast surfaces like the PetSafe Happy Ride's black rubber
 
 ## Real-World Performance
 
 Beyond specifications, we identified four critical performance factors through long-term testing:
 
-**1. Surface degradation**: Rubberized ramps like the [PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) maintained traction longer with daily use, while textured plastic models showed wear patterns sooner. For outdoor use, aluminum ramps like the [Solvit Deluxe](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) outperformed plastic composites.
+**1. Surface degradation**: Rubberized ramps like the PetSafe Happy Ride maintained traction longer with daily use, while textured plastic models showed wear patterns sooner. For outdoor use, aluminum ramps like the Solvit Deluxe outperformed plastic composites.
 
-**2. Setup consistency**: Dogs with cognitive decline struggled most with adjustable products. Our test Border Collie refused to use telescoping ramps after encountering one partially collapsed setup, whereas he consistently approached the fixed-angle [PetSafe Foldable Ramp](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20).
+**2. Setup consistency**: Dogs with cognitive decline struggled most with adjustable products. Our test Border Collie refused to use telescoping ramps after encountering one partially collapsed setup, whereas he consistently approached the fixed-angle PetSafe Foldable Ramp.
 
-**3. Weight distribution**: Ramps tested at their stated capacity showed different results when a dog paused midway—the concentrated load exceeded specifications on some models. The [Pet Gear Super Trax](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) handled this best thanks to its reinforced center spine.
+**3. Weight distribution**: Ramps tested at their stated capacity showed different results when a dog paused midway—the concentrated load exceeded specifications on some models. The Pet Gear Super Trax handled this best thanks to its reinforced center spine.
 
-**4. Environmental factors**: On hardwood floors, only ramps with rubber end caps (like the [PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20)) stayed in place during use. For outdoor use, the [Solvit Deluxe](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20)'s aluminum construction resisted warping where plastic competitors deformed.
+**4. Environmental factors**: On hardwood floors, only ramps with rubber end caps (like the PetSafe Happy Ride) stayed in place during use. For outdoor use, the Solvit Deluxe's aluminum construction resisted warping where plastic competitors deformed.
 
 **Training tips we discovered**:
 - Placing the ramp at a 45° angle to furniture (rather than straight-on) reduced hesitation in most test cases
 - Applying dog-appeasing pheromone spray to the ramp surface increased initial acceptance
-- Using a target stick or similar tool helped guide dogs up the first few attempts on the [Best Pet Supplies Foam Stairs](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20)
+- Using a target stick or similar tool helped guide dogs up the first few attempts on the Best Pet Supplies Foam Stairs
 
 ## Cost Analysis
 
@@ -116,12 +116,12 @@ Breaking down lifetime costs reveals value differences:
 
 | Product | Initial Cost | Expected Lifespan | Cost Per Month (3x daily use) |
 |---------|-------------|-------------------|------------------------------|
-|[PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20)|$89.95|2.5 years|~$3.00|
-|[Pet Gear Super Trax](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20)|$129.99|4 years|~$2.70|
-|[Best Pet Supplies Foam Stairs](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20)|$59.99|1.5 years|~$3.33|
+|PetSafe Happy Ride|$89.95|2.5 years|~$3.00|
+|Pet Gear Super Trax|$129.99|4 years|~$2.70|
+|Best Pet Supplies Foam Stairs|$59.99|1.5 years|~$3.33|
 
 **Analysis**:
-- The [Pet Gear Super Trax](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) becomes the most economical option over longer ownership
+- The Pet Gear Super Trax becomes the most economical option over longer ownership
 - Foam stairs require replacement soonest but work well for budget-conscious owners of small dogs
 - All options are significantly less expensive than joint surgeries
 
@@ -139,9 +139,9 @@ Additional costs to factor:
 
 For owners needing specialized solutions, we tested three alternative approaches:
 
-**1. DIY ramp systems**: The [Pet Gear RampEdge](https://www.amazon.com/dp/B0BTYCRJSS?tag=silvertail-20) system lets you build custom-length ramps. While cost-effective upfront, it lacks the portability of folding designs.
+**1. DIY ramp systems**: The Pet Gear RampEdge system lets you build custom-length ramps. While cost-effective upfront, it lacks the portability of folding designs.
 
-**2. Hybrid stairs/ramps**: The [PetSafe CozyUp Bed Ramp](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) combines an incline with platform steps. Ideal for small dogs transitioning from stairs to ramps, but the weight limit restricts larger breeds.
+**2. Hybrid stairs/ramps**: The PetSafe CozyUp Bed Ramp combines an incline with platform steps. Ideal for small dogs transitioning from stairs to ramps, but the weight limit restricts larger breeds.
 
 **3. Temporary solutions**: Rental or borrowing options can work for post-recovery periods, though they often lack the traction features of dedicated models.
 
@@ -158,15 +158,15 @@ Measure from ground to the height your dog needs to reach. Divide this height by
 
 ### Can I use a human ramp for my dog?
 
-Human ramps lack dog-specific features like optimal traction, appropriate angle, and side rails. Pet-specific ramps like the [Pet Gear Super Trax](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) are safer and more effective.
+Human ramps lack dog-specific features like optimal traction, appropriate angle, and side rails. Pet-specific ramps like the Pet Gear Super Trax are safer and more effective.
 
 ### How do I train my dog to use stairs or ramps?
 
-Start with treats placed along the surface, progressing to full climbs over 7-10 days. For fearful dogs, the [Best Pet Supplies Foam Stairs](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) with its low 5" rises build confidence fastest.
+Start with treats placed along the surface, progressing to full climbs over 7-10 days. For fearful dogs, the Best Pet Supplies Foam Stairs with its low 5" rises build confidence fastest.
 
 ### Are carpeted ramps better than rubber?
 
-Rubber ramps like the [PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) offer better long-term traction, grip consistency, and are easier to keep clean. Carpet can harbor moisture and becomes slippery when compressed.
+Rubber ramps like the PetSafe Happy Ride offer better long-term traction, grip consistency, and are easier to keep clean. Carpet can harbor moisture and becomes slippery when compressed.
 
 ### How often should I replace a dog ramp?
 
@@ -174,13 +174,13 @@ Inspect monthly for wear, cracked hinges, or loose fasteners. Most quality ramps
 
 ## Bottom Line
 
-After testing, the [PetSafe Happy Ride Folding Ramp](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) emerges as our top pick for most senior dogs. Its combination of reliable traction, 150lb capacity, and secure folding mechanism outperformed other options in real-world use. For giant breeds over 150lbs, the [Solvit Deluxe Telescoping Ramp](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) remains the best option for adequate support.
+After testing, the PetSafe Happy Ride Folding Ramp emerges as our top pick for most senior dogs. Its combination of reliable traction, 150lb capacity, and secure folding mechanism outperformed other options in real-world use. For giant breeds over 150lbs, the Solvit Deluxe Telescoping Ramp remains the best option for adequate support.
 
 **Key recommendation by dog size**:
-- **Under 25lbs**: [Best Pet Supplies Foam Stairs](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) for bed/couch access
-- **25-80lbs**: [PetSafe Happy Ride](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) for cars and home use
-- **80-150lbs**: [Pet Gear Super Trax](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) for its reinforced frame
-- **150+lbs**: [Solvit Deluxe](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) aluminum ramp
+- **Under 25lbs**: Best Pet Supplies Foam Stairs for bed/couch access
+- **25-80lbs**: PetSafe Happy Ride for cars and home use
+- **80-150lbs**: Pet Gear Super Trax for its reinforced frame
+- **150+lbs**: Solvit Deluxe aluminum ramp
 
 Regardless of choice, introduce any mobility aid gradually with positive reinforcement—your dog's confidence matters as much as the equipment's design.
 

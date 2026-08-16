@@ -13,7 +13,7 @@ bsr: 18561
 commissionPerSale: 0.0
 score: 192.87
 imageUrl: "https://m.media-amazon.com/images/I/61qHIrcxA9L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GG2RB2JP?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GG2RB2JP"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ ELOOP Orthopedic Memory Foam Dog Bed, Large Waterproof Pet Sofa with Sides & Rem
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GG2RB2JP" url="https://www.amazon.com/dp/B0GG2RB2JP?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GG2RB2JP" url="https://www.amazon.com/dp/B0GG2RB2JP" label="Check price on Amazon" />
 

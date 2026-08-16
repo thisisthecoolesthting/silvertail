@@ -34,10 +34,10 @@ When my 14-year-old Labrador, Moose, started flinching during brushings, I reali
 
 Senior pets (typically dogs over 7 and cats over 8) undergo physical changes that standard grooming tools can aggravate. Veterinary research shows 65% of dogs over 9 develop arthritis, while feline studies indicate 60% of cats over 12 experience reduced flexibility and skin thinning.  For more context, see our [article on signs of arthritis in](/articles/arthritis-symptoms-cats).These changes require specialized approaches:
 
-- **Joint Care:** Arthritic pets need tools that work with their limited range of motion. The [ZenDog Soft Bristle Brush](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) requires 40% less pressure than standard brushes, according to pressure sensor tests.
-- **Skin Protection:** Thinning skin tears easily. During testing, the [Paws Pamper Ultra-Soft Brush](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) caused zero visible irritation after 15 strokes on sensitive areas.
-- **Coat Changes:** Reduced oil production leads to brittle fur. The [Earthbath Oatmeal Spray](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) improved coat elasticity by 35% in hydration tests.
-- **Session Length:** Cognitive decline reduces tolerance. Breaking grooming into 5-minute segments with the [LickiMat Soother](https://www.amazon.com/dp/B073Q8P6CQ?tag=silvertail-20) increased compliance by 80%.
+- **Joint Care:** Arthritic pets need tools that work with their limited range of motion. The ZenDog Soft Bristle Brush requires 40% less pressure than standard brushes, according to pressure sensor tests.
+- **Skin Protection:** Thinning skin tears easily. During testing, the Paws Pamper Ultra-Soft Brush caused zero visible irritation after 15 strokes on sensitive areas.
+- **Coat Changes:** Reduced oil production leads to brittle fur. The Earthbath Oatmeal Spray improved coat elasticity by 35% in hydration tests.
+- **Session Length:** Cognitive decline reduces tolerance. Breaking grooming into 5-minute segments with the LickiMat Soother increased compliance by 80%.
 
 This guide combines veterinary insights with six months of hands-on testing using pressure sensors, thermal cameras, and coat hydration meters. We evaluated 12 products across three key metrics: comfort (measured by heart rate monitors), effectiveness (fur removal per stroke), and durability (500-stroke lifespan testing). For more context, see our [article on arthritis in senior cats:](/articles/arthritis-in-senior-cats-signs-care).
 
@@ -53,11 +53,11 @@ Overgrown nails alter posture dramatically. When a dog's nails exceed 2mm in len
 
 **The Hidden Dangers of Standard Tools:**
 - **Brushes:** Stiff nylon bristles create microscopic abrasions on thinning skin. Under thermal imaging, these abrasions show as 2-3°F temperature increases indicating inflammation.
-- **Combs:** Metal teeth concentrate force on small skin areas. Pressure mapping shows standard combs exert 8psi versus 2psi with the [Catit Sensitive Pro Groomer](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20).
+- **Combs:** Metal teeth concentrate force on small skin areas. Pressure mapping shows standard combs exert 8psi versus 2psi with the Catit Sensitive Pro Groomer.
 - **Surfaces:** Slippery floors cause muscle fatigue as pets struggle for balance.
 
-The [PetNeat Non-Slip Mat](https://www.amazon.com/dp/B0CGW48C3G?tag=silvertail-20) reduced compensatory muscle activation by 60% in EMG studies.
-- **Shampoos:** Alkaline formulas strip protective oils. pH testing revealed standard shampoos average 8.2 versus 7.0 for senior-specific formulas like [Earthbath Senior](https://www.amazon.com/dp/B0C3T4CHQ2?tag=silvertail-20).
+The PetNeat Non-Slip Mat reduced compensatory muscle activation by 60% in EMG studies.
+- **Shampoos:** Alkaline formulas strip protective oils. pH testing revealed standard shampoos average 8.2 versus 7.0 for senior-specific formulas like Earthbath Senior.
 
 Dr. Lisa Sanders, DACVD, explains: "We biopsy at least five senior pets weekly with brush-induced dermatitis. The pattern is always the same - linear abrasions from over-brushing with tools designed for younger animals."
 
@@ -69,14 +69,14 @@ Our 180-hour testing protocol evaluated products across four senior-specific met
 
 | Product | Key Innovation | Senior Benefit | Test Data |
 |---------|----------------|----------------|-----------|
-|[ZenDog Brush](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20)|Medical-grade silicone tips|Distributes force across 287 contact points|Reduced heart rate by 12bpm during use|
-|[Catit Groomer](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20)|12° angled teeth|Prevents skin folding|Allowed 22% more strokes before irritation|
-|[Hertzko Slicker](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20)|Flexible 2.5" pins|Releases undercoat without scraping|Removed 0.8g more undercoat per stroke than standard|
-|[Burt's Bees Wipes](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20)|Aloe-enriched formula|Cleans without rinsing|Maintained skin pH balance within 0.3 points|
-|[WarmPaws Brush](https://www.amazon.com/dp/B0DWD9NQ57?tag=silvertail-20)|Thermostatic heating|Improves blood flow to joints|7/10 pets showed increased brushing tolerance|
-|[Safari Dematting Comb](https://www.amazon.com/dp/B0C7ZTV376?tag=silvertail-20)|Blunted tip design|Safely works mats from edges|Reduced vocalizations by 65% during dematting|
-|[Bissell BarkBath](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20)|No-lift washing|Eliminates tub stress|Enabled bathing in 73% less time|
-|[Dremel PawControl](https://www.amazon.com/dp/B07Z6TV9Y7?tag=silvertail-20)|Variable speed control|Prevents quick overtrimming|Reduced nail trim stress behaviors by 80%|
+|ZenDog Brush|Medical-grade silicone tips|Distributes force across 287 contact points|Reduced heart rate by 12bpm during use|
+|Catit Groomer|12° angled teeth|Prevents skin folding|Allowed 22% more strokes before irritation|
+|Hertzko Slicker|Flexible 2.5" pins|Releases undercoat without scraping|Removed 0.8g more undercoat per stroke than standard|
+|Burt's Bees Wipes|Aloe-enriched formula|Cleans without rinsing|Maintained skin pH balance within 0.3 points|
+|WarmPaws Brush|Thermostatic heating|Improves blood flow to joints|7/10 pets showed increased brushing tolerance|
+|Safari Dematting Comb|Blunted tip design|Safely works mats from edges|Reduced vocalizations by 65% during dematting|
+|Bissell BarkBath|No-lift washing|Eliminates tub stress|Enabled bathing in 73% less time|
+|Dremel PawControl|Variable speed control|Prevents quick overtrimming|Reduced nail trim stress behaviors by 80%|
 
 The ZenDog brush's silicone filaments proved particularly innovative - they flex independently to follow joint contours, reducing pressure on arthritic areas by 55% compared to stiff-bristle brushes. For cats, the Catit groomer's self-cleaning feature addressed another senior-specific issue: reduced owner dexterity for removing trapped fur from tools.
 
@@ -100,7 +100,7 @@ Our longitudinal testing revealed critical insights about senior grooming rhythm
 2. Following with the ZenDog brush removed 15% more loose hair
 3. Finishing with Burt's Bees Wipes captured residual dander
 
-Unexpected finding: The [Andis Pet Deshedding Tool](https://www.amazon.com/dp/B0G3BYYZN2?tag=silvertail-20) worked best when used in downward strokes only on seniors, unlike the bidirectional motion recommended for younger pets. This adaptation reduced skin irritation by 30%.
+Unexpected finding: The Andis Pet Deshedding Tool worked best when used in downward strokes only on seniors, unlike the bidirectional motion recommended for younger pets. This adaptation reduced skin irritation by 30%.
 
 ## Cost math
 
@@ -124,7 +124,7 @@ The Bissell BarkBath demonstrated particularly strong ROI:
 - BarkBath system: $129 one-time
 - Break-even point: 3.2 months
 
-For cats, the [Arm Hammer Waterless Foam](https://www.amazon.com/dp/B085VZPR2Y?tag=silvertail-20) extended time between baths from 4 to 8 weeks, effectively halving grooming costs over time.
+For cats, the Arm Hammer Waterless Foam extended time between baths from 4 to 8 weeks, effectively halving grooming costs over time.
 
 ## Alternatives and refills
 
@@ -143,7 +143,7 @@ Budget-conscious options require careful implementation:
 For temporary solutions, a homemade 1:3 coconut oil to water spray provides limited detangling. However, lab tests showed it:
 - Lacked pH balancing (averaged 8.1 vs ideal 7.0)
 - Attracted dust between groomings
-- Required more frequent application than [Veterinary Formula Spray](https://www.amazon.com/dp/B0848Q34F8?tag=silvertail-20)
+- Required more frequent application than Veterinary Formula Spray
 
 ## FAQ
 
@@ -161,16 +161,16 @@ General guidelines:
 
 ### Are electric clippers safe for older pets?
 
-Low-vibration models like the [Andis Pulse ZR](https://www.amazon.com/dp/B0CDQXMV8W?tag=silvertail-20) can be used with precautions:
+Low-vibration models like the Andis Pulse ZR can be used with precautions:
 - Always use a #10 blade or longer
 - Check blade temperature every 30 seconds
 - Work in 1" sections to prevent overheating
-- Pair with the [Handi Groomer Mitt](https://www.amazon.com/dp/B099NZC4PB?tag=silvertail-20) for calming pressure
+- Pair with the Handi Groomer Mitt for calming pressure
 
 ### My dog hates being brushed - alternatives?
 
 Three proven approaches:
-1. **Associative Conditioning:** Pair brushing with high-value treats like [LickiMat Soother](https://www.amazon.com/dp/B073Q8P6CQ?tag=silvertail-20) spreads
+1. **Associative Conditioning:** Pair brushing with high-value treats like LickiMat Soother spreads
 2. **Tool Alternatives:** The grooming mitt feels like petting
 3. **Environmental Tweaks:** Brush during natural rest times when endorphins are highest
 
@@ -192,14 +192,14 @@ Senior bathing requires four adjustments:
 3. **Products:** Switch to oatmeal-based shampoos
 4. **Drying:** Use low-heat settings and microfiber towels
 
-The [Bissell BarkBath](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) system eliminates lifting into tubs - our test dogs showed 80% less stress during use.
+The Bissell BarkBath system eliminates lifting into tubs - our test dogs showed 80% less stress during use.
 
 ## Bottom line
 
 After six months of rigorous testing, three tools stood out for senior pet comfort:
-1. [ZenDog Soft Bristle Brush](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) for arthritic dogs
-2. [Catit Sensitive Pro Groomer](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) for fragile feline skin
-3. [PetNeat Non-Slip Mat](https://www.amazon.com/dp/B0CGW48C3G?tag=silvertail-20) for stability support
+1. ZenDog Soft Bristle Brush for arthritic dogs
+2. Catit Sensitive Pro Groomer for fragile feline skin
+3. PetNeat Non-Slip Mat for stability support
 
 Key usage tips:
 - Always brush in the direction of fur growth

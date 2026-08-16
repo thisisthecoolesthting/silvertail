@@ -44,7 +44,7 @@ Through trial and error with Moose and my senior cat Whiskers, I tested 22 groom
 - Protect paper-thin skin from abrasions
 - Minimize stressful handling
 
-This guide compares 8 products that made tangible differences in our daily routine, from the [Hertzko Self-Cleaning Slicker Brush](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) to the [Burt's Bees Hypoallergenic Shampoo](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20). You'll find cost breakdowns, real-world performance notes, and alternatives for pets with specific needs like diabetes or incontinence.
+This guide compares 8 products that made tangible differences in our daily routine, from the Hertzko Self-Cleaning Slicker Brush to the Burt's Bees Hypoallergenic Shampoo. You'll find cost breakdowns, real-world performance notes, and alternatives for pets with specific needs like diabetes or incontinence.
 
 We'll also explore:
 - How to modify your grooming space for pets with limited mobility
@@ -63,11 +63,11 @@ Grooming isn't just about aesthetics for older pets—it's a critical health int
 
 Three key physiological changes demand gentler tools:
 
-1. **Thinning Skin**: Senior pets lose 30-50% of their dermal thickness. The [Equigroomer Ultra Premium Deshedding Tool](https://www.amazon.com/dp/B073Q8P6CQ?tag=silvertail-20) uses rounded edges instead of sharp blades to prevent accidental cuts. I learned this the hard way when Moose developed a 2-inch abrasion from a standard brush that took weeks to heal.
+1. **Thinning Skin**: Senior pets lose 30-50% of their dermal thickness. The Equigroomer Ultra Premium Deshedding Tool uses rounded edges instead of sharp blades to prevent accidental cuts. I learned this the hard way when Moose developed a 2-inch abrasion from a standard brush that took weeks to heal.
 
-2. **Arthritis**: 65% of dogs over age 7 show radiographic signs of joint disease per the [American Veterinary Medical Association](https://www.avma.org/resources/pet-owners/petcare/caring-arthritic-pet). The [PetFusion Elevated Grooming Table](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) reduces painful bending with a 24" height-adjustable platform. For cats, placing a heated bed (like the [K&H Pet Products Thermo-Snuggle Cup](https://www.amazon.com/dp/B0002AR1LA?tag=silvertail-20)) on the grooming surface encourages relaxation.
+2. **Arthritis**: 65% of dogs over age 7 show radiographic signs of joint disease per the [American Veterinary Medical Association](https://www.avma.org/resources/pet-owners/petcare/caring-arthritic-pet). The PetFusion Elevated Grooming Table reduces painful bending with a 24" height-adjustable platform. For cats, placing a heated bed (like the K&H Pet Products Thermo-Snuggle Cup) on the grooming surface encourages relaxation.
 
-3. **Cognitive Decline**: Pets with dementia may forget grooming routines. The [Wahl Pet-Friendly Clippers](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) operate at 45dB—quieter than a refrigerator—to avoid startling confused animals. I've found success pairing grooming with positive reinforcement like lick mats smeared with [Honest Kitchen Goat's Milk](https://www.amazon.com/dp/B07P9QKQYH?tag=silvertail-20).
+3. **Cognitive Decline**: Pets with dementia may forget grooming routines. The Wahl Pet-Friendly Clippers operate at 45dB—quieter than a refrigerator—to avoid startling confused animals. I've found success pairing grooming with positive reinforcement like lick mats smeared with Honest Kitchen Goat's Milk.
 
 Neglecting these needs risks pressure sores, urinary tract infections from soiled fur, and mobility issues. But harsh products can be equally damaging—a 2021 Tufts University case study linked chemical burns in senior cats to alkaline shampoos with pH levels above 7.5. Through our testing, we identified three critical product specifications for senior pets:
 
@@ -86,43 +86,43 @@ We conducted 47 hours of controlled testing with senior pets of varying sizes an
 
 | Product | Best For | Key Feature | Price Per Use* | Safety Score (1-10) |
 |---------|----------|-------------|----------------|---------------------|
-| [Hertzko Self-Cleaning Brush](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) | Arthritic hands | Retractable pins reduce pressure | $0.03 | 9.2 |
-| [Burt's Bees Shampoo](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | Sensitive skin | pH 6.5 (matches pet skin) | $0.28 | 9.5 |
-| [PetFusion Grooming Table](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) | Large dogs | Non-slip surface + ramp | $1.10** | 8.7 |
-| [Wahl Quiet Clippers](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) | Hearing loss pets | 45dB operation | $0.18 | 8.9 |
-| [Earthbath No-Rinse Foam](https://www.amazon.com/dp/B085VZPR2Y?tag=silvertail-20) | Bedridden pets | Aloe vera formula | $0.35 | 8.4 |
-| [Dremel 7300-PT Grinder](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | Diabetic pets | LED quick sensor | $0.22 | 8.1 |
+| Hertzko Self-Cleaning Brush | Arthritic hands | Retractable pins reduce pressure | $0.03 | 9.2 |
+| Burt's Bees Shampoo | Sensitive skin | pH 6.5 (matches pet skin) | $0.28 | 9.5 |
+| PetFusion Grooming Table | Large dogs | Non-slip surface + ramp | $1.10** | 8.7 |
+| Wahl Quiet Clippers | Hearing loss pets | 45dB operation | $0.18 | 8.9 |
+| Earthbath No-Rinse Foam | Bedridden pets | Aloe vera formula | $0.35 | 8.4 |
+| Dremel 7300-PT Grinder | Diabetic pets | LED quick sensor | $0.22 | 8.1 |
 
 *Based on average lifespan per product
 **Per session over 5-year use
 
-The [Hertzko brush](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) outperformed 6 competitors in our mat-removal test on Moose's tangled feathering. Its 5.5" pins flex to avoid tugging, while the slide cleaner prevents overbrushing any single area—a common cause of irritation. For comparison, the [Equigroomer](https://www.amazon.com/dp/B073Q8P6CQ?tag=silvertail-20) works better for short-haired cats but lacks the Hertzko's pressure control.
+The Hertzko brush outperformed 6 competitors in our mat-removal test on Moose's tangled feathering. Its 5.5" pins flex to avoid tugging, while the slide cleaner prevents overbrushing any single area—a common cause of irritation. For comparison, the Equigroomer works better for short-haired cats but lacks the Hertzko's pressure control.
 
-Bathing presents unique challenges. The [Burt's Bees formula](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) requires no rinsing—critical for pets who panic under running water. In our tests, it removed 89% of urine stains versus 67% for traditional shampoos. For bedridden animals, the [Earthbath No-Rinse Foam](https://www.amazon.com/dp/B085VZPR2Y?tag=silvertail-20) works well but leaves slight residue that requires wiping with a [microfiber grooming mitt](https://www.amazon.com/dp/B08N5KJZ7G?tag=silvertail-20).
+Bathing presents unique challenges. The Burt's Bees formula requires no rinsing—critical for pets who panic under running water. In our tests, it removed 89% of urine stains versus 67% for traditional shampoos. For bedridden animals, the Earthbath No-Rinse Foam works well but leaves slight residue that requires wiping with a microfiber grooming mitt.
 
 ## Real-World Performance
 
-The [PetFusion table](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) proved indispensable for Moose's hip dysplasia. At 24" high, it eliminated the need for him to stand during 20-minute grooming sessions. The included ramp helped our 12-year-old neighbor's Dachshund access the surface safely. However, the textured surface requires weekly cleaning—food particles became embedded after 3 months of use. We solved this by adding a removable [Gorilla Grip mat](https://www.amazon.com/dp/B08PDTZJ1Y?tag=silvertail-20) that's dishwasher-safe.
+The PetFusion table proved indispensable for Moose's hip dysplasia. At 24" high, it eliminated the need for him to stand during 20-minute grooming sessions. The included ramp helped our 12-year-old neighbor's Dachshund access the surface safely. However, the textured surface requires weekly cleaning—food particles became embedded after 3 months of use. We solved this by adding a removable Gorilla Grip mat that's dishwasher-safe.
 
-Nail care presents hidden dangers. The [Dremel 7300-PT Grinder](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) offers 4 speed settings, but its vibration alarmed Whiskers until we paired it with the [Happy Hoodie Calming Cover](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20). For diabetic pets, the LED light on the [Casfuy Dog Nail Grinder](https://www.amazon.com/dp/B0848Q34F8?tag=silvertail-20) helps avoid quicking blood vessels that are more fragile in seniors. Our veterinary consultant recommends:
+Nail care presents hidden dangers. The Dremel 7300-PT Grinder offers 4 speed settings, but its vibration alarmed Whiskers until we paired it with the Happy Hoodie Calming Cover. For diabetic pets, the LED light on the Casfuy Dog Nail Grinder helps avoid quicking blood vessels that are more fragile in seniors. Our veterinary consultant recommends:
 
 1. Grind in 3-second bursts to prevent heat buildup
-2. Apply [Quick Stop powder](https://www.amazon.com/dp/B0002DJT94?tag=silvertail-20) immediately if bleeding occurs
-3. Follow with paw balm like [Musher's Secret](https://www.amazon.com/dp/B0002AQCXM?tag=silvertail-20) to prevent cracking
+2. Apply Quick Stop powder immediately if bleeding occurs
+3. Follow with paw balm like Musher's Secret to prevent cracking
 
-Unexpected finding: The [Hertzko brush's](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) self-cleaning mechanism jammed when removing large mats from double-coated breeds. We had better results pre-treating tangles with the [Cowboy Magic Detangler](https://www.amazon.com/dp/B0002AQJJK?tag=silvertail-20) before brushing. For severe mats, the [Master Grooming Tools Dematter](https://www.amazon.com/dp/B001WAK7IM?tag=silvertail-20) works but requires extreme caution—always work from the tips inward.
+Unexpected finding: The Hertzko brush's self-cleaning mechanism jammed when removing large mats from double-coated breeds. We had better results pre-treating tangles with the Cowboy Magic Detangler before brushing. For severe mats, the Master Grooming Tools Dematter works but requires extreme caution—always work from the tips inward.
 
 ## Cost Math
 
 Grooming costs for seniors often exceed expectations. Here's our detailed breakdown:
 
-1. **Professional Visits**: Mobile groomers charge $85-$120 per session for elderly pets requiring special handling. The [PetFusion table](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) pays for itself in 3 visits. Add $12 for [grooming arm attachments](https://www.amazon.com/dp/B08FY8XQ5P?tag=silvertail-20) that provide support during sessions.
+1. **Professional Visits**: Mobile groomers charge $85-$120 per session for elderly pets requiring special handling. The PetFusion table pays for itself in 3 visits. Add $12 for grooming arm attachments that provide support during sessions.
 
-2. **Shampoo Efficiency**: The [Burt's Bees concentrate](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) dilutes to 16oz (32 washes) vs. 8 washes from standard 16oz bottles. At $0.28/wash versus $1.25, annual savings reach $124 for weekly baths. Bulk buyers can save 58% with the [1-gallon refill](https://www.amazon.com/dp/B08H6KGPX3?tag=silvertail-20).
+2. **Shampoo Efficiency**: The Burt's Bees concentrate dilutes to 16oz (32 washes) vs. 8 washes from standard 16oz bottles. At $0.28/wash versus $1.25, annual savings reach $124 for weekly baths. Bulk buyers can save 58% with the 1-gallon refill.
 
-3. **Medical Bills Prevention**: Untrimmed nails can curl into paw pads, requiring $200-$400 vet visits. The [Dremel grinder](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) costs $0.18 per use if maintained properly. Compare to $15-$25 for professional trims every 6 weeks.
+3. **Medical Bills Prevention**: Untrimmed nails can curl into paw pads, requiring $200-$400 vet visits. The Dremel grinder costs $0.18 per use if maintained properly. Compare to $15-$25 for professional trims every 6 weeks.
 
-For pets needing daily brushing, the [Hertzko](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) averages $0.03 per session over 5 years—cheaper than disposable mitts at $0.12 each. The break-even point comes at 23 uses compared to professional deshedding treatments. Consider these additional savings:
+For pets needing daily brushing, the Hertzko averages $0.03 per session over 5 years—cheaper than disposable mitts at $0.12 each. The break-even point comes at 23 uses compared to professional deshedding treatments. Consider these additional savings:
 
 - Reduced vet bills from early mat detection
 - Longer-lasting bedding when fur is controlled
@@ -131,33 +131,33 @@ For pets needing daily brushing, the [Hertzko](https://www.amazon.com/dp/B00063R
 ## Alternatives and Refills
 
 For households with multiple senior pets:
-- **Bulk Buyers**: The [4-pack Hertzko brush set](https://www.amazon.com/dp/B07Z6TV9Y7?tag=silvertail-20) cuts per-unit cost by 37%
-- **DIY Solutions**: Cut up horse stall mats as non-slip surfaces ($12/sq ft vs $45 for branded pads). Use [vet wrap](https://www.amazon.com/dp/B01N4S7R7D?tag=silvertail-20) to pad existing brushes.
-- **Refill Programs**: Burt's Bees offers [1-gallon shampoo refills](https://www.amazon.com/dp/B08H6KGPX3?tag=silvertail-20) at 58% savings
+- **Bulk Buyers**: The 4-pack Hertzko brush set cuts per-unit cost by 37%
+- **DIY Solutions**: Cut up horse stall mats as non-slip surfaces ($12/sq ft vs $45 for branded pads). Use vet wrap to pad existing brushes.
+- **Refill Programs**: Burt's Bees offers 1-gallon shampoo refills at 58% savings
 
 Mobility-impaired pets benefit from:
-- [Adjustable height ramps](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) for tubs with side rails
-- [Grooming slings](https://www.amazon.com/dp/B0CGW48C3G?tag=silvertail-20) that support weight during bathing
-- [Heated drying mats](https://www.amazon.com/dp/B08PDTZJ1Y?tag=silvertail-20) to prevent post-bath chills
+- Adjustable height ramps for tubs with side rails
+- Grooming slings that support weight during bathing
+- Heated drying mats to prevent post-bath chills
 
-For cats resistant to water, [waterless foam](https://www.amazon.com/dp/B085VZPR2Y?tag=silvertail-20) works between baths but shouldn't replace wet cleaning entirely. Try the [LickiMat Soother](https://www.amazon.com/dp/B07KX3S4Q5?tag=silvertail-20) with pureed treats to distract during wipe-downs.
+For cats resistant to water, waterless foam works between baths but shouldn't replace wet cleaning entirely. Try the LickiMat Soother with pureed treats to distract during wipe-downs.
 
 ## FAQ
 
 ### How often should I groom my senior pet?
 
-Brush short-haired pets 2-3x weekly; long-haired daily to prevent mats. Bath every 4-6 weeks unless medically necessary. Over-bathing dries fragile skin—use the [Burt's Bees conditioner](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) between washes.
+Brush short-haired pets 2-3x weekly; long-haired daily to prevent mats. Bath every 4-6 weeks unless medically necessary. Over-bathing dries fragile skin—use the Burt's Bees conditioner between washes.
 
 ### Are electric clippers safe for elderly pets?
 
-Yes, if using low-vibration models like the [Wahl KM10](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20). Avoid areas with skin folds or moles that are prone to nicking. Always:
+Yes, if using low-vibration models like the Wahl KM10. Avoid areas with skin folds or moles that are prone to nicking. Always:
 1. Test on your forearm first
-2. Use cooling spray like [Andis Cool Care](https://www.amazon.com/dp/B0002ARAXA?tag=silvertail-20)
+2. Use cooling spray like Andis Cool Care
 3. Work in 1" sections
 
 ### My dog hates nail trims—alternatives?
 
-Try [scratch boards](https://www.amazon.com/dp/B0DWD9NQ57?tag=silvertail-20) for front paws. For rears, the [Dremel grinder](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) with peanut butter distraction works best. Desensitize over 2-3 weeks:
+Try scratch boards for front paws. For rears, the Dremel grinder with peanut butter distraction works best. Desensitize over 2-3 weeks:
 
 Week 1: Touch paws with grinder off
 Week 2: Turn on grinder 3ft away
@@ -165,14 +165,14 @@ Week 3: Brief contact with rotating head
 
 ### How do I clean urine stains without bathing?
 
-The [Burt's Bees shampoo](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) can spot-clean when diluted 3:1. For set-in stains, the [Nature's Miracle wipes](https://www.amazon.com/dp/B07SX1H6J?tag=silvertail-20) break down enzymes. Always:
+The Burt's Bees shampoo can spot-clean when diluted 3:1. For set-in stains, the Nature's Miracle wipes break down enzymes. Always:
 1. Blot—never rub
 2. Rinse with cool water
-3. Apply [Vetericyn spray](https://www.amazon.com/dp/B002VLZHLS?tag=silvertail-20) to prevent infection
+3. Apply Vetericyn spray to prevent infection
 
 ### Can I use human clippers on pets?
 
-No—human blades run hotter and cut at the wrong angle. The [Andis Pulse ZR](https://www.amazon.com/dp/B0C7ZTV376?tag=silvertail-20) has pet-specific blade guards. Key differences:
+No—human blades run hotter and cut at the wrong angle. The Andis Pulse ZR has pet-specific blade guards. Key differences:
 
 | Feature | Pet Clippers | Human Clippers |
 |---------|--------------|----------------|
@@ -182,7 +182,7 @@ No—human blades run hotter and cut at the wrong angle. The [Andis Pulse ZR](ht
 
 ## Bottom Line
 
-For most senior pets, the [Hertzko Self-Cleaning Brush](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) and [Burt's Bees Shampoo](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) form the safest, most cost-effective grooming foundation. Arthritic dogs benefit tremendously from the [PetFusion table's](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) ergonomic design, while the [Wahl clippers](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) reduce stress for noise-sensitive pets.
+For most senior pets, the Hertzko Self-Cleaning Brush and Burt's Bees Shampoo form the safest, most cost-effective grooming foundation. Arthritic dogs benefit tremendously from the PetFusion table's ergonomic design, while the Wahl clippers reduce stress for noise-sensitive pets.
 
 Key takeaways:
 - Prioritize tools with pressure control and non-slip features
@@ -190,7 +190,7 @@ Key takeaways:
 - Calculate long-term costs—professional grooming adds up quickly
 - Modify techniques for cognitive decline (shorter sessions, more rewards)
 
-For pets with severe mobility issues, combine the [PetFusion table](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) with a [support sling](https://www.amazon.com/dp/B0CGW48C3G?tag=silvertail-20) to make grooming sessions safer and less painful. Remember: gentle consistency matters more than perfection for aging companions.
+For pets with severe mobility issues, combine the PetFusion table with a support sling to make grooming sessions safer and less painful. Remember: gentle consistency matters more than perfection for aging companions.
 
 <!-- padded-no-api-v2 -->
 

@@ -70,10 +70,10 @@ When selecting mobility aids for cats, consider their specific needs, your home 
 
 | Product | Best For | Weight Capacity | Surface | Angle | Price |
 |---------|----------|-----------------|---------|-------|-------|
-| [PetSafe CozyUp Bedside Ramp](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) | Low-angle climbs to beds/couches | 200 lbs | Carpeted | 20° | $59.95 |
-| [PetStairs Extra Wide Pet Steps](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | Cats who prefer steps over ramps | 150 lbs | Plush fabric | 30° | $49.99 |
-| [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | Adjustable height needs | 400 lbs | Traction grooves | Adjustable | $89.99 |
-| [Frisco Foldable Pet Stairs](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) | Space-saving storage | 120 lbs | Plush removable cover | 35° | $39.99 |
+| PetSafe CozyUp Bedside Ramp | Low-angle climbs to beds/couches | 200 lbs | Carpeted | 20° | $59.95 |
+| PetStairs Extra Wide Pet Steps | Cats who prefer steps over ramps | 150 lbs | Plush fabric | 30° | $49.99 |
+| Solvit Deluxe Telescoping Pet Ramp | Adjustable height needs | 400 lbs | Traction grooves | Adjustable | $89.99 |
+| Frisco Foldable Pet Stairs | Space-saving storage | 120 lbs | Plush removable cover | 35° | $39.99 |
 
 **Key considerations**:
 - **Ramps** work best for cats with severe arthritis as they require less joint flexion
@@ -81,7 +81,7 @@ When selecting mobility aids for cats, consider their specific needs, your home 
 - **Weight capacity** matters even for small cats - a sturdy build prevents scary wobbles
 - **Surface texture** should provide secure footing (avoid slippery plastics)
 
-The [PetSafe CozyUp Ramp](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) offers the gentlest incline we tested, while the [Solvit Telescoping Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) provides unmatched versatility for varying heights. For budget-conscious pet parents, the [Frisco Foldable Stairs](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) provide decent quality at an affordable price point.
+The PetSafe CozyUp Ramp offers the gentlest incline we tested, while the Solvit Telescoping Ramp provides unmatched versatility for varying heights. For budget-conscious pet parents, the Frisco Foldable Stairs provide decent quality at an affordable price point.
 
 When choosing between ramps and steps, consider your cat's specific needs. Ramps are generally easier on joints but may take longer for some cats to accept. Steps provide a more familiar climbing experience but require more joint flexion. Testing both options can help determine which your cat prefers.
 
@@ -89,13 +89,13 @@ When choosing between ramps and steps, consider your cat's specific needs. Ramps
 
 After testing these products with senior cats for 6+ months, we observed some important real-world insights:
 
-**Ramp acceptance**: About 60% of cats took to ramps immediately, while others needed gradual introduction. Placing treats along the ramp and at the top encouraged exploration. The [PetSafe CozyUp](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) had the highest acceptance rate thanks to its low angle and carpeted surface that felt secure underfoot.
+**Ramp acceptance**: About 60% of cats took to ramps immediately, while others needed gradual introduction. Placing treats along the ramp and at the top encouraged exploration. The PetSafe CozyUp had the highest acceptance rate thanks to its low angle and carpeted surface that felt secure underfoot.
 
-**Stability issues**: Some lightweight steps tended to shift when cats pushed off. We recommend weighting down the base or choosing models with wider footprints like the [PetStairs Extra Wide](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20). For larger cats (over 15 lbs), telescoping ramps provided the most stable platform.
+**Stability issues**: Some lightweight steps tended to shift when cats pushed off. We recommend weighting down the base or choosing models with wider footprints like the PetStairs Extra Wide. For larger cats (over 15 lbs), telescoping ramps provided the most stable platform.
 
-**Cleaning challenges**: Removable, machine-washable covers (found on the [Frisco Foldable Stairs](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20)) made maintenance much easier than fixed surfaces. Cats with incontinence issues particularly benefited from washable options.
+**Cleaning challenges**: Removable, machine-washable covers (found on the Frisco Foldable Stairs) made maintenance much easier than fixed surfaces. Cats with incontinence issues particularly benefited from washable options.
 
-**Space constraints**: The [Solvit Telescoping Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) stored most compactly when not in use, while permanent stair solutions required dedicated floor space. Consider your room layout before choosing.
+**Space constraints**: The Solvit Telescoping Ramp stored most compactly when not in use, while permanent stair solutions required dedicated floor space. Consider your room layout before choosing.
 
 Unexpected benefit: Several testers reported their cats began using the ramps/steps for descents first, which actually helps protect joints more than jumps down. This reduced impact may explain why 78% of participants saw improved mobility within 3 months of consistent use.
 
@@ -120,9 +120,9 @@ Assuming your cat uses the aid 4 times daily for 3 years:
 - Arthritis medication monthly: $30-$80
 - Physical therapy sessions: $50-$100 each
 
-**Budget options**: The [Frisco Foldable Stairs](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) at $39.99 provide excellent value, while the [Hepper Orthopedic Bed](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) offers joint support for $59.99. For households with multiple pets, investing in a heavy-duty ramp like the [Solvit Telescoping](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) at $89.99 ensures longevity.
+**Budget options**: The Frisco Foldable Stairs at $39.99 provide excellent value, while the Hepper Orthopedic Bed offers joint support for $59.99. For households with multiple pets, investing in a heavy-duty ramp like the Solvit Telescoping at $89.99 ensures longevity.
 
-Consider that a single avoided injury or delayed progression of arthritis can make these aids pay for themselves many times over. The [PetSafe CozyUp Ramp](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20), while mid-range at $59.95, showed the best combination of cat acceptance and durability in our tests.
+Consider that a single avoided injury or delayed progression of arthritis can make these aids pay for themselves many times over. The PetSafe CozyUp Ramp, while mid-range at $59.95, showed the best combination of cat acceptance and durability in our tests.
 
 Understanding the financial aspect of mobility aids can help justify the investment. While the initial cost may seem high, the long-term benefits in terms of reduced veterinary expenses and improved quality of life for your cat make it a worthwhile investment. Additionally, many products offer warranties or replacement parts, further extending their value.
 
@@ -145,10 +145,10 @@ For those seeking non-traditional solutions or ways to enhance existing products
 - Amazon Subscribe & Save works well for joint supplement refills
 
 **Third-party accessories**:
-- The [Kitty Cot](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) ($34.99) provides a midway resting platform for longer ramps
-- [Pet Gear Ramps](https://www.amazon.com/dp/B0C7ZTV376?tag=silvertail-20) offer compatible traction pads ($19.99)
+- The Kitty Cot ($34.99) provides a midway resting platform for longer ramps
+- Pet Gear Ramps offer compatible traction pads ($19.99)
 
-While DIY solutions can work temporarily, they often lack the stability and safety testing of commercial products. The [PetStairs Extra Wide](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) remains our top pick for customizable solutions, with available replacement covers ($24.99) that refresh worn surfaces without replacing the entire unit.
+While DIY solutions can work temporarily, they often lack the stability and safety testing of commercial products. The PetStairs Extra Wide remains our top pick for customizable solutions, with available replacement covers ($24.99) that refresh worn surfaces without replacing the entire unit.
 
 Exploring alternative solutions can provide additional options for pet parents on a budget or those looking to customize their cat's mobility aids. However, it's important to ensure that any DIY solutions are safe and stable to prevent accidents or injuries.
 
@@ -164,7 +164,7 @@ Most cats adapt within 2-4 weeks with proper introduction. Start with treats on 
 
 ### What angle is best for cat ramps?
 
-Ideally 20-30 degrees. Steeper angles may discourage use. The [PetSafe CozyUp](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) maintains a gentle 20° incline that even arthritic cats manage well.
+Ideally 20-30 degrees. Steeper angles may discourage use. The PetSafe CozyUp maintains a gentle 20° incline that even arthritic cats manage well.
 
 ### How often should I replace mobility aids?
 
@@ -172,7 +172,7 @@ Inspect monthly for loose joints or worn traction surfaces. Most quality product
 
 ### Can mobility aids help prevent injuries?
 
-Absolutely. By reducing jump heights and providing secure footing, quality aids like the [Solvit Telescoping Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) can prevent falls that lead to sprains, fractures, or exacerbation of arthritis.
+Absolutely. By reducing jump heights and providing secure footing, quality aids like the Solvit Telescoping Ramp can prevent falls that lead to sprains, fractures, or exacerbation of arthritis.
 
 Understanding the frequently asked questions about cat mobility aids can help pet parents make informed decisions and address common concerns. Providing clear, concise answers can alleviate worries and encourage proactive measures to support their cat's mobility.
 
@@ -180,13 +180,13 @@ Understanding the frequently asked questions about cat mobility aids can help pe
 
 Watching your cat struggle with mobility loss is difficult, but the right aids can dramatically improve their quality of life. After extensive testing, we recommend:
 
-**Best Overall**: The [PetSafe CozyUp Bedside Ramp](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) for its ideal angle, secure footing, and high acceptance rate among cats. At $59.95, it provides excellent value and durability.
+**Best Overall**: The PetSafe CozyUp Bedside Ramp for its ideal angle, secure footing, and high acceptance rate among cats. At $59.95, it provides excellent value and durability.
 
-**Best Budget Option**: [Frisco Foldable Pet Stairs](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) at $39.99 offer quality steps that store easily when not in use.
+**Best Budget Option**: Frisco Foldable Pet Stairs at $39.99 offer quality steps that store easily when not in use.
 
-**Premium Pick**: For adjustable height needs, the [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) at $89.99 accommodates everything from low couches to high beds.
+**Premium Pick**: For adjustable height needs, the Solvit Deluxe Telescoping Pet Ramp at $89.99 accommodates everything from low couches to high beds.
 
-Pair your chosen mobility aid with an [orthopedic bed](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) to provide joint support during rest. Remember that gradual introduction and positive reinforcement yield the best results. With patience and the right tools, you can help your senior cat navigate their world comfortably for years to come.
+Pair your chosen mobility aid with an orthopedic bed to provide joint support during rest. Remember that gradual introduction and positive reinforcement yield the best results. With patience and the right tools, you can help your senior cat navigate their world comfortably for years to come.
 
 Understanding the bottom line helps pet parents make informed decisions about which mobility aids to invest in. Highlighting the best options based on extensive testing and real-world performance ensures that pet parents can choose products that will truly benefit their cats. Encouraging patience and gradual introduction emphasizes the importance of a thoughtful approach to implementing these aids.
 

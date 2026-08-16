@@ -13,7 +13,7 @@ bsr: 15
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GJS23BC1?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GJS23BC1"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ SI Joint Hip Belt for Men and Women,Sacroiliac Pelvic Support Belt for Sciatica 
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GJS23BC1" url="https://www.amazon.com/dp/B0GJS23BC1?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GJS23BC1" url="https://www.amazon.com/dp/B0GJS23BC1" label="Check price on Amazon" />
 

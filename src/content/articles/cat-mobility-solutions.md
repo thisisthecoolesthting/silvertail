@@ -55,12 +55,12 @@ Selecting the right mobility aid requires careful consideration of your cat's sp
 
 | Product | Type | Weight Capacity | Step/Ramp Width | Step Height | Surface Material | Foldable | Washable Cover | Price |
 |---------|------|-----------------|-----------------|-------------|------------------|----------|----------------|-------|
-| [Pet Gear Easy Step II Pet Stairs](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) | 3-step stairs | 150 lbs | 16" | 6" | Textured foam | No | No | $59.99 |
-| [PetSafe Solvit PupSTEP Plus Pet Stairs](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | 4-step stairs | 150 lbs | 14" | 5.5" | Plush carpet | No | Yes | $69.95 |
-| [PetSTEP Original Folding Pet Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | 72" ramp | 500 lbs | 16" | N/A | High-traction carpet | Yes | No | $129.99 |
-| [Kitty City Small Pet Steps](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) | 2-step stairs | 75 lbs | 12" | 7" | Textured plastic | No | No | $39.99 |
-| [Pet Gear Stair Ramp Combination](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) | 3-step + ramp | 150 lbs | 16" | 6" | Textured foam | No | No | $89.99 |
-| [Petmaker Foam Pet Steps](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) | 3-step stairs | 100 lbs | 15" | 6.5" | Removable fleece | No | Yes | $49.99 |
+| Pet Gear Easy Step II Pet Stairs | 3-step stairs | 150 lbs | 16" | 6" | Textured foam | No | No | $59.99 |
+| PetSafe Solvit PupSTEP Plus Pet Stairs | 4-step stairs | 150 lbs | 14" | 5.5" | Plush carpet | No | Yes | $69.95 |
+| PetSTEP Original Folding Pet Ramp | 72" ramp | 500 lbs | 16" | N/A | High-traction carpet | Yes | No | $129.99 |
+| Kitty City Small Pet Steps | 2-step stairs | 75 lbs | 12" | 7" | Textured plastic | No | No | $39.99 |
+| Pet Gear Stair Ramp Combination | 3-step + ramp | 150 lbs | 16" | 6" | Textured foam | No | No | $89.99 |
+| Petmaker Foam Pet Steps | 3-step stairs | 100 lbs | 15" | 6.5" | Removable fleece | No | Yes | $49.99 |
 
 For cats with severe arthritis, ramps generally outperform stairs because they require less joint flexion. The PetSTEP ramp's 16" width accommodates cautious, wide-legged stances common in arthritic cats. However, in multi-cat households, stairs like the PetSafe Solvit often see higher acceptance rates as they mimic natural climbing behaviors. The Pet Gear combination unit offers unique versatility - cats can choose their preferred method.
 
@@ -70,16 +70,16 @@ For beds 24" high, the 72" PetSTEP ramp creates a gentle 18-degree incline, whil
 
 ## Real-world performance
 
-After six months of testing with 25 senior cats (ages 11-18), we gathered comprehensive data on product performance in actual home environments. The [Pet Gear Easy Step II Pet Stairs](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) achieved a 92% acceptance rate after two weeks, with the textured foam surface proving especially helpful for cats with paw pad sensitivity.
+After six months of testing with 25 senior cats (ages 11-18), we gathered comprehensive data on product performance in actual home environments. The Pet Gear Easy Step II Pet Stairs achieved a 92% acceptance rate after two weeks, with the textured foam surface proving especially helpful for cats with paw pad sensitivity.
 
-However, three cats with advanced hind leg weakness struggled with the 6" step height - for these felines, we recommend the [PetSafe Solvit PupSTEP Plus](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) with its more gradual 5.5" rises. The PetSTEP ramp required the longest adjustment period (average 18 days) but ultimately provided the best solution for high surfaces like beds, particularly for larger cats over 12 lbs. During testing, we discovered several implementation strategies that dramatically improved acceptance rates:
+However, three cats with advanced hind leg weakness struggled with the 6" step height - for these felines, we recommend the PetSafe Solvit PupSTEP Plus with its more gradual 5.5" rises. The PetSTEP ramp required the longest adjustment period (average 18 days) but ultimately provided the best solution for high surfaces like beds, particularly for larger cats over 12 lbs. During testing, we discovered several implementation strategies that dramatically improved acceptance rates:
 
 1. Scent transfer: Rubbing a used sock on the steps/ramp to transfer familiar scents
 2. Progressive placement: Starting the aid horizontally on the floor, then gradually angling it over days
 3. Dual-sided tape: Applying temporary traction strips for hesitant cats
 4. Companion modeling: Having another pet demonstrate use (effective in 68% of multi-pet homes)
 
-The [Kitty City Small Pet Steps](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) worked exceptionally well for petite cats under 8 lbs, but their 7" step height proved challenging for larger breeds. An unexpected finding was that 40% of test cats preferred using mobility aids at night, suggesting placement near favorite sleeping areas boosts utilization. We also observed that combining mobility aids with [orthopedic cat beds](https://www.amazon.com/dp/B07PBLD2MX?tag=silvertail-20) created a complete comfort system that improved overall mobility by 31% in our metrics.
+The Kitty City Small Pet Steps worked exceptionally well for petite cats under 8 lbs, but their 7" step height proved challenging for larger breeds. An unexpected finding was that 40% of test cats preferred using mobility aids at night, suggesting placement near favorite sleeping areas boosts utilization. We also observed that combining mobility aids with orthopedic cat beds created a complete comfort system that improved overall mobility by 31% in our metrics.
 
 ## Cost math
 
@@ -89,7 +89,7 @@ While mobility aids represent an investment, breaking down costs over their life
 
 2. **PetSTEP Ramp** ($129.99): Lasting 10+ years with proper care, the annualized $13 cost becomes negligible when shared between multiple pets. For a household with two cats and a small dog, the per-pet annual cost drops to $4.33.
 
-3. **Premium Options**: The [PetStairs Premium Carpeted Steps](https://www.amazon.com/dp/B07FNX6KQ5?tag=silvertail-20) ($149) seem expensive initially, but their commercial-grade construction lasts 15+ years - just $10 annually for a decade and a half of service.
+3. **Premium Options**: The PetStairs Premium Carpeted Steps ($149) seem expensive initially, but their commercial-grade construction lasts 15+ years - just $10 annually for a decade and a half of service.
 
 Insurance considerations: Many pet insurance plans now cover mobility aids with a vet prescription. Nationwide's Whole Pet plan, for example, reimburses 90% for prescribed mobility devices. Even without insurance, these aids often qualify as medical expense deductions if prescribed by a veterinarian.
 
@@ -103,11 +103,11 @@ For pet owners seeking non-commercial solutions or ways to enhance existing prod
 
 **Furniture Rearrangement**: Create a "step system" using existing furniture. Place a sturdy 16" high ottoman 18" from your 24" high bed, creating two manageable 8" steps. Add non-slip mats to each surface. This approach works particularly well in small apartments where dedicated pet stairs might overwhelm the space.
 
-**Hybrid Solutions**: Combine commercial products with homemade additions. For example, place the [Kitty City Steps](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) atop a 4" foam pad to reduce the effective step height from 7" to 3" - ideal for cats with severe hip dysplasia.
+**Hybrid Solutions**: Combine commercial products with homemade additions. For example, place the Kitty City Steps atop a 4" foam pad to reduce the effective step height from 7" to 3" - ideal for cats with severe hip dysplasia.
 
 **Maintenance Tips**: For washable covers like those on the PetSafe stairs, use hypoallergenic detergent and air dry to preserve anti-slip backing. Every 3 months, check all fasteners and joints for stability. Apply carpet refresher powder monthly to maintain traction. For ramps, replace traction tape annually or when visible wear appears.
 
-**Supplemental Products**: Pair mobility aids with [therapeutic heated beds](https://www.amazon.com/dp/B08PDT5S2S?tag=silvertail-20) to soothe arthritic joints, or add [night lights](https://www.amazon.com/dp/B07D9C9QK6?tag=silvertail-20) near aids for better nighttime visibility.
+**Supplemental Products**: Pair mobility aids with therapeutic heated beds to soothe arthritic joints, or add night lights near aids for better nighttime visibility.
 
 ## FAQ
 
@@ -143,13 +143,13 @@ The ideal incline follows this formula: for every 1" of height, provide 3" of le
 | 24" | 72" | 18° |
 | 24" | 48" (absolute minimum) | 27° |
 
-For tight spaces, the [Pet Gear Stair Ramp Combination](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) offers a compromise with 6" stair rises connected by small ramp sections.
+For tight spaces, the Pet Gear Stair Ramp Combination offers a compromise with 6" stair rises connected by small ramp sections.
 
 ### Can I use dog stairs for my cat?
 
 Yes, but with three important considerations:
 
-1. **Step Depth**: Cats prefer 10-12" deep steps versus dogs' 8-10". The [Petmaker Foam Steps](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) offer 15" depth ideal for both.
+1. **Step Depth**: Cats prefer 10-12" deep steps versus dogs' 8-10". The Petmaker Foam Steps offer 15" depth ideal for both.
 2. **Surface Texture**: Avoid metal or hard plastic steps - cats prefer carpet or foam.
 3. **Weight Rating**: Most dog stairs support 100+ lbs, which is overkill for cats but doesn't cause harm.
 
@@ -171,13 +171,13 @@ For all types, inspect monthly for loose parts or worn traction surfaces. Replac
 
 After extensive research and testing, we recommend a tiered approach to senior cat mobility solutions:
 
-**Best Overall**: The [Pet Gear Easy Step II Pet Stairs](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) provide the ideal balance of affordability ($59.99), stability (150 lb capacity), and cat-friendly design (textured foam steps). Their 6" rise suits most mild-to-moderate mobility issues and they accommodate cats up to 20 lbs.
+**Best Overall**: The Pet Gear Easy Step II Pet Stairs provide the ideal balance of affordability ($59.99), stability (150 lb capacity), and cat-friendly design (textured foam steps). Their 6" rise suits most mild-to-moderate mobility issues and they accommodate cats up to 20 lbs.
 
-**Premium Choice**: For households needing superior durability, the [PetStairs Premium Carpeted Steps](https://www.amazon.com/dp/B07FNX6KQ5?tag=silvertail-20) offer commercial-grade construction that lasts 15+ years. The plush carpet surface is exceptionally comfortable for arthritic paws.
+**Premium Choice**: For households needing superior durability, the PetStairs Premium Carpeted Steps offer commercial-grade construction that lasts 15+ years. The plush carpet surface is exceptionally comfortable for arthritic paws.
 
-**Best for Severe Arthritis**: The [PetSTEP Original Folding Pet Ramp](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20), while more expensive ($129.99), provides the gentlest incline for cats with significant joint pain. Its 72" length creates an optimal 18° angle for high surfaces.
+**Best for Severe Arthritis**: The PetSTEP Original Folding Pet Ramp, while more expensive ($129.99), provides the gentlest incline for cats with significant joint pain. Its 72" length creates an optimal 18° angle for high surfaces.
 
-**Space-Saver Solution**: The [Kitty City Small Pet Steps](https://www.amazon.com/dp/B09N9SR36W?tag=silvertail-20) work perfectly in apartments or small homes, with a 12" width that fits tight spaces. Best for cats under 10 lbs.
+**Space-Saver Solution**: The Kitty City Small Pet Steps work perfectly in apartments or small homes, with a 12" width that fits tight spaces. Best for cats under 10 lbs.
 
 Remember that successful implementation requires patience - our data shows it takes an average of 2-3 weeks for cats to fully adopt mobility aids. Combine these products with regular veterinary check-ups, joint supplements, and environmental modifications for comprehensive mobility support. By investing in the right solution for your cat's specific needs, you're giving them the priceless gift of comfortable movement in their senior years.
 

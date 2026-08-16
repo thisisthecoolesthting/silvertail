@@ -13,7 +13,7 @@ bsr: 30841
 commissionPerSale: 0.0
 score: 185.05
 imageUrl: "https://m.media-amazon.com/images/I/61o3Bg5DszL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GK9DCCD1?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GK9DCCD1"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ ChunHee Recordable Dog Doorbell – Train Your Dog with Your Own Voice, Puppy Po
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GK9DCCD1" url="https://www.amazon.com/dp/B0GK9DCCD1?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GK9DCCD1" url="https://www.amazon.com/dp/B0GK9DCCD1" label="Check price on Amazon" />
 

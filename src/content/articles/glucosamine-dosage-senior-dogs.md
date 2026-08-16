@@ -43,7 +43,7 @@ We conducted this research after our own 11-year-old German Shepherd mix began s
 
 ## Why This Matters
 
-Canine arthritis affects 80% of dogs over 8 years old according to the American Kennel Club, but most owners don't realize glucosamine's effectiveness depends on three factors: bioavailability (how much actually reaches joints), synergistic ingredients (like chondroitin and MSM), and weight-specific dosing. Underdosing wastes money while overdosing can cause gastrointestinal upset. We tracked mobility changes in test dogs using [Nutramax Cosequin Maximum Strength](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) versus budget options, revealing why some "complete" formulas fail in practice.
+Canine arthritis affects 80% of dogs over 8 years old according to the American Kennel Club, but most owners don't realize glucosamine's effectiveness depends on three factors: bioavailability (how much actually reaches joints), synergistic ingredients (like chondroitin and MSM), and weight-specific dosing. Underdosing wastes money while overdosing can cause gastrointestinal upset. We tracked mobility changes in test dogs using Nutramax Cosequin Maximum Strength versus budget options, revealing why some "complete" formulas fail in practice.
 
 The stakes extend beyond comfort—proper joint support may delay the need for pain medications with potential side effects.
 
@@ -55,29 +55,29 @@ One unexpected finding: environmental factors dramatically impact results. Dogs 
 
 | Product | Key Ingredients | Dosage (50lb dog) | Price/Month | Our Rating |
 |---------|-----------------|-------------------|-------------|------------|
-| [Nutramax Cosequin DS Plus](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) | Glucosamine 600mg, Chondroitin 300mg, MSM 250mg | 2 chewables | $28.50 | ★★★★☆ |
-| [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) | Glucosamine 400mg, Hyaluronic Acid 3mg | 3 soft chews | $22.99 | ★★★☆☆ |
-| [Dasuquin with MSM](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) | Glucosamine 600mg, ASU (avocado/soybean unsaponifiables) | 1 tablet | $34.75 | ★★★★★ |
+| Nutramax Cosequin DS Plus | Glucosamine 600mg, Chondroitin 300mg, MSM 250mg | 2 chewables | $28.50 | ★★★★☆ |
+| Zesty Paws Mobility Bites | Glucosamine 400mg, Hyaluronic Acid 3mg | 3 soft chews | $22.99 | ★★★☆☆ |
+| Dasuquin with MSM | Glucosamine 600mg, ASU (avocado/soybean unsaponifiables) | 1 tablet | $34.75 | ★★★★★ |
 
 In our testing, Dasuquin showed noticeable improvement in stair navigation within 3 weeks for dogs with moderate stiffness, whereas other brands typically showed progress at the 6+ week mark. The smaller glucosamine amount in Zesty Paws makes it better suited for dogs under 40lbs.
 
-We also tested [GlycoFlex Plus](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20), which incorporates perna canaliculus (green-lipped mussel) extract. While priced higher at $42/month for a 50lb dog, this option showed promising results for dogs with advanced arthritis, particularly in hind legs. The marine-based compounds appear to target inflammation differently than traditional glucosamine/chondroitin blends.
+We also tested GlycoFlex Plus, which incorporates perna canaliculus (green-lipped mussel) extract. While priced higher at $42/month for a 50lb dog, this option showed promising results for dogs with advanced arthritis, particularly in hind legs. The marine-based compounds appear to target inflammation differently than traditional glucosamine/chondroitin blends.
 
-Storage stability testing revealed significant differences between products. Powdered formulations lost potency faster in humid conditions, while tablet forms maintained efficacy when properly sealed. This makes [Dasuquin's blister-packaged tablets](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) ideal for owners in coastal or tropical regions where moisture accelerates supplement degradation.
+Storage stability testing revealed significant differences between products. Powdered formulations lost potency faster in humid conditions, while tablet forms maintained efficacy when properly sealed. This makes Dasuquin's blister-packaged tablets ideal for owners in coastal or tropical regions where moisture accelerates supplement degradation.
 
 
 For more on the complete ergonomic workstation setup guide: stop guessing, start testing, see [our coverage at chairwise.app](https://chairwise.app/articles/ergonomic-workstation-setup-guide/).
 ## Real-World Performance
 
-During testing, our arthritic 65lb mixed breed maintained better mobility when we combined [Nutramax Cosequin](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) with omega-3 supplementation. Research suggests combined glucosamine plus omega-3 therapy may improve outcomes over glucosamine alone. Watch for these common considerations:
+During testing, our arthritic 65lb mixed breed maintained better mobility when we combined Nutramax Cosequin with omega-3 supplementation. Research suggests combined glucosamine plus omega-3 therapy may improve outcomes over glucosamine alone. Watch for these common considerations:
 
 - **Chewable tablets**: Older dogs with dental issues may prefer liquid glucosamine despite slightly higher cost
 - **Storage**: Powdered forms may clump in humid climates within 2 months
 - **Multi-formula mixes**: The "joint health" blends in some senior foods typically provide lower therapeutic doses
 
-Our testing tracked three key mobility metrics: morning stiffness duration, stair ascent speed, and willingness to use furniture normally. The most noticeable improvements came from combining [Dasuquin Advanced](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) with daily low-impact exercise (10-minute leash walks on soft surfaces). Dogs in this group showed greater improvement than those receiving supplements alone, demonstrating the importance of complementary therapies.
+Our testing tracked three key mobility metrics: morning stiffness duration, stair ascent speed, and willingness to use furniture normally. The most noticeable improvements came from combining Dasuquin Advanced with daily low-impact exercise (10-minute leash walks on soft surfaces). Dogs in this group showed greater improvement than those receiving supplements alone, demonstrating the importance of complementary therapies.
 
-Interesting observation: dogs with concurrent skin inflammation or allergies appeared to respond well to [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20), likely due to the anti-inflammatory effects of hyaluronic acid on multiple body systems. This makes it an excellent choice for senior dogs with broader inflammatory concerns beyond arthritis.
+Interesting observation: dogs with concurrent skin inflammation or allergies appeared to respond well to Zesty Paws Mobility Bites, likely due to the anti-inflammatory effects of hyaluronic acid on multiple body systems. This makes it an excellent choice for senior dogs with broader inflammatory concerns beyond arthritis.
 
 ## Cost Analysis
 
@@ -87,9 +87,9 @@ Breaking down 12-month costs for a 60lb dog:
 2. **Cosequin DS + Fish Oil**: $382/year ($28.50 + $3.33/month)
 3. **Generic glucosamine**: $240/year but requires adjusted dosing for equivalent effect
 
-The value equation changes over time—while premium options cost more upfront, they may help reduce vet visits for advanced pain management. We analyzed cost-per-mg of active ingredients across multiple brands, revealing that complete systems like [Cosequin DS](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) often prove more cost-effective when factoring in supporting compounds.
+The value equation changes over time—while premium options cost more upfront, they may help reduce vet visits for advanced pain management. We analyzed cost-per-mg of active ingredients across multiple brands, revealing that complete systems like Cosequin DS often prove more cost-effective when factoring in supporting compounds.
 
-Subscription services can yield significant savings: Chewy's auto-ship program offers discounts on [Dasuquin Advanced](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20), bringing the annual cost down for ongoing maintenance therapy. For multi-dog households, purchasing through veterinary clinics can sometimes provide additional savings compared to retail channels.
+Subscription services can yield significant savings: Chewy's auto-ship program offers discounts on Dasuquin Advanced, bringing the annual cost down for ongoing maintenance therapy. For multi-dog households, purchasing through veterinary clinics can sometimes provide additional savings compared to retail channels.
 
 ## Alternatives and Options
 
@@ -112,7 +112,7 @@ While adverse effects are rare, extremely high doses may cause digestive upset. 
 
 ### Are flavored chews less effective?
 
-No—flavoring doesn't impact efficacy. Picky eaters may prefer [Zesty Paws' bacon formula](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) over standard beef. Our tests showed higher acceptance rates for flavored options in older dogs.
+No—flavoring doesn't impact efficacy. Picky eaters may prefer Zesty Paws' bacon formula over standard beef. Our tests showed higher acceptance rates for flavored options in older dogs.
 
 ### Should I stop when symptoms improve?
 
@@ -124,7 +124,7 @@ Yes—dogs under 25lbs often benefit from lower-dose formulations to match their
 
 ## Bottom Line
 
-After 18 months of testing, [Dasuquin with MSM](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) showed consistent results in our senior dogs, though budget-focused owners may prefer pairing [Cosequin DS](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) with omega-3s. Key takeaways:
+After 18 months of testing, Dasuquin with MSM showed consistent results in our senior dogs, though budget-focused owners may prefer pairing Cosequin DS with omega-3s. Key takeaways:
 
 1. Match dosage to current weight, not age
 2. Combine with omega-3s for complementary support
@@ -133,7 +133,7 @@ After 18 months of testing, [Dasuquin with MSM](https://www.amazon.com/dp/B07YT4
 
 For dogs showing stiffness after rest but otherwise active, start with 20mg glucosamine per pound of body weight daily, adjusting based on your dog's individual response over time.
 
-Our final recommendation: invest in a quality supplement like [Dasuquin Advanced](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) for the first 6 months to support joint health, then consider adjusting your approach based on how your dog responds. Dogs with multiple health concerns may benefit from [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) for their broader profile.
+Our final recommendation: invest in a quality supplement like Dasuquin Advanced for the first 6 months to support joint health, then consider adjusting your approach based on how your dog responds. Dogs with multiple health concerns may benefit from Zesty Paws Mobility Bites for their broader profile.
 
 *This article is for informational purposes and is not veterinary medical advice. Consult your veterinarian before starting any new supplement, especially if your dog is on medications or has existing health conditions.*
 

@@ -38,7 +38,7 @@ updatedAt: 2026-05-12
 Through our 18-month study with veterinary nutritionists, we identified three critical transition phases for senior digestive health:
 
 1. **Acute Adjustment (Weeks 1-2)**: When switching foods, 68% of senior dogs show temporary loose stools.  For more context, see our [article on glucosamine dosage for senior](/articles/glucosamine-dosage-senior-dogs).We found adding pumpkin puree (1 tsp per 10 lbs body weight) eased this transition better than rice.
-2. **Microbiome Rebalancing (Month 1-3)**: The [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) showed superior prebiotic fiber content (2.8% beet pulp) that reduced diarrhea episodes by 42% compared to baseline.
+2. **Microbiome Rebalancing (Month 1-3)**: The Purina Pro Plan Bright Mind showed superior prebiotic fiber content (2.8% beet pulp) that reduced diarrhea episodes by 42% compared to baseline.
 3. **Long-Term Maintenance (Month 4+)**: Dogs on optimized senior diets maintained 23% better hydration levels (measured via skin tent tests) and required fewer emergency vet visits for dehydration-related issues.
 
 This guide compares 12 senior-specific dog foods formulated for sensitive stomachs, based on:
@@ -61,11 +61,11 @@ Digestive distress in older dogs isn't just messy—it's a nutrition crisis. Whe
 
 Three physiological changes demand different nutrition:
 
-1. **Slower digestion**: Senior dogs produce 20–30% fewer digestive enzymes. Foods need highly bioavailable proteins and pre-ground fibers. Our tests showed hydrolyzed proteins (like those in [Hill's Science Diet](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20)) required 37% less pancreatic effort to break down.
+1. **Slower digestion**: Senior dogs produce 20–30% fewer digestive enzymes. Foods need highly bioavailable proteins and pre-ground fibers. Our tests showed hydrolyzed proteins (like those in Hill's Science Diet) required 37% less pancreatic effort to break down.
 2. **Tooth/jaw issues**: 68% of dogs over 8 have dental disease. Kibble size and hardness matter. We measured optimal kibble dimensions at 8–10 mm diameter with a Shore D hardness of 45–55 (Purina Pro Plan scored 52).
-3. **Immune sensitivity**: Aging guts develop "leakier" lining, reacting to formerly tolerated ingredients. The [Blue Buffalo Basics](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) limited ingredient formula reduced inflammatory markers by 29% in blood tests.
+3. **Immune sensitivity**: Aging guts develop "leakier" lining, reacting to formerly tolerated ingredients. The Blue Buffalo Basics limited ingredient formula reduced inflammatory markers by 29% in blood tests.
 
-The right food reduces vet bills for pancreatitis flare-ups or dehydration from diarrhea. In our tests, dogs on optimized senior diets had 42% fewer unplanned vet visits for digestive issues. More importantly, their quality of life improved dramatically—one 12-year-old test dog regained the ability to go on 30-minute walks after resolving chronic diarrhea with [Iams Proactive Health](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20).
+The right food reduces vet bills for pancreatitis flare-ups or dehydration from diarrhea. In our tests, dogs on optimized senior diets had 42% fewer unplanned vet visits for digestive issues. More importantly, their quality of life improved dramatically—one 12-year-old test dog regained the ability to go on 30-minute walks after resolving chronic diarrhea with Iams Proactive Health.
 
 ## Head-to-head comparison
 
@@ -73,10 +73,10 @@ We evaluated these foods across 14 metrics including stool quality (Bristol scal
 
 | Product | Key Features | Best For | Price Per Lb | Digestibility Score |
 |---------|-------------|----------|-------------|---------------------|
-| [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) | Probiotics & omega-3s | Cognitive decline + sensitive stomach | $2.89 | 94/100 |
-| [Hill's Science Diet Sensitive Stomach](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) | Clinically researched digestibility | Chronic loose stools | $3.12 | 97/100 |
-| [Blue Buffalo Basics Limited Ingredient](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) | Single protein source (turkey) | Multiple food sensitivities | $3.45 | 89/100 |
-| [Royal Canin Gastrointestinal Low Fat](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) | 12% fat content | Pancreatitis-prone seniors | $3.89 | 91/100 |
+| Purina Pro Plan Bright Mind | Probiotics & omega-3s | Cognitive decline + sensitive stomach | $2.89 | 94/100 |
+| Hill's Science Diet Sensitive Stomach | Clinically researched digestibility | Chronic loose stools | $3.12 | 97/100 |
+| Blue Buffalo Basics Limited Ingredient | Single protein source (turkey) | Multiple food sensitivities | $3.45 | 89/100 |
+| Royal Canin Gastrointestinal Low Fat | 12% fat content | Pancreatitis-prone seniors | $3.89 | 91/100 |
 
 **Purina Pro Plan** stood out for combining digestive support with cognitive ingredients. Our test dogs had firmer stools within 3 days and showed 18% better performance in memory tests (using treat-find exercises). The DHA-rich formula particularly helped our 13-year-old border collie mix regain interest in puzzle toys.
 
@@ -86,16 +86,16 @@ We evaluated these foods across 14 metrics including stool quality (Bristol scal
 
 ## Real-world performance
 
-The [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) maintained consistency through different protein rotations (we tested chicken, salmon, and lamb versions). After 6 months:
+The Purina Pro Plan Bright Mind maintained consistency through different protein rotations (we tested chicken, salmon, and lamb versions). After 6 months:
 
 - 83% reduction in morning vomiting episodes
 - Coat quality improved by 2 vet-assessed grades
 - No tooth fractures (kibble is 17% softer than adult formulas)
 - 28% less water consumption (indicating better hydration from food)
 
-Unexpected finding: The [Hill's Science Diet](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) required 20% smaller portions to achieve the same stool quality as other foods—confirming its higher digestibility claims. However, two dogs developed gas when combined with certain treats. We identified the culprit as fructooligosaccharides (FOS) interacting with sweet potato treats.
+Unexpected finding: The Hill's Science Diet required 20% smaller portions to achieve the same stool quality as other foods—confirming its higher digestibility claims. However, two dogs developed gas when combined with certain treats. We identified the culprit as fructooligosaccharides (FOS) interacting with sweet potato treats.
 
-For dogs with severe dental issues, soaking kibble in warm water for 5 minutes made all foods more accessible. The [Royal Canin Gastrointestinal](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) held its shape best when softened, making it our top pick for toothless seniors.
+For dogs with severe dental issues, soaking kibble in warm water for 5 minutes made all foods more accessible. The Royal Canin Gastrointestinal held its shape best when softened, making it our top pick for toothless seniors.
 
 ## Cost math
 
@@ -112,17 +112,17 @@ At first glance, premium senior foods cost more. But accounting for digestibilit
 
 *Based on average $85 emergency visit for dehydration/diarrhea
 
-The [Iams Proactive Health Senior](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) surprised us—while not marketed for sensitive stomachs, its egg-based protein had excellent digestibility at $1.89/lb. It outperformed several premium brands in our palatability tests, with 89% first-meal acceptance versus 72% average.
+The Iams Proactive Health Senior surprised us—while not marketed for sensitive stomachs, its egg-based protein had excellent digestibility at $1.89/lb. It outperformed several premium brands in our palatability tests, with 89% first-meal acceptance versus 72% average.
 
 ## Alternatives and refills
 
 For dogs refusing kibble:
 
-- **Wet food option**: [JustFoodForDogs Pantry Fresh](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) (89% acceptance rate, $4.12/day). The low-fat venison formula worked well for dogs with pancreatitis history.
-- **Probiotic toppers**: Adding 1 tbsp of [Purina FortiFlora](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) probiotic to any food improved digestion scores by 31%. Mix with warm water to create a gravy.
+- **Wet food option**: JustFoodForDogs Pantry Fresh (89% acceptance rate, $4.12/day). The low-fat venison formula worked well for dogs with pancreatitis history.
+- **Probiotic toppers**: Adding 1 tbsp of Purina FortiFlora probiotic to any food improved digestion scores by 31%. Mix with warm water to create a gravy.
 - **Hydration boosters**: Unflavored pediatric electrolyte solutions (1/4 cup per meal) helped prevent dehydration in dogs with chronic diarrhea.
 
-**Subscription savings**: Chewy's Autoship knocks 5–10% off these foods. Amazon Subscribe & Save works for [Hill's](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) but often runs out of stock. Consider buying 3+ bags during Chewy's Senior Pet Month (September) for maximum discounts.
+**Subscription savings**: Chewy's Autoship knocks 5–10% off these foods. Amazon Subscribe & Save works for Hill's but often runs out of stock. Consider buying 3+ bags during Chewy's Senior Pet Month (September) for maximum discounts.
 
 ## FAQ
 
@@ -136,15 +136,15 @@ For dogs refusing kibble:
 
 ### Are grain-free foods better for sensitive stomachs?
 
-Not inherently. Our tests found grain-free diets helped only 17% of dogs. More impactful: single protein sources and soluble fibers. In fact, grain-free diets high in legumes showed 23% more gas production in our breath hydrogen tests. The [Purina Pro Plan](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) with oatmeal actually outperformed grain-free options for digestive comfort.
+Not inherently. Our tests found grain-free diets helped only 17% of dogs. More impactful: single protein sources and soluble fibers. In fact, grain-free diets high in legumes showed 23% more gas production in our breath hydrogen tests. The Purina Pro Plan with oatmeal actually outperformed grain-free options for digestive comfort.
 
 ### Why does my dog vomit bile in the morning?
 
-Empty stomach acid buildup. Try splitting dinner into two meals (7 pm and 10 pm) or a small bedtime snack of kibble. For chronic cases, ask your vet about gastroprotectants. Our 11-year-old test dog responded well to a midnight feeding of 1/4 cup [Hill's Science Diet](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) soaked in warm water.
+Empty stomach acid buildup. Try splitting dinner into two meals (7 pm and 10 pm) or a small bedtime snack of kibble. For chronic cases, ask your vet about gastroprotectants. Our 11-year-old test dog responded well to a midnight feeding of 1/4 cup Hill's Science Diet soaked in warm water.
 
 ### Can probiotics replace prescription food?
 
-For mild cases, adding [Purina FortiFlora](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) to quality senior food matched prescription results in 64% of our test dogs. However, dogs with EPI or IBD generally required the hydrolyzed proteins in prescription diets. Always consult your vet before stopping prescribed foods.
+For mild cases, adding Purina FortiFlora to quality senior food matched prescription results in 64% of our test dogs. However, dogs with EPI or IBD generally required the hydrolyzed proteins in prescription diets. Always consult your vet before stopping prescribed foods.
 
 ### When should I worry about persistent diarrhea?
 
@@ -158,7 +158,7 @@ Contact your vet immediately if you see these signs. For mild cases, try a 12-ho
 
 ## Bottom line
 
-After 18 months of testing, [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) delivered the best balance of digestive comfort, cognitive support, and palatability for most senior dogs. For severe sensitivity cases, the clinically researched [Hill's Science Diet](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) is worth the premium. Transition slowly, monitor stool quality, and remember—better digestion means more nutrients reaching your dog when they need them most.
+After 18 months of testing, Purina Pro Plan Bright Mind delivered the best balance of digestive comfort, cognitive support, and palatability for most senior dogs. For severe sensitivity cases, the clinically researched Hill's Science Diet is worth the premium. Transition slowly, monitor stool quality, and remember—better digestion means more nutrients reaching your dog when they need them most.
 
 **Final tip**: Keep a "food reaction journal" for 2 weeks when switching. Note which proteins and formulas correlate with:
 - Optimal stool (Bristol 3–4)

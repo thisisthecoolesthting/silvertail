@@ -65,10 +65,10 @@ Early intervention with properly dosed supplements may delay the need for prescr
 
 | Product | Key Ingredients | Daily Cost | Our Rating | Best For | Clinical Studies |
 |---------|-----------------|------------|------------|----------|------------------|
-| [Cosequin Maximum Strength](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) | Glucosamine 600mg, Chondroitin 300mg, MSM 250mg | $0.63 | ★★★★☆ | Dogs over 80lbs needing higher doses | 12 peer-reviewed studies |
-| [Dasuquin with MSM](https://www.amazon.com/dp/B00063RWXO?tag=silvertail-20) | Glucosamine 600mg, Chondroitin 300mg, ASU, MSM | $0.89 | ★★★★★ | Advanced joint support with added avocado/soybean unsaponifiables | 8 clinical trials |
-| [Nutramax Welactin Omega-3](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | EPA 330mg, DHA 220mg | $0.55 | ★★★☆☆ | Dogs needing anti-inflammatory support without glucosamine | 3 long-term studies |
-| [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | Glucosamine 400mg, Chondroitin 100mg, Hyaluronic Acid | $0.72 | ★★★★☆ | Picky eaters who prefer soft chews | 1 bioavailability study |
+| Cosequin Maximum Strength | Glucosamine 600mg, Chondroitin 300mg, MSM 250mg | $0.63 | ★★★★☆ | Dogs over 80lbs needing higher doses | 12 peer-reviewed studies |
+| Dasuquin with MSM | Glucosamine 600mg, Chondroitin 300mg, ASU, MSM | $0.89 | ★★★★★ | Advanced joint support with added avocado/soybean unsaponifiables | 8 clinical trials |
+| Nutramax Welactin Omega-3 | EPA 330mg, DHA 220mg | $0.55 | ★★★☆☆ | Dogs needing anti-inflammatory support without glucosamine | 3 long-term studies |
+| Zesty Paws Mobility Bites | Glucosamine 400mg, Chondroitin 100mg, Hyaluronic Acid | $0.72 | ★★★★☆ | Picky eaters who prefer soft chews | 1 bioavailability study |
 
 **Key findings from our 90-day home tests**:
 
@@ -80,12 +80,12 @@ Early intervention with properly dosed supplements may delay the need for prescr
 **Unexpected Discoveries**:
 1. **Temperature Sensitivity**: Powdered forms clumped in humid environments, reducing efficacy by up to 40%
 2. **Timing Matters**: Dosing 30 minutes before walks improved visible comfort 27% more than bedtime dosing
-3. **Synergy Effects**: Combining [Welactin's omega-3s](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) with glucosamine enhanced results by 22% in our tracking
+3. **Synergy Effects**: Combining Welactin's omega-3s with glucosamine enhanced results by 22% in our tracking
 4. **Breed Variations**: Smaller dogs (<20lbs) responded better to divided doses (AM/PM)
 
 ## Real-World Performance
 
-Long-term use reveals what lab tests don't. The [Nutramax Cosequin](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) maintained its effectiveness over our 2-year tracking period, but required dosage adjustments every 6-8 months as the dogs aged. The soft chew options like [Zesty Paws](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) proved more convenient but had more variable absorption rates - we saw better results when given with a small fatty meal.
+Long-term use reveals what lab tests don't. The Nutramax Cosequin maintained its effectiveness over our 2-year tracking period, but required dosage adjustments every 6-8 months as the dogs aged. The soft chew options like Zesty Paws proved more convenient but had more variable absorption rates - we saw better results when given with a small fatty meal.
 
 **Extended Findings**:
 
@@ -96,12 +96,12 @@ Long-term use reveals what lab tests don't. The [Nutramax Cosequin](https://www.
    - Giant breeds (90+lbs): 1000mg/400mg divided AM/PM
 
 2. **Combination Therapy**:
-   - Adding [Phycox Joint Support](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) improved outcomes by 31% in dogs with advanced arthritis
+   - Adding Phycox Joint Support improved outcomes by 31% in dogs with advanced arthritis
    - Rotating between formulas every 6 months prevented adaptation effects
 
 3. **Cost-Effective Strategies**:
    - Buying 180-day supplies reduced per-dose cost by 18-22%
-   - Combining [Cosequin](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) with generic omega-3s saved $11.50/month
+   - Combining Cosequin with generic omega-3s saved $11.50/month
 
 ## Cost Math
 
@@ -114,7 +114,7 @@ Breaking down the true long-term expense:
 | Zesty Paws | $29.97/90 chews | $19.98 | $1.45 | 4.9 months |
 | Generic Brand | $18.99/120 tablets | $11.39 | $2.17 | 6.3 months |
 
-Surprisingly, the pricier [Dasuquin](https://www.amazon.com/dp/B00063RWXO?tag=silvertail-20) delivered better value per measurable improvement despite its higher upfront cost. The generic option required nearly double the dosage for equivalent effects, negating its price advantage.
+Surprisingly, the pricier Dasuquin delivered better value per measurable improvement despite its higher upfront cost. The generic option required nearly double the dosage for equivalent effects, negating its price advantage.
 
 Our breakeven analysis showed:
 
@@ -131,7 +131,7 @@ Our breakeven analysis showed:
 
 For those seeking non-pill options:
 
-1. **Liquid forms**: [PetHonesty Glucosamine](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) mixes into food but requires refrigeration after opening
+1. **Liquid forms**: PetHonesty Glucosamine mixes into food but requires refrigeration after opening
    - Dosage flexibility (easy to adjust by the drop)
    - Faster absorption (noticeable in 3-4 weeks vs 5-6 for tablets)
 
@@ -139,7 +139,7 @@ For those seeking non-pill options:
    - Best for dogs >50lbs
    - Can be mixed with bone broth for enhanced palatability
 
-3. **Combination packs**: Some sellers offer [Cosequin with Welactin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) at 15% discount
+3. **Combination packs**: Some sellers offer Cosequin with Welactin at 15% discount
    - Bundles provide complete joint support
    - Automatic refills ensure consistent dosing
 
@@ -161,7 +161,7 @@ Most dogs show subtle improvements within 4-6 weeks, with peak effects around th
 
 ### Can I give human glucosamine to my dog?
 
-While chemically similar, human supplements often contain xylitol or other dog-toxic additives. Veterinary-specific formulas like [Dasuquin](https://www.amazon.com/dp/B00063RWXO?tag=silvertail-20) include dog-appropriate dosages and safe additives. Human products also frequently use forms less bioavailable to canines.
+While chemically similar, human supplements often contain xylitol or other dog-toxic additives. Veterinary-specific formulas like Dasuquin include dog-appropriate dosages and safe additives. Human products also frequently use forms less bioavailable to canines.
 
 ### What about side effects?
 
@@ -189,9 +189,9 @@ For mild arthritis, yes. For moderate/severe cases:
 
 ## Bottom Line
 
-After testing 14 formulations across three senior dogs, [Nutramax Dasuquin with MSM](https://www.amazon.com/dp/B00063RWXO?tag=silvertail-20) delivered the most consistent, measurable improvements in mobility and comfort. While priced higher than basic options, its inclusion of avocado/soybean unsaponifiables provided noticeable benefits that justified the cost within 5-7 months of use.
+After testing 14 formulations across three senior dogs, Nutramax Dasuquin with MSM delivered the most consistent, measurable improvements in mobility and comfort. While priced higher than basic options, its inclusion of avocado/soybean unsaponifiables provided noticeable benefits that justified the cost within 5-7 months of use.
 
-For budget-conscious owners or dogs with sensitive stomachs, [Cosequin Maximum Strength](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) remains a reliable choice, especially when paired with an omega-3 supplement like [Welactin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20). Whatever you choose, commit to at least a 3-month trial period - joint supplements work cumulatively, not overnight.
+For budget-conscious owners or dogs with sensitive stomachs, Cosequin Maximum Strength remains a reliable choice, especially when paired with an omega-3 supplement like Welactin. Whatever you choose, commit to at least a 3-month trial period - joint supplements work cumulatively, not overnight.
 
 **Final Recommendations**:
 1. **Best Overall**: Dasuquin for its clinically proven results

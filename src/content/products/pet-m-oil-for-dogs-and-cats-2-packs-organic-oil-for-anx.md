@@ -13,7 +13,7 @@ bsr: 11
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B0GPVXP1QM?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GPVXP1QM
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Pet Неmр Oil for Dogs and Cats 2 Packs, Organic Oil for Anxiеty Strеss Pαi
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GPVXP1QM" url="https://www.amazon.com/dp/B0GPVXP1QM?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GPVXP1QM" url="https://www.amazon.com/dp/B0GPVXP1QM" label="Check price on Amazon" />
 

@@ -13,7 +13,7 @@ bsr: 10
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B0FX41H7PD?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0FX41H7PD
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Hand Broom Brush, Hand Broom, Beech Wood Handle Horse Hair Brushs, 13.4 Inch Lon
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FX41H7PD" url="https://www.amazon.com/dp/B0FX41H7PD?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FX41H7PD" url="https://www.amazon.com/dp/B0FX41H7PD" label="Check price on Amazon" />
 

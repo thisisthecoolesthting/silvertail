@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/0071378820?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/0071378820"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Electronic Assembly Fabrication is a catalog pick for this niche — verify curr
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="0071378820" url="https://www.amazon.com/dp/0071378820?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="0071378820" url="https://www.amazon.com/dp/0071378820" label="Check price on Amazon" />
 

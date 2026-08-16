@@ -47,7 +47,7 @@ Without proper support, your pet might develop compensatory movement patterns th
 - 28% improvement in willingness to move
 - 41% decrease in secondary injuries from falls
 
-Quality mobility aids like the [PetSafe Happy Ride Folding Dog Ramp](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) or [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) reduce strain by distributing weight evenly and providing proper traction. They can mean the difference between your dog continuing to sleep in bed with you versus being confined to the floor. We've documented cases where the right ramp added 2-3 years of comfortable mobility for senior dogs.
+Quality mobility aids like the PetSafe Happy Ride Folding Dog Ramp or PetStairs Orthopedic Dog Steps reduce strain by distributing weight evenly and providing proper traction. They can mean the difference between your dog continuing to sleep in bed with you versus being confined to the floor. We've documented cases where the right ramp added 2-3 years of comfortable mobility for senior dogs.
 
 ## Head-to-head comparison
 
@@ -55,43 +55,43 @@ After testing 14 products across 22 dogs of varying sizes and mobility levels, w
 
 | Product | Type | Weight Capacity | Material | Slope/Length | Step Height/Count | Price | Best For |
 |---------|------|-----------------|----------|--------------|-------------------|-------|----------|
-| [PetSafe Happy Ride Folding Dog Ramp](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) | Ramp | 150 lbs | Plastic with traction grooves | 22° slope (72" length) | N/A | $199.99 | Car access for medium dogs |
-| [Pet Gear Super Trax Lite Ramp](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) | Ramp | 200 lbs | High-density foam with Trax surface | 18° slope (87" length) | N/A | $179.99 | Indoor/outdoor versatility |
-| [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) | Stairs | 150 lbs | Medical-grade foam with removable cover | N/A | 5" step height (3 steps) | $129.99 | Small/medium dogs needing joint support |
-| [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) | Ramp | 400 lbs | Aircraft-grade aluminum with rubberized surface | Adjustable 16-26° (39-72" length) | N/A | $289.99 | Large/giant breeds |
-| [Petmaker Wooden Pet Stairs](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) | Stairs | 200 lbs | Solid pine with carpet treads | N/A | 6" step height (4 steps) | $149.99 | Furniture access in home decor settings |
-| [Pet Gear Step Lite](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) | Stairs | 150 lbs | Lightweight foam | N/A | 5.5" step height (2-3 steps) | $89.99 | Temporary/travel use |
+| PetSafe Happy Ride Folding Dog Ramp | Ramp | 150 lbs | Plastic with traction grooves | 22° slope (72" length) | N/A | $199.99 | Car access for medium dogs |
+| Pet Gear Super Trax Lite Ramp | Ramp | 200 lbs | High-density foam with Trax surface | 18° slope (87" length) | N/A | $179.99 | Indoor/outdoor versatility |
+| PetStairs Orthopedic Dog Steps | Stairs | 150 lbs | Medical-grade foam with removable cover | N/A | 5" step height (3 steps) | $129.99 | Small/medium dogs needing joint support |
+| Solvit Deluxe Telescoping Pet Ramp | Ramp | 400 lbs | Aircraft-grade aluminum with rubberized surface | Adjustable 16-26° (39-72" length) | N/A | $289.99 | Large/giant breeds |
+| Petmaker Wooden Pet Stairs | Stairs | 200 lbs | Solid pine with carpet treads | N/A | 6" step height (4 steps) | $149.99 | Furniture access in home decor settings |
+| Pet Gear Step Lite | Stairs | 150 lbs | Lightweight foam | N/A | 5.5" step height (2-3 steps) | $89.99 | Temporary/travel use |
 
 Key findings from our 180-day testing period:
 
-- The [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) showed zero wear after 500+ uses by a 110-pound German Shepherd
-- Dogs with severe arthritis preferred the gradual 18° slope of the [Pet Gear Super Trax Lite Ramp](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) over steeper options
-- The orthopedic foam in the [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) reduced visible discomfort in 78% of test cases
-- Smaller dogs (under 25 lbs) often struggled with steps over 6" height, making the [Pet Gear Step Lite](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) a better choice
+- The Solvit Deluxe Telescoping Pet Ramp showed zero wear after 500+ uses by a 110-pound German Shepherd
+- Dogs with severe arthritis preferred the gradual 18° slope of the Pet Gear Super Trax Lite Ramp over steeper options
+- The orthopedic foam in the PetStairs Orthopedic Dog Steps reduced visible discomfort in 78% of test cases
+- Smaller dogs (under 25 lbs) often struggled with steps over 6" height, making the Pet Gear Step Lite a better choice
 
 ## Real-world performance
 
 Our testing team, including two certified canine rehabilitation specialists, evaluated each product across multiple real-world scenarios:
 
 **Car Access:** For getting in/out of SUVs (24-30" height):
-- The [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) adjusted perfectly to different vehicle heights
+- The Solvit Deluxe Telescoping Pet Ramp adjusted perfectly to different vehicle heights
 - Dogs completed the ascent 22% faster on ramps versus stairs
-- 90% of test dogs preferred the textured surface of the [Pet Gear Super Trax Lite Ramp](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) in rainy conditions
+- 90% of test dogs preferred the textured surface of the Pet Gear Super Trax Lite Ramp in rainy conditions
 
 **Furniture Access:** For beds/couches (18-24" height):
-- The [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) were favored for nighttime use due to their soft landing
-- Larger dogs tended to skip steps on the [Petmaker Wooden Pet Stairs](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20), potentially causing missteps
+- The PetStairs Orthopedic Dog Steps were favored for nighttime use due to their soft landing
+- Larger dogs tended to skip steps on the Petmaker Wooden Pet Stairs, potentially causing missteps
 - Ramps required 3-4x more floor space but were safer for dogs with poor depth perception
 
 **Outdoor Use:** For decks/porches (12-36" height):
 - Aluminum ramps like the Solvit withstood temperature extremes better than plastic
 - Foam stairs absorbed water and took longer to dry
-- The [PetSafe Happy Ride Folding Dog Ramp](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) became slippery when wet unless the traction grooves were cleaned regularly
+- The PetSafe Happy Ride Folding Dog Ramp became slippery when wet unless the traction grooves were cleaned regularly
 
 **Special Needs Cases:**
-- Blind dogs adapted better to consistent step heights in the [Petmaker Wooden Pet Stairs](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20)
+- Blind dogs adapted better to consistent step heights in the Petmaker Wooden Pet Stairs
 - Dogs with IVDD (intervertebral disc disease) showed less spinal compression using ramps
-- Arthritic dogs benefited most from the [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) when navigating downward
+- Arthritic dogs benefited most from the PetStairs Orthopedic Dog Steps when navigating downward
 
 ## Cost math
 
@@ -102,38 +102,38 @@ We analyzed total cost of ownership over a 5-year period, factoring in:
 - Maintenance requirements
 
 **Ramps:**
-1. [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) ($289.99)
+1. Solvit Deluxe Telescoping Pet Ramp ($289.99)
    - Lifespan: 7+ years
    - Annual cost: $41.42
    - Maintenance: $10/year for rubber tread replacement
 
-2. [Pet Gear Super Trax Lite Ramp](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) ($179.99)
+2. Pet Gear Super Trax Lite Ramp ($179.99)
    - Lifespan: 4 years
    - Annual cost: $45
    - Maintenance: $25 every 2 years for new foam cover
 
-3. [PetSafe Happy Ride Folding Dog Ramp](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) ($199.99)
+3. PetSafe Happy Ride Folding Dog Ramp ($199.99)
    - Lifespan: 3 years (hinges weaken)
    - Annual cost: $66.66
    - Maintenance: $15/year for traction pad replacement
 
 **Stairs:**
-1. [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) ($129.99)
+1. PetStairs Orthopedic Dog Steps ($129.99)
    - Lifespan: 5 years
    - Annual cost: $26
    - Maintenance: $20 every 3 years for new fabric cover
 
-2. [Petmaker Wooden Pet Stairs](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) ($149.99)
+2. Petmaker Wooden Pet Stairs ($149.99)
    - Lifespan: 10+ years
    - Annual cost: $15
    - Maintenance: $30 every 5 years for carpet replacement
 
-3. [Pet Gear Step Lite](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) ($89.99)
+3. Pet Gear Step Lite ($89.99)
    - Lifespan: 2 years
    - Annual cost: $45
    - Maintenance: Not cost-effective to repair
 
-Surprisingly, the higher initial cost of the [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) becomes the most economical choice after year 3. For budget-conscious owners, the [Petmaker Wooden Pet Stairs](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) offer exceptional long-term value if indoor use is primary.
+Surprisingly, the higher initial cost of the Solvit Deluxe Telescoping Pet Ramp becomes the most economical choice after year 3. For budget-conscious owners, the Petmaker Wooden Pet Stairs offer exceptional long-term value if indoor use is primary.
 
 ## Alternatives and refills
 
@@ -154,7 +154,7 @@ For those needing temporary solutions or facing budget constraints, we tested se
    - Disinfect thoroughly before use
 
 **Hybrid Solutions:**
-- Combining a short ramp like the [Pet Gear Step Lite](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) with strategically placed ottomans
+- Combining a short ramp like the Pet Gear Step Lite with strategically placed ottomans
 - Using removable car steps for vehicles alongside indoor ramps
 
 **Maintenance Programs:**
@@ -163,7 +163,7 @@ Many manufacturers offer replacement parts:
 - Solvit offers rubber tread replacements for $29.99
 - PetStairs provides new orthopedic foam inserts ($39.99)
 
-For those in apartments, the [Pet Gear Step Lite](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) folds flat for storage, while the [PetSafe Happy Ride Folding Dog Ramp](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) collapses to just 5" width.
+For those in apartments, the Pet Gear Step Lite folds flat for storage, while the PetSafe Happy Ride Folding Dog Ramp collapses to just 5" width.
 
 ## FAQ
 
@@ -193,7 +193,7 @@ Consider these factors:
 - You need multiple access points (bed, couch, etc.)
 - Your dog already understands stair concepts
 
-For borderline cases, the [Pet Gear Super Trax Lite Ramp](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) offers a middle ground with its low 18° slope.
+For borderline cases, the Pet Gear Super Trax Lite Ramp offers a middle ground with its low 18° slope.
 
 ### How do I choose the right weight capacity?
 
@@ -205,7 +205,7 @@ Example: 80 lb Labrador needs a 120 lb capacity minimum. However:
 - For ramps used at steep angles, add 30%
 - For shared use (multiple pets), sum all weights
 
-The [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) 400 lb capacity accommodates even giant breeds safely.
+The Solvit Deluxe Telescoping Pet Ramp 400 lb capacity accommodates even giant breeds safely.
 
 ### Can I use these for cats too?
 
@@ -214,7 +214,7 @@ Yes, with modifications:
 - For stairs: Ensure step height ≤5" (cats prefer 4" intervals)
 - Place catnip on each level during training
 
-The [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) work well for arthritic cats when covered with a textured mat.
+The PetStairs Orthopedic Dog Steps work well for arthritic cats when covered with a textured mat.
 
 ### How do I maintain and clean these products?
 
@@ -234,23 +234,23 @@ The [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=si
 - Treat wooden stairs with pet-safe sealant annually
 - Replace rubber treads before they become smooth
 
-The [Petmaker Wooden Pet Stairs](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) require the least maintenance with just occasional vacuuming.
+The Petmaker Wooden Pet Stairs require the least maintenance with just occasional vacuuming.
 
 ## Bottom line
 
 After 180 days of rigorous testing with veterinary oversight, our data shows:
 
-**Best Overall:** [Solvit Deluxe Telescoping Pet Ramp](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20)
+**Best Overall:** Solvit Deluxe Telescoping Pet Ramp
 - 97% long-term satisfaction rate
 - Lowest cost-per-use over 5 years
 - Most adaptable to different scenarios
 
-**Best Budget Option:** [PetStairs Orthopedic Dog Steps](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20)
+**Best Budget Option:** PetStairs Orthopedic Dog Steps
 - Ideal for dogs under 50 lbs
 - Excellent joint support
 - Space-efficient design
 
-**Premium Choice:** [Pet Gear Super Trax Lite Ramp](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20)
+**Premium Choice:** Pet Gear Super Trax Lite Ramp
 - Best traction surface
 - Lightweight yet durable
 - Good middle-ground slope

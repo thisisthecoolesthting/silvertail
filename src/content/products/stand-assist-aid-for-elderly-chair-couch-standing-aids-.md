@@ -13,7 +13,7 @@ bsr: 80732
 commissionPerSale: 0.0
 score: 186.03
 imageUrl: https://m.media-amazon.com/images/I/81+rrgNVNvL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0G5ZKQQJZ?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0G5ZKQQJZ
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Stand Assist Aid for Elderly Chair Couch Standing Aids and Supports Hip Knee Sur
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0G5ZKQQJZ" url="https://www.amazon.com/dp/B0G5ZKQQJZ?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0G5ZKQQJZ" url="https://www.amazon.com/dp/B0G5ZKQQJZ" label="Check price on Amazon" />
 

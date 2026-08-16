@@ -53,10 +53,10 @@ Research from the Dog Aging Project demonstrates that dogs receiving comprehensi
 
 | Product | Key Ingredients | Mechanism | Clinical Evidence | Best For | Daily Cost |
 |---------|-----------------|-----------|-------------------|----------|------------|
-| [Neutricks Chewables](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) | Apoaequorin (calcium-binding protein) | Regulates neuronal calcium signaling | 83% showed improvement in learning tasks (2019 Tufts trial) | Moderate cognitive decline with disorientation | $1.92 |
-| [Senilife Capsules](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) | Phosphatidylserine (soy-derived), Ginkgo Biloba, Vitamin E | Enhances cell membrane fluidity and antioxidant protection | 67% reduction in CCD symptoms at 60 days (Italian veterinary study) | Early-stage support for memory lapses | $0.87 |
-| [Zesty Paws Cognitune Bites](https://www.amazon.com/dp/B0BTYCRJSS?tag=silvertail-20) | L-Tryptophan, Astaxanthin, Lion's Mane Mushroom | Supports serotonin production and neurogenesis | Anecdotal reports of 50% anxiety reduction | Sundowning and sleep disturbances | $1.15 |
-| [VetriScience CELL Advance](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) | SAM-e, Phosphatidylserine, Vitamin B Complex | Methylation support and neurotransmitter synthesis | 41% cognitive improvement in beagle trials | Dogs with liver or metabolic concerns | $1.40 |
+| Neutricks Chewables | Apoaequorin (calcium-binding protein) | Regulates neuronal calcium signaling | 83% showed improvement in learning tasks (2019 Tufts trial) | Moderate cognitive decline with disorientation | $1.92 |
+| Senilife Capsules | Phosphatidylserine (soy-derived), Ginkgo Biloba, Vitamin E | Enhances cell membrane fluidity and antioxidant protection | 67% reduction in CCD symptoms at 60 days (Italian veterinary study) | Early-stage support for memory lapses | $0.87 |
+| Zesty Paws Cognitune Bites | L-Tryptophan, Astaxanthin, Lion's Mane Mushroom | Supports serotonin production and neurogenesis | Anecdotal reports of 50% anxiety reduction | Sundowning and sleep disturbances | $1.15 |
+| VetriScience CELL Advance | SAM-e, Phosphatidylserine, Vitamin B Complex | Methylation support and neurotransmitter synthesis | 41% cognitive improvement in beagle trials | Dogs with liver or metabolic concerns | $1.40 |
 
 **Neutricks** uniquely targets calcium dysregulation in aging neurons—a mechanism validated by MRI studies showing improved hippocampal activity. However, some dogs develop tolerance after 12–18 months, and some experience mild digestive upset initially.
 
@@ -73,8 +73,8 @@ Research from the Dog Aging Project demonstrates that dogs receiving comprehensi
 During a six-month observational period with 12 senior dogs (ages 11–15), we documented striking differences in supplement responses:
 
 - A terrier receiving Neutricks showed 60% reduction in nighttime pacing but developed mild diarrhea until we split the dose (half AM/half PM)
-- A Labrador on [Senilife](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) regained ability to navigate his dog door within three weeks but required refrigeration of capsules
-- A 14-year-old Shih Tzu responded better to a [$12 snuffle mat](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) combined with [medium-chain triglyceride oil](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) than to premium supplements—suggesting some cases benefit more from sensory stimulation than biochemical intervention
+- A Labrador on Senilife regained ability to navigate his dog door within three weeks but required refrigeration of capsules
+- A 14-year-old Shih Tzu responded better to a $12 snuffle mat combined with medium-chain triglyceride oil than to premium supplements—suggesting some cases benefit more from sensory stimulation than biochemical intervention
 
 All dogs maintained on consistent regimens showed measurable improvements:
 - 45% fewer indoor accidents
@@ -93,7 +93,7 @@ The most dramatic improvements came from combining supplements with environmenta
 **Mid-Range (Senilife + Basic Support)**: $500/year
 - Senilife capsules: $317
 - DIY food puzzles: $100
-- [Calming supplements](https://www.amazon.com/dp/B0BTYCRJSS?tag=silvertail-20): $83
+- Calming supplements: $83
 
 **Budget Approach**: $170/year
 - Homemade enrichment (snuffle mats, puzzle feeders): $50
@@ -145,7 +145,7 @@ Most effective exercises include nose work (hiding treats in increasingly comple
 
 ## Bottom Line
 
-For dogs with moderate CCD symptoms, [Neutricks](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) offers the most clinically validated formulation—our testing showed optimal results when combined with [MCT oil](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) for ketone support. Early-stage cases respond remarkably well to the more affordable [Senilife](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) protocol, especially when initiated before severe symptoms emerge.
+For dogs with moderate CCD symptoms, Neutricks offers the most clinically validated formulation—our testing showed optimal results when combined with MCT oil for ketone support. Early-stage cases respond remarkably well to the more affordable Senilife protocol, especially when initiated before severe symptoms emerge.
 
 Regardless of supplement choice, these environmental adaptations are equally critical:
 

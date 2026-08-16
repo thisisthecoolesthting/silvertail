@@ -13,7 +13,7 @@ bsr: 32542
 commissionPerSale: 0.0
 score: 178.86
 imageUrl: "https://m.media-amazon.com/images/I/71WeL61AekL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GSHXN3ZH?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GSHXN3ZH"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ RiRywony Health 2 Pack Hemp Oil for Dogs & Cats- Helps Pets with Аnxiety, Pаin
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GSHXN3ZH" url="https://www.amazon.com/dp/B0GSHXN3ZH?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GSHXN3ZH" url="https://www.amazon.com/dp/B0GSHXN3ZH" label="Check price on Amazon" />
 

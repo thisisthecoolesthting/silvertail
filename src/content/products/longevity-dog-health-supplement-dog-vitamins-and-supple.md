@@ -13,7 +13,7 @@ bsr: 66542
 commissionPerSale: 0.0
 score: 176.38
 imageUrl: https://m.media-amazon.com/images/I/61DsPwS+6nL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0F45H8238?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0F45H8238
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Longevity+ Dog Health Supplement - Dog Vitamins and Supplements for Joint, Muscl
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0F45H8238" url="https://www.amazon.com/dp/B0F45H8238?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0F45H8238" url="https://www.amazon.com/dp/B0F45H8238" label="Check price on Amazon" />
 

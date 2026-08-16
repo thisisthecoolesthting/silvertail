@@ -13,7 +13,7 @@ bsr: 5
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B0GTQCP4V5?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GTQCP4V5
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Dog Ramp for Stairs - Dog Steps-Anti-Slip Foam Stair Wedges for Small & Senior D
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GTQCP4V5" url="https://www.amazon.com/dp/B0GTQCP4V5?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GTQCP4V5" url="https://www.amazon.com/dp/B0GTQCP4V5" label="Check price on Amazon" />
 

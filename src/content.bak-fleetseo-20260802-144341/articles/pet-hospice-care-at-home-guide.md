@@ -38,7 +38,7 @@ When your 14-year-old lab mix stops eating or your 18-year-old cat can no longer
 
 Having navigated this journey with three senior dogs and two cats, I've learned that small adjustments to their environment and routine can significantly impact their quality of life in those final months. This guide focuses on practical solutions we've tested for pain management, mobility support, and environmental adaptations that actually work in real homes with real pets.
 
-We transformed our living room into a hospice space twice—first for our golden retriever with bone cancer, then for our dachshund with degenerative disc disease. Through trial and error, we discovered that the right combination of [orthopedic support](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20), [mobility aids](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20), and environmental modifications can extend quality time by weeks or even months.
+We transformed our living room into a hospice space twice—first for our golden retriever with bone cancer, then for our dachshund with degenerative disc disease. Through trial and error, we discovered that the right combination of orthopedic support, mobility aids, and environmental modifications can extend quality time by weeks or even months.
 
 The key lies in anticipating needs before they become emergencies—setting up ramps before your dog stops climbing stairs, introducing softer foods before dental issues arise, and creating rest areas on every floor of your home.
 
@@ -50,18 +50,18 @@ The key lies in anticipating needs before they become emergencies—setting up r
 
 Veterinary hospice differs dramatically from human hospice in one crucial aspect: our pets can't verbalize their needs. A 2022 study in the *Journal of Veterinary Internal Medicine* found that 89% of pet owners underestimated their animal's pain levels in terminal conditions. The stakes are high—unmanaged pain accelerates decline, while proper support can extend comfortable time by weeks or months. More importantly, these choices determine whether your pet's final memories are of struggle or peaceful moments with their family.
 
-During our dachshund's final six months, we documented how proper support changed her daily experience. With the [Help 'Em Up Harness](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20), she could still initiate bathroom trips herself rather than waiting helplessly to be carried. The [PetFusion bed's](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) bolsters supported her head at just the right angle to eat comfortably despite worsening neck arthritis. These weren't just conveniences—they preserved her dignity and reduced the stress that exacerbates terminal conditions.
+During our dachshund's final six months, we documented how proper support changed her daily experience. With the Help 'Em Up Harness, she could still initiate bathroom trips herself rather than waiting helplessly to be carried. The PetFusion bed's bolsters supported her head at just the right angle to eat comfortably despite worsening neck arthritis. These weren't just conveniences—they preserved her dignity and reduced the stress that exacerbates terminal conditions.
 
 ## Head-to-Head Comparison
 
 | Product | Best For | Key Features | Limitations | Real-World Tip |
 |---------|----------|--------------|-------------|----------------|
-| [PetFusion Ultimate Dog Bed](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) | Large dogs with arthritis | 4" memory foam, waterproof liner, bolsters for head support | Too firm for very thin dogs | Rotate 180° weekly to prevent uneven wear |
-| [Pet Gear Ramps](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) | Medium mobility challenges | 30" width, 150lb capacity, traction surface | Requires 6" clearance at base | Place rubber mat underneath to prevent slippage |
-| [Help 'Em Up Harness](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) | Full-body support | Handles at hips and chest, machine washable | Learning curve for proper use | Practice lifting before your pet actually needs it |
-| [K&H Pet Cot](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) | Heat regulation and elevation | Elevated mesh, 500D fabric, 25" height | Not suitable for dogs who can't step up | Add a memory foam topper for arthritic pets |
-| [Galliprant Pain Medication](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) | Osteoarthritis pain (prescription) | Targeted action, oral administration, veterinary prescribed | Requires veterinary prescription | Ask your vet about compounding for flavored versions |
-| [Simple Solution Pads](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) | Incontinence management | Washable, multiple sizes | May shift on hard floors | Use non-slip rug pad underneath |
+| PetFusion Ultimate Dog Bed | Large dogs with arthritis | 4" memory foam, waterproof liner, bolsters for head support | Too firm for very thin dogs | Rotate 180° weekly to prevent uneven wear |
+| Pet Gear Ramps | Medium mobility challenges | 30" width, 150lb capacity, traction surface | Requires 6" clearance at base | Place rubber mat underneath to prevent slippage |
+| Help 'Em Up Harness | Full-body support | Handles at hips and chest, machine washable | Learning curve for proper use | Practice lifting before your pet actually needs it |
+| K&H Pet Cot | Heat regulation and elevation | Elevated mesh, 500D fabric, 25" height | Not suitable for dogs who can't step up | Add a memory foam topper for arthritic pets |
+| Galliprant Pain Medication | Osteoarthritis pain (prescription) | Targeted action, oral administration, veterinary prescribed | Requires veterinary prescription | Ask your vet about compounding for flavored versions |
+| Simple Solution Pads | Incontinence management | Washable, multiple sizes | May shift on hard floors | Use non-slip rug pad underneath |
 
 The PetFusion bed proved indispensable for our 75lb shepherd mix during his last six months, while the Help 'Em Up harness allowed our dachshund to continue bathroom trips independently until her final week. Each product serves different needs—the key is matching the solution to your pet's specific limitations.
 
@@ -69,9 +69,9 @@ The PetFusion bed proved indispensable for our 75lb shepherd mix during his last
 For more on bulk buying pet food: a guide to significant savings, see [our coverage at refillwatch.org](https://refillwatch.org/articles/bulk-pet-food-savings-guide/).
 ## Real-World Performance
 
-Through three years of testing these products with multiple pets, we've identified crucial longevity factors. The [PetFusion bed](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) maintains its support for 18+ months of continuous use, though the cover requires monthly washing for incontinence cases. The [Pet Gear ramp](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) handles daily use well but develops slight wobbling after 8 months—we stabilized ours with rubber cabinet bumpers under the legs.
+Through three years of testing these products with multiple pets, we've identified crucial longevity factors. The PetFusion bed maintains its support for 18+ months of continuous use, though the cover requires monthly washing for incontinence cases. The Pet Gear ramp handles daily use well but develops slight wobbling after 8 months—we stabilized ours with rubber cabinet bumpers under the legs.
 
-For harnesses, the [Help 'Em Up](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) outlasted cheaper alternatives by 4–6 months of daily use, though the front strap requires occasional tightening.
+For harnesses, the Help 'Em Up outlasted cheaper alternatives by 4–6 months of daily use, though the front strap requires occasional tightening.
 
 Unexpected benefits emerged too—the K&H cot's elevation helped our labrador with arthritis breathe easier by reducing abdominal pressure, while the PetFusion's bolsters provided just enough incline for our cat with megacolon to eat comfortably. These secondary benefits often prove as valuable as the primary function.
 
@@ -80,7 +80,7 @@ We developed a maintenance schedule that extended product life:
 - **Weekly**: Check all harness stitching and hardware
 - **Monthly**: Wash bed covers and inspect foam for compression
 - **Quarterly**: Tighten ramp hardware and check traction surfaces
-- **As needed**: Replace [washable pads](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) showing waterproof layer breakdown
+- **As needed**: Replace washable pads showing waterproof layer breakdown
 
 ## Cost Math
 
@@ -93,17 +93,17 @@ Breaking down the long-term economics:
 - **Pet Gear Ramp**: $129 ÷ 24 months = $5.38 per month
 - **DIY ramp materials**: $75 ÷ 12 months = $6.25 per month
 
-The [K&H cot](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) presents the most interesting cost profile at $59. While not suitable for all pets, its durable construction lasts 3+ years (just $1.63/month), making it worthwhile if your pet tolerates the elevation. For medications like [Galliprant](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20), discuss pricing with your veterinary clinic—compounded versions may offer cost savings.
+The K&H cot presents the most interesting cost profile at $59. While not suitable for all pets, its durable construction lasts 3+ years (just $1.63/month), making it worthwhile if your pet tolerates the elevation. For medications like Galliprant, discuss pricing with your veterinary clinic—compounded versions may offer cost savings.
 
 ## Alternatives and Budget Options
 
 For budget-conscious caregivers:
 
-- **Bedding**: Memory foam mattress toppers (cut to size) can provide 80% of the support at 40% of the cost of premium beds, though they lack waterproof layers. Add a [waterproof cover](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) for $25.
+- **Bedding**: Memory foam mattress toppers (cut to size) can provide 80% of the support at 40% of the cost of premium beds, though they lack waterproof layers. Add a waterproof cover for $25.
 - **Mobility**: Yoga mats create temporary traction paths for about $20 versus $100+ for specialized flooring. Secure edges with double-sided carpet tape.
 - **Ramps**: Repurposed shelving boards with traction tape ($35 total) can work for lightweight pets under 50lbs.
 
-Subscription options exist for disposable items—the [Simple Solution washable pads](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) offer monthly deliveries at 15% discount. However, we found reusable and washable versions more economical long-term despite higher upfront costs.
+Subscription options exist for disposable items—the Simple Solution washable pads offer monthly deliveries at 15% discount. However, we found reusable and washable versions more economical long-term despite higher upfront costs.
 
 ## FAQ
 
@@ -133,11 +133,11 @@ Every 2–3 days minimum to prevent pressure sores. For incontinent pets:
 
 - Waterproof layers checked twice daily
 - Multiple bed covers for quick changes
-- Use [absorbent pads](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) under regular bedding
+- Use absorbent pads under regular bedding
 
 ### Are heating pads safe?
 
-Only with veterinary approval and using proper pet-safe models. The [K&H heated bed](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) includes safety features such as:
+Only with veterinary approval and using proper pet-safe models. The K&H heated bed includes safety features such as:
 
 - Chew-resistant cords
 - Auto-shutoff at 102°F
@@ -155,7 +155,7 @@ Compounded flavored liquids (available through compounding pharmacies for most c
 
 ## Bottom Line
 
-After helping five pets through their final chapters, the [PetFusion Ultimate Bed](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) and [Help 'Em Up Harness](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) proved most valuable for medium-to-large dogs, while the [K&H cot](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) worked well for our senior cats. For families on a budget, start with a memory foam topper and traction solutions, then add other supports as needs arise. Remember that hospice isn't about the products—it's about adapting your home to honor the bond you've built over years together.
+After helping five pets through their final chapters, the PetFusion Ultimate Bed and Help 'Em Up Harness proved most valuable for medium-to-large dogs, while the K&H cot worked well for our senior cats. For families on a budget, start with a memory foam topper and traction solutions, then add other supports as needs arise. Remember that hospice isn't about the products—it's about adapting your home to honor the bond you've built over years together.
 
 The most important investment isn't monetary—it's your presence. Our pets' final comfort often comes more from familiar voices and gentle touch than from any product. Combine these tools with patience, observation, and plenty of quiet time together to create the most peaceful transition possible.
 

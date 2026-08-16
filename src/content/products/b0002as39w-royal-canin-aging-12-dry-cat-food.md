@@ -14,7 +14,7 @@ bsr: 45
 commissionPerSale: 0.0
 score: 48.3
 imageUrl: /images/amazon-picks/B0002AS39W.jpg
-affiliateUrl: https://www.amazon.com/dp/B0002AS39W?tag=silvertail-20&linkCode=ll1&language=en_US
+affiliateUrl: https://www.amazon.com/dp/B0002AS39W&language=en_US
 isPrime: true
 status: published
 firstSeen: '2026-05-13T00:00:00+00:00'

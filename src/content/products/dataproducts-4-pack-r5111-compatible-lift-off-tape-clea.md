@@ -13,7 +13,7 @@ bsr: 8
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B00OQL6DNC?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B00OQL6DNC
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Dataproducts - 4 Pack - R5111 Compatible Lift-Off Tape Clear "Product Category: 
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B00OQL6DNC" url="https://www.amazon.com/dp/B00OQL6DNC?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B00OQL6DNC" url="https://www.amazon.com/dp/B00OQL6DNC" label="Check price on Amazon" />
 

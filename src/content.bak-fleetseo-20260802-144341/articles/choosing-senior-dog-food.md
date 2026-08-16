@@ -41,7 +41,7 @@ The key differences come down to:
 - Fiber content for digestive regularity
 - Caloric density (many seniors need fewer calories but more nutrients) For more context, see our [article on feeding senior dog with](/articles/feeding-senior-dogs-sensitive-stomachs).
 
-[Wellness Complete Health Senior](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) became our top pick after 6 months of testing, but three other formulas stood out for specific needs.
+Wellness Complete Health Senior became our top pick after 6 months of testing, but three other formulas stood out for specific needs.
 
 
 
@@ -69,22 +69,22 @@ Budget matters too - some premium foods cost $3/day while quality store brands r
 
 | Product | Protein % | Fat % | Fiber % | Key Supplements | Price per lb | Palatability Score | Stool Quality |
 |---------|-----------|-------|---------|-----------------|-------------|-------------------|--------------|
-| [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) | 29 | 16 | 4 | DHA, antioxidants | $2.10 | 9.2/10 | 4.5/5 |
-| [Hill's Science Diet Senior Vitality](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) | 26 | 14 | 5 | Glucosamine 300mg | $1.80 | 8.7/10 | 4.8/5 |
-| [Blue Buffalo Life Protection](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) | 24 | 12 | 6 | Glucosamine 500mg | $2.40 | 8.5/10 | 3.9/5 |
-| [Iams Proactive Health Senior](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) | 27 | 13 | 4 | L-carnitine | $1.20 | 8.0/10 | 4.2/5 |
-| [Royal Canin Aging 10+](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) | 25 | 15 | 5.5 | Joint supplements | $2.60 | 9.0/10 | 4.7/5 |
+| Purina Pro Plan Bright Mind | 29 | 16 | 4 | DHA, antioxidants | $2.10 | 9.2/10 | 4.5/5 |
+| Hill's Science Diet Senior Vitality | 26 | 14 | 5 | Glucosamine 300mg | $1.80 | 8.7/10 | 4.8/5 |
+| Blue Buffalo Life Protection | 24 | 12 | 6 | Glucosamine 500mg | $2.40 | 8.5/10 | 3.9/5 |
+| Iams Proactive Health Senior | 27 | 13 | 4 | L-carnitine | $1.20 | 8.0/10 | 4.2/5 |
+| Royal Canin Aging 10+ | 25 | 15 | 5.5 | Joint supplements | $2.60 | 9.0/10 | 4.7/5 |
 
 **Detailed findings from our 90-day feeding trials**:
 - **Purina Pro Plan**: Showed cognitive benefits within 45 days (faster puzzle solving)
 - **Hill's Science Diet**: Best for sensitive stomachs - only 2% of dogs experienced loose stools
 - **Blue Buffalo**: Highest glucosamine content reduced limping in 78% of arthritic dogs
-- **Iams**: Most cost-effective but required adding [Nutramax Cosequin](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) for joint support
+- **Iams**: Most cost-effective but required adding Nutramax Cosequin for joint support
 - **Royal Canin**: Small kibble size ideal for dental issues but most expensive option
 
 ## Real-World Performance Breakdown
 
-After 90 days feeding [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) to three senior dogs (Labrador, Beagle, and Dachshund):
+After 90 days feeding Purina Pro Plan Bright Mind to three senior dogs (Labrador, Beagle, and Dachshund):
 
 - **Palatability**: 9/10 - even picky eaters finished meals consistently
 - **Stool quality**: Firm and consistent (vet score 4.5/5)
@@ -92,7 +92,7 @@ After 90 days feeding [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B0
 - **Coat condition**: 40% reduction in shedding within 6 weeks
 - **Cognitive function**: 25% faster treat maze completion times
 
-The main drawback was price - at $75 for a 35lb bag, it's 40% more than mid-tier options. For dogs needing joint support, [Blue Buffalo Life Protection](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) showed measurable mobility improvements in arthritic dogs (78% showed reduced limping), though 22% had looser stools initially that stabilized after 3 weeks.
+The main drawback was price - at $75 for a 35lb bag, it's 40% more than mid-tier options. For dogs needing joint support, Blue Buffalo Life Protection showed measurable mobility improvements in arthritic dogs (78% showed reduced limping), though 22% had looser stools initially that stabilized after 3 weeks.
 
 ## Cost Analysis: Breaking Down the Numbers
 
@@ -116,12 +116,12 @@ Adding a glucosamine supplement to the Iams diet would cost an extra $0.22/day, 
 
 For those wanting to customize their senior dog's nutrition:
 
-1. **Base kibble + supplements**: Pair [Iams Proactive Health](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) with [Nutramax Cosequin](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) ($0.18/day) and [Nordic Naturals Omega-3 Pet](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) ($0.15/day)
+1. **Base kibble + supplements**: Pair Iams Proactive Health with Nutramax Cosequin ($0.18/day) and Nordic Naturals Omega-3 Pet ($0.15/day)
 2. **Fresh food**: The Farmer's Dog costs ~$3.50/day but requires freezer space and has shorter shelf life
-3. **Subscription savings**: Chewy Autoship gives 5% off on [Blue Buffalo](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) plus free shipping
+3. **Subscription savings**: Chewy Autoship gives 5% off on Blue Buffalo plus free shipping
 4. **Rotational feeding**: Alternate proteins every 3 months to prevent food sensitivities
 
-Consider adding probiotics during transitions - [Purina FortiFlora](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) helped 89% of our test dogs adjust without digestive upset.
+Consider adding probiotics during transitions - Purina FortiFlora helped 89% of our test dogs adjust without digestive upset.
 
 ## Extended FAQ: Your Senior Nutrition Questions Answered
 
@@ -176,16 +176,16 @@ Start earlier if you notice:
 
 After six months of rigorous testing with 12 senior dogs of varying breeds and health conditions:
 
-**Best Overall**: [Purina Pro Plan Bright Mind](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20)
+**Best Overall**: Purina Pro Plan Bright Mind
 - Cognitive benefits verified by veterinary neurologists
 - Excellent palatability across all test dogs
 - Complete nutritional profile requiring no supplements
 
-**Best Value**: [Iams Proactive Health Senior](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) + [Nutramax Cosequin](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20)
+**Best Value**: Iams Proactive Health Senior + Nutramax Cosequin
 - Provides 85% of premium benefits at 60% of the cost
 - Flexible supplementation allows customization
 
-**Best for Joint Health**: [Blue Buffalo Life Protection](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20)
+**Best for Joint Health**: Blue Buffalo Life Protection
 - Highest glucosamine content showed measurable mobility improvements
 - Fish oil content supports skin and coat health
 

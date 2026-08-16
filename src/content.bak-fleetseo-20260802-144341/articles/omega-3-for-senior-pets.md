@@ -38,7 +38,7 @@ Multiple peer-reviewed studies confirm that EPA and DHA from marine sources demo
 
 But with over 87 different omega-3 products on the market ranging from $15 to $150—each making competing claims about purity, potency, and absorption rates—how do pet owners make an informed choice? This comprehensive 3,000-word guide examines 6 evidence-backed omega-3 supplements we've rigorously tested with our own senior animals over 18 months. For more context, see our [article on 5 joint supplements for](/articles/top-joint-supplements-dogs).
 
-You'll discover why krill oil outperforms fish oil in certain metabolic scenarios (but not all), how to decode misleading label claims that obscure inferior ingredients, and why the cheapest option may actually cost more long-term when considering bioavailability and waste factors. For pets with pre-existing conditions like kidney disease or diabetes, we'll highlight specific formulations like [Nordic Naturals Omega-3 Pet](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) that omit problematic additives while providing third-party Certificates of Analysis for every batch. For more context, see our [article on glucosamine and chondroitin for](/articles/glucosamine-chondroitin-senior-dogs).
+You'll discover why krill oil outperforms fish oil in certain metabolic scenarios (but not all), how to decode misleading label claims that obscure inferior ingredients, and why the cheapest option may actually cost more long-term when considering bioavailability and waste factors. For pets with pre-existing conditions like kidney disease or diabetes, we'll highlight specific formulations like Nordic Naturals Omega-3 Pet that omit problematic additives while providing third-party Certificates of Analysis for every batch. For more context, see our [article on glucosamine and chondroitin for](/articles/glucosamine-chondroitin-senior-dogs).
 
 
 
@@ -57,7 +57,7 @@ For feline companions, omega-3s play a crucial role in slowing age-related retin
 - **Kidney Support**: Omega-3s lower proteinuria in early-stage renal disease by decreasing glomerular hypertension. The fatty acids modulate TGF-β1 expression, slowing fibrosis progression by up to 40% in canine models.
 - **Skin/Coat**: EPA upregulates ceramide synthase enzymes, improving epidermal barrier function. Pets with atopic dermatitis show 55% reduction in pruritus scores when combining omega-3s with topical therapies.
 
-Without targeted supplementation, most senior pets obtain less than 25% of the omega-3 concentrations used in veterinary clinical trials. Compounding this issue, poor-quality oils (oxidized during processing or diluted with inflammatory vegetable oils) may actually increase systemic inflammation. Through independent lab testing, we've prioritized products like [Grizzly Salmon Oil](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) that provide batch-specific heavy metal screening and oxidative stability indexes below 5 meq/kg—far superior to the 20+ meq/kg found in discount store brands.
+Without targeted supplementation, most senior pets obtain less than 25% of the omega-3 concentrations used in veterinary clinical trials. Compounding this issue, poor-quality oils (oxidized during processing or diluted with inflammatory vegetable oils) may actually increase systemic inflammation. Through independent lab testing, we've prioritized products like Grizzly Salmon Oil that provide batch-specific heavy metal screening and oxidative stability indexes below 5 meq/kg—far superior to the 20+ meq/kg found in discount store brands.
 
 ## Head-to-Head Comparison: 6 Top-Tested Omega-3 Supplements
 
@@ -74,11 +74,11 @@ After evaluating 32 products through accelerated stability testing, palatability
 
 **Best for sensitive stomachs**: Nordic Naturals undergoes proprietary molecular distillation removing 99.9% of impurities linked to digestive upset. In our trials, 92% of senior pets with IBD histories tolerated this formula versus 68% for standard fish oils. The addition of vitamin E prevents rancidity without synthetic preservatives.
 
-**Highest potency per dollar**: [Grizzly Salmon Oil](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20) delivers 1,000mg EPA+DHA per teaspoon—ideal for large breed dogs over 70lbs. The pharmaceutical-grade aluminum bottle provides superior light protection compared to plastic containers, with lab tests showing 18% less oxidation after 6 months storage.
+**Highest potency per dollar**: Grizzly Salmon Oil delivers 1,000mg EPA+DHA per teaspoon—ideal for large breed dogs over 70lbs. The pharmaceutical-grade aluminum bottle provides superior light protection compared to plastic containers, with lab tests showing 18% less oxidation after 6 months storage.
 
 **Budget-conscious choice**: Zesty Paws provides adequate dosing for cats and small dogs at under $1 daily. However, pet parents should monitor for increased itching as the added omega-6 fatty acids (from sunflower oil) may exacerbate inflammation in allergy-prone animals. Our testing found this product oxidized 37% faster than nitrogen-flushed alternatives.
 
-**Krill advantage**: The phospholipid-bound omega-3s in [VetriScience Krill Oil](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) show 28% better absorption in felines according to 2024 research from the Waltham Petcare Science Institute. The natural astaxanthin provides additional antioxidant protection, making this ideal for pets with cognitive decline.
+**Krill advantage**: The phospholipid-bound omega-3s in VetriScience Krill Oil show 28% better absorption in felines according to 2024 research from the Waltham Petcare Science Institute. The natural astaxanthin provides additional antioxidant protection, making this ideal for pets with cognitive decline.
 
 ## Real-World Performance: 12-Month Anecdotal Results
 
@@ -86,7 +86,7 @@ In our extended home testing with 14 senior pets (8 dogs, 6 cats) representing v
 
 ### Administration Methods Compared
 
-- **Liquid vs. Capsules**: Cats overwhelmingly preferred the taste of VetriScience Krill Oil (administered via syringe) over fish oil capsules, with 83% voluntary acceptance versus 42% for compressed softgels. Small dogs under 25lbs did better with chewable options like [Nutramax Welactin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) due to easier dosing control.
+- **Liquid vs. Capsules**: Cats overwhelmingly preferred the taste of VetriScience Krill Oil (administered via syringe) over fish oil capsules, with 83% voluntary acceptance versus 42% for compressed softgels. Small dogs under 25lbs did better with chewable options like Nutramax Welactin due to easier dosing control.
 - **Palatability Enhancers**: Mixing oils into warmed bone broth increased consumption by 61% for finicky felines. For dogs, coating capsules in coconut oil reduced "spit-out" incidents by 78% in our trials.
 
 ### Storage and Stability Findings
@@ -96,7 +96,7 @@ In our extended home testing with 14 senior pets (8 dogs, 6 cats) representing v
 
 ### Synergistic Combinations
 
-- Combining omega-3s with glucosamine/chondroitin supplements (as in [Dasuquin Advanced](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20)) produced more dramatic mobility improvements than either supplement alone—83% of testers showed greater willingness to jump onto furniture compared to 57% with omega-3s only.
+- Combining omega-3s with glucosamine/chondroitin supplements (as in Dasuquin Advanced) produced more dramatic mobility improvements than either supplement alone—83% of testers showed greater willingness to jump onto furniture compared to 57% with omega-3s only.
 - For pets with cognitive decline, pairing marine oils with medium-chain triglycerides (from coconut oil) enhanced ketone production, resulting in 32% better performance in memory maze tests after 16 weeks.
 
 ## Cost Analysis: Breaking Down True Long-Term Expenses
@@ -105,7 +105,7 @@ While upfront pricing provides one comparison metric, smart pet owners evaluate 
 
 1. **Concentration variances**: VetriScience Krill requires 3x the volume of Nordic Naturals to deliver equivalent EPA—effectively $7.20 vs $1.92 daily for a 60lb dog when calculating mg-per-dollar. However, the superior absorption may justify this for pets with malabsorption issues.
 
-2. **Waste considerations**: Standard pump bottles lose 15-20% product residue in the mechanism and neck. Squeeze-top designs like [Zesty Paws](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) waste just 5%, while single-dose capsules eliminate waste entirely (at higher per-dose costs).
+2. **Waste considerations**: Standard pump bottles lose 15-20% product residue in the mechanism and neck. Squeeze-top designs like Zesty Paws waste just 5%, while single-dose capsules eliminate waste entirely (at higher per-dose costs).
 
 3. **Subscription savings**: Auto-delivery programs reduce Nordic Naturals' cost to $1.43/day (25% off retail) while ensuring fresh stock every 60 days—critical since opened fish oil begins degrading after 90 days.
 
@@ -151,11 +151,11 @@ High doses (>300mg EPA+DHA per lb daily) may prolong bleeding times in pets sche
 
 After 18 months of testing and analysis, these evidence-based suggestions help match products to specific senior pet needs:
 
-**For most senior dogs**: [Nordic Naturals Omega-3 Pet](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) provides the ideal balance of pharmaceutical-grade purity, therapeutic potency, and palatability. The triglyceride form ensures optimal absorption, while batch testing guarantees label accuracy.
+**For most senior dogs**: Nordic Naturals Omega-3 Pet provides the ideal balance of pharmaceutical-grade purity, therapeutic potency, and palatability. The triglyceride form ensures optimal absorption, while batch testing guarantees label accuracy.
 
-**For feline companions**: The phospholipid delivery in [VetriScience Krill Oil](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) justifies its higher cost through superior bioavailability—especially important for cats with age-related cognitive decline or retinal degeneration.
+**For feline companions**: The phospholipid delivery in VetriScience Krill Oil justifies its higher cost through superior bioavailability—especially important for cats with age-related cognitive decline or retinal degeneration.
 
-**Budget-conscious households**: [Zesty Paws Fish Oil](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) offers acceptable quality at an accessible price point, though pet parents should monitor for potential omega-6 sensitivity reactions in allergy-prone animals.
+**Budget-conscious households**: Zesty Paws Fish Oil offers acceptable quality at an accessible price point, though pet parents should monitor for potential omega-6 sensitivity reactions in allergy-prone animals.
 
 Regardless of product choice, always begin with 1/4 the target dose for 5-7 days to assess tolerance. Store oils in dark containers away from heat and light, and discard any product developing a rancid odor. For pets with complex health conditions, consult your veterinarian to tailor an omega-3 regimen that complements their overall treatment plan.
 

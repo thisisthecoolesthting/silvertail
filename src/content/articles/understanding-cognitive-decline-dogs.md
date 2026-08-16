@@ -41,11 +41,11 @@ Recent research from UC Davis (2025) shows CCD progresses through distinct stage
 
 Cognitive decline in dogs reshapes their entire experience of the world. A 2023 Journal of Veterinary Behavior study found dogs with CCD process scents 40% slower than cognitively healthy peers—significant for animals that navigate life through smell. The stakes extend to caregivers: owners of CCD dogs report substantially higher stress levels managing nighttime disruptions and behavioral changes. Early intervention matters because neural pathways strengthen with consistent use.
 
-We observed that interventions begun at mild symptom stages showed significantly better long-term outcomes than those started after symptoms progressed. The [Nutramax Cosequin Senior](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) we tested showed measurable benefits when started early versus in advanced cases. Beyond supplements, simple interventions like daytime light exposure and scent-based enrichment demonstrated consistent impacts in our trials.
+We observed that interventions begun at mild symptom stages showed significantly better long-term outcomes than those started after symptoms progressed. The Nutramax Cosequin Senior we tested showed measurable benefits when started early versus in advanced cases. Beyond supplements, simple interventions like daytime light exposure and scent-based enrichment demonstrated consistent impacts in our trials.
 
 Our 18-month study revealed three critical intervention windows:
 
-1. **Early Stage (subtle changes)**: Preventive nutrition like [Purina Pro Plan Neuro Care](https://www.amazon.com/dp/B083BFPGD8?tag=silvertail-20) and cognitive enrichment through novel activities
+1. **Early Stage (subtle changes)**: Preventive nutrition like Purina Pro Plan Neuro Care and cognitive enrichment through novel activities
 2. **Mid Stage (active symptoms)**: Combination therapy pairing supplements with 30 minutes of daily nose work showed best results
 3. **Late Stage**: Environmental modifications become paramount—raised food bowls, night lights, and consistent routines reduced confusion
 
@@ -64,19 +64,19 @@ We tested six leading cognitive support products over 90 days with veterinary mo
 
 **What We Actually Observed:**
 
-The [Senilife Supplement](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) showed most consistent results across our three test dogs, particularly for nighttime restlessness and circadian rhythm disruption. However, the [Aktivait Chews](https://www.amazon.com/dp/B0BVYBVHK5?tag=silvertail-20) were the only formula all test dogs ate voluntarily without food mixing—a meaningful advantage for households with picky eaters.
+The Senilife Supplement showed most consistent results across our three test dogs, particularly for nighttime restlessness and circadian rhythm disruption. However, the Aktivait Chews were the only formula all test dogs ate voluntarily without food mixing—a meaningful advantage for households with picky eaters.
 
 **Practical Discoveries:**
-- Temperature sensitivity affected potency: the [Neutricks Supplement](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) showed measurable degradation when stored above 75°F
-- Timing mattered: dogs receiving [Senilife](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) with breakfast showed better absorption than evening dosing
+- Temperature sensitivity affected potency: the Neutricks Supplement showed measurable degradation when stored above 75°F
+- Timing mattered: dogs receiving Senilife with breakfast showed better absorption than evening dosing
 - Palatability declined over time: three of five test dogs developed aversion to fish-flavored products after 8 weeks of continuous use
 
 # Real-World Performance Over Time
 
-Long-term use revealed benefits not apparent in initial trials. The [Purina Pro Plan Neuro Care](https://www.amazon.com/dp/B083BFPGD8?tag=silvertail-20), while expensive, demonstrated cumulative benefits—dogs on it for 6+ months maintained better house training longer than our control group. The powdered [Neutricks Supplement](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) clumped in humid climates unless stored with silica packs.
+Long-term use revealed benefits not apparent in initial trials. The Purina Pro Plan Neuro Care, while expensive, demonstrated cumulative benefits—dogs on it for 6+ months maintained better house training longer than our control group. The powdered Neutricks Supplement clumped in humid climates unless stored with silica packs.
 
 **Multi-Dog Household Considerations:**
-- Chewables like [Aktivait](https://www.amazon.com/dp/B0BVYBVHK5?tag=silvertail-20) required isolation during treat time to prevent theft by younger household members
+- Chewables like Aktivait required isolation during treat time to prevent theft by younger household members
 - Powder formulas were easier to portion separately but harder to administer to stubborn eaters
 - Dietary products worked best in single-pet homes or when all pets were on the same feeding schedule
 
@@ -84,7 +84,7 @@ Long-term use revealed benefits not apparent in initial trials. The [Purina Pro 
 
 We discovered three non-supplement interventions that boosted supplement effectiveness when combined:
 
-1. **Scent Enrichment**: Creating herb-scented pathways (rosemary showed strongest engagement) improved spatial navigation by approximately 31% when paired with [Aktivait](https://www.amazon.com/dp/B0BVYBVHK5?tag=silvertail-20)
+1. **Scent Enrichment**: Creating herb-scented pathways (rosemary showed strongest engagement) improved spatial navigation by approximately 31% when paired with Aktivait
 2. **Texture Rotation**: Varying walking surfaces (carpet, tile, grass) appeared to slow paw-dragging progression
 3. **Consistent Sound Environment**: Soft background music during supplement administration seemed to reinforce administration routines
 
@@ -99,7 +99,7 @@ True long-term expenses for cognitive support:
 | Purina Neuro Care | $89.99 | $89.99 | 2-3 weeks | $629.94 |
 | Cosequin Senior | $34.99 | $34.99 | 4-6 weeks | $244.94 |
 
-The [Hills Prescription Diet b/d](https://www.amazon.com/dp/B0CYJV9X52?tag=silvertail-20) required full dietary transition but cost approximately $2.87/day for a 50-pound dog—eliminating separate supplement expenses for some owners. Combined [Aktivait](https://www.amazon.com/dp/B0BVYBVHK5?tag=silvertail-20) plus environmental enrichment (puzzle feeders cost $15-40) showed better cost-to-benefit ratios than either intervention alone.
+The Hills Prescription Diet b/d required full dietary transition but cost approximately $2.87/day for a 50-pound dog—eliminating separate supplement expenses for some owners. Combined Aktivait plus environmental enrichment (puzzle feeders cost $15-40) showed better cost-to-benefit ratios than either intervention alone.
 
 **Additional Expenses to Budget:**
 - Veterinary monitoring: Required bloodwork added $120-180 quarterly
@@ -128,7 +128,7 @@ For subscription convenience, some brands offer auto-delivery discounts (typical
 
 ### How quickly will I see changes?
 
-Most supplements required 3-6 weeks for measurable effects in our testing. We observed earliest improvements in sleep patterns (week 3-4), while cognitive function improvements like "find the hidden treat" took 8+ weeks. The [Purina Neuro Care](https://www.amazon.com/dp/B083BFPGD8?tag=silvertail-20) showed fastest initial shifts (14-21 days) but required strict dietary compliance.
+Most supplements required 3-6 weeks for measurable effects in our testing. We observed earliest improvements in sleep patterns (week 3-4), while cognitive function improvements like "find the hidden treat" took 8+ weeks. The Purina Neuro Care showed fastest initial shifts (14-21 days) but required strict dietary compliance.
 
 ### Can I combine multiple supplements?
 
@@ -136,7 +136,7 @@ Always consult your veterinarian before stacking supplements. In our trials, com
 
 ### Are prescription diets worth the cost?
 
-For dogs with concurrent health conditions (kidney disease, diabetes), the [Hills b/d](https://www.amazon.com/dp/B0CYJV9X52?tag=silvertail-20) provided whole-body nutritional benefits justifying its $90+/bag price. Otherwise healthy seniors sometimes performed equally well on quality maintenance food plus targeted supplements like [Aktivait](https://www.amazon.com/dp/B0BVYBVHK5?tag=silvertail-20).
+For dogs with concurrent health conditions (kidney disease, diabetes), the Hills b/d provided whole-body nutritional benefits justifying its $90+/bag price. Otherwise healthy seniors sometimes performed equally well on quality maintenance food plus targeted supplements like Aktivait.
 
 ### How do I differentiate CCD from normal aging?
 
@@ -144,11 +144,11 @@ The "DISHA" checklist helps: **D**isorientation, **I**nteraction changes, **S**l
 
 ### What about CBD oil for cognitive decline?
 
-Current evidence suggests CBD may support anxiety and sleep quality, but doesn't directly address cognitive dysfunction. In our limited observation, it improved rest when paired with [Senilife](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) but didn't impact daytime confusion. Avoid any products claiming to reverse or cure cognitive decline.
+Current evidence suggests CBD may support anxiety and sleep quality, but doesn't directly address cognitive dysfunction. In our limited observation, it improved rest when paired with Senilife but didn't impact daytime confusion. Avoid any products claiming to reverse or cure cognitive decline.
 
 # Bottom Line
 
-After 18 months tracking our senior dogs, the [Senilife Supplement](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) delivered the most consistent improvements we observed across multiple behavioral categories. Budget-conscious owners saw good value combining the [Aktivait Chews](https://www.amazon.com/dp/B0BVYBVHK5?tag=silvertail-20) with environmental modifications like puzzle feeders and night lights. Interventions begun at mild symptom stages showed better long-term outcomes in our study than those started after symptoms progressed.
+After 18 months tracking our senior dogs, the Senilife Supplement delivered the most consistent improvements we observed across multiple behavioral categories. Budget-conscious owners saw good value combining the Aktivait Chews with environmental modifications like puzzle feeders and night lights. Interventions begun at mild symptom stages showed better long-term outcomes in our study than those started after symptoms progressed.
 
 **Implementation Steps:**
 1. Keep a symptom journal tracking frequency and duration of concerning behaviors

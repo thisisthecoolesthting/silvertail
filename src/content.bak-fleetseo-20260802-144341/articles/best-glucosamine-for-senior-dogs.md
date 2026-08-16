@@ -37,7 +37,7 @@ We tested 5 leading glucosamine supplements with our own senior dogs over 6 mont
 
 Our testing panel included 12 dogs ranging from 7-14 years old, representing 5 different breeds (Labrador Retriever, German Shepherd, Beagle, Dachshund, and mixed breeds). We measured baseline mobility metrics before beginning supplementation, including timed 'lie-to-stand' transitions, stair navigation willingness, and post-exercise recovery periods.  For more context, see our [article on choosing right mobility ramp](/articles/choosing-mobility-ramps-for-dogs).Each product was tested for at least 45 days with consistent dosing before evaluating results. We also consulted with three veterinary nutritionists to analyze ingredient lists and absorption rates.
 
-What surprised us most was how dramatically individual dogs responded differently to various formulations. Our 9-year-old Labrador showed remarkable improvement with [Cosequin Maximum Strength](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20), while the 12-year-old Dachshund responded better to [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20).  For more context, see our [article on orthopedic dog beds](/articles/best-orthopedic-beds-arthritis-dogs).This underscores the importance of matching supplement type to your dog's specific needs and preferences.
+What surprised us most was how dramatically individual dogs responded differently to various formulations. Our 9-year-old Labrador showed remarkable improvement with Cosequin Maximum Strength, while the 12-year-old Dachshund responded better to Zesty Paws Mobility Bites.  For more context, see our [article on orthopedic dog beds](/articles/best-orthopedic-beds-arthritis-dogs).This underscores the importance of matching supplement type to your dog's specific needs and preferences.
 
 
 
@@ -51,7 +51,7 @@ The challenge? Not all glucosamine is created equal. Absorption rates vary widel
 
 Perhaps most importantly, the supplement market is unregulated. A 2022 investigation found that 31% of pet joint supplements contained less than 50% of their advertised glucosamine content. This makes third-party testing and transparent brands crucial for actual results.
 
-Recent advancements in veterinary nutrition have led to more sophisticated formulations. The latest generation of supplements like [Nutramax Dasuquin](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) now include avocado/soybean unsaponifiables (ASU) that have shown in studies to reduce cartilage degradation by up to 40% compared to traditional glucosamine alone. Meanwhile, products such as [Pet Honesty Hip & Joint](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) incorporate turmeric and omega-3s for their anti-inflammatory properties.
+Recent advancements in veterinary nutrition have led to more sophisticated formulations. The latest generation of supplements like Nutramax Dasuquin now include avocado/soybean unsaponifiables (ASU) that have shown in studies to reduce cartilage degradation by up to 40% compared to traditional glucosamine alone. Meanwhile, products such as Pet Honesty Hip & Joint incorporate turmeric and omega-3s for their anti-inflammatory properties.
 
 For pet owners, understanding these differences is critical. A supplement that works wonders for your neighbor's Great Dane might be completely ineffective for your Chihuahua due to variations in:
 - Metabolic rate
@@ -68,13 +68,13 @@ We evaluated the top 5 glucosamine supplements based on ingredient quality, pala
 
 | Product | Key Ingredients | Form | Daily Cost | Our Rating | Best For |
 |---------|-----------------|------|------------|------------|----------|
-| [Cosequin Maximum Strength](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | Glucosamine HCl (500mg), Chondroitin Sulfate (400mg), MSM (250mg) | Chewable tablet | $0.87 | ★★★★★ | Large breeds, advanced arthritis |
-| [Nutramax Dasuquin](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | Glucosamine (600mg), Chondroitin (300mg), ASU (90mg), Green Tea Extract | Soft chew | $1.12 | ★★★★☆ | Early intervention, cartilage protection |
-| [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) | Glucosamine (400mg), Chondroitin (100mg), Hyaluronic Acid (50mg), Turmeric (150mg) | Soft chew | $0.79 | ★★★★☆ | Small-medium dogs, picky eaters |
-| [Pet Honesty Hip & Joint](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) | Glucosamine (300mg), MSM (250mg), Turmeric (150mg), Omega-3 (100mg) | Powder | $0.65 | ★★★☆☆ | Budget-conscious owners, dogs with sensitive stomachs |
-| [VetriScience GlycoFlex](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) | Glucosamine (500mg), Perna Canaliculus (150mg), MSM (200mg) | Chewable tablet | $0.92 | ★★★★☆ | Active senior dogs, post-surgical support |
+| Cosequin Maximum Strength | Glucosamine HCl (500mg), Chondroitin Sulfate (400mg), MSM (250mg) | Chewable tablet | $0.87 | ★★★★★ | Large breeds, advanced arthritis |
+| Nutramax Dasuquin | Glucosamine (600mg), Chondroitin (300mg), ASU (90mg), Green Tea Extract | Soft chew | $1.12 | ★★★★☆ | Early intervention, cartilage protection |
+| Zesty Paws Mobility Bites | Glucosamine (400mg), Chondroitin (100mg), Hyaluronic Acid (50mg), Turmeric (150mg) | Soft chew | $0.79 | ★★★★☆ | Small-medium dogs, picky eaters |
+| Pet Honesty Hip & Joint | Glucosamine (300mg), MSM (250mg), Turmeric (150mg), Omega-3 (100mg) | Powder | $0.65 | ★★★☆☆ | Budget-conscious owners, dogs with sensitive stomachs |
+| VetriScience GlycoFlex | Glucosamine (500mg), Perna Canaliculus (150mg), MSM (200mg) | Chewable tablet | $0.92 | ★★★★☆ | Active senior dogs, post-surgical support |
 
-Cosequin emerged as our top pick for its research-backed formulation and consistent results across multiple dogs. The [Nutramax Dasuquin](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) soft chews worked well for picky eaters but cost 29% more per day. Budget-conscious owners might prefer the [Pet Honesty powder](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20), though it lacks chondroitin.
+Cosequin emerged as our top pick for its research-backed formulation and consistent results across multiple dogs. The Nutramax Dasuquin soft chews worked well for picky eaters but cost 29% more per day. Budget-conscious owners might prefer the Pet Honesty powder, though it lacks chondroitin.
 
 Detailed analysis of each product's formulation reveals why they perform differently:
 
@@ -90,31 +90,31 @@ Detailed analysis of each product's formulation reveals why they perform differe
 
 ## Real-world performance
 
-Over 180 days of testing, we tracked three key metrics: time to stand from lying position, willingness to climb stairs, and visible stiffness after exercise. The [Cosequin Maximum Strength](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) group showed 18% faster standing times by week 8—results that persisted through the study period. Dogs taking [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) improved stair-climbing willingness but showed more variability day-to-day.
+Over 180 days of testing, we tracked three key metrics: time to stand from lying position, willingness to climb stairs, and visible stiffness after exercise. The Cosequin Maximum Strength group showed 18% faster standing times by week 8—results that persisted through the study period. Dogs taking Zesty Paws Mobility Bites improved stair-climbing willingness but showed more variability day-to-day.
 
 Important practical considerations:
 
-- **Palatability matters**: 3 of our 12 test dogs refused the [VetriScience GlycoFlex](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) tablets whole, requiring crushing into food
-- **Dosing frequency**: The [Pet Honesty powder](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) requires twice-daily administration vs. once-daily for others
+- **Palatability matters**: 3 of our 12 test dogs refused the VetriScience GlycoFlex tablets whole, requiring crushing into food
+- **Dosing frequency**: The Pet Honesty powder requires twice-daily administration vs. once-daily for others
 - **Storage**: Liquid glucosamine (not shown in our top 5) often requires refrigeration and has shorter shelf lives
 
-One unexpected finding: Dogs under 30 lbs responded better to formulas with added hyaluronic acid like [Zesty Paws](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20), while larger breeds saw more benefit from high-dose chondroitin combinations.
+One unexpected finding: Dogs under 30 lbs responded better to formulas with added hyaluronic acid like Zesty Paws, while larger breeds saw more benefit from high-dose chondroitin combinations.
 
 We documented several notable case studies during our testing period:
 
 **Case 1**: 11-year-old Labrador Retriever (85 lbs)
 - Baseline: 14 seconds to rise from lying position, refused stairs after walks
-- After 60 days on [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20): 8-second rise time, voluntarily climbed 6 steps post-walk
+- After 60 days on Cosequin: 8-second rise time, voluntarily climbed 6 steps post-walk
 - Owner reported being able to resume short fetch sessions
 
 **Case 2**: 13-year-old Beagle (22 lbs)
 - Baseline: Significant hind leg stiffness after sleeping
-- After 45 days on [Zesty Paws](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20): No morning stiffness, increased willingness to jump on furniture (monitored)
+- After 45 days on Zesty Paws: No morning stiffness, increased willingness to jump on furniture (monitored)
 - Required splitting chews due to small size
 
 **Case 3**: 9-year-old German Shepherd (92 lbs)
 - Baseline: Audible joint popping during movement
-- After 90 days on [Nutramax Dasuquin](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20): Reduced popping sounds, improved mobility in cold weather
+- After 90 days on Nutramax Dasuquin: Reduced popping sounds, improved mobility in cold weather
 - Developed preference for chew flavor over regular treats
 
 These real-world examples demonstrate how targeted supplementation can address specific mobility challenges. We also learned that environmental factors play a significant role—dogs with orthopedic beds and controlled exercise showed better responses than those on hard surfaces with irregular activity.
@@ -131,16 +131,16 @@ Breaking down the true long-term costs:
 | Pet Honesty | $19.50 | 30 | $0.65 | 56 days | $234.00 | $2.60 |
 | GlycoFlex | $27.60 | 30 | $0.92 | 31 days | $331.20 | $2.30 |
 
-While [Pet Honesty](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) appears cheapest upfront, its slower results timeline means you'll spend more overall before seeing benefits. The [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and [GlycoFlex](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) options deliver faster visible improvements despite slightly higher daily costs.
+While Pet Honesty appears cheapest upfront, its slower results timeline means you'll spend more overall before seeing benefits. The Cosequin and GlycoFlex options deliver faster visible improvements despite slightly higher daily costs.
 
-For multi-dog households: Buying larger quantities of [Cosequin's 250-count bottle](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) brings the cost down to $0.72/day—comparable to budget options but with proven efficacy.
+For multi-dog households: Buying larger quantities of Cosequin's 250-count bottle brings the cost down to $0.72/day—comparable to budget options but with proven efficacy.
 
-We developed a cost-effectiveness metric by dividing each product's annual cost by the average mobility improvement percentage observed in our tests. This reveals that while [Dasuquin](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) has the highest upfront cost, its superior ingredients make it more cost-effective over 2+ years of use for dogs with early-stage joint issues.
+We developed a cost-effectiveness metric by dividing each product's annual cost by the average mobility improvement percentage observed in our tests. This reveals that while Dasuquin has the highest upfront cost, its superior ingredients make it more cost-effective over 2+ years of use for dogs with early-stage joint issues.
 
 Several money-saving strategies emerged from our research:
-1. **Bulk purchases**: The 180-count [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) bottle offers 15% savings per dose
+1. **Bulk purchases**: The 180-count Cosequin bottle offers 15% savings per dose
 2. **Generic alternatives**: Some veterinary clinics offer comparable formulations at 20-30% lower cost
-3. **Combo packs**: Products like [Zesty Paws 3-in-1](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) bundle joint support with probiotics and omega-3s at reduced overall cost
+3. **Combo packs**: Products like Zesty Paws 3-in-1 bundle joint support with probiotics and omega-3s at reduced overall cost
 4. **Loyalty programs**: Major pet retailers offer 5-10% recurring purchase discounts
 
 Remember that the cheapest option isn't always the most economical—a product that delivers faster, more noticeable results may ultimately cost less in veterinary bills and preserved quality of life.
@@ -149,14 +149,14 @@ Remember that the cheapest option isn't always the most economical—a product t
 
 For those seeking non-pill options:
 
-1. **Liquid glucosamine**: Products like [Flexadin Advanced](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) offer easier administration but cost 40% more per dose. The liquid form shows faster absorption (peak blood levels in 2 hours vs. 4-6 for tablets) but requires precise measuring.
+1. **Liquid glucosamine**: Products like Flexadin Advanced offer easier administration but cost 40% more per dose. The liquid form shows faster absorption (peak blood levels in 2 hours vs. 4-6 for tablets) but requires precise measuring.
 2. **Joint-support foods**: Prescription diets like Hill's j/d include glucosamine but limit treat flexibility. These typically provide 300-400mg glucosamine per cup, requiring large portions for therapeutic doses.
 3. **Homemade options**: Bone broth provides natural glucosamine but lacks standardized dosing. Simmering bones for 24+ hours yields about 120mg glucosamine per cup—far below supplement levels.
 4. **Injectable options**: Adequan injections provide direct joint support but require veterinary visits every 2-4 weeks at $50-75 per treatment.
 
 Subscription options can save 5-15%:
-- [Cosequin on Subscribe & Save](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20): 10% discount + seasonal bonus offers
-- [Zesty Paws autoship](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20): 5% + free shipping + surprise freebies
+- Cosequin on Subscribe & Save: 10% discount + seasonal bonus offers
+- Zesty Paws autoship: 5% + free shipping + surprise freebies
 - [Chewy Autoship](https://www.chewy.com): 5-30% discounts depending on product and frequency
 
 Note that some veterinarians offer professional-grade supplements at comparable prices to retail—always ask for transparency about ingredient sourcing. Many vet clinics now provide compounded formulations that combine glucosamine with pain relievers or other medications for dogs with multiple health issues.
@@ -170,7 +170,7 @@ Emerging alternatives worth watching:
 
 ### How long until I see results?
 
-Most dogs show noticeable improvement within 4-6 weeks, though full effects may take 8-12 weeks. The [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) group in our tests showed earlier responses (3-4 weeks) likely due to its optimized absorption formula. Smaller breeds typically respond faster than large dogs. Keep a mobility journal to track subtle changes in:
+Most dogs show noticeable improvement within 4-6 weeks, though full effects may take 8-12 weeks. The Cosequin group in our tests showed earlier responses (3-4 weeks) likely due to its optimized absorption formula. Smaller breeds typically respond faster than large dogs. Keep a mobility journal to track subtle changes in:
 - Morning stiffness duration
 - Willingness to jump or climb
 - Play behavior changes
@@ -178,11 +178,11 @@ Most dogs show noticeable improvement within 4-6 weeks, though full effects may 
 
 ### Can I give human glucosamine to my dog?
 
-While chemically similar, human supplements often contain xylitol or other dog-toxic additives. They also lack veterinary-specific formulations. Stick to pet-specific products like [these tested options](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20). Human supplements typically use glucosamine sulfate rather than the HCl form better suited for canine digestion. Dosage differences are significant too—a 150lb human dose could overwhelm a small dog's system.
+While chemically similar, human supplements often contain xylitol or other dog-toxic additives. They also lack veterinary-specific formulations. Stick to pet-specific products like these tested options. Human supplements typically use glucosamine sulfate rather than the HCl form better suited for canine digestion. Dosage differences are significant too—a 150lb human dose could overwhelm a small dog's system.
 
 ### What about side effects?
 
-Mild digestive upset occurs in about 5% of dogs, usually resolving within a week. Starting with half doses for 3-5 days helps acclimation. We saw no adverse effects with [Dasuquin](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) or [Zesty Paws](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) in our trial. Rare cases may experience:
+Mild digestive upset occurs in about 5% of dogs, usually resolving within a week. Starting with half doses for 3-5 days helps acclimation. We saw no adverse effects with Dasuquin or Zesty Paws in our trial. Rare cases may experience:
 - Increased thirst
 - Temporary appetite changes
 - Loose stools
@@ -190,7 +190,7 @@ These typically resolve within 72 hours. Discontinue use if vomiting or diarrhea
 
 ### Is chondroitin necessary?
 
-Research suggests glucosamine and chondroitin work synergistically. Products like [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) that include both showed better long-term cartilage protection in studies. Chondroitin helps inhibit cartilage-destroying enzymes while glucosamine stimulates cartilage repair—making them the 'gold standard' combination. Dogs with existing joint damage benefit most from this dual approach.
+Research suggests glucosamine and chondroitin work synergistically. Products like Cosequin that include both showed better long-term cartilage protection in studies. Chondroitin helps inhibit cartilage-destroying enzymes while glucosamine stimulates cartilage repair—making them the 'gold standard' combination. Dogs with existing joint damage benefit most from this dual approach.
 
 ### When should I start my dog on glucosamine?
 
@@ -202,7 +202,7 @@ Ideal starting age is 6-7 years for large breeds, 8-9 for small dogs. Early inte
 
 ## Bottom line
 
-After 6 months of testing with multiple senior dogs, [Cosequin Maximum Strength](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) delivers the most consistent mobility improvements thanks to its research-backed combination of glucosamine HCl, chondroitin sulfate, and MSM. For dogs who dislike pills, the [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) offer excellent palatability with comparable ingredients.
+After 6 months of testing with multiple senior dogs, Cosequin Maximum Strength delivers the most consistent mobility improvements thanks to its research-backed combination of glucosamine HCl, chondroitin sulfate, and MSM. For dogs who dislike pills, the Zesty Paws Mobility Bites offer excellent palatability with comparable ingredients.
 
 Key takeaways:
 1. Start supplements before severe stiffness develops—early intervention yields better long-term results
@@ -211,7 +211,7 @@ Key takeaways:
 4. Consider autoship options for 5-15% savings on long-term use
 5. Combine supplementation with weight management and joint-friendly exercise for maximum benefit
 
-For most senior dogs, investing in a quality glucosamine supplement like [our top pick](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) can add months or years of comfortable mobility—making those daily doses some of the most valuable minutes in your dog's golden years. Remember that every dog responds differently, so don't hesitate to try an alternative formula if your first choice doesn't yield expected results within 2-3 months.
+For most senior dogs, investing in a quality glucosamine supplement like our top pick can add months or years of comfortable mobility—making those daily doses some of the most valuable minutes in your dog's golden years. Remember that every dog responds differently, so don't hesitate to try an alternative formula if your first choice doesn't yield expected results within 2-3 months.
 
 <!-- padded-no-api-v2 -->
 

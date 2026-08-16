@@ -36,7 +36,7 @@ updatedAt: 2026-05-12
 
 When your 12-year-old Labrador hesitates at the staircase he's climbed daily for years, that moment tells you something has changed. Stairs become harder as dogs age—stiff joints, less confidence, and the physical strain of climbing can keep a senior dog from reaching the bedroom, the couch, or the car. We tested 12 ramp models with older dogs to find options that genuinely make a difference.
 
-The [PetSafe Happy Ride Foldable Ramp](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) stood out for its traction surface and portability—useful if you move the ramp between rooms or vehicles. The [Solvit Deluxe Telescoping Ramp](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) impressed us with its weight capacity and adjustable length, making it adaptable as your dog's needs shift. And the [Pet Gear Free Standing Ramp](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) proved reliable for everyday bedroom or couch access.
+The PetSafe Happy Ride Foldable Ramp stood out for its traction surface and portability—useful if you move the ramp between rooms or vehicles. The Solvit Deluxe Telescoping Ramp impressed us with its weight capacity and adjustable length, making it adaptable as your dog's needs shift. And the Pet Gear Free Standing Ramp proved reliable for everyday bedroom or couch access.
 
 # Why ramps matter for senior dogs
 
@@ -55,19 +55,19 @@ We tested each ramp for traction (does a wet paw slide?), deflection under weigh
 | Price | $219 | $179 | $389 |
 | Warranty | 5 years | 2 years | Lifetime (aluminum) |
 
-The [Pet Gear](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) has a carpet surface that's comfortable on senior paws and easier for dogs to grip—but it requires regular cleaning to stay hygienic. Its shorter height works well for beds and couches. The [Solvit](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) adjusts in length and supports the heaviest dogs; aluminum won't absorb odors or harbor bacteria the way carpet can. The [PetSafe](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) folds for storage and travels, so it's ideal if you move it between the bedroom, car, and living room.
+The Pet Gear has a carpet surface that's comfortable on senior paws and easier for dogs to grip—but it requires regular cleaning to stay hygienic. Its shorter height works well for beds and couches. The Solvit adjusts in length and supports the heaviest dogs; aluminum won't absorb odors or harbor bacteria the way carpet can. The PetSafe folds for storage and travels, so it's ideal if you move it between the bedroom, car, and living room.
 
 # Real-world performance
 
-After several months of daily use in multi-dog households, the [PetSafe Happy Ride](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) remained stable and showed minimal wear. Its rubber ridges provide consistent grip even when damp. The [Pet Gear](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) carpet wears well but benefits from weekly vacuuming and occasional spot-cleaning to prevent odor buildup—important for older dogs with sensitive noses. The [Solvit](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) is the most rugged; its aluminum frame and grooved surface need only occasional rinsing.
+After several months of daily use in multi-dog households, the PetSafe Happy Ride remained stable and showed minimal wear. Its rubber ridges provide consistent grip even when damp. The Pet Gear carpet wears well but benefits from weekly vacuuming and occasional spot-cleaning to prevent odor buildup—important for older dogs with sensitive noses. The Solvit is the most rugged; its aluminum frame and grooved surface need only occasional rinsing.
 
 We observed that dogs adapt to ramps faster when the angle is gentle (around 20–25°) and when the surface offers texture for grip. Steeper ramps often discourage hesitant dogs; too shallow, and the ramp becomes impractically long.
 
 # Cost breakdown
 
 - **Budget ramps** ($80–$150): Often need traction pad replacements or repairs within 2–3 years, adding to the total cost.
-- **Mid-range** ($150–$300): Models like the [PetSafe](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) balance upfront cost with durability; warranty coverage helps offset repairs.
-- **Heavy-duty** ($350+): The [Solvit](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) costs more initially but lasts longer and carries a lifetime warranty on the aluminum frame.
+- **Mid-range** ($150–$300): Models like the PetSafe balance upfront cost with durability; warranty coverage helps offset repairs.
+- **Heavy-duty** ($350+): The Solvit costs more initially but lasts longer and carries a lifetime warranty on the aluminum frame.
 
 Portable ramps save money on space: if you live in a smaller home or apartment, folding models reduce clutter. Fixed ramps work better for permanent setups—you won't move them daily, so they don't need to fold.
 
@@ -101,7 +101,7 @@ Yes, a properly angled ramp reduces impact and strain compared to climbing stair
 
 # Bottom line
 
-For everyday bedroom and couch access, the [Pet Gear Free Standing Ramp](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) is reliable and affordable. If you move the ramp between rooms or need to travel, the [PetSafe Happy Ride](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) folds and stores easily. For the largest dogs or longest-lasting durability, the [Solvit Deluxe](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) justifies its higher price.
+For everyday bedroom and couch access, the Pet Gear Free Standing Ramp is reliable and affordable. If you move the ramp between rooms or need to travel, the PetSafe Happy Ride folds and stores easily. For the largest dogs or longest-lasting durability, the Solvit Deluxe justifies its higher price.
 
 Measure your space before buying—note the height your dog needs to reach and how much floor or vehicle space you can spare. Test the ramp's angle if possible; watch how your dog reacts. The best ramp is one your senior dog will actually use every day.
 

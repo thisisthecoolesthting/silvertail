@@ -91,11 +91,11 @@ We focused on two primary solutions: ramps for gradual inclines and steps for ti
 
 | Product | Type | Max Weight | Surface | Acceptance | Best For |
 |---------|------|------------|---------|-----------|----------|
-| [Petstep Original Ramp](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) | Foldable ramp | 200 lbs | Textured carpet | 89% | Bed access, aluminum durability |
-| [Pet Gear Staircase](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) | 3-step stairs | 150 lbs | Plush foam | 78% | Couch height, removable covers |
-| [Solvit Pet Ramp](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) | Telescoping ramp | 300 lbs | Grooved surface | 65% | Adjustable heights, flexible |
-| [Kitty Cot Steps](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) | 2-tier steps | 50 lbs | Microfiber | 54% | Lightweight, portable |
-| [Hepper Memory Foam Steps](https://www.amazon.com/dp/B08N5KWB9H?tag=silvertail-20) | 4-step stairs | 120 lbs | Memory foam | 92% | Orthopedic support, joint comfort |
+| Petstep Original Ramp | Foldable ramp | 200 lbs | Textured carpet | 89% | Bed access, aluminum durability |
+| Pet Gear Staircase | 3-step stairs | 150 lbs | Plush foam | 78% | Couch height, removable covers |
+| Solvit Pet Ramp | Telescoping ramp | 300 lbs | Grooved surface | 65% | Adjustable heights, flexible |
+| Kitty Cot Steps | 2-tier steps | 50 lbs | Microfiber | 54% | Lightweight, portable |
+| Hepper Memory Foam Steps | 4-step stairs | 120 lbs | Memory foam | 92% | Orthopedic support, joint comfort |
 
 **Key findings from testing**:
 - **Ramp physics**: Requires 18–24" run space per foot of elevation for safe angles
@@ -103,7 +103,7 @@ We focused on two primary solutions: ramps for gradual inclines and steps for ti
 - **Surface rejection**: Most cats refused slick plastic surfaces, favoring textured materials
 - **Visual cues**: Steps with contrasting edge colors had higher acceptance in low light
 
-The [Petstep ramp](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) worked best for bed access, while the [Pet Gear stairs](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) suited smaller jumps to couches. For arthritic cats, the [Hepper Memory Foam Steps](https://www.amazon.com/dp/B08N5KWB9H?tag=silvertail-20) provided exceptional cushioning but required more floor space.
+The Petstep ramp worked best for bed access, while the Pet Gear stairs suited smaller jumps to couches. For arthritic cats, the Hepper Memory Foam Steps provided exceptional cushioning but required more floor space.
 
 ## Real-World Performance
 
@@ -121,7 +121,7 @@ Over 6 months of daily use, we identified critical durability and safety factors
 - **Behavioral issues**: Lightweight stair sets required anchoring to prevent tipping
 - **Temperature sensitivity**: Memory foam steps became stiff below 60°F
 
-**Unexpected Winner**: Placing an [orthopedic bed](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) beside furniture as an intermediate landing spot reduced needed jump height by 50%. Our cats showed noticeably less hesitation with this approach.
+**Unexpected Winner**: Placing an orthopedic bed beside furniture as an intermediate landing spot reduced needed jump height by 50%. Our cats showed noticeably less hesitation with this approach.
 
 ## Cost Math
 
@@ -136,9 +136,9 @@ Breaking down realistic costs for our top picks with actual usage data:
 | Kitty Cot Steps | $45 | 1.5 years | $30.00 | Fabric covers ($12) |
 
 **Surprising Findings**:
-- The seemingly expensive [Hepper Steps](https://www.amazon.com/dp/B08N5KWB9H?tag=silvertail-20) had the lowest 5-year cost when factoring in zero maintenance needs
+- The seemingly expensive Hepper Steps had the lowest 5-year cost when factoring in zero maintenance needs
 - Budget plastic stairs averaged $42/year due to frequent breakage
-- For multi-cat households, the [Petstep ramp](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) proved most economical over time
+- For multi-cat households, the Petstep ramp proved most economical over time
 
 ## Alternatives and DIY Options
 
@@ -148,17 +148,17 @@ When commercial products don't fit your space or budget:
 - **Stacked textbooks**: Wrap in non-slip shelf liner for traction (max 6" height)
 - **Yoga mat ramps**: Secure rolled mats with grip tape (gentle angles only)
 - **Ottoman stepping stones**: Space 8–10" apart with anti-tip straps
-- **Cushion staircases**: Layer [memory foam pads](https://www.amazon.com/dp/B07TKN3BPC?tag=silvertail-20) in descending sizes
+- **Cushion staircases**: Layer memory foam pads in descending sizes
 
 **Custom Build Options**:
 - **Etsy craftsmen**: Create ramps to exact measurements (~$120) with premium carpet
-- **Plywood solutions**: Use 1/2" birch ply with [indoor/outdoor carpet](https://www.amazon.com/dp/B07D9C9QKZ?tag=silvertail-20)
-- **Repurposed furniture**: Crib mattresses make excellent intermediate landings when covered with [waterproof liners](https://www.amazon.com/dp/B07R5FJY7X?tag=silvertail-20)
+- **Plywood solutions**: Use 1/2" birch ply with indoor/outdoor carpet
+- **Repurposed furniture**: Crib mattresses make excellent intermediate landings when covered with waterproof liners
 
 **Maintenance Protocols**:
 - **Foam steps**: Rotate inserts quarterly to prevent uneven wear
 - **Carpeted ramps**: Deep clean monthly to maintain traction
-- **Plastic surfaces**: Refresh with [traction spray](https://www.amazon.com/dp/B07G4X3YQC?tag=silvertail-20) as needed
+- **Plastic surfaces**: Refresh with traction spray as needed
 - **All products**: Check stability weekly—tighten any loose joints immediately
 
 ## FAQ
@@ -216,13 +216,13 @@ We cannot diagnose your cat's specific condition. Your veterinarian should alway
 - **Side rails**: Essential for heights >18" to prevent falls
 
 **Crossover-friendly models**:
-1. [PetSafe Happy Ride](https://www.amazon.com/dp/B0002AR3NA?tag=silvertail-20) (adjustable angle)
-2. [PawRamp Original](https://www.amazon.com/dp/B00B5UZHXK?tag=silvertail-20) (lightweight)
-3. [Solvit Deluxe](https://www.amazon.com/dp/B07YT4JWPK?tag=silvertail-20) (telescoping)
+1. PetSafe Happy Ride (adjustable angle)
+2. PawRamp Original (lightweight)
+3. Solvit Deluxe (telescoping)
 
 ## Bottom Line
 
-After 18 months of testing with three senior cats in our home, the [Petstep Original Ramp](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) emerges as the best overall solution for most homes. Its aircraft-grade aluminum frame and textured carpet surface proved durable and cat-friendly over extended use.
+After 18 months of testing with three senior cats in our home, the Petstep Original Ramp emerges as the best overall solution for most homes. Its aircraft-grade aluminum frame and textured carpet surface proved durable and cat-friendly over extended use.
 
 **Key advantages**:
 - Durable aluminum construction that resists warping
@@ -230,7 +230,7 @@ After 18 months of testing with three senior cats in our home, the [Petstep Orig
 - Folding design for space-conscious homes
 - Gentle slope suitable for arthritic cats
 
-For smaller jumps (<10"), the [Hepper Memory Foam Steps](https://www.amazon.com/dp/B08N5KWB9H?tag=silvertail-20) provide excellent cushioning, though they require more floor space. Monitor foam density every 6 months—if indentations don't bounce back, it's time to refresh the inserts.
+For smaller jumps (<10"), the Hepper Memory Foam Steps provide excellent cushioning, though they require more floor space. Monitor foam density every 6 months—if indentations don't bounce back, it's time to refresh the inserts.
 
 **Final recommendation**: Start with one high-quality aid placed at your cat's most frequented jump site. Observe usage patterns for 2 weeks before expanding to other areas. A single well-positioned ramp or step system often restores meaningful independence—proving that the right adaptation makes a real difference in your senior cat's comfort and quality of life.
 

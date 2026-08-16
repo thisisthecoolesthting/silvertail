@@ -67,25 +67,25 @@ When comparing arthritis solutions, focus on products that address multiple aspe
 
 | Product | Key Ingredients | Delivery Method | Best For | Price Range | Clinical Evidence |
 |---------|-----------------|-----------------|----------|-------------|-------------------|
-| [Cosequin for Cats](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) | Glucosamine, Chondroitin, MSM | Sprinkle capsule | Early-stage support | $20-$35/month | 82% efficacy in clinical trials for mild arthritis |
-| [Antinol Rapid Soft Chews](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) | PCSO-524 (marine lipid extract) | Soft chew | Moderate arthritis | $45-$60/month | 94% absorption rate in feline studies |
-| [PetNC Hip & Joint Soft Chews](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) | Glucosamine, Chondroitin, Hyaluronic Acid | Treat-like chew | Picky eaters | $15-$25/month | 76% palatability in finicky cats |
-| [Licks Pill-Free Formula](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) | Eggshell membrane, Boswellia | Liquid additive | Cats refusing pills | $30-$45/month | 88% compliance rate in resistant cats |
-| [Dasuquin Advanced](https://www.amazon.com/dp/B07P9QYQH2?tag=silvertail-20) | Glucosamine, Chondroitin, ASU, Boswellia | Soft chew | Advanced cases | $50-$70/month | Clinically proven to reduce pain markers by 62% |
+| Cosequin for Cats | Glucosamine, Chondroitin, MSM | Sprinkle capsule | Early-stage support | $20-$35/month | 82% efficacy in clinical trials for mild arthritis |
+| Antinol Rapid Soft Chews | PCSO-524 (marine lipid extract) | Soft chew | Moderate arthritis | $45-$60/month | 94% absorption rate in feline studies |
+| PetNC Hip & Joint Soft Chews | Glucosamine, Chondroitin, Hyaluronic Acid | Treat-like chew | Picky eaters | $15-$25/month | 76% palatability in finicky cats |
+| Licks Pill-Free Formula | Eggshell membrane, Boswellia | Liquid additive | Cats refusing pills | $30-$45/month | 88% compliance rate in resistant cats |
+| Dasuquin Advanced | Glucosamine, Chondroitin, ASU, Boswellia | Soft chew | Advanced cases | $50-$70/month | Clinically proven to reduce pain markers by 62% |
 
-For bedding, the [K&H Orthopedic Bolster Cat Bed](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) provides 4-inch medical-grade foam with raised edges that help arthritic cats rise more easily, while the [Frisco Plush Orthopedic Bed](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) offers a lower-profile design better for cats with severe hip stiffness. Recent thermal imaging studies show that orthopedic beds with memory foam reduce joint inflammation by 28% compared to standard bedding by evenly distributing pressure points.
+For bedding, the K&H Orthopedic Bolster Cat Bed provides 4-inch medical-grade foam with raised edges that help arthritic cats rise more easily, while the Frisco Plush Orthopedic Bed offers a lower-profile design better for cats with severe hip stiffness. Recent thermal imaging studies show that orthopedic beds with memory foam reduce joint inflammation by 28% compared to standard bedding by evenly distributing pressure points.
 
 ## Real-world performance
 
 Supplement effectiveness varies dramatically based on your cat's individual metabolism and the arthritis' progression. In our household tests:
 
-- The [Antinol Rapid Soft Chews](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) showed noticeable improvement in our 14-year-old's stair-climbing ability within 10 days, but our 16-year-old didn't respond until week 3. Veterinary studies suggest PCSO-524's anti-inflammatory effects accumulate over time with consistent use. Bloodwork revealed a 42% reduction in inflammatory markers after 6 weeks of daily use.
+- The Antinol Rapid Soft Chews showed noticeable improvement in our 14-year-old's stair-climbing ability within 10 days, but our 16-year-old didn't respond until week 3. Veterinary studies suggest PCSO-524's anti-inflammatory effects accumulate over time with consistent use. Bloodwork revealed a 42% reduction in inflammatory markers after 6 weeks of daily use.
 
-- Powdered supplements like [Cosequin](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) work best when mixed into wet food, but some cats detect and avoid the slightly sweet taste. Dividing the dose between meals improves acceptance. Adding a teaspoon of low-sodium chicken broth can mask the flavor for finicky felines.
+- Powdered supplements like Cosequin work best when mixed into wet food, but some cats detect and avoid the slightly sweet taste. Dividing the dose between meals improves acceptance. Adding a teaspoon of low-sodium chicken broth can mask the flavor for finicky felines.
 
 Common pitfalls:
-- Overlooking temperature needs: Heated beds like the [K&H Thermo-Kitty Mat](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) provide crucial warmth for stiff joints but must have adjustable thermostats - cats with reduced sensitivity can overheat. Ideal surface temperature ranges between 102-104°F.
-- Ignoring access points: A [pet ramp](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) works only if placed where your cat actually wants to go (like their favorite sleeping spot), not where you think they should go.
+- Overlooking temperature needs: Heated beds like the K&H Thermo-Kitty Mat provide crucial warmth for stiff joints but must have adjustable thermostats - cats with reduced sensitivity can overheat. Ideal surface temperature ranges between 102-104°F.
+- Ignoring access points: A pet ramp works only if placed where your cat actually wants to go (like their favorite sleeping spot), not where you think they should go.
 
 Observe natural pathways for 3-5 days before installing assistive devices.
 - Supplement timing: Joint supplements show 40% better absorption when given with meals containing healthy fats. Consider adding a teaspoon of salmon oil to the evening meal when administering supplements.
@@ -94,7 +94,7 @@ Observe natural pathways for 3-5 days before installing assistive devices.
 
 Long-term arthritis management requires budgeting for both supplements and environmental modifications. Here's the 5-year cost projection for a 12-year-old cat with moderate arthritis:
 
-1. **Supplements**: Mid-range options like [Antinol](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) at $50/month = $3,000 over 5 years
+1. **Supplements**: Mid-range options like Antinol at $50/month = $3,000 over 5 years
 2. **Bedding**: Replace orthopedic beds every 2 years at $60 = $150
 3. **Access aids**: One-time $80 for ramps + $20/year for non-slip mats = $180
 4. **Veterinary care**: Semi-annual pain management consults at $120/visit = $1,200
@@ -118,7 +118,7 @@ For owners seeking non-supplement approaches:
 3. **Laser therapy**: Often available at specialty clinics. A 6-session package typically costs $250-$350. Cold laser therapy stimulates cellular repair and reduces inflammation.
 4. **Hydrotherapy**: Underwater treadmills reduce joint stress while building muscle. Sessions run $45-$65 each, typically needed twice weekly initially.
 
-Subscription options like [Chewy's Autoship](https://www.chewy.com/) for [PetNC chews](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) provide 5-10% discounts but require monitoring - some cats develop supplement fatigue and stop eating flavored chews over time. Rotating between 2-3 approved supplements every 3 months can maintain effectiveness.
+Subscription options like [Chewy's Autoship](https://www.chewy.com/) for PetNC chews provide 5-10% discounts but require monitoring - some cats develop supplement fatigue and stop eating flavored chews over time. Rotating between 2-3 approved supplements every 3 months can maintain effectiveness.
 
 ## FAQ
 
@@ -132,15 +132,15 @@ Monitor subtle changes: increased time resting in one position (avoiding movemen
 
 ### Are human glucosamine supplements safe for cats?
 
-No. Feline-specific formulas account for cats' unique metabolism and avoid toxic additives like xylitol found in some human supplements. Always use vet-approved products like [Cosequin](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20). Human supplements often contain inappropriate dosages and lack the bioavailability studies performed on veterinary formulations.
+No. Feline-specific formulas account for cats' unique metabolism and avoid toxic additives like xylitol found in some human supplements. Always use vet-approved products like Cosequin. Human supplements often contain inappropriate dosages and lack the bioavailability studies performed on veterinary formulations.
 
 ### Should I discourage my arthritic cat from jumping entirely?
 
-Not necessarily. Gentle, controlled movement maintains muscle mass. Provide graduated access via [pet steps](https://www.amazon.com/dp/B0GCMVP12Q?tag=silvertail-20) to favorite perches rather than banning them completely. Limit jumps to no more than 18 inches for most senior cats, using carpeted steps with 6-8 inch rises between levels.
+Not necessarily. Gentle, controlled movement maintains muscle mass. Provide graduated access via pet steps to favorite perches rather than banning them completely. Limit jumps to no more than 18 inches for most senior cats, using carpeted steps with 6-8 inch rises between levels.
 
 ### How often should I replace my cat's orthopedic bed?
 
-Every 2-3 years, or when you notice the foam doesn't spring back after washing. The [Frisco bed](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) maintains support longer than most budget options. Signs it's time for replacement:
+Every 2-3 years, or when you notice the foam doesn't spring back after washing. The Frisco bed maintains support longer than most budget options. Signs it's time for replacement:
 - Visible sagging in the center
 - Loss of shape after fluffing
 - Cat begins avoiding the bed
@@ -148,14 +148,14 @@ Every 2-3 years, or when you notice the foam doesn't spring back after washing. 
 
 ### Can arthritis cause litter box accidents?
 
-Yes. High-sided boxes become painful to enter. Switch to low-entry boxes like the [PetFusion BetterBox](https://www.amazon.com/dp/B08R3515SF?tag=silvertail-20) with 5-inch sides and place mats outside to catch scattered litter. For cats with severe hip stiffness, consider:
+Yes. High-sided boxes become painful to enter. Switch to low-entry boxes like the PetFusion BetterBox with 5-inch sides and place mats outside to catch scattered litter. For cats with severe hip stiffness, consider:
 - Cutting an entryway in the side of a plastic storage bin
 - Using puppy training pads temporarily
 - Placing multiple boxes along frequented pathways
 
 ## Bottom line
 
-For most senior cats with arthritis, a combination approach works best: pharmaceutical-grade supplements like [Antinol Rapid](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) for inflammation control, paired with environmental modifications that reduce joint strain. The [K&H Orthopedic Bed](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) provides the most consistent comfort in our tests, with its medical-grade foam maintaining support longer than cheaper alternatives.
+For most senior cats with arthritis, a combination approach works best: pharmaceutical-grade supplements like Antinol Rapid for inflammation control, paired with environmental modifications that reduce joint strain. The K&H Orthopedic Bed provides the most consistent comfort in our tests, with its medical-grade foam maintaining support longer than cheaper alternatives.
 
 Start with one intervention at a time to gauge effectiveness - introduce a supplement for 4 weeks before adding a new bed or ramp. Document changes in your cat's mobility and behavior to identify what works best for their individual needs. Remember that arthritis management is a marathon, not a sprint; small daily improvements compound into significant quality-of-life gains over time.
 

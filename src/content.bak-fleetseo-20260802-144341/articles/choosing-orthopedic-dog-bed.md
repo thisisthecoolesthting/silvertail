@@ -41,7 +41,7 @@ If your senior dog struggles with arthritis, you've likely wondered: *Which orth
 
 Through testing 17 beds over 2 years with dogs ranging from 8 to 120 pounds, we discovered that the difference between adequate and exceptional support comes down to three factors: foam density (measured in pounds per cubic foot), base structure, and how well the bed resists compression over time.
 
-For example, the [PetFusion Ultimate Dog Bed](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) uses a dual-layer foam system where the base (4lbs/ft³) handles weight distribution while the top layer (3lbs/ft³) provides comfort. Budget beds with single-layer 2lbs/ft³ foam compress permanently within months, losing 30% of their density in just 6 months of daily use.
+For example, the PetFusion Ultimate Dog Bed uses a dual-layer foam system where the base (4lbs/ft³) handles weight distribution while the top layer (3lbs/ft³) provides comfort. Budget beds with single-layer 2lbs/ft³ foam compress permanently within months, losing 30% of their density in just 6 months of daily use.
 
 This guide cuts through the marketing to compare materials, construction, and real-world performance. You'll see side-by-side comparisons of pressure relief, durability results from our home trials, and cost breakdowns—because a bed that lasts five years at $250 is cheaper than replacing a $100 bed every 18 months. We'll explore which features actually matter for arthritic dogs (spoiler: edge support and foam density matter far more than brand name) and which products deliver value based on our hands-on testing.
 
@@ -63,7 +63,7 @@ One detail owners often overlook: waterproof liners. Many senior dogs experience
 
 ## Head-to-head comparison
 
-| Feature | [BarxBuddy Orthopedic Bed](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) | [PetFusion Ultimate](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) | [Furhaven Gel-Infused](https://www.amazon.com/dp/B0BVYBVHK5?tag=silvertail-20) | [Big Barker 7"](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) |
+| Feature | BarxBuddy Orthopedic Bed | PetFusion Ultimate | Furhaven Gel-Infused | Big Barker 7" |
 |---|---|---|---|---|
 | **Foam depth & density** | 4" medium-firm (2.5lbs/ft³) | 5" dual-layer (4lbs/ft³ base + 3lbs/ft³ top) | 3" gel-infused (3lbs/ft³) | 7" medical-grade (4.5lbs/ft³) |
 | **Waterproof protection** | Removable polyester cover only | Integrated waterproof liner + zippered cover | Optional waterproof liner (sold separately) | Treated fabric, resists liquids |
@@ -161,13 +161,13 @@ Only if your dog actually overheats. Thermal imaging showed 62% of arthritic dog
 
 After testing 17 beds across 42 dogs for 2 years, here's what we recommend:
 
-**For large breeds (50–90 lbs):** The [PetFusion Ultimate](https://www.amazon.com/dp/B08GX3K9YS?tag=silvertail-20) delivers the best balance of support, durability (maintained 92% density after 2 years), and value at $0.18 per night. Dogs show measurable mobility improvements within 2–3 weeks.
+**For large breeds (50–90 lbs):** The PetFusion Ultimate delivers the best balance of support, durability (maintained 92% density after 2 years), and value at $0.18 per night. Dogs show measurable mobility improvements within 2–3 weeks.
 
-**For small dogs under 30 lbs:** The [Dogbed4less Orthopedic Bed](https://www.amazon.com/dp/B0FT32PL8L?tag=silvertail-20) costs $0.12 per night and maintained 90% support after 2 years in our testing.
+**For small dogs under 30 lbs:** The Dogbed4less Orthopedic Bed costs $0.12 per night and maintained 90% support after 2 years in our testing.
 
-**For giant breeds over 100 lbs:** The [Big Barker 7-inch](https://www.amazon.com/dp/B07C11YW88?tag=silvertail-20) justifies its premium price—only 3% compression after 3 years in our mastiff test, and the 10-year warranty aligns with realistic value.
+**For giant breeds over 100 lbs:** The Big Barker 7-inch justifies its premium price—only 3% compression after 3 years in our mastiff test, and the 10-year warranty aligns with realistic value.
 
-**For hot climates:** Pair the [K&H Pet Cot](https://www.amazon.com/dp/B0CYJV9X52?tag=silvertail-20) with a 2-inch foam topper.
+**For hot climates:** Pair the K&H Pet Cot with a 2-inch foam topper.
 
 **For budget-conscious owners of medium dogs without incontinence:** The DIY topper approach ($89–$120) works and costs $0.09 per night.
 

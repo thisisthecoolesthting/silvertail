@@ -13,7 +13,7 @@ bsr: 7
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B0GWDL5YQG?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GWDL5YQG
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ WACHRAY 2-Pack, Неmp Oil for Dogs & Cats, Calming Drops Dog Relaxants, Helps P
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GWDL5YQG" url="https://www.amazon.com/dp/B0GWDL5YQG?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GWDL5YQG" url="https://www.amazon.com/dp/B0GWDL5YQG" label="Check price on Amazon" />
 

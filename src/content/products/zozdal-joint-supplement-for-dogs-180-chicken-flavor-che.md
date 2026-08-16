@@ -13,7 +13,7 @@ bsr: 27638
 commissionPerSale: 0.0
 score: 190.77
 imageUrl: https://m.media-amazon.com/images/I/71QrLPe760L.jpg
-affiliateUrl: https://www.amazon.com/dp/B0GFHCS6VQ?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GFHCS6VQ
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Zozdal Joint Supplement for Dogs, 180 Chicken Flavor Chews, Glucosamine Chondroi
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GFHCS6VQ" url="https://www.amazon.com/dp/B0GFHCS6VQ?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GFHCS6VQ" url="https://www.amazon.com/dp/B0GFHCS6VQ" label="Check price on Amazon" />
 

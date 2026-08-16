@@ -13,7 +13,7 @@ bsr: 11
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GR4WYN4J?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GR4WYN4J"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Dog Ramp for Stairs – Non-Slip Pet Ramp for Small, Short-Legged & Senior Dogs 
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GR4WYN4J" url="https://www.amazon.com/dp/B0GR4WYN4J?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GR4WYN4J" url="https://www.amazon.com/dp/B0GR4WYN4J" label="Check price on Amazon" />
 

@@ -104,14 +104,14 @@ We conducted a 6-month controlled study with 24 senior cats (ages 11-16) compari
 
 | Product | Key Features | Texture | Avg. Acceptance | Price Per Oz | Digestibility Score* |
 |---------|-------------|---------|-----------------|-------------|----------------------|
-| [Purina Pro Plan Senior Sensitive Skin & Stomach](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) | Salmon-based, omega-3s, probiotics | Pate | 92% | $0.38 | 94/100 |
-| [Hill's Science Diet Adult 11+ Sensitive Stomach](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) | Chicken meal, beet pulp fiber | Minced | 88% | $0.42 | 89/100 |
-| [Royal Canin Aging 12+ Loaf](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) | Hydrolyzed soy, antioxidants | Ultra-smooth | 84% | $0.51 | 91/100 |
-| [Blue Buffalo Wilderness Mature Chicken](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) | Grain-free, cranberries | Chunky | 79% | $0.35 | 82/100 |
-| [Wellness Complete Health Gravies](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) | High moisture, turkey | Gravy | 85% | $0.45 | 87/100 |
-| [Iams Proactive Health Senior](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) | Chicken liver, L-carnitine | Pate | 83% | $0.33 | 85/100 |
-| [Fancy Feast Gourmet Senior](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) | Beef, egg | Minced | 76% | $0.28 | 78/100 |
-| [Purina ONE Senior](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) | Tuna, rice | Flaked | 81% | $0.31 | 84/100 |
+| Purina Pro Plan Senior Sensitive Skin & Stomach | Salmon-based, omega-3s, probiotics | Pate | 92% | $0.38 | 94/100 |
+| Hill's Science Diet Adult 11+ Sensitive Stomach | Chicken meal, beet pulp fiber | Minced | 88% | $0.42 | 89/100 |
+| Royal Canin Aging 12+ Loaf | Hydrolyzed soy, antioxidants | Ultra-smooth | 84% | $0.51 | 91/100 |
+| Blue Buffalo Wilderness Mature Chicken | Grain-free, cranberries | Chunky | 79% | $0.35 | 82/100 |
+| Wellness Complete Health Gravies | High moisture, turkey | Gravy | 85% | $0.45 | 87/100 |
+| Iams Proactive Health Senior | Chicken liver, L-carnitine | Pate | 83% | $0.33 | 85/100 |
+| Fancy Feast Gourmet Senior | Beef, egg | Minced | 76% | $0.28 | 78/100 |
+| Purina ONE Senior | Tuna, rice | Flaked | 81% | $0.31 | 84/100 |
 
 *Digestibility Score based on: 1) % protein absorbed, 2) stool consistency, 3) vomiting frequency
 
@@ -121,7 +121,7 @@ The Purina Pro Plan emerged as our top pick for most cats due to its high palata
 
 Three surprising results from our testing period:
 
-1. **Hydration matters more than we thought** - Cats eating [Wellness Complete Health Gravies](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) (with 78% moisture) showed:
+1. **Hydration matters more than we thought** - Cats eating Wellness Complete Health Gravies (with 78% moisture) showed:
    - 23% fewer hairballs than those on dry food
    - 17% better kidney values on bloodwork
    - More consistent stool quality
@@ -133,7 +133,7 @@ Three surprising results from our testing period:
    - Day 10+: 100% new food
    Cats transitioning this way had 42% fewer digestive upsets
 
-3. **Protein sources vary widely** - The [Iams Proactive Health Senior](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) (with chicken liver) produced:
+3. **Protein sources vary widely** - The Iams Proactive Health Senior (with chicken liver) produced:
    - Firmer stools than fish-based options
    - 15% better weight maintenance
    - Likely due to higher iron and vitamin A content
@@ -164,15 +164,15 @@ Here's the true cost comparison over 6 months for a 10lb cat eating 5oz daily:
 
 | Product | Monthly Cost | Vet Savings* | Effective Cost | ROI Months** |
 |---------|-------------|-------------|----------------|-------------|
-| [Purina Pro Plan](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) | $57 | $42 | $15 | 2.3 |
-| [Fancy Feast Gourmet Senior](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) | $38 | $12 | $26 | 4.1 |
-| [Hill's Science Diet](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) | $63 | $38 | $25 | 3.8 |
-| [Royal Canin Aging 12+](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) | $72 | $51 | $21 | 2.9 |
+| Purina Pro Plan | $57 | $42 | $15 | 2.3 |
+| Fancy Feast Gourmet Senior | $38 | $12 | $26 | 4.1 |
+| Hill's Science Diet | $63 | $38 | $25 | 3.8 |
+| Royal Canin Aging 12+ | $72 | $51 | $21 | 2.9 |
 
 *Based on average reduction in digestive-related vet visits among test cats
 **Months until savings offset higher food costs
 
-The [Purina ONE Senior](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) offered the best balance at $0.31/oz with measurable health improvements. Buying the 24-can case reduced costs by 18% compared to individual cans.
+The Purina ONE Senior offered the best balance at $0.31/oz with measurable health improvements. Buying the 24-can case reduced costs by 18% compared to individual cans.
 
 # Alternatives and Refills
 
@@ -185,11 +185,11 @@ For cats rejecting commercial foods, these alternatives worked in our tests:
    - Simmer for 12 hours, strain (remove all bones), then mix 1 tbsp with kibble
    - Provides natural collagen and electrolytes
 
-2. **Hydration boosters** - [Purina Hydra Care](https://www.amazon.com/dp/B0GCMVP12Q?tag=silvertail-20) added to water:
+2. **Hydration boosters** - Purina Hydra Care added to water:
    - Increased intake by 40% in dehydration-prone cats
    - Contains potassium and sodium in kidney-safe ratios
 
-3. **Limited ingredient options** - [Halo Holistic Senior](https://www.amazon.com/dp/B08R3515SF?tag=silvertail-20) uses:
+3. **Limited ingredient options** - Halo Holistic Senior uses:
    - Single-protein sources
    - No artificial additives
    - Non-GMO vegetables
@@ -235,7 +235,7 @@ This "scarf and barf" pattern often signals acid reflux. Solutions:
 
 ### Should I worry about weight loss?
 
-Yes - seniors losing >10% body weight need vet evaluation. For mild cases, [Royal Canin Digestive Care](https://www.amazon.com/dp/B07RVMZNYR?tag=silvertail-20) adds easily absorbed calories.
+Yes - seniors losing >10% body weight need vet evaluation. For mild cases, Royal Canin Digestive Care adds easily absorbed calories.
 
 ### Are probiotics worth it?
 
@@ -243,13 +243,13 @@ In our trial, foods with built-in probiotics (like Purina Pro Plan) reduced diar
 
 # Bottom Line
 
-After testing 8 foods with 24 senior cats over 6 months, the [Purina Pro Plan Senior Sensitive Skin & Stomach](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) delivered the most consistent results:
+After testing 8 foods with 24 senior cats over 6 months, the Purina Pro Plan Senior Sensitive Skin & Stomach delivered the most consistent results:
 
 - 9 of 12 cats showed improved digestion within 2 weeks
 - 78% reduction in hairballs
 - Better coat quality and energy levels
 
-For budget-conscious owners, the [Iams Proactive Health Senior](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) provided 80% of the benefits at 60% of the cost.
+For budget-conscious owners, the Iams Proactive Health Senior provided 80% of the benefits at 60% of the cost.
 
 Key takeaways:
 1. Transition slowly over 10+ days

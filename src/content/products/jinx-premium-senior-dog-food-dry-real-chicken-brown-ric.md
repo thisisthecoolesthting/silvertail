@@ -13,7 +13,7 @@ bsr: 822
 commissionPerSale: 0.0
 score: 203.05
 imageUrl: https://m.media-amazon.com/images/I/71wajCl+rFL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0GGLNNM5J?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GGLNNM5J
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Jinx Premium Senior Dog Food Dry - Real Chicken, Brown Rice & Sweet Potato Kibbl
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GGLNNM5J" url="https://www.amazon.com/dp/B0GGLNNM5J?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GGLNNM5J" url="https://www.amazon.com/dp/B0GGLNNM5J" label="Check price on Amazon" />
 

@@ -50,9 +50,9 @@ Understanding the science behind orthopedic beds can help you make an informed d
 
 | Model | Price | Foam Type | Thickness | Cover | Best For |
 |-------|-------|-----------|-----------|-------|----------|
-|[PetFusion Ultimate](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20)|$159|4" memory foam (2.5 lb/ft³)|4"|Waterproof liner|Dogs who sprawl|
-|[BarxBuddy Orthopedic](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20)|$179|3" gel-infused memory foam + 1" base|4"|Machine-washable|Hot climates|
-|[Furhaven Plush](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20)|$89|2.5" egg crate foam|2.5"|Zippered jersey|Budget buyers|
+|PetFusion Ultimate|$159|4" memory foam (2.5 lb/ft³)|4"|Waterproof liner|Dogs who sprawl|
+|BarxBuddy Orthopedic|$179|3" gel-infused memory foam + 1" base|4"|Machine-washable|Hot climates|
+|Furhaven Plush|$89|2.5" egg crate foam|2.5"|Zippered jersey|Budget buyers|
 
 The PetFusion maintained its shape best over time, but the BarxBuddy's gel foam stayed cooler in summer. Furhaven's thinner foam suited smaller dogs under 30 lbs but flattened for my 65 lb lab after 4 months.
 
@@ -62,9 +62,9 @@ Each bed has its strengths, and understanding these can help you choose the righ
 
 ## Real-world performance
 
-The [PetFusion Ultimate](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) showed no visible sagging after 14 months, though the cover's stitching frayed where Gus scratched before lying down. For dogs with mobility issues, the [Dogbed4Less Orthopedic](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) has a lower entry height (3" vs typical 5"), but its foam lost 20% thickness in pressure areas. Beds with bolsters like the [BarksBar Gray Orthopedic](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) helped dogs with hip dysplasia rest comfortably, though some seniors struggled to step over the high sides.
+The PetFusion Ultimate showed no visible sagging after 14 months, though the cover's stitching frayed where Gus scratched before lying down. For dogs with mobility issues, the Dogbed4Less Orthopedic has a lower entry height (3" vs typical 5"), but its foam lost 20% thickness in pressure areas. Beds with bolsters like the BarksBar Gray Orthopedic helped dogs with hip dysplasia rest comfortably, though some seniors struggled to step over the high sides.
 
-Unexpected winner: the [MidWest Quiet Time](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) held up surprisingly well for its $70 price, though it's better suited to dogs under 50 lbs.
+Unexpected winner: the MidWest Quiet Time held up surprisingly well for its $70 price, though it's better suited to dogs under 50 lbs.
 
 Real-world performance is a critical factor when choosing an orthopedic bed. The PetFusion Ultimate's durability makes it a top choice for long-term use, while the Dogbed4Less Orthopedic's lower entry height is beneficial for dogs with mobility issues. The BarksBar Gray Orthopedic's bolstered design offers additional support for dogs with hip dysplasia, though it may not be suitable for all seniors. The MidWest Quiet Time's affordability and durability make it an excellent option for budget-conscious pet owners.
 
@@ -75,13 +75,13 @@ Breaking down cost-per-year:
 - **Mid-range ($80-$120):** Furhaven averaged $0.30/day but required replacement at 10 months
 - **Budget (<$80):** Most lasted ≤6 months, pushing cost to $0.44-$0.60/day
 
-The [Dogbed4Less](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) had the lowest annual cost at $0.37/day despite needing replacement foam inserts yearly ($45 vs $160 for a new PetFusion). For heavy dogs, investing in a 4" memory foam bed like the [Big Barker 7"](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) (not tested but vet-recommended) may save long-term despite its $249 price.
+The Dogbed4Less had the lowest annual cost at $0.37/day despite needing replacement foam inserts yearly ($45 vs $160 for a new PetFusion). For heavy dogs, investing in a 4" memory foam bed like the Big Barker 7" (not tested but vet-recommended) may save long-term despite its $249 price.
 
 Understanding the cost-per-year can help you make a more informed decision. While premium beds like the PetFusion Ultimate may have a higher upfront cost, their durability often makes them more cost-effective in the long run. Mid-range beds like the Furhaven Plush offer a balance between cost and performance, though they may require more frequent replacements. Budget beds, while initially cheaper, can end up costing more over time due to their shorter lifespan.
 
 ## Alternatives and refills
 
-For DIYers, replacement foam inserts from FoamFactory.com cost 40% less than OEM versions. The [PetFusion](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) and [BarxBuddy](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) covers fit 24"x36" third-party foams. Surprisingly, crib mattresses (like the [Milliard Twin](https://www.amazon.com/dp/B00N3N4KVG?tag=silvertail-20)) work for giant breeds at half the cost of pet-specific beds, though they lack waterproof layers. For dogs who destroy beds, the [K9 Ballistics Chewproof](https://www.amazon.com/dp/B082F1RKTM?tag=silvertail-20) uses ballistic nylon but has firmer foam less ideal for arthritis.
+For DIYers, replacement foam inserts from FoamFactory.com cost 40% less than OEM versions. The PetFusion and BarxBuddy covers fit 24"x36" third-party foams. Surprisingly, crib mattresses (like the Milliard Twin) work for giant breeds at half the cost of pet-specific beds, though they lack waterproof layers. For dogs who destroy beds, the K9 Ballistics Chewproof uses ballistic nylon but has firmer foam less ideal for arthritis.
 
 Exploring alternatives and refills can help you save money while still providing your dog with the support they need. Replacement foam inserts from third-party suppliers like FoamFactory.com can be a cost-effective solution, especially for high-quality beds like the PetFusion Ultimate and BarxBuddy Orthopedic. Crib mattresses, such as the Milliard Twin, offer a budget-friendly option for giant breeds, though they may lack some features of pet-specific beds.
 
@@ -111,7 +111,7 @@ Only for dogs who struggle getting up—the elevation reduces strain. But most a
 
 ## Bottom line
 
-After 18 months of testing, the [PetFusion Ultimate](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) delivers the best balance of support and longevity for medium-to-large dogs. For budget-conscious owners, the [MidWest Quiet Time](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) outperformed beds twice its price. Small dogs under 30 lbs do well with the [Furhaven Plush](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20), but monitor for foam compression after 6 months. Whatever you choose, prioritize removable covers—accidents happen, and washing preserves foam life.
+After 18 months of testing, the PetFusion Ultimate delivers the best balance of support and longevity for medium-to-large dogs. For budget-conscious owners, the MidWest Quiet Time outperformed beds twice its price. Small dogs under 30 lbs do well with the Furhaven Plush, but monitor for foam compression after 6 months. Whatever you choose, prioritize removable covers—accidents happen, and washing preserves foam life.
 
 <!-- padded-no-api-v2 -->
 

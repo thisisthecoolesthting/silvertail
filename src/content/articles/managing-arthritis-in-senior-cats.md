@@ -33,7 +33,7 @@ Through thermal imaging studies, veterinarians have identified that arthritic ca
 
 After caring for three geriatric cats with varying degrees of joint degeneration, I've identified key behavioral red flags most owners miss: 
 - **Grooming changes**: Look for matting along the spine/base of tail (areas requiring spinal flexion) or excessive licking of painful joints
-- **Litter box avoidance**: High-sided boxes become painful to enter; consider the [PetFusion BetterBox](https://www.amazon.com/dp/B07D1H5X4N?tag=silvertail-20) with its 5.5" low entry
+- **Litter box avoidance**: High-sided boxes become painful to enter; consider the PetFusion BetterBox with its 5.5" low entry
 - **Sleep position shifts**: Cats who previously slept curled may sprawl to reduce joint pressure
 - **Personality changes**: Increased irritability when touched near hips or reluctance to be picked up For more context, see our [article on signs of arthritis in](/articles/arthritis-symptoms-cats).
 
@@ -63,7 +63,7 @@ Environmental modifications yield measurable quality-of-life improvements:
 - **Ramps** reduced observable pain behaviors by 37% in a UK study
 - **Raised feeders** improved food intake by 22% in cats with neck stiffness
 
-The [K&H Thermo-Snuggle Cup](https://www.amazon.com/dp/B0CDQXMV8W?tag=silvertail-20) proved particularly effective in our tests, maintaining consistent warmth without overheating. One 16-year-old participant with severe hip dysplasia went from sleeping 20 hours/day to actively seeking play sessions after two weeks of combined thermal therapy and [Dasuquin supplementation](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20).
+The K&H Thermo-Snuggle Cup proved particularly effective in our tests, maintaining consistent warmth without overheating. One 16-year-old participant with severe hip dysplasia went from sleeping 20 hours/day to actively seeking play sessions after two weeks of combined thermal therapy and Dasuquin supplementation.
 
 ## Head-to-Head Comparison
 
@@ -73,10 +73,10 @@ We evaluated 14 products across three categories with veterinary input on ingred
 
 | Product | Active Ingredients | Bioavailability | Palatability | Monthly Cost |
 |---------|-------------------|-----------------|--------------|--------------|
-| [Dasuquin for Cats](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | Glucosamine HCl (600mg), ASU (50mg), Green Tea Extract | 89% absorption rate | 4.2/5 (chicken flavor) | $15-$18 |
-| [Cosequin Maximum Strength](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) | Glucosamine (500mg) + Chondroitin (200mg) | 76% absorption | 3.8/5 (unflavored) | $12-$15 |
-| [Trisamin for Cats](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) | Eggshell Membrane (NEM® 300mg), Hyaluronic Acid | 92% absorption | 4.5/5 (powder mixes well) | $22-$25 |
-| [Nutramax Welactin](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) | Omega-3s (EPA 450mg/DHA 300mg) | 95% absorption | 4.7/5 (salmon flavor) | $28-$32 |
+| Dasuquin for Cats | Glucosamine HCl (600mg), ASU (50mg), Green Tea Extract | 89% absorption rate | 4.2/5 (chicken flavor) | $15-$18 |
+| Cosequin Maximum Strength | Glucosamine (500mg) + Chondroitin (200mg) | 76% absorption | 3.8/5 (unflavored) | $12-$15 |
+| Trisamin for Cats | Eggshell Membrane (NEM® 300mg), Hyaluronic Acid | 92% absorption | 4.5/5 (powder mixes well) | $22-$25 |
+| Nutramax Welactin | Omega-3s (EPA 450mg/DHA 300mg) | 95% absorption | 4.7/5 (salmon flavor) | $28-$32 |
 
 **Key Findings**:
 - **Dasuquin's ASU content** showed 23% better cartilage protection than standard glucosamine in UC Davis trials
@@ -87,9 +87,9 @@ We evaluated 14 products across three categories with veterinary input on ingred
 
 | Product | Type | Weight Capacity | Traction Surface | Price |
 |---------|------|-----------------|------------------|-------|
-| [PetSafe CozyUp Ramp](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | Foam ramp | 150lbs | High-pile carpet | $59.99 |
-| [Pet Gear Staircase](https://www.amazon.com/dp/B07PBLD2MJ?tag=silvertail-20) | Solid stairs | 200lbs | Textured PVC | $89.99 |
-| [PawRamp](https://www.amazon.com/dp/B08N5K5WYT?tag=silvertail-20) | Adjustable incline | 175lbs | Sisal fabric | $129.99 |
+| PetSafe CozyUp Ramp | Foam ramp | 150lbs | High-pile carpet | $59.99 |
+| Pet Gear Staircase | Solid stairs | 200lbs | Textured PVC | $89.99 |
+| PawRamp | Adjustable incline | 175lbs | Sisal fabric | $129.99 |
 
 **Usage Tips**:
 - Place ramps at ≤18° incline for senior cats
@@ -100,9 +100,9 @@ We evaluated 14 products across three categories with veterinary input on ingred
 
 | Product | Materials | Washability | Edge Height | Price |
 |---------|-----------|-------------|-------------|-------|
-| [Hepper Orthopedic Bed](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) | 4" memory foam | Removable cover | 4" sides | $45 |
-| [Frisco Plush Orthopedic Bed](https://www.amazon.com/dp/B07R4LCH4N?tag=silvertail-20) | 3" egg crate foam | Machine washable | 2.5" sides | $32 |
-| [K&H Thermo-Snuggle Cup](https://www.amazon.com/dp/B0CDQXMV8W?tag=silvertail-20) | Self-warming | Spot clean only | 6" sides | $39 |
+| Hepper Orthopedic Bed | 4" memory foam | Removable cover | 4" sides | $45 |
+| Frisco Plush Orthopedic Bed | 3" egg crate foam | Machine washable | 2.5" sides | $32 |
+| K&H Thermo-Snuggle Cup | Self-warming | Spot clean only | 6" sides | $39 |
 
 **Durability Testing**:
 - Hepper maintained 92% original support after 500 compression cycles
@@ -114,14 +114,14 @@ We evaluated 14 products across three categories with veterinary input on ingred
 Our 180-day field test with senior cat owners yielded unexpected insights about long-term use:
 
 **Supplement Compliance Issues**:
-- 38% of cats refused unflavored tablets unless hidden in [Churu treats](https://www.amazon.com/dp/B07P5STK3N?tag=silvertail-20)
+- 38% of cats refused unflavored tablets unless hidden in Churu treats
 - Powder supplements had 22% better acceptance when mixed with tuna juice
 - Liquid Omega-3s caused mild diarrhea in 15% of cats until dosage was adjusted
 
 **Environmental Modifications**:
 - **Ramp Usage**: Increased from 23% to 89% when placed at cats' preferred furniture access points
 - **Bed Adoption**: Cats were 3x more likely to use orthopedic beds when placed in warm, draft-free locations
-- **Litter Box Solutions**: The [PetFusion BetterBox](https://www.amazon.com/dp/B07D1H5X4N?tag=silvertail-20) reduced accidents by 67% in cats with stiff hind legs
+- **Litter Box Solutions**: The PetFusion BetterBox reduced accidents by 67% in cats with stiff hind legs
 
 **Combination Therapy Results**:
 Cats receiving both supplements and environmental modifications showed:
@@ -129,7 +129,7 @@ Cats receiving both supplements and environmental modifications showed:
 - 28% increase in voluntary activity (measured by pet cameras)
 - 15% reduction in NSAID requirements for pain management
 
-One striking case involved a 17-year-old Siamese who regained the ability to jump onto beds after 4 months of combined [Dasuquin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20), weekly laser therapy, and strategic ramp placement. Her owner reported "she acts five years younger" with proper support.
+One striking case involved a 17-year-old Siamese who regained the ability to jump onto beds after 4 months of combined Dasuquin, weekly laser therapy, and strategic ramp placement. Her owner reported "she acts five years younger" with proper support.
 
 ## Cost Math
 
@@ -154,9 +154,9 @@ Breaking down expenses over a 3-year period for a 12lb cat:
 **Savings**: $2,156+ with early intervention
 
 Budget-friendly strategies:
-- Rotate between [Cosequin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) and Dasuquin quarterly
+- Rotate between Cosequin and Dasuquin quarterly
 - Purchase beds during Chewy's Black Friday sales (typically 30% off)
-- Use [DIY carpeted steps](https://www.amazon.com/dp/B08B4K6X3Z?tag=silvertail-20) for low-budget ramp alternatives
+- Use DIY carpeted steps for low-budget ramp alternatives
 
 ## Alternatives and Refills
 
@@ -175,7 +175,7 @@ Budget-friendly strategies:
 ### When to Upgrade
 
 - From Cosequin to Dasuquin if no improvement in 8 weeks
-- From standard bed to [heated version](https://www.amazon.com/dp/B0CDQXMV8W?tag=silvertail-20) for cats with advanced stiffness
+- From standard bed to heated version for cats with advanced stiffness
 - From ramp to staircase for cats with severe balance issues
 
 ## FAQ
@@ -207,7 +207,7 @@ Safe anti-inflammatory options:
 Barometric pressure changes significantly impact feline joints:
 - **Rainy Days**: 73% of owners report increased stiffness
 - **Cold Snaps**: 68°F seems to be the comfort threshold
-- **Solutions**: Use [self-warming pads](https://www.amazon.com/dp/B0002AS9FE?tag=silvertail-20) near sleeping areas during winter
+- **Solutions**: Use self-warming pads near sleeping areas during winter
 
 ### Can acupuncture help my arthritic cat?
 
@@ -219,8 +219,8 @@ Veterinary acupuncture shows:
 ## Bottom Line
 
 The most effective arthritis management combines three pillars:
-1. **Internal Support**: [Dasuquin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) for cartilage protection + [Welactin](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) for inflammation control
-2. **Environmental Mods**: [Hepper Bed](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) for joint relief + [PetSafe Ramp](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) for safe access
+1. **Internal Support**: Dasuquin for cartilage protection + Welactin for inflammation control
+2. **Environmental Mods**: Hepper Bed for joint relief + PetSafe Ramp for safe access
 3. **Lifestyle Adjustments**: Keep food/water/litter on same floor, maintain consistent room temperatures
 
 For cats with advanced arthritis, consult your vet about:

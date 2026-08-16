@@ -35,7 +35,7 @@ updatedAt: 2026-05-12
 
 When your 14-year-old labrador can no longer climb stairs without whimpering, or your elderly cat stops grooming herself, the question becomes unavoidable: how do I make their remaining time comfortable? At-home hospice care for pets isn't about prolonging life artificially - it's about managing pain, preserving dignity, and creating peaceful moments in familiar surroundings.
 
-Having navigated this journey with three senior dogs myself, I've learned that small interventions - the right [orthopedic bed](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20), proper hydration tools, and thoughtful environmental adjustments - can transform those final months from stressful to sacred. This guide focuses on practical solutions that actually work when implemented at home, based on veterinary recommendations and hard-won personal experience.
+Having navigated this journey with three senior dogs myself, I've learned that small interventions - the right orthopedic bed, proper hydration tools, and thoughtful environmental adjustments - can transform those final months from stressful to sacred. This guide focuses on practical solutions that actually work when implemented at home, based on veterinary recommendations and hard-won personal experience.
 
 ### The Emotional Landscape
 
@@ -44,7 +44,7 @@ Before diving into products, acknowledge the emotional toll. A 2023 study in the
 - **Anticipatory grief**: 72% report crying during medication routines
 - **Isolation**: 68% stop inviting visitors due to pet incontinence
 
-These factors directly impact care quality. The [Bissell SpotClean Pro](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) handles accidents discreetly, while scheduled "caregiver breaks" (even 15-minute walks) improve observational skills for pain detection.
+These factors directly impact care quality. The Bissell SpotClean Pro handles accidents discreetly, while scheduled "caregiver breaks" (even 15-minute walks) improve observational skills for pain detection.
 
 
 
@@ -57,26 +57,26 @@ Unlike human hospice with dedicated facilities, pet end-of-life care falls almos
 ### The Science of Comfort
 
 Veterinary researchers at Colorado State University identified three critical comfort zones:
-1. **Thermoregulation**: Senior pets lose 20-30% of body fat. The [K&H Thermo-Snuggle Cup](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) maintains body heat 37% better than blankets alone.
+1. **Thermoregulation**: Senior pets lose 20-30% of body fat. The K&H Thermo-Snuggle Cup maintains body heat 37% better than blankets alone.
 2. **Pressure Relief**: Memory foam distributes weight across 42% more surface area than standard bedding, reducing joint pain.
-3. **Hydration Access**: Kidney function declines 3% monthly in geriatric cats. The [Pioneer Pet Raindrop Fountain](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) increases water intake by 50% through cascading streams.
+3. **Hydration Access**: Kidney function declines 3% monthly in geriatric cats. The Pioneer Pet Raindrop Fountain increases water intake by 50% through cascading streams.
 
-Consider mobility first. A dog who slips on hardwood floors develops anxiety about walking, accelerating decline. The [PetSafe Happy Ride Harness](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) distributes weight evenly during assisted walks. For cats, the PetFusion Ultimate Cat Scratcher Lounge provides traction for stiff joints. These aren't luxuries - they're pain prevention.
+Consider mobility first. A dog who slips on hardwood floors develops anxiety about walking, accelerating decline. The PetSafe Happy Ride Harness distributes weight evenly during assisted walks. For cats, the PetFusion Ultimate Cat Scratcher Lounge provides traction for stiff joints. These aren't luxuries - they're pain prevention.
 
 ## Head-to-head comparison
 
 | Product | Best For | Key Feature | Price | Longevity |
 |---------|----------|-------------|-------|-----------|
-| [Furhaven Orthopedic Bed](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) | Dogs with arthritis | Medical-grade foam with waterproof liner | $59.99 | 14 months |
-| [K&H Pet Products Bolster Bed](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) | Cats needing support | 4-inch foam walls for nestling | $39.99 | 18 months |
-| [Walkin' Lift Harness](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) | Large breed mobility support | Handle adjusts to three heights | $64.95 | 24 months |
-| [Assisi Loop Therapy Pad](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) | Chronic pain management | Non-invasive electromagnetic pulses | $249.00 | 5+ years |
+| Furhaven Orthopedic Bed | Dogs with arthritis | Medical-grade foam with waterproof liner | $59.99 | 14 months |
+| K&H Pet Products Bolster Bed | Cats needing support | 4-inch foam walls for nestling | $39.99 | 18 months |
+| Walkin' Lift Harness | Large breed mobility support | Handle adjusts to three heights | $64.95 | 24 months |
+| Assisi Loop Therapy Pad | Chronic pain management | Non-invasive electromagnetic pulses | $249.00 | 5+ years |
 
-For pain management, the Assisi Loop non-invasive therapy device outperforms drug alternatives for 68% of osteoarthritis cases according to veterinary trials. The [Bella Velvet Memory Foam Bed](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) maintains its support 3x longer than standard orthopedic beds in our 6-month home test.
+For pain management, the Assisi Loop non-invasive therapy device outperforms drug alternatives for 68% of osteoarthritis cases according to veterinary trials. The Bella Velvet Memory Foam Bed maintains its support 3x longer than standard orthopedic beds in our 6-month home test.
 
 ### Medication Management Systems
 
-Organizing multiple medications becomes critical. The [PillPack Rx System](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) features:
+Organizing multiple medications becomes critical. The PillPack Rx System features:
 - Color-coded daily compartments
 - Moisture-proof seals
 - Built-in timer reminders
@@ -90,11 +90,11 @@ The PetFusion Ultimate Scratcher Lounge showed no sagging after 11 months of dai
 ### Mobility Case Study
 
 "Buddy", a 12-year-old Golden Retriever with hip dysplasia, showed:
-- 72% reduction in slip incidents using [ToeGrips](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20)
-- 58% less pain medication needed when combined with the [Walkin' Wheels Chair](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20)
-- 3x more water consumption from elevated [Pioneer Fountain](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20)
+- 72% reduction in slip incidents using ToeGrips
+- 58% less pain medication needed when combined with the Walkin' Wheels Chair
+- 3x more water consumption from elevated Pioneer Fountain
 
-We discovered the [HandicappedPets.com ToeGrips](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) work best when applied to dry nails - morning application after dew evaporation prevented 90% of slippage incidents in our test group. The Walkin' Wheels chair requires precise measurements; we recommend their printable sizing guide over eyeballing dimensions.
+We discovered the HandicappedPets.com ToeGrips work best when applied to dry nails - morning application after dew evaporation prevented 90% of slippage incidents in our test group. The Walkin' Wheels chair requires precise measurements; we recommend their printable sizing guide over eyeballing dimensions.
 
 ## Cost math
 
@@ -105,7 +105,7 @@ Breaking down hospice essentials over a typical 3-month period:
 - **Medication**: $30-$150/month (generic gabapentin costs $0.27/pill vs $1.20 for brand)
 - **Environmental modifications**: $50-$300 (ramps, non-slip flooring)
 
-The [PetMaker Adjustable Ramp](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) pays for itself in 4 months by preventing one ER visit for fall-related injuries (average cost: $387). DIY solutions like foam pool noodles on stairs cost $12 but require weekly replacement.
+The PetMaker Adjustable Ramp pays for itself in 4 months by preventing one ER visit for fall-related injuries (average cost: $387). DIY solutions like foam pool noodles on stairs cost $12 but require weekly replacement.
 
 ### Insurance Considerations
 
@@ -118,16 +118,16 @@ Document all purchases and submit with treatment codes for maximum reimbursement
 
 ## Alternatives and refills
 
-For prescription pain medications, Costco's pharmacy offers 40% savings over vet clinics (membership not required for prescriptions). The [LuckyTail Nail Grips](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) work similarly to ToeGrips at half the price but lack the veterinary-designed tread pattern.
+For prescription pain medications, Costco's pharmacy offers 40% savings over vet clinics (membership not required for prescriptions). The LuckyTail Nail Grips work similarly to ToeGrips at half the price but lack the veterinary-designed tread pattern.
 
 ### Homemade Solutions
 
 Heating pad alternatives: 
 - Microwaveable buckwheat pillows ($22) provide 2 hours of warmth 
 - Rice socks (DIY) offer 45 minutes of heat
-- The [K&H Thermo-Softheated pet bed](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) maintains temperature for 8 hours continuously
+- The K&H Thermo-Softheated pet bed maintains temperature for 8 hours continuously
 
-For wound care, veterinary-grade [HoneyCote bandages](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) outperform homemade solutions with:
+For wound care, veterinary-grade HoneyCote bandages outperform homemade solutions with:
 - 50% faster healing times
 - Antimicrobial properties
 - Self-adhering technology
@@ -144,7 +144,7 @@ When your pet has a terminal diagnosis or multiple chronic conditions (arthritis
 
 ### What's the most overlooked hospice item?
 
-Water accessibility. The [PetSafe Drinkwell Platinum fountain](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) encourages drinking through flowing water, crucial for kidney function. Place multiple bowls where your pet rests - dehydration accelerates decline.
+Water accessibility. The PetSafe Drinkwell Platinum fountain encourages drinking through flowing water, crucial for kidney function. Place multiple bowls where your pet rests - dehydration accelerates decline.
 
 ### Are pain medications safe long-term?
 
@@ -158,10 +158,10 @@ Under veterinary supervision, yes. Routine bloodwork (every 6 months) monitors l
 
 ### How can I make hardwood floors safer?
 
-Apply [PawFriction grip pads](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) to paws or use interlocking foam tiles ($35 for 6-pack) in high-traffic areas. Avoid rugs - they create tripping hazards. For temporary solutions:
+Apply PawFriction grip pads to paws or use interlocking foam tiles ($35 for 6-pack) in high-traffic areas. Avoid rugs - they create tripping hazards. For temporary solutions:
 1. Apply non-slip yoga mat material
 2. Use painter's tape to mark safe pathways
-3. Place [ToeGrips](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20) for immediate traction
+3. Place ToeGrips for immediate traction
 
 ### What's the best way to document pain levels?
 
@@ -172,7 +172,7 @@ Keep a daily journal tracking:
 4) Sleep quality (hours uninterrupted)
 5) Social interaction (response to family)
 
-This helps vets adjust medications objectively. The [PetPainLog app](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) automates tracking with reminders.
+This helps vets adjust medications objectively. The PetPainLog app automates tracking with reminders.
 
 ## Bottom line
 

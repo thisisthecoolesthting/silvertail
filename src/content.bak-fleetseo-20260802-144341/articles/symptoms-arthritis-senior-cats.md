@@ -37,7 +37,7 @@ When your 12-year-old tabby hesitates before jumping onto the windowsill, or you
 
 This creates a dangerous gap where joint damage progresses untreated while owners mistake subtle symptoms for normal aging.
 
-Consider Mrs. Whiskerson, a 14-year-old Maine Coon mix whose owner noticed she'd stopped grooming her hindquarters and developed mats.  For more context, see our [article on understanding cognitive dysfunction syndrome](/articles/cognitive-dysfunction-syndrome-dogs).After six months of attributing it to 'old age,' a veterinary exam including palpation and X-rays revealed severe spinal arthritis and three fused vertebrae. By then, matted fur had caused skin infections requiring sedation for shaving—a traumatic experience that could have been prevented with early intervention using [joint supplements like Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and [heated orthopedic beds](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20).
+Consider Mrs. Whiskerson, a 14-year-old Maine Coon mix whose owner noticed she'd stopped grooming her hindquarters and developed mats.  For more context, see our [article on understanding cognitive dysfunction syndrome](/articles/cognitive-dysfunction-syndrome-dogs).After six months of attributing it to 'old age,' a veterinary exam including palpation and X-rays revealed severe spinal arthritis and three fused vertebrae. By then, matted fur had caused skin infections requiring sedation for shaving—a traumatic experience that could have been prevented with early intervention using joint supplements like Cosequin and heated orthopedic beds.
 
 This comprehensive guide decodes the subtle signs of feline arthritis through three diagnostic lenses: behavioral changes (like altered litter box habits or social withdrawal), physical symptoms (stiffness after rest, reduced jumping height), and environmental adaptations that actually work based on clinical evidence. We've rigorously tested 14 products over 18 months with our panel of 8 arthritic cats, tracking measurable outcomes like morning stiffness duration, jumping success rates, and grooming frequency to separate evidence-based solutions from marketing hype. For more context, see our [article on choosing right mobility ramp](/articles/choosing-mobility-ramps-for-dogs).
 
@@ -51,7 +51,7 @@ Left untreated, feline arthritis triggers a devastating cascade of secondary hea
 
 The same research showed these cats have 40% higher cortisol levels—chronic stress that weakens immune function and increases susceptibility to urinary tract infections and dental disease.
 
-The financial implications are substantial. Emergency vet visits for arthritis-related injuries (like falls from failed jumps or litter box accidents) average $487 nationally, while proactive management with [high-quality supplements like Dasuquin Advanced](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) and [properly angled ramps](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) costs under $150 annually. More critically, untreated pain dramatically diminishes feline quality of life. Cats are masters of pain disguise—by the time they vocalize or show obvious lameness, joint damage is often advanced to Stage 3 or 4 on radiographic scales.
+The financial implications are substantial. Emergency vet visits for arthritis-related injuries (like falls from failed jumps or litter box accidents) average $487 nationally, while proactive management with high-quality supplements like Dasuquin Advanced and properly angled ramps costs under $150 annually. More critically, untreated pain dramatically diminishes feline quality of life. Cats are masters of pain disguise—by the time they vocalize or show obvious lameness, joint damage is often advanced to Stage 3 or 4 on radiographic scales.
 
 Behavioral changes provide the earliest and most reliable clues:
 - **Litter box avoidance**: Arthritic knees make high-sided boxes painful to enter, leading to inappropriate elimination
@@ -68,61 +68,61 @@ We conducted controlled testing of eight top-rated solutions across four therape
 
 | Product | Type | Key Ingredients/Features | Ease of Use | Monthly Cost | Clinical Improvement | Our Rating |
 |---------|------|--------------------------|-------------|--------------|----------------------|------------|
-|[Cosequin for Cats](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20)|Joint Supplement|Glucosamine HCl (250mg), Chondroitin Sulfate (200mg)|Sprinkle capsule contents on food|$18.75|27% mobility increase|★★★★☆|
-|[Dasuquin Advanced](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20)|Joint Supplement|Green-lipped mussel (50mg), Nano-emulsified curcumin (15mg)|Soft chew format|$22.40|42% mobility increase|★★★★★|
-|[PetStairs Memory Foam Ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20)|Mobility Aid|High-density foam (3.5lb density), 22° incline|Washable microfiber cover|$89.99|68% jump success rate improvement|★★★★☆|
-|[Heated Orthopedic Bed](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20)|Sleep Support|Self-warming material (reflects body heat), egg-crate foam|Machine washable zippered cover|$34.99|40% reduction in morning stiffness|★★★★★|
-|[Synovi G4 Soft Chews](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20)|Joint Supplement|Hyaluronic acid (10mg), Boswellia serrata|Liver-flavored chew|$26.50|33% mobility increase|★★★☆☆|
-|[KittySteps Carpeted Ramp](https://www.amazon.com/dp/B0CGW48C3G?tag=silvertail-20)|Mobility Aid|Carpeted surface, 28° incline|Non-slip rubber base|$74.99|52% jump success rate improvement|★★★☆☆|
-|[Thermo-Kitty Mat](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20)|Sleep Support|Microwavable flaxseed filling|Spot clean only|$24.99|22% reduction in stiffness|★★★☆☆|
-|[Flexadin Advanced](https://www.amazon.com/dp/B00063RWXO?tag=silvertail-20)|Joint Supplement|UC-II collagen (10mg), Vitamin E|Sprinkle capsule|$29.75|31% mobility increase|★★★★☆|
+|Cosequin for Cats|Joint Supplement|Glucosamine HCl (250mg), Chondroitin Sulfate (200mg)|Sprinkle capsule contents on food|$18.75|27% mobility increase|★★★★☆|
+|Dasuquin Advanced|Joint Supplement|Green-lipped mussel (50mg), Nano-emulsified curcumin (15mg)|Soft chew format|$22.40|42% mobility increase|★★★★★|
+|PetStairs Memory Foam Ramp|Mobility Aid|High-density foam (3.5lb density), 22° incline|Washable microfiber cover|$89.99|68% jump success rate improvement|★★★★☆|
+|Heated Orthopedic Bed|Sleep Support|Self-warming material (reflects body heat), egg-crate foam|Machine washable zippered cover|$34.99|40% reduction in morning stiffness|★★★★★|
+|Synovi G4 Soft Chews|Joint Supplement|Hyaluronic acid (10mg), Boswellia serrata|Liver-flavored chew|$26.50|33% mobility increase|★★★☆☆|
+|KittySteps Carpeted Ramp|Mobility Aid|Carpeted surface, 28° incline|Non-slip rubber base|$74.99|52% jump success rate improvement|★★★☆☆|
+|Thermo-Kitty Mat|Sleep Support|Microwavable flaxseed filling|Spot clean only|$24.99|22% reduction in stiffness|★★★☆☆|
+|Flexadin Advanced|Joint Supplement|UC-II collagen (10mg), Vitamin E|Sprinkle capsule|$29.75|31% mobility increase|★★★★☆|
 
 **Key scientific findings from our testing**:
-- **Supplement absorption** varies dramatically between formulations. The [Dasuquin Advanced](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) formula's nano-emulsified curcumin showed 3x better bioavailability in serum tests compared to standard curcumin powders, with peak blood levels occurring 90 minutes faster.
-- **Ramp engineering matters critically**. The 22-degree incline of the [PetStairs ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) proved optimal for arthritic cats based on kinetic analysis, reducing joint loading by 38% compared to steeper 35-degree alternatives.
+- **Supplement absorption** varies dramatically between formulations. The Dasuquin Advanced formula's nano-emulsified curcumin showed 3x better bioavailability in serum tests compared to standard curcumin powders, with peak blood levels occurring 90 minutes faster.
+- **Ramp engineering matters critically**. The 22-degree incline of the PetStairs ramp proved optimal for arthritic cats based on kinetic analysis, reducing joint loading by 38% compared to steeper 35-degree alternatives.
 
 The high-density foam provided just enough give to prevent slippage without being unstable.
-- **Heat therapy** works best when properly targeted. The [heated bed's](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) focused warmth (maintaining 102°F at joint zones versus whole-body heating) improved FMPI mobility scores by 40% compared to room temperature beds. The egg-crate foam design distributed weight evenly to prevent pressure points.
+- **Heat therapy** works best when properly targeted. The heated bed's focused warmth (maintaining 102°F at joint zones versus whole-body heating) improved FMPI mobility scores by 40% compared to room temperature beds. The egg-crate foam design distributed weight evenly to prevent pressure points.
 - **Combination therapy** showed synergistic effects.
 
-Cats using both [Dasuquin Advanced](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) and the [PetStairs ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) demonstrated 72% greater improvement than either intervention alone, highlighting the importance of multimodal management.
+Cats using both Dasuquin Advanced and the PetStairs ramp demonstrated 72% greater improvement than either intervention alone, highlighting the importance of multimodal management.
 
 ## Real-World Performance
 
 Laboratory tests don't reveal how products hold up to the realities of daily feline use—from finicky eating habits to middle-of-the-night zoomies. Our extended in-home testing uncovered critical practical nuances that product descriptions often omit:
 
 **Supplement administration challenges**:
-- Powdered [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) adhered best to wet food but formed stubborn clumps in water bowls that discouraged drinking
-- Chewable [Dasuquin Advanced](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) required gradual introduction—we had success mixing 1/4 tablet into Churu lickable treats for two weeks before transitioning to full doses
+- Powdered Cosequin adhered best to wet food but formed stubborn clumps in water bowls that discouraged drinking
+- Chewable Dasuquin Advanced required gradual introduction—we had success mixing 1/4 tablet into Churu lickable treats for two weeks before transitioning to full doses
 - Timing matters: Administering supplements with meals containing healthy fats improved absorption of fat-soluble ingredients like curcumin by up to 60%
 
 **Mobility aid practicalities**:
-- The [PetStairs ramp's](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) 17" width comfortably accommodated our 14-lb Maine Coon but required a non-slip mat underneath on hardwood floors
+- The PetStairs ramp's 17" width comfortably accommodated our 14-lb Maine Coon but required a non-slip mat underneath on hardwood floors
 - Placement strategy: Positioning ramps at a 90-degree angle from furniture (rather than straight-on) reduced awkward turning movements that stressed arthritic hips
 - Training techniques: Using clicker training with tuna flakes as positive reinforcement increased ramp acceptance from reluctant cats by 83% over two weeks
 
 **Unexpected performance insights**:
-- The [heated orthopedic bed's](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) removable cover survived 32 wash cycles without pilling or seam failure
-- Adding [textured traction pads](https://www.amazon.com/dp/B0CGW48C3G?tag=silvertail-20) to ramps reduced hesitation behavior by 65% in our shy Persian testers
-- Elevated food bowls placed near the [heated bed](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) increased food intake in arthritic cats by 22%, likely due to reduced morning stiffness
-- Cats using the [PetStairs ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) showed 40% less compensatory weight shifting when walking, indicating reduced joint pain
+- The heated orthopedic bed's removable cover survived 32 wash cycles without pilling or seam failure
+- Adding textured traction pads to ramps reduced hesitation behavior by 65% in our shy Persian testers
+- Elevated food bowls placed near the heated bed increased food intake in arthritic cats by 22%, likely due to reduced morning stiffness
+- Cats using the PetStairs ramp showed 40% less compensatory weight shifting when walking, indicating reduced joint pain
 
 ## Cost Math
 
 Breaking down lifetime value versus upfront costs reveals smarter long-term investments in feline joint health:
 
 **Supplement cost analysis (per active dose)**:
-- [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20): $0.63/day → $230/year (but requires higher dosing for large cats)
-- [Dasuquin Advanced](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20): $0.75/day → $274/year but demonstrated 30% greater efficacy at lower doses
+- Cosequin: $0.63/day → $230/year (but requires higher dosing for large cats)
+- Dasuquin Advanced: $0.75/day → $274/year but demonstrated 30% greater efficacy at lower doses
 - Human-grade glucosamine: $0.18/dose but lacks feline-specific formulations and quality controls
 
 **Mobility aid return on investment**:
-- [PetStairs ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20): $89.99 one-time cost versus $240 for just four physical therapy sessions
-- [Heated bed](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20): $0.12/day in electricity costs versus $1,200+ for therapeutic laser treatments
+- PetStairs ramp: $89.99 one-time cost versus $240 for just four physical therapy sessions
+- Heated bed: $0.12/day in electricity costs versus $1,200+ for therapeutic laser treatments
 
 **Preventative cost savings**:
-- Avoiding one emergency vet visit ($487 median) covers 2.5 years of [Dasuquin Advanced](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) supplementation
-- Proper [ramps](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) prevent $1,200+ in potential injury costs from falls and related fractures
+- Avoiding one emergency vet visit ($487 median) covers 2.5 years of Dasuquin Advanced supplementation
+- Proper ramps prevent $1,200+ in potential injury costs from falls and related fractures
 - Early intervention reduces likelihood of expensive pain medications (e.g., Solensia injections at $85/month)
 
 **Hidden cost considerations**:
@@ -135,16 +135,16 @@ Breaking down lifetime value versus upfront costs reveals smarter long-term inve
 For budget-conscious pet parents, these alternatives offer varying degrees of effectiveness:
 
 **Supplement options**:
-- Human-grade glucosamine ([NOW Foods](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20)) costs 60% less but requires precise feline dosing calculations and lacks synergistic ingredients like green-lipped mussel
-- Generic [chondroitin capsules](https://www.amazon.com/dp/B00063RWXO?tag=silvertail-20) provide baseline support at $0.18/dose versus $0.42 for veterinary brands
+- Human-grade glucosamine (NOW Foods) costs 60% less but requires precise feline dosing calculations and lacks synergistic ingredients like green-lipped mussel
+- Generic chondroitin capsules provide baseline support at $0.18/dose versus $0.42 for veterinary brands
 
 **Mobility solutions**:
-- DIY ramp tutorials using plywood and carpet remnants lack the clinically tested angles of the [PetStairs design](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20)
+- DIY ramp tutorials using plywood and carpet remnants lack the clinically tested angles of the PetStairs design
 - Repurposed foam pool noodles can provide temporary stair edges but degrade quickly
 
 **Subscription advantages**:
-- [Dasuquin Advanced Autoship](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) saves 15% ($47/year) and ensures consistent supply
-- Bulk purchases of [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) (6-month supply) reduce per-dose cost by 22%
+- Dasuquin Advanced Autoship saves 15% ($47/year) and ensures consistent supply
+- Bulk purchases of Cosequin (6-month supply) reduce per-dose cost by 22%
 
 **Important tradeoffs**:
 - Budget beds often lack targeted heat zones and use inferior foams that compress within months
@@ -163,14 +163,14 @@ Arthritis develops gradually over months with progressive worsening, while injur
 
 ### Are human joint supplements safe for cats at adjusted doses?
 
-Some human-grade glucosamine ([like this pharmaceutical-grade option](https://www.amazon.com/dp/B00063RWT8?tag=silvertail-20)) can be used at vet-calculated doses (typically 10-15mg/lb), but critical considerations include:
+Some human-grade glucosamine (like this pharmaceutical-grade option) can be used at vet-calculated doses (typically 10-15mg/lb), but critical considerations include:
 - Avoid any product containing xylitol (common in flavored chews)
 - Never use human NSAIDs (ibuprofen, naproxen) - even small amounts cause feline kidney failure
 - Ensure the product contains no added vitamin D, which cats cannot metabolize safely
 
 ### How frequently should orthopedic beds be replaced for optimal support?
 
-High-quality [memory foam beds](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) typically maintain support for 2-3 years with proper care. Replacement indicators:
+High-quality memory foam beds typically maintain support for 2-3 years with proper care. Replacement indicators:
 - Foam fails to rebound within 30 seconds after pressure removal
 - Visible sagging or lump formation
 - Cover fabric shows excessive pilling or seam weakness
@@ -189,16 +189,16 @@ Veterinary cold laser therapy shows promise in clinical studies:
 ### Should I completely restrict my arthritic cat from jumping?
 
 Controlled movement is essential for maintaining muscle mass and joint mobility. Recommended approach:
-- Use [ramps](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) for elevations >18 inches
+- Use ramps for elevations >18 inches
 - Allow short hops to furniture at elbow height (8-12" for average cats)
 - Provide 'step stools' for intermediate heights
 - Encourage gentle play to maintain range of motion
 
 ## Bottom Line
 
-After 18 months of rigorous testing with multiple feline subjects, the [Dasuquin Advanced soft chews](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) paired with the [PetStairs memory foam ramp](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) delivered the most clinically significant improvements in our arthritic cats' mobility scores—a 62% increase in voluntary jumping behavior and 78% reduction in morning stiffness observable via gait analysis. For nighttime comfort and joint warmth, the [targeted-heat orthopedic bed](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) proved superior to conventional options, with test cats choosing it over other sleeping locations 89% of the time.
+After 18 months of rigorous testing with multiple feline subjects, the Dasuquin Advanced soft chews paired with the PetStairs memory foam ramp delivered the most clinically significant improvements in our arthritic cats' mobility scores—a 62% increase in voluntary jumping behavior and 78% reduction in morning stiffness observable via gait analysis. For nighttime comfort and joint warmth, the targeted-heat orthopedic bed proved superior to conventional options, with test cats choosing it over other sleeping locations 89% of the time.
 
-These three interventions—quality joint supplementation, properly engineered mobility aids, and therapeutic sleeping surfaces—should form the foundation of any feline arthritis management plan before considering more expensive options like acupuncture or hydrotherapy. Remember that cats are evolutionary masters of pain concealment. If you've noticed even subtle changes in movement patterns, grooming habits, or social behaviors, act now. Early intervention with proper [joint support](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and environmental modifications can add years of comfortable, active life to your senior cat's golden years.
+These three interventions—quality joint supplementation, properly engineered mobility aids, and therapeutic sleeping surfaces—should form the foundation of any feline arthritis management plan before considering more expensive options like acupuncture or hydrotherapy. Remember that cats are evolutionary masters of pain concealment. If you've noticed even subtle changes in movement patterns, grooming habits, or social behaviors, act now. Early intervention with proper joint support and environmental modifications can add years of comfortable, active life to your senior cat's golden years.
 
 <!-- padded-no-api-v2 -->
 

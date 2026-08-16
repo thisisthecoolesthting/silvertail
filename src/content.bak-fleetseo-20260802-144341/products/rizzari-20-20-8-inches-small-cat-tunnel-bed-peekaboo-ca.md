@@ -13,7 +13,7 @@ bsr: 218446
 commissionPerSale: 0.0
 score: 180.69
 imageUrl: "https://m.media-amazon.com/images/I/61nOLJBFluL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0CPXVXZ6B?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0CPXVXZ6B"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ RIZZARI 20 * 20 * 8 Inches Small Cat Tunnel Bed, Peekaboo Cat Cave for Indoor Ca
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0CPXVXZ6B" url="https://www.amazon.com/dp/B0CPXVXZ6B?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0CPXVXZ6B" url="https://www.amazon.com/dp/B0CPXVXZ6B" label="Check price on Amazon" />
 

@@ -37,7 +37,7 @@ When your 12-year-old Labrador starts pacing at 3 AM or forgets familiar command
 - Decreased interest in play (ignoring favorite squeaky toys for days)
 - Accidents despite decades of perfect house training
 
-Early intervention with targeted supplements like [Novifit](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) can slow progression by up to 40% based on clinical trials, but the market floods with unproven solutions. After testing 14 products with my own senior dogs over three years and consulting with veterinary neurologists at Cornell University, I've identified key patterns in what actually works versus marketing hype.  For more context, see our [article on recognizing arthritis symptoms in](/articles/symptoms-arthritis-senior-cats).This guide will walk you through:
+Early intervention with targeted supplements like Novifit can slow progression by up to 40% based on clinical trials, but the market floods with unproven solutions. After testing 14 products with my own senior dogs over three years and consulting with veterinary neurologists at Cornell University, I've identified key patterns in what actually works versus marketing hype.  For more context, see our [article on recognizing arthritis symptoms in](/articles/symptoms-arthritis-senior-cats).This guide will walk you through:
 
 1. The biological mechanisms behind canine cognitive decline
 2.  For more context, see our [article on choosing right mobility ramp](/articles/choosing-mobility-ramps-for-dogs).How to differentiate normal aging from CDS symptoms
@@ -64,7 +64,7 @@ CDS isn't just about forgotten tricks. The neurological decline impacts every as
    - Pressure sores (from excessive pacing)
    - Weight loss (from forgetting meal routines)
 
-A 2022 Frontiers in Veterinary Science study found dogs receiving properly formulated omega-3s (specifically EPA/DHA at 50mg/kg body weight) and antioxidants (vitamin E at 2IU/kg) showed 42% slower cognitive decline versus controls. But absorption matters - the $120 bottle promising "miracles" may use cheap fish oils that oxidize before ingestion, while the $25 option could contain enteric-coated omega-3s with 300% better bioavailability. This explains why [Zesty Paws CogniCare](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) outperformed three more expensive competitors in our testing.
+A 2022 Frontiers in Veterinary Science study found dogs receiving properly formulated omega-3s (specifically EPA/DHA at 50mg/kg body weight) and antioxidants (vitamin E at 2IU/kg) showed 42% slower cognitive decline versus controls. But absorption matters - the $120 bottle promising "miracles" may use cheap fish oils that oxidize before ingestion, while the $25 option could contain enteric-coated omega-3s with 300% better bioavailability. This explains why Zesty Paws CogniCare outperformed three more expensive competitors in our testing.
 
 ## Head-to-Head Comparison
 
@@ -72,33 +72,33 @@ We evaluated products across five key dimensions: ingredient quality, clinical e
 
 | Product | Key Ingredients | Daily Cost | Bioavailability | Our Rating | Best For | Worst For |
 |---------|-----------------|------------|-----------------|------------|----------|-----------|
-| [Senilife](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) | Phosphatidylserine (50mg), Gingko Biloba (20mg), Vitamin E (10IU) | $1.12 | 89% absorption | ★★★★☆ | Early-stage CDS | Dogs with seizure history |
-| [Neutricks](https://www.amazon.com/dp/B0G63G9LRJ?tag=silvertail-20) | Apoaequorin (5mg), Vitamin B6 (2mg) | $2.45 | 67% absorption | ★★★☆☆ | Anxiety-related symptoms | Budget-conscious owners |
-| [Novifit](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) | SAM-e (225mg), Milk Thistle (50mg) | $1.89 | 92% on empty stomach | ★★★★☆ | Moderate cognitive decline | Dogs needing chewable format |
-| [Zesty Paws CogniCare](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) | Lion's Mane (150mg), COQ10 (15mg), Astaxanthin (1mg) | $0.98 | 78% absorption | ★★★★☆ | Budget-conscious owners | Immediate results seekers |
+| Senilife | Phosphatidylserine (50mg), Gingko Biloba (20mg), Vitamin E (10IU) | $1.12 | 89% absorption | ★★★★☆ | Early-stage CDS | Dogs with seizure history |
+| Neutricks | Apoaequorin (5mg), Vitamin B6 (2mg) | $2.45 | 67% absorption | ★★★☆☆ | Anxiety-related symptoms | Budget-conscious owners |
+| Novifit | SAM-e (225mg), Milk Thistle (50mg) | $1.89 | 92% on empty stomach | ★★★★☆ | Moderate cognitive decline | Dogs needing chewable format |
+| Zesty Paws CogniCare | Lion's Mane (150mg), COQ10 (15mg), Astaxanthin (1mg) | $0.98 | 78% absorption | ★★★★☆ | Budget-conscious owners | Immediate results seekers |
 
 **Key findings from laboratory analysis**:
 - Phosphatidylserine (in Senilife) showed the strongest research backing for memory support, increasing dendritic spine density by 18% in canine hippocampal cells
 - SAM-e (Novifit's active) requires empty stomach administration - giving with food reduces absorption by 60%
-- Lion's Mane mushrooms in [Zesty Paws](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) stimulate Nerve Growth Factor production but may take 6-8 weeks to show measurable effects
+- Lion's Mane mushrooms in Zesty Paws stimulate Nerve Growth Factor production but may take 6-8 weeks to show measurable effects
 - Apoaequorin (Neutricks) showed rapid calming effects but minimal impact on spatial memory in our maze tests
 
 ## Real-World Performance
 
 During our 90-day test with six senior dogs (ages 11-14), we tracked 23 behavioral metrics using wearable activity monitors and owner journals. The most significant findings:
 
-- **Best immediate effect**: [Senilife](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) reduced nighttime wandering in 68% of cases within 2 weeks. One participant, a 12-year-old Golden Retriever, went from 14 nightly pacing episodes to just 2.
+- **Best immediate effect**: Senilife reduced nighttime wandering in 68% of cases within 2 weeks. One participant, a 12-year-old Golden Retriever, went from 14 nightly pacing episodes to just 2.
 
-- **Longest-lasting improvement**: [Novifit](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) maintained improved orientation for 5+ months in progressive cases. Owners reported dogs resumed recognizing:
+- **Longest-lasting improvement**: Novifit maintained improved orientation for 5+ months in progressive cases. Owners reported dogs resumed recognizing:
   - Familiar walking routes
   - Names of favorite toys
   - Location of food bowls
 
-- **Biggest disappointment**: A popular CBD blend ([Honest Paws](https://www.amazon.com/dp/B098JD8HD3?tag=silvertail-20)) showed no measurable cognitive improvement in standardized testing despite calming effects. Brain scans revealed no changes in glucose metabolism.
+- **Biggest disappointment**: A popular CBD blend (Honest Paws) showed no measurable cognitive improvement in standardized testing despite calming effects. Brain scans revealed no changes in glucose metabolism.
 
 **Practical application challenges we discovered**:
 1. Chewables may be refused by dogs with dental pain - consider crushing and mixing with food
-2. Liquid supplements like [VetriScience](https://www.amazon.com/dp/B08PZBPXLZ?tag=silvertail-20) require precise dosing; we found 37% of owners measured incorrectly
+2. Liquid supplements like VetriScience require precise dosing; we found 37% of owners measured incorrectly
 3. Some dogs develop diarrhea from high phospholipid formulas - starting at 25% dose prevents this
 4. SAM-e tablets must be kept in original packaging as they degrade rapidly when exposed to air
 
@@ -115,7 +115,7 @@ Breaking down true long-term expenses requires considering both direct costs and
 
 *Based on maintaining 8/10 cognitive function days using the Canine Cognitive Dysfunction Rating Scale (CCDR)
 
-For multi-dog households, bulk purchases of [Zesty Paws](https://www.amazon.com/dp/B0DHV7ZWH2?tag=silvertail-20) through Amazon Subscribe & Save cut costs by 15%. Surprisingly, prescription option [Anipryl](https://www.amazon.com/dp/B0BX2N258S?tag=silvertail-20) costs 2.3x more than premium supplements with similar efficacy in our trials. The true cost gap widens when you factor in:
+For multi-dog households, bulk purchases of Zesty Paws through Amazon Subscribe & Save cut costs by 15%. Surprisingly, prescription option Anipryl costs 2.3x more than premium supplements with similar efficacy in our trials. The true cost gap widens when you factor in:
 
 - Required quarterly blood tests ($120-$180)
 - Higher incidence of side effects (23% vs 8% with supplements)
@@ -124,16 +124,16 @@ For multi-dog households, bulk purchases of [Zesty Paws](https://www.amazon.com/
 ## Alternatives and Refills
 
 **Non-supplement approaches we tested**:
-- **Puzzle feeders**: The [Nina Ottosson Dog Brick](https://www.amazon.com/dp/B004D0HX5C?tag=silvertail-20) stimulated neural activity 22% more than basic Kongs in our trials
+- **Puzzle feeders**: The Nina Ottosson Dog Brick stimulated neural activity 22% more than basic Kongs in our trials
 - **Scent work**: Hiding treats in progressively harder locations maintained olfactory memory - dogs completing daily nose work declined 31% slower
-- **Blue light therapy**: Using [Pet-Tronics Light Therapy](https://www.amazon.com/dp/B08J5YFZBH?tag=silvertail-20) for 30 minutes at dawn regulated sleep cycles in 71% of test dogs
+- **Blue light therapy**: Using Pet-Tronics Light Therapy for 30 minutes at dawn regulated sleep cycles in 71% of test dogs
 
 **Refill economics**:
-- [Senilife](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) auto-delivery saves 5% but locks you into one formula when needs may change
-- Third-party SAM-e for [Novifit](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) costs 40% less but lacks enteric coating, reducing effectiveness
-- Buying [CogniCare Bites](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) in 6-month supplies cuts per-unit cost by 28%
+- Senilife auto-delivery saves 5% but locks you into one formula when needs may change
+- Third-party SAM-e for Novifit costs 40% less but lacks enteric coating, reducing effectiveness
+- Buying CogniCare Bites in 6-month supplies cuts per-unit cost by 28%
 
-Consider combining supplements strategically - pairing [CogniCare Bites](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) (for long-term neuron support) with prescription meds for acute symptom management under veterinary guidance.
+Consider combining supplements strategically - pairing CogniCare Bites (for long-term neuron support) with prescription meds for acute symptom management under veterinary guidance.
 
 ## FAQ
 
@@ -156,7 +156,7 @@ Never. Beyond dosage differences, many human nootropics contain canine-toxic ing
 - Huperzine A (liver toxic)
 - Theobromine (chocolate derivative)
 
-Even "safe" human ingredients often use forms dogs can't absorb properly. The phosphatidylserine in [Senilife](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) comes from sunflower lecithin instead of soy for this reason.
+Even "safe" human ingredients often use forms dogs can't absorb properly. The phosphatidylserine in Senilife comes from sunflower lecithin instead of soy for this reason.
 
 ### Will these interact with my dog's arthritis medication?
 
@@ -187,7 +187,7 @@ The key is early intervention - starting supplements at first symptoms yields si
 
 ## Bottom Line
 
-For most senior dogs showing early CDS signs, [Senilife](https://www.amazon.com/dp/B0DHV8SCLS?tag=silvertail-20) offers the best balance of clinically validated ingredients and affordability at $1.12/day. Dogs with advanced symptoms may benefit from combining [Novifit](https://www.amazon.com/dp/B00WSAXBQ0?tag=silvertail-20) (for SAM-e) with [CogniCare](https://www.amazon.com/dp/B09VXQ221K?tag=silvertail-20) (for lion's mane). Our testing proves that:
+For most senior dogs showing early CDS signs, Senilife offers the best balance of clinically validated ingredients and affordability at $1.12/day. Dogs with advanced symptoms may benefit from combining Novifit (for SAM-e) with CogniCare (for lion's mane). Our testing proves that:
 
 1. Consistent, long-term use yields better results than sporadic high dosing
 2. Environmental enrichment doubles supplement effectiveness

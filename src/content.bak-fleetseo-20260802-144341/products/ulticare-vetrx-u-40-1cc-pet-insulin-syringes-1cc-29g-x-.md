@@ -13,7 +13,7 @@ bsr: 7
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B08HX6JFJH?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B08HX6JFJH"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ UltiCare VetRx U-40 1cc Pet Insulin Syringes - 1cc, 29G x 1/2’’, 100 ct, Com
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B08HX6JFJH" url="https://www.amazon.com/dp/B08HX6JFJH?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B08HX6JFJH" url="https://www.amazon.com/dp/B08HX6JFJH" label="Check price on Amazon" />
 

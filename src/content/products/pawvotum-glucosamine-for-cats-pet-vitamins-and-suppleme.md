@@ -13,7 +13,7 @@ bsr: 1
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B0GR9S5CPZ?tag=silvertail-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GR9S5CPZ
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Pawvotum Glucosamine for Cats, Pet vitamins and supplements with Chondroitin, MS
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GR9S5CPZ" url="https://www.amazon.com/dp/B0GR9S5CPZ?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GR9S5CPZ" url="https://www.amazon.com/dp/B0GR9S5CPZ" label="Check price on Amazon" />
 

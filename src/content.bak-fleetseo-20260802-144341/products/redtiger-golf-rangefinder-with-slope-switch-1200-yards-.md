@@ -13,7 +13,7 @@ bsr: 797
 commissionPerSale: 0.0
 score: 177.55
 imageUrl: "https://m.media-amazon.com/images/I/7126q+VJwTL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0BVFP6KXC?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0BVFP6KXC"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0BVFP6KXC" url="https://www.amazon.com/dp/B0BVFP6KXC?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0BVFP6KXC" url="https://www.amazon.com/dp/B0BVFP6KXC" label="Check price on Amazon" />
 
